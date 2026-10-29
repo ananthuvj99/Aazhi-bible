@@ -10,6 +10,9 @@ Images are the reference sheets; every image has a `card.md` beside it describin
 4. For the shot being written, open the card **and view the image** of every character and location it touches.
 5. Write the prompt, run the continuity-director review against cards + ledger + previous shot files.
 
+## QA gate (every prompt)
+Before any prompt is handed over, run `tools/prompt-qa-SKILL.md`: extract every requirement from the user's messages, trace each into the prompt, flag missing/contradicted/unrequested items, run the checklist, score /100, and ask for approval before applying corrections.
+
 ## The learning loop
 1. Prompt written → saved as `scenes/<sequence>/<shot>.md` with status `ready`.
 2. User generates on the platform and reports back (screenshot of the problem frame + one line).
