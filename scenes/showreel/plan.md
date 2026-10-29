@@ -24,3 +24,6 @@ Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the s
 - Antony: സമയമില്ലമ്മേ, ഞാൻ പുറത്തൂന്ന് കഴിച്ചോളാം. — *No time, Amma, I'll eat outside.*
 - Rosamma: നീ എന്നാ തിരിച്ചു വരാ? പത്തു ദിവസം കഴിഞ്ഞാ ഇവിടെ കണ്ടോണം, കേട്ടോ. — *When are you coming back? After ten days I'd better see you here, understand?*
 - Antony (from the yard): പേടിക്കണ്ട അമ്മേ, ചരക്കിറക്കി കഴിഞ്ഞാ അപ്പോ തിരിച്ചു വരും. — *Don't worry, Amma. Once the cargo's unloaded, I'll come straight back.*
+
+## Shot list after L27 (scoped, one location per dialogue generation)
+1A (approved) → 1B v12 → 1C v6 → 1D-a → 1D-b → 2A-a → 2A-b
