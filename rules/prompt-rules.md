@@ -27,6 +27,10 @@ Consequence: one speaker per shot. Speakers are always front-facing in MCU — n
 ## Audio
 - Sound effects only, no background music (music is added in the edit). Every AUDIO block opens with: "Sound effects only — natural on-location sound, the soundtrack carries no music."
 
+## Prompt length
+- Keep every prompt under ~6,500 characters (L18). Approved/working prompts were 6,000–7,000; a 9,500-character prompt errored.
+- Use the short HOUSE LAYOUT block (`locations/house-exterior/house-layout-block-short.txt`) by default; the long one only if a shot fails on geography.
+
 ## House layout block
 - Every prompt set inside Antony's house includes the HOUSE LAYOUT block from `locations/house-exterior/house-layout-block.txt`, placed right after ACTIVE REFERENCES, so the model never invents rooms, doors or directions.
 

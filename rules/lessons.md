@@ -72,3 +72,8 @@ Rule: put the camera at the thing the speaker addresses (stand it in the doorway
 Cause: an alarm clock was added for a time cue, but it is not in the room sheet and was not seen in the approved 1A.
 Rule: props come only from the location card or the approved shots. If a story beat needs a cue (time of day), use what is already there — light, sound, sun through the window — or ask the user before adding a prop.
 Update: Ananthu then added `@wallclock` with a sheet and a marked position — a prop becomes valid once it has a card, a sheet and a placement.
+
+**L18 — Platform error on a long prompt** (1B v6)
+Symptom: generation failed with an error. Measured: 1A v4 (worked) 6,985 chars; 1B v1 (worked) 6,132; 1B v6 (error) 9,468.
+Suspected cause: prompt length limit, likely ~8,000 characters.
+Rule: keep prompts under ~6,500 characters — short HOUSE LAYOUT, minimal reference lines (the sheet carries the look), no repeated descriptions across blocks. Confirm the limit with the platform team.
