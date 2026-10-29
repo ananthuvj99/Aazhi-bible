@@ -3,7 +3,7 @@ Source storyboard: https://aazhi-storyboard.vercel.app/#p=14&lang=ml
 
 | Scene | Beat | Storyboard | Shots | Status |
 |---|---|---|---|---|
-| 1 | Dawn over the coast; Antony oversleeps; mother throws the spoon | SB014 | 1A–1F (~38 s) | prompts ready (1A v3 dawn flight, 1B sheet reveal, 1C sits up + line, 1D shout, 1E spoon, 1F mother) |
+| 1 | Dawn over the coast; Antony oversleeps; mother throws the spoon | SB014 | 1A, 1C–1F (~38 s) | prompts ready (1A v4 = dawn flight + sheet reveal in one 15 s generation, 1C sits up + line, 1D shout, 1E spoon, 1F mother) |
 | 2 | Ten days — mother makes him eat | SB015 | — | not started |
 | 3 | Eight o'clock — Clara's classroom | SB016–017 | — | not started; Clara ID needed |
 | 4 | Come back safely — walk to harbour | SB018 | — | not started |

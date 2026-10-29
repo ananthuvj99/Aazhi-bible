@@ -1,0 +1,57 @@
+# Shot 1A · Dawn flight from the sea to the roof (8 s) — v3
+Status: **ready**
+References: @houseout, @housefullview
+Replaces: 1A-v2-retired.md (yard push-in). New opening per Ananthu: golden dawn sky, camera travels from the sea to the house and ends overhead.
+
+## Prompt
+```
+SCENE CONTEXT
+Dawn, 1998, the Alappad coast, Kerala. An aerial camera glides in from above the calm sea toward the shore, crosses the beach and the red laterite cliff, and arrives directly above a single-storey fisherman's house standing on the headland, ending looking straight down at its tiled roof.
+
+ACTIVE REFERENCES
+@houseout: the house in its surroundings — red laterite headland, low laterite compound wall, tall palms, the curving beach with wooden fishing boats, the white church with a tall spire on the shore — exactly as in the reference. 100% matches the reference.
+@housefullview: the house architecture and roof — pale sky-blue walls, deep blue base band, four turned white front pillars, hipped terracotta Mangalore tile roof with a lower tiled section and a small chimney at the rear — exactly as in the reference, including the roof seen from above. 100% matches the reference.
+
+LOCATION MAP
+Foreground at the start: calm sea with long, low swells, the surface glittering gold. Midground: a curving pale sandy beach with a row of wooden fishing boats pulled up above the waterline, and the white church with its tall spire further along the shore. Background: the red laterite headland rising above the beach with the house on top among tall palms, and behind it, low green hills thick with palms. The sun has just risen above those inland hills, directly ahead of the camera, so the whole coast is backlit.
+
+FIRST FRAME
+Wide aerial view 40 meters above the sea, looking toward the shore: gold-lit water filling the lower half, the beach, headland and palm-covered hills across the middle, the low golden sun just above the hills at frame centre, a sky graded from deep orange at the horizon to soft pink and pale blue above.
+
+FORMAT MODE
+One continuous shot, 8 seconds, the camera does not cut on its own.
+
+OPTICS
+Starts EWS 84°. Stays 84° through the flight; the house grows in frame through camera travel alone. Rectilinear, crisp.
+
+CAMERA
+0.0s to 3.0s — glides forward at 30 km/h, 40 meters above the water, steady and level, toward the beach.
+3.0s to 5.5s — crosses over the beach and the boats, then over the cliff edge, slowing to 15 km/h and descending to 20 meters, the house now centred ahead.
+5.5s to 8.0s — slows to a stop directly above the house while tilting down smoothly until it looks straight down; it settles and holds, the terracotta roof filling the centre of the frame, palm crowns at the frame edges.
+
+ACTION
+0.0s to 3.0s — [happy] A small flock of seabirds crosses low over the water from screen-left to screen-right; gentle surf breaks white along the beach.
+3.0s to 8.0s — [thoughtful] Thin wood smoke rises from the small rear chimney of the house and drifts slowly inland; palm fronds sway lightly in the sea breeze.
+
+LAST FRAME
+Straight-down overhead view of the hipped terracotta tile roof centred in frame, the rear chimney with its thin smoke, palm crowns at the edges, red earth of the yard showing around the roof.
+
+LIGHTING
+Golden hour just after sunrise: low sun at 3500K ahead of camera, strong backlight, a glittering gold sun-path on the sea, warm rim light on the palm fronds and roof tiles, soft morning haze over the hills at 30% density, deep warm shadows.
+
+AUDIO
+Sound effects only — natural on-location sound, the soundtrack carries no music.
+No dialogue. Gentle surf, seabird calls, sea breeze, a distant church bell, roosters far off.
+
+STYLE
+Photoreal 1998 Kerala period film, warm golden morning palette, fine natural film grain.
+
+POSITIVE LOCKS
+The house, roof, chimney, palms, beach, boats and church match their references exactly. One continuous camera move ending perfectly still, looking straight down at the roof.
+```
+
+## Edit note
+Cut from 1A's last frame (roof from above) straight to 1B's first frame (room from above) — the two overheads match like a dissolve-free match cut.
+
+## Generation results
+- (none yet)
