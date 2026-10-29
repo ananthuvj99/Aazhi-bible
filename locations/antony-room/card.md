@@ -10,7 +10,8 @@ West half of the house, west of the central passage.
 - **South wall:** front window with blue iron bars and white shutters (behind camera in the sheet view).
 
 ## Bedding and floor
-- Wooden rope-strung cot, blue checked bedsheet, one blue checked pillow.
+- Wooden rope-strung cot, always made up with a faded blue checked bedsheet covering the whole rope frame, one blue checked pillow (as in approved 1A). Antony sleeps on top, no cover sheet (L20).
+- From the doorway the cot runs sideways across the frame, long side to camera, head end at screen-right (L22).
 - Red-oxide floor; pale blue walls with deep blue base band; wooden rafters and clay tiles visible.
 
 ## Not in this room

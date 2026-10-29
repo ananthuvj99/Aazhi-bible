@@ -85,3 +85,22 @@ Suspected cause: the planner maps every location it reads to a location ID; room
 Rule (until the dev team confirms): one location tag per generation; describe only the room on screen; never name other rooms; register every tag before use. HOUSE LAYOUT block suspended.
 Questions for the dev team: (1) Does the planner create a location for every room named in the text? (2) Is @hallclean registered as a location? (3) What type is @wallclock (character/prop/location)? (4) Can one generation use more than one location?
 Update (L19): the hall tag is registered as `@hallclean`, not `@hall_clean` — an unregistered location tag is the most likely trigger for the invented location_id. Rule: copy tags exactly as registered on the platform (IDs = sheet names with no spaces and no underscores).
+
+**L20 — Bedding continuity** (1B v9) — evidence: `scenes/showreel/evidence/1B-v9-overhead-no-bedsheet-cover-sheet.png`
+Approved 1A shows the cot made up with a faded blue checked bedsheet and pillow, and Antony on top of it. v9 showed a bare rope cot and a sheet over him.
+Rule: the cot is always made up with the blue checked bedsheet and pillow; Antony lies on top, nothing covering him. Continuity is what the approved generation shows, not what an earlier prompt said.
+
+**L21 — Wide framing kills lip-sync** (1B v9) — evidence: `1B-v9-doorway-bed-wrong-clock-wrong-marked.png`
+His shout was delivered in a wide doorway shot; the face was too small for the lip-sync tool.
+Rule: wide shots are for blocking only. Every line goes to an MCU with the face at least a third of the frame height. Also write "moderate mouth movement, no gaping or yawning".
+
+**L22 — Furniture orientation must be stated relative to the frame** (1B v9)
+The cot came out pointing at the camera (head against the far wall). Ananthu marked it sideways across the frame.
+Rule: for every camera position, state how the furniture runs in frame ("runs sideways across the frame, long side facing the camera, head end at screen-right").
+
+**L23 — Clock on the wrong wall** (1B v9)
+The clock appeared on the far wall facing the door. It belongs on the front wall beyond the foot of the cot.
+Rule: name the wall that holds the prop AND name the walls that don't ("the far wall seen from the door carries no clock").
+
+**L24 — Off-screen dialogue confuses lip-sync**
+Rule: every spoken word on camera with the mouth visible; split a line around an insert rather than voicing it over the insert.
