@@ -73,7 +73,14 @@ Cause: an alarm clock was added for a time cue, but it is not in the room sheet 
 Rule: props come only from the location card or the approved shots. If a story beat needs a cue (time of day), use what is already there — light, sound, sun through the window — or ask the user before adding a prop.
 Update: Ananthu then added `@wallclock` with a sheet and a marked position — a prop becomes valid once it has a card, a sheet and a placement.
 
-**L18 — Platform error on a long prompt** (1B v6)
+**L18 — Platform error on a long prompt** (1B v6) — SUPERSEDED by L19: v7 at 5,300 chars failed the same way, so length was not the cause. Keeping prompts compact is still good practice.
 Symptom: generation failed with an error. Measured: 1A v4 (worked) 6,985 chars; 1B v1 (worked) 6,132; 1B v6 (error) 9,468.
 Suspected cause: prompt length limit, likely ~8,000 characters.
 Rule: keep prompts under ~6,500 characters — short HOUSE LAYOUT, minimal reference lines (the sheet carries the look), no repeated descriptions across blocks. Confirm the limit with the platform team.
+
+**L19 — "Invented location_id not in allow-list"** (1B v6, v7) — evidence: `scenes/showreel/evidence/1B-v7-error-invented-location-id.png`
+Symptom: platform error at "Understanding the prompt (OpenAI)": the planner returned a location_id that is not in the project's allow-list.
+What changed vs. working prompts (1A v4, 1B v1): the HOUSE LAYOUT block naming other rooms (veranda, passage, kitchen, mother's bedroom), a second location tag @hall_clean, and the new tag @wallclock.
+Suspected cause: the planner maps every location it reads to a location ID; rooms that are named but not attached (or a tag not registered as a location) get an invented ID and are rejected.
+Rule (until the dev team confirms): one location tag per generation; describe only the room on screen; never name other rooms; register every tag before use. HOUSE LAYOUT block suspended.
+Questions for the dev team: (1) Does the planner create a location for every room named in the text? (2) Is @hall_clean registered as a location? (3) What type is @wallclock (character/prop/location)? (4) Can one generation use more than one location?
