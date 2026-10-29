@@ -14,8 +14,7 @@ West half of the house, west of the central passage.
 - Red-oxide floor; pale blue walls with deep blue base band; wooden rafters and clay tiles visible.
 
 ## Not in this room
-- No crucifix, no religious pictures, no wall clock, no mirror.
-- Added prop (showreel): one small round wind-up alarm clock with a white dial on the shelf beside the steel tumbler. The shelf is on the wall directly above the head end of the cot — he sees it by tilting his head back on the pillow (L15).
+- No crucifix, no religious pictures, no clock of any kind, no mirror (L17).
 
 ## Light
 - Morning: warm slanting sun through the south front window. West window gets no direct morning sun.
