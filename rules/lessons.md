@@ -52,3 +52,18 @@ Rule: an aerial move ends looking straight down at the roof; the next shot opens
 
 **W1 — What worked: aerial flight + match cut in one generation** (showreel 1A v4, approved)
 A 15 s timed multishot with an 8 s aerial flight ending straight down on the roof, a MATCH CUT to a straight-down interior, and a silent performance beat (sheet reveal → smile → shock) generated cleanly. Keep using: straight-down end frame matched to straight-down open frame; silent beats for lying-down faces.
+
+**L13 — Overacted shock** (1B v1) — evidence: `scenes/showreel/evidence/1B-v1-wrong-eyeline-overacted.png`
+Cause: [scared] + "panic, wide eyes, stiff" read as a grimace.
+Rule: write reactions understated and physical ("slight widening of the eyes, small lift of the brows, face stays relaxed, no grimace"). Prefer [worried]/[surprised] over [scared] for everyday surprises.
+
+**L14 — No breathing room for the edit** (1B v1)
+Rule: every shot holds still for 2–3 s at the start and 2–3 s after the last line or action. Write the holds as explicit timed segments.
+
+**L15 — Prop placed outside the character's eyeline** (1B v1)
+Cause: the clock was described on a side shelf he could not see from the pillow.
+Rule: place any prop the character must look at where his body position lets him see it, and say so ("on the shelf directly above the head of the cot, seen by tilting his head back").
+
+**L16 — Speaker addressed the wrong direction** (1B v1) — evidence: `scenes/showreel/evidence/1B-v1-looks-at-window.png`
+Cause: camera placement left the door ambiguous, so he spoke toward the window.
+Rule: put the camera at the thing the speaker addresses (stand it in the doorway he calls through). Lying-down lines go overhead so the face is upright to the lens (as in W1).

@@ -20,6 +20,10 @@ One tag per bracket: `[scared]`, never `[scared, rushed]`. Extra tags go in thei
 
 Consequence: one speaker per shot. Speakers are always front-facing in MCU — never profile or side view; place the camera beside whatever the speaker is talking toward (a door, another person) so their eyeline falls just beside the lens. Multi-speaker beats are split into separate shots.
 
+## Timing
+- Hold 2–3 s still at the start and 2–3 s after the last line/action of every shot, for the edit (L14).
+- Set the platform's duration to the prompt's total length.
+
 ## Audio
 - Sound effects only, no background music (music is added in the edit). Every AUDIO block opens with: "Sound effects only — natural on-location sound, the soundtrack carries no music."
 
