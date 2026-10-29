@@ -1,6 +1,6 @@
 ---
 name: aazhi-prompt-qa
-description: Request-vs-prompt QA gate for AAZHI / Techjays film-platform video prompts. Use after EVERY scene prompt is drafted for AAZHI or the Techjays showreel — before it is handed to the user — and whenever the user asks "does this prompt have everything I asked", "check the prompt", "score this prompt", "will this generate well", or pastes a prompt and a request together. It extracts every requirement from the user's messages, proves each one is in the prompt, finds contradictions and risky additions, runs the generation-risk checklist, gives a score out of 100 with a short summary, and asks the user to approve corrections before rewriting. Trigger even if the user does not ask, whenever a new or revised AAZHI prompt is about to be delivered.
+description: Request-vs-prompt and reference-ID QA gate for AAZHI / Techjays film-platform video prompts. Use after EVERY scene prompt is drafted for AAZHI or the Techjays showreel — before it is handed to the user — and whenever the user asks "does this prompt have everything I asked", "check the prompt", "score this prompt", "will this generate well", or pastes a prompt and a request together. It extracts every requirement from the user's messages, proves each one is in the prompt, checks every needed reference ID against the repo registry (including backgrounds seen behind characters and through doors) and adds missing ones, finds contradictions and risky additions, runs the generation-risk checklist, gives a score out of 100 with a short summary, and asks the user to approve corrections before rewriting. Trigger even if the user does not ask, whenever a new or revised AAZHI prompt is about to be delivered.
 ---
 
 # AAZHI Prompt QA — "did the prompt get everything I asked?"
@@ -32,6 +32,17 @@ For each requirement, find the exact place in the prompt that satisfies it and m
 - ❌ **Missing** — not in the prompt.
 - 🔁 **Contradicted** — the prompt says something that conflicts with it.
 
+## Step 2b — Reference-ID audit (always)
+
+Clone the AAZHI bible repo (github.com/ananthuvj99/Aazhi-bible; the user supplies the token) and read `references/registry.md` — the list of every registered ID, what it shows, when to attach it, its mode, and the **sight-lines table** of what is visible behind or through each camera position. Look at the character and location sheet images in the repo when a choice depends on what a sheet actually shows.
+
+Then, shot by shot:
+1. List every person, place, prop and **background** the prompt puts in frame — including what is behind each person in reverse angles and what is seen through doors and windows (use the sight-lines table; this is how a missing veranda behind Antony gets caught).
+2. From the registry, derive the IDs each shot needs, with mode (full / background-only) and shot scope.
+3. Compare with ACTIVE REFERENCES and mark: ✅ present · ❌ missing (add it) · ⛔ wrong (off-screen, wrong costume variant such as @antonyhome after he dressed, a room a character must leave — L31) · ✏️ misspelled (must match the registry exactly).
+4. Write the corrected ACTIVE REFERENCES lines, each with scope and mode, ready to paste — and note the matching LOCATION / background text each one needs so the prompt and the references agree.
+5. Mapped (labelled) sheets: suggest only as an option the user chooses, with the label-print warning.
+
 ## Step 3 — Find what the user did NOT ask for
 
 Flag anything the prompt adds that could change the result: new props, new dialogue or changed wording, new rooms, moods, camera moves, timing changes, removed beats. Additions are allowed only if they serve a stated requirement or a standing rule — otherwise list them as **Unrequested**.
@@ -46,9 +57,10 @@ Score out of 100:
 
 | Area | Points | How |
 |---|---|---|
-| User requirements [NOW] + [EARLIER] | 40 | proportion Met; Partial = half; any Contradicted = 0 for that item |
+| User requirements [NOW] + [EARLIER] | 35 | proportion Met; Partial = half; any Contradicted = 0 for that item |
 | Approved dialogue exact | 15 | all lines character-for-character, tags valid, in the right cut |
-| Generation-risk checklist | 25 | deduct 5 per Must-fix risk, 2 per Should-fix |
+| Reference IDs | 10 | deduct 5 per missing needed ID, 5 per wrong ID, 2 per misspelling or missing scope/mode |
+| Generation-risk checklist | 20 | deduct 5 per Must-fix risk, 2 per Should-fix |
 | Standing rules | 10 | lip-sync block, Malayalam lock, no music, IDs exact |
 | No unrequested changes | 10 | deduct 3 per risky unrequested addition |
 
@@ -60,6 +72,10 @@ Output exactly this, short:
 
 ```
 PROMPT QA — <shot>  ·  Score NN/100  ·  <verdict>
+
+Reference IDs:
+✅ @… (shot, mode)   ❌ @… missing — needed for …   ⛔ @… remove — …
+Paste-ready ACTIVE REFERENCES: (only if changed)
 
 Your asks:
 ✅ … (block)
