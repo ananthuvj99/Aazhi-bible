@@ -125,3 +125,7 @@ Rules:
 **L28 — Dialogue generated in English** (1D-a v2)
 Cause: the prompt is written in English and the compact AUDIO line stated the language only once, in passing; the model voiced the lines in English.
 Rule: state the spoken language four times — a SPOKEN LANGUAGE line under SCENE, "speaks only Malayalam" in the speaker's reference line, "says his line in Malayalam" in each ACTION line, and "Malayalam only … the exact Malayalam words in quotes … no English, no translation" in AUDIO — plus a lock in POSITIVE LOCKS.
+
+**L29 — English paraphrase of the dialogue gets voiced** (1D-a)
+Suspected cause: the SCENE paragraph summarised the lines in English ("he tells her he is going to sea today and must quickly go and bathe"). The platform's dub planner reads the whole prompt and can take that English summary as the line to speak.
+Rule: never paraphrase or translate dialogue anywhere in a prompt. Describe speech only as "says one Malayalam line" / "answers with one Malayalam line"; the only words that can be spoken are the Malayalam text in quotes in AUDIO. English meanings live in the repo plan, not in prompts.

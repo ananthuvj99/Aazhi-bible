@@ -1,4 +1,4 @@
-# Shot 1D-a · Passage: "Oh ee Amma" (15 s) — v3 (Malayalam locked, L28)
+# Shot 1D-a · Passage: "Oh ee Amma" (15 s) — v4 (no English paraphrase, L29)
 Status: **ready**
 References: @antonyhome, @rosamma, @hallclean, @kitchenclean (cut 1, background only)
 Speaker(s): Antony
@@ -7,7 +7,7 @@ Replaces part of: 1D v3 (split by location after L27).
 ## Prompt
 ```
 SCENE
-Morning, 1998, a fisherman's house on the Alappad coast, Kerala. In the central passage of the house, Rosamma walks up from the kitchen doorway at the far end, wiping her hands. Antony steps out of his bedroom doorway near the camera. They stop face to face in the middle of the passage. Half exasperated, half fond, he tells her he is going to sea today and must quickly go and bathe, then turns back into his bedroom doorway. Only Antony speaks, and he speaks only in Malayalam. Rosamma's mouth stays closed.
+Morning, 1998, a fisherman's house on the Alappad coast, Kerala. In the central passage of the house, Rosamma walks up from the kitchen doorway at the far end, wiping her hands. Antony steps out of his bedroom doorway near the camera. They stop face to face in the middle of the passage. Half exasperated, half fond, he says two short Malayalam lines to her, then turns back into his bedroom doorway. Only Antony speaks, and he speaks only in Malayalam. Rosamma's mouth stays closed.
 SPOKEN LANGUAGE: Malayalam. Every spoken word in this shot is Malayalam — the exact Malayalam text given in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES

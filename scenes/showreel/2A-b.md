@@ -7,7 +7,7 @@ Replaces part of: 2A v1 (split by location after L27).
 ## Prompt
 ```
 SCENE
-Morning, 1998, the front of a single-storey fisherman's house on a red laterite headland on the Alappad coast, Kerala. Antony walks down the veranda steps into the front yard with a cloth bag on his shoulder. His mother Rosamma stands in the front doorway holding a plate of breakfast and calls out, worried, asking when he will be back. Near the gap in the compound wall he turns and promises to come straight back once the cargo is unloaded, waves, and walks out through the gap. She stays on the veranda holding the untouched plate. Two people speak, one at a time, each in their own cut, both only in Malayalam.
+Morning, 1998, the front of a single-storey fisherman's house on a red laterite headland on the Alappad coast, Kerala. Antony walks down the veranda steps into the front yard with a cloth bag on his shoulder. His mother Rosamma stands in the front doorway holding a plate of breakfast and calls one worried Malayalam line out to him. Near the gap in the compound wall he turns and answers with one warm Malayalam line, waves, and walks out through the gap. She stays on the veranda holding the untouched plate. Two people speak, one at a time, each in their own cut, both only in Malayalam.
 SPOKEN LANGUAGE: Malayalam. Every spoken word in this shot is Malayalam — the exact Malayalam text given in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES

@@ -7,7 +7,7 @@ Replaces part of: 2A v1 (split by location after L27).
 ## Prompt
 ```
 SCENE
-Morning, 1998, a fisherman's house on the Alappad coast, Kerala. In the central passage, Antony, bathed and dressed, steps out of his bedroom doorway with a small cloth bag on his shoulder and hurries toward the front door. His mother Rosamma comes up the passage from the far doors carrying a plate of breakfast and calls after him to eat first. At the front door he turns back and says he has no time and will eat outside, then steps out. Two people speak, one at a time, each in their own cut, both only in Malayalam.
+Morning, 1998, a fisherman's house on the Alappad coast, Kerala. In the central passage, Antony, bathed and dressed, steps out of his bedroom doorway with a small cloth bag on his shoulder and hurries toward the front door. His mother Rosamma comes up the passage from the far doors carrying a plate of breakfast and calls one Malayalam line after him. At the front door he turns back and answers her with one Malayalam line, then steps out. Two people speak, one at a time, each in their own cut, both only in Malayalam.
 SPOKEN LANGUAGE: Malayalam. Every spoken word in this shot is Malayalam — the exact Malayalam text given in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
