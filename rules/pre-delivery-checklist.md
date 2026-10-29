@@ -47,3 +47,5 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 32. **Language lock (L28):** SPOKEN LANGUAGE line under SCENE; "speaks only Malayalam" in each speaker's reference; "in Malayalam" on every speaking ACTION line; Malayalam-only AUDIO header; lock in POSITIVE LOCKS.
 33. **No English paraphrase of any line (L29):** SCENE/ACTION say only "says one Malayalam line"; no translations or summaries of what is said anywhere in the prompt.
 34. **Pacing (L30):** ≤ 3 shots per 15 s; "runs the full N seconds"; unhurried actions with breathing room; listener keeps doing their task.
+35. **Start positions (L31):** characters begin where the dialogue happens; no cross-room travel in a dialogue shot.
+36. **Reverse-angle background (L32):** name what is directly behind each person in frame from the house map; tag it background-only.

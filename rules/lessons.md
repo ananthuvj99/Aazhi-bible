@@ -133,3 +133,11 @@ Rule: never paraphrase or translate dialogue anywhere in a prompt. Describe spee
 **L30 — Rushed, short, unnatural** (1D-a v4)
 Symptoms: output ended at 7 s, action felt fast, cuts felt rough.
 Rules: (1) set the platform duration and say "the video runs the full N seconds; quiet moments fill the gaps"; (2) at most two or three shots per 15 s generation; (3) slow, everyday pacing written in — "unhurried", "a slow breath", holds between beats; (4) prefer a slow camera push between lines over extra cuts; (5) let the listener keep working (mother keeps cooking) instead of turning to face the speaker.
+
+**L31 — Characters don't travel between zones on cue** (1D-a v6) — evidence: `1D-a-v6-mother-stayed-in-kitchen.png`
+Prompt had Rosamma start in the kitchen doorway and walk to the middle of the passage in 2.5 s; with @kitchenclean tagged and the first frame built around the kitchen door, the model kept her in the kitchen.
+Rule: start every character in the frame already where the dialogue needs them. Only add a walk-in when the walk is the point of the shot, give it its own shot and time, and don't tag the room they leave.
+
+**L32 — Reverse-angle backgrounds must be named** (1D-a v6) — evidence: `1D-a-v6-wrong-background-behind-antony.png`
+The over-the-shoulder shot showed a blank wall behind Antony. In the passage, the reverse angle toward the front of the house sees the open front door and the veranda.
+Rule: for every reverse angle, state what is directly behind the person in frame using the house map, and tag that place as "(shot N only, background only)".
