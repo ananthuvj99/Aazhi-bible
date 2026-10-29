@@ -20,6 +20,9 @@ One tag per bracket: `[scared]`, never `[scared, rushed]`. Extra tags go in thei
 
 Consequence: one speaker per shot. Multi-speaker beats are split into separate shots.
 
+## Audio
+- Sound effects only, no background music (music is added in the edit). Every AUDIO block opens with: "Sound effects only — natural on-location sound, the soundtrack carries no music."
+
 ## References
 - Tag a character/location only in shots where it is on screen.
 - Attach the **clean** location sheet. Never attach a `map.png` — its text labels can print on screen.
