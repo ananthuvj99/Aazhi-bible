@@ -1,0 +1,68 @@
+# Shot 1C · Sees the time, sits up (7.5 s) — v2
+Status: **ready**
+
+## History
+- v1 (as 1B): started with him asleep on his side and waking relaxed.
+- v2: now follows the new 1B — starts with him lying on his back, sheet at his chest, already shocked.
+References: @antonyhome, @antonyroomclean
+
+## Prompt
+```
+SCENE CONTEXT
+Morning, 1998. Antony's bedroom in a fisherman's house on the Alappad coast, Kerala. A young man lying on his back, already startled awake, turns his head to the small clock on his shelf, confirms he has overslept and jolts upright.
+
+ACTIVE REFERENCES
+@antonyhome: 24-year-old coastal sailor, lean, sun-browned, just woken up, hair messy from sleep; costume exactly as in the reference. Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice. 100% matches the reference.
+@antonyroomclean: Antony's bedroom exactly as in the reference. 100% matches the reference.
+
+LOCATION MAP
+Foreground: the side of the cot with a blue checked bedsheet and a thin cotton sheet with small blue checks bunched across his chest. Midground: the young man on the cot. Background: the wall behind the cot with a barred window with a blue frame. Screen-right: the wooden wall shelf with a row of books, a steel tumbler and one small round wind-up alarm clock with a white dial; two cloths on hooks in the corner; a grey metal trunk on the floor. Pale blue walls with a deep blue base band, red-oxide floor, wooden rafters and clay tiles overhead.
+
+FIRST FRAME
+Medium shot at cot height: he lies on his back, head on the pillow, the thin checked sheet folded across his chest, eyes wide open staring at the ceiling, lips parted.
+
+FORMAT MODE
+Timed multishot, 7.5 seconds total. Cuts only at the specified points, the camera does not cut on its own.
+
+OPTICS
+0.0s–3.0s MCU 29°. 3.0s–4.5s ECU 12°. 4.5s–7.5s MCU 29°. No drift mid-segment.
+
+CAMERA
+0.0s–4.5s: static on a low tripod at cot height. 4.5s–7.5s: static, directly in front of him at the eye level of his seated face, framing his head and shoulders.
+
+ACTION
+0.0s to 3.0s — [scared] He lies frozen for a beat, eyes wide, then turns his head quickly toward the shelf screen-right.
+3.0s HARD CUT
+3.0s to 4.5s — [anxious] Insert: the small round alarm clock on the shelf beside the steel tumbler, the short hour hand just before the 8 and the long minute hand pointing at the 9 — a quarter to eight. Sunlight across its glass.
+4.5s HARD CUT
+4.5s to 5.2s — [scared] He throws the sheet aside, jerks upright and sits on the edge of the cot facing camera, eyes wide; both hands drop to rest on the bedsheet.
+5.2s to 6.6s — [scared] He says his line facing the camera, head steady, hands still on the bedsheet.
+6.6s to 7.5s — [worried] Only after the line, he pushes his messy hair back with one hand and looks toward the bedroom door screen-left.
+
+DIALOGUE RULES
+Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
+
+PERFORMANCE
+Already startled, then confirmed panic: wide eyes, a sharp intake of breath, stiff upright posture. Pore-level skin, light sweat at the temples, living eyes with clear catch-lights.
+
+LIGHTING
+Warm slanting morning sunlight at 5600K enters from screen-left through the front window, dust motes visible across 2 meters, warm bounce off the pale blue walls. During the dialogue segment his face is lit with soft, even frontal light.
+
+AUDIO
+Sound effects only — natural on-location sound, the soundtrack carries no music.
+Dialogue in Kerala Malayalam with a native Kollam coastal accent, everyday spoken pronunciation. Lip-sync exact. The line is spoken exactly once, exactly as written.
+
+5.2s to 6.6s — Young man, to himself: breathy, fast, about 1.4 seconds. Stress on "അയ്യോ", pitch rising through "സമയം", sharp drop on "പോയല്ലോ".
+[gasps] [scared] "അയ്യോ, സമയം പോയല്ലോ!"
+
+Ambient: hens clucking, crows, distant surf, the rope cot creaking as he sits up.
+
+STYLE
+Photoreal 1998 Kerala period film, warm golden morning tones, fine natural film grain.
+
+POSITIVE LOCKS
+The room matches the reference exactly, with the one alarm clock on the shelf as the only addition. Same costume — white sleeveless vest, grey-green checked mundu, silver chain — cot and light direction across all cuts.
+```
+
+## Generation results
+- (none yet)
