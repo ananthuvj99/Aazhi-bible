@@ -1,6 +1,6 @@
 # Shot 1B (option B) · Sees the clock, then says the whole line (17 s) — v5
 Status: **ready**
-References: @antonyhome, @antonyroomclean, @wallclock, @hall_clean
+References: @antonyhome, @antonyroomclean, @wallclock, @hallclean
 Speaker: Antony only.
 Continues from: 1A last frame (overhead, lying on his back, sheet across chest, eyes open).
 
@@ -20,7 +20,7 @@ ACTIVE REFERENCES
 @antonyhome: 24-year-old coastal sailor, lean, sun-browned, black hair messy from sleep, white sleeveless cotton vest, grey-green checked mundu, thin silver chain, barefoot. Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice. 100% matches the reference.
 @antonyroomclean: Antony's bedroom exactly as in the reference — pale blue walls with a deep blue base band, red-oxide floor, wooden rope-strung cot with a blue checked bedsheet and pillow along the wall under a barred window with a blue frame, a wooden shelf with books and a steel tumbler, two cloths on hooks in the corner, a grey metal trunk. 100% matches the reference.
 @wallclock: one old round wall clock — thick worn black wooden bezel, aged cream dial, bold black numerals, black spade hands, a small blue maker's plate below the 6. Its hands show a quarter to eight. 100% matches the reference.
-@hall_clean: the central passage outside the bedroom door, exactly as in the reference — the blue wooden door frame and red-oxide floor. 100% matches the reference.
+@hallclean: the central passage outside the bedroom door, exactly as in the reference — the blue wooden door frame and red-oxide floor. 100% matches the reference.
 
 HOUSE LAYOUT
 A small single-storey house in three parts, front to back. Front: an open veranda with four turned white pillars and the blue front door at the centre. Middle: a straight central passage running from the front door to the back of the house, with one bedroom on each side — Antony's bedroom on the left as you walk in from the front door, his mother's bedroom on the right; each bedroom door opens off the passage near the front end. Back: the kitchen, running the full width of the house, entered through open blue double doors at the end of the passage, with the wood-fire stove in its back-left corner and a barred window with white shutters in the back wall looking out to the sea. Each bedroom has a barred window onto the front veranda and another in its outer side wall. Inside Antony's bedroom: the door is in the wall shared with the passage, near the front; the cot stands along the opposite outer wall under the side window, its head end toward the back of the house; the wooden shelf with books and a steel tumbler hangs on the back wall above the head of the cot; the cloth hooks are in the back corner beside it; the grey metal trunk sits on the floor against the back wall; an old round wall clock hangs on the front wall beside the front window, above the foot of the cot. Pale blue walls, deep blue base band, red-oxide floors, exposed wooden rafters and clay tiles in every room.

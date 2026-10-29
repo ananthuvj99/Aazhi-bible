@@ -1,0 +1,69 @@
+# 1B v8 single location (fallback)
+```
+SCENE CONTEXT
+Morning, 1998. Antony's bedroom in a fisherman's house on the Alappad coast, Kerala. Lying on his back on a rope cot, a young man realises he has overslept, glances at the wall clock beyond the foot of the cot, then sits up facing the open door of this bedroom and calls out through it to his mother.
+
+ACTIVE REFERENCES
+@antonyhome: 24-year-old coastal sailor, lean, sun-browned, messy black hair, white sleeveless vest, grey-green checked mundu, thin silver chain. Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice. 100% matches the reference.
+@antonyroomclean: Antony's bedroom exactly as in the reference. 100% matches the reference.
+@wallclock: one old round wall clock, black wooden bezel, cream dial, black hands at a quarter to eight. 100% matches the reference.
+
+LOCATION MAP
+One room only, this bedroom. The cot stands against the wall under a barred window; the open blue bedroom door is across the room from it; the wall clock hangs on the wall beyond the foot of the cot.
+Overhead view: head of the cot at the top of frame, the barred window wall at screen-left, the foot of the cot at the bottom. Doorway view: the cot across the room, its head end at screen-right, the clock wall at screen-left. A thin sheet with small blue checks lies across his chest.
+
+FIRST FRAME
+Straight-down overhead medium close-up: he lies on his back, sheet across his chest, eyes open, looking up into the lens, still.
+
+FORMAT MODE
+Timed multishot, 16 seconds. Cuts only at the specified points, the camera does not cut on its own.
+
+OPTICS
+0.0s–4.6s MCU 29°. 4.6s–7.0s ECU 12°. 7.0s–16.0s MCU 29°. No drift mid-segment.
+
+CAMERA
+0.0s–4.6s: directly overhead, looking straight down, still. 4.6s–7.0s: static on the clock, slightly from below. 7.0s–16.0s: static, standing in the open bedroom doorway at the eye level of his seated face; the blue door frame forms soft edges at both sides of frame.
+
+ACTION
+0.0s to 2.5s — [tired] Hold. He lies still, breathing slowly, one slow blink.
+2.5s to 3.0s — [surprised] His eyes widen slightly, brows lift a little.
+3.0s to 3.6s — [worried] He says the first word to himself, face up to the lens, head still.
+3.6s to 4.6s — [curious] He lifts his head and looks down past his feet toward the clock.
+4.6s HARD CUT
+4.6s to 7.0s — [anxious] Insert: the wall clock, short hour hand just before the 8, long minute hand on the 9. His voice is heard off-screen.
+7.0s HARD CUT
+7.0s to 9.0s — [worried] Doorway view: he sits up, swings his legs down and sits on the edge of the cot facing the doorway and the lens, hands on his knees.
+9.0s to 9.8s — [annoyed] He draws a breath, eyes on the doorway.
+9.8s to 12.6s — [annoyed] He calls his line through the doorway, straight to the lens, head steady.
+12.6s to 16.0s — [tired] Hold. He stays seated, mouth closed, listening; shoulders drop.
+
+DIALOGUE RULES
+Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
+
+PERFORMANCE
+Understated and realistic: a slight widening of the eyes, a quick breath, relaxed face, no grimace. The call is an everyday complaint, brows raised, a small pout on the last word. Natural skin texture, living eyes.
+
+LIGHTING
+Warm morning sun at 5000K through the barred window, bright stripes across the cot; soft even frontal light on his face when he speaks.
+
+AUDIO
+Sound effects only — natural on-location sound, the soundtrack carries no music.
+Kerala Malayalam, native Kollam coastal accent, everyday pronunciation. Each line spoken once, exactly as written.
+
+3.0s to 3.6s — on camera, low breathy exclamation, stress on the first syllable.
+[surprised] [quietly] "അയ്യോ!"
+
+4.9s to 6.0s — off-screen over the clock, low mutter, soft falling end.
+[worried] [hushed] "സമയം പോയല്ലോ!"
+
+9.8s to 12.6s — raised everyday voice, calling out through the door, "അമ്മേ" stretched, then quick and clipped, stress on "നേരത്തെ", rising at the end.
+[shouts] [annoyed] "അമ്മേ! എന്താ എന്നെ നേരത്തെ വിളിക്കാത്തേ?"
+
+Ambient: clock ticking, hens, crows, distant surf, the rope cot creaking.
+
+STYLE
+Photoreal 1998 Kerala period film, warm golden morning tones, fine film grain.
+
+POSITIVE LOCKS
+Lines are spoken facing the lens. Exactly one wall clock, at a quarter to eight. Same costume in every cut. Holds of 2.5 seconds at the start and 3.4 seconds at the end.
+```

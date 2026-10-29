@@ -1,5 +1,5 @@
 # Central passage / hall (LOC-ANTONY-HOUSE-1990_HAL-01)
-Platform ID: `@hall_clean` · Labelled: `@hall_mapped` (never attach)
+Platform ID: `@hallclean` · Labelled: `@hall_mapped` (never attach)
 
 Sheet view: camera at the south entrance looking north, front veranda behind camera.
 
