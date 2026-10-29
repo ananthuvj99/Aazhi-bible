@@ -11,6 +11,8 @@ Source storyboard: https://aazhi-storyboard.vercel.app/#p=14&lang=ml
 Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the showreel runs ~75 s — decision pending.
 
 ## Finalised Scene 1 dialogue
+- Antony (1D): ഓ, ഈ അമ്മ! — *Oh, this Amma!*
+- Antony (1D): ഇന്ന് കടലിൽ പോവാനുള്ളതാ. ഞാൻ പെട്ടെന്ന് പോയി കുളിച്ചിട്ട് വരട്ടെ. — *I'm going to sea today. Let me go have a quick bath.*
 - Rosamma (1C, kitchen): ഓ, എണീറ്റോ തമ്പുരാൻ! — *Oh, so His Highness is up!*
 - Antony (1B): അയ്യോ, സമയം പോയല്ലോ!  — *Oh no, I'm late!*
 - Antony (1B): അമ്മേ! എന്താ എന്നെ നേരത്തെ വിളിക്കാത്തേ? — *Amma! Why didn't you wake me earlier?*

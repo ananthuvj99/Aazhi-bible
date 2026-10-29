@@ -8,3 +8,8 @@ State of the story world after the last approved shot. Update when a shot is app
 - Rosamma (`@rosamma`): at the stove in the kitchen, cooking curry, mildly irritated and fond; wooden spoon in her right hand. Cream saree with small blue flowers, blue blouse, gold cross chain, low bun.
 - Props: the small wooden spoon stays in the kitchen with Rosamma (throw removed in 1C v5). Wall clock on the front wall of Antony's room reads a quarter to eight. Cot made up with the faded blue checked bedsheet.
 - Next: Scene 2 needs Antony to change into `@antony20` (lavender-grey striped shirt, same mundu, combed hair) on screen or after a clear time cut.
+
+## After 1D
+- Antony has left the house through the front door onto the veranda to bathe, still in vest and checked mundu, white towel (faint blue stripes at the ends) over his left shoulder. The navy cloth is still on the hook.
+- Rosamma is back in the kitchen.
+- Next: Antony returns bathed and changes into `@antony20`.
