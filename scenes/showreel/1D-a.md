@@ -1,6 +1,6 @@
-# Shot 1D-a · Passage: "Oh ee Amma" (15 s) — v1 (scoped, L27)
+# Shot 1D-a · Passage: "Oh ee Amma" (15 s) — v2 (scoped, L27, + background kitchen)
 Status: **ready**
-References: @antonyhome, @rosamma, @hallclean
+References: @antonyhome, @rosamma, @hallclean, @kitchenclean (cut 1, background only)
 Speaker(s): Antony
 Replaces part of: 1D v3 (split by location after L27).
 
@@ -13,6 +13,7 @@ ACTIVE REFERENCES
 @antonyhome (all cuts): Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair messy from sleep. Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice. 100% matches the reference.
 @rosamma (all cuts): Rosamma, coastal Latin Catholic mother in her early 50s, medium-brown skin, kind face with fine lines, black hair streaked with grey, centre parting, low bun. 100% matches the reference.
 @hallclean (all cuts): the central passage exactly as in the reference. 100% matches the reference.
+@kitchenclean (cut 1 only, background only): the kitchen seen only through the open double doors at the far end of the passage — the wood-fire stove glowing, the soot-blackened wall. The camera never enters it; all action stays in the passage. 100% matches the reference.
 
 ON SCREEN
 Antony: plain white sleeveless cotton vest, grey-green checked mundu with a narrow white border stripe, thin silver chain, barefoot, hair messy. Hands empty.
