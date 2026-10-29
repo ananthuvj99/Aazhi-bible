@@ -27,6 +27,9 @@ Consequence: one speaker per shot. Speakers are always front-facing in MCU — n
 ## Audio
 - Sound effects only, no background music (music is added in the edit). Every AUDIO block opens with: "Sound effects only — natural on-location sound, the soundtrack carries no music."
 
+## House layout block
+- Every prompt set inside Antony's house includes the HOUSE LAYOUT block from `locations/house-exterior/house-layout-block.txt`, placed right after ACTIVE REFERENCES, so the model never invents rooms, doors or directions.
+
 ## References
 - Tag a character/location only in shots where it is on screen.
 - Attach the **clean** location sheet. Never attach a `map.png` — its text labels can print on screen.
