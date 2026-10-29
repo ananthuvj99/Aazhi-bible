@@ -35,3 +35,10 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 22. **Tags exactly as registered** (no underscores: @hallclean). (L19)
 23. Tag what is on screen AND the location the camera stands in when its walls frame the shot. Never tag what isn't there. 
 24. **Clean sheets only,** never mapped. 
+
+## Scope (L27)
+25. **Nothing off-screen in the prompt:** no rooms, props or people the camera does not see; no global house layout; continuity back-story stays in the ledger.
+26. **Location line per cut**, saying where it is and where it is NOT.
+27. **References assigned to cuts;** a reference used in one cut is named with "cut N only".
+28. **One location per generation when there is dialogue;** split at location changes.
+29. **Room contents:** "this room contains only: …" for every room on screen.

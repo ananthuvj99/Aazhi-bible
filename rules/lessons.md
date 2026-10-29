@@ -111,3 +111,13 @@ Rule: for natural dialogue, keep the speaker busy with a task and their eyes on 
 **L26 — Entrances from the wrong room** (1D v2) — evidence: `scenes/showreel/evidence/1D-v2-mother-wrong-entrance-sandals.png`
 Rosamma appeared from a bedroom instead of the kitchen, and wore sandals indoors (the sheet shows sandals).
 Rule: when a character enters, show them IN their origin room in the first frame (visible through the doorway) and walk them out; name the doors that stay empty. Lock footwear explicitly whenever the sheet differs from the scene (Rosamma barefoot indoors).
+
+**L27 — Everything written in a prompt is a candidate to be drawn** (1C v5, 1D v3) — evidence: `1C-v5-clock-leaked-into-kitchen.png`, `1D-v3-meet-in-kitchen-doorway.png`, `1D-v3-conversation-jumps-to-bedroom.png`
+Symptoms: the wall clock (described only in the HOUSE LAYOUT and CONTINUITY blocks as being in Antony's room) appeared in the kitchen. In 1D, Antony emerged near the kitchen and the conversation cut jumped into his bedroom because @antonyroomclean was attached for a later cut.
+Cause: the model cannot tell "background knowledge about the house" from "things to show". Every object, room and reference in the prompt bleeds into every cut.
+Rules:
+1. Two layers. Continuity lives in the bible (ledger, cards). The prompt carries only what is VISIBLE in this shot. No global HOUSE LAYOUT block; no mention of rooms, props or people the camera does not see.
+2. Every cut starts with a location line: "CUT 2 — LOCATION: the central passage, same spot as cut 1 (not a bedroom, not the kitchen)".
+3. Each reference is assigned to its cut: "@antonyroomclean — cut 3 only".
+4. List exactly what is in each room on screen ("this kitchen contains only: ...").
+5. Split generations at location changes whenever a line of dialogue is involved. One location per generation is the reliable default; multi-location only for silent transitions. The edit stitches the generations.

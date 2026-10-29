@@ -27,15 +27,16 @@ Consequence: one speaker per shot. Speakers are always front-facing in MCU — n
 ## Audio
 - Sound effects only, no background music (music is added in the edit). Every AUDIO block opens with: "Sound effects only — natural on-location sound, the soundtrack carries no music."
 
-## Detail level (Ananthu)
-- Prompts are fully detailed: CONTINUITY FROM THE PREVIOUS SHOT, WARDROBE, PROPS (exact counts), HOUSE LAYOUT, ROOM GEOMETRY wall by wall, FRAME BREAKDOWN per camera position, then the standard blocks.
+## Detail level (Ananthu) + scope (L27)
+- Prompts are fully detailed but SCOPED: only what is visible. Blocks: ON SCREEN STATE (wardrobe/props/mood as they appear, no back-story), WARDROBE, PROPS (exact counts), THIS SPACE (the one room on screen, wall by wall, 'contains only'), FRAME BREAKDOWN per cut with a LOCATION line, references assigned to cuts, then the standard blocks.
+- One location per generation when there is dialogue.
 
 ## Prompt length
 - Keep every prompt under ~6,500 characters (L18). Approved/working prompts were 6,000–7,000; a 9,500-character prompt errored.
 - Use the short HOUSE LAYOUT block (`locations/house-exterior/house-layout-block-short.txt`) by default; the long one only if a shot fails on geography.
 
-## House layout block — restored (Ananthu: errors were the tag name, not length or rooms)
-- Every prompt set inside Antony's house includes the HOUSE LAYOUT block from `locations/house-exterior/house-layout-block.txt`, placed right after ACTIVE REFERENCES, so the model never invents rooms, doors or directions.
+## House layout block — RETIRED (L27)
+- Do not include. Old rule: every prompt set inside Antony's house includes the HOUSE LAYOUT block from `locations/house-exterior/house-layout-block.txt`, placed right after ACTIVE REFERENCES, so the model never invents rooms, doors or directions.
 
 ## References
 - Tag a character/location only in shots where it is on screen — and also tag the location the camera stands in when its walls or door frame frame the shot (e.g. @hallclean for a view from the passage into a bedroom).
