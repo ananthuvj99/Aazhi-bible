@@ -18,3 +18,9 @@ Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the s
 - Antony (1B): അമ്മേ! എന്താ എന്നെ നേരത്തെ വിളിക്കാത്തേ? — *Amma! Why didn't you wake me earlier?*
 - Rosamma (1C, doorway): നിന്നെ മൂന്നാല് തവണ വിളിച്ചതാ. എണീച്ചില്ലേൽ പിന്നെ ഞാനെന്ത് ചെയ്യാനാ? — *I called you three or four times. If you won't get up, what am I supposed to do?*
 - Rosamma (1C, doorway): അവ്ടെ കെടക്കട്ടേന്നോർത്തു. — *So I thought, let him sleep.*
+
+## Scene 2 dialogue (Ananthu's version, replaces SB015 lines)
+- Rosamma: ഡാ, നിക്കെടാ! കഴിച്ചിട്ട് പോടാ. — *Hey, wait! Eat before you go.*
+- Antony: സമയമില്ലമ്മേ, ഞാൻ പുറത്തൂന്ന് കഴിച്ചോളാം. — *No time, Amma, I'll eat outside.*
+- Rosamma: നീ എന്നാ തിരിച്ചു വരാ? പത്തു ദിവസം കഴിഞ്ഞാ ഇവിടെ കണ്ടോണം, കേട്ടോ. — *When are you coming back? After ten days I'd better see you here, understand?*
+- Antony (from the yard): പേടിക്കണ്ട അമ്മേ, ചരക്കിറക്കി കഴിഞ്ഞാ അപ്പോ തിരിച്ചു വരും. — *Don't worry, Amma. Once the cargo's unloaded, I'll come straight back.*

@@ -13,3 +13,7 @@ State of the story world after the last approved shot. Update when a shot is app
 - Antony has left the house through the front door onto the veranda to bathe, still in vest and checked mundu, white towel (faint blue stripes at the ends) over his left shoulder. The navy cloth is still on the hook.
 - Rosamma is back in the kitchen.
 - Next: Antony returns bathed and changes into `@antony20`.
+
+## After 2A
+- Antony (`@antony20`): striped lavender-grey shirt, checked mundu, silver chain, barefoot, khaki cotton shoulder bag on his left shoulder, hair combed. Has left through the compound wall gap toward the beach/harbour, breakfast uneaten.
+- Rosamma: on the veranda at the top of the steps, barefoot, holding the full steel plate of puttu and curry.
