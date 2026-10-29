@@ -129,3 +129,7 @@ Rule: state the spoken language four times — a SPOKEN LANGUAGE line under SCEN
 **L29 — English paraphrase of the dialogue gets voiced** (1D-a)
 Suspected cause: the SCENE paragraph summarised the lines in English ("he tells her he is going to sea today and must quickly go and bathe"). The platform's dub planner reads the whole prompt and can take that English summary as the line to speak.
 Rule: never paraphrase or translate dialogue anywhere in a prompt. Describe speech only as "says one Malayalam line" / "answers with one Malayalam line"; the only words that can be spoken are the Malayalam text in quotes in AUDIO. English meanings live in the repo plan, not in prompts.
+
+**L30 — Rushed, short, unnatural** (1D-a v4)
+Symptoms: output ended at 7 s, action felt fast, cuts felt rough.
+Rules: (1) set the platform duration and say "the video runs the full N seconds; quiet moments fill the gaps"; (2) at most two or three shots per 15 s generation; (3) slow, everyday pacing written in — "unhurried", "a slow breath", holds between beats; (4) prefer a slow camera push between lines over extra cuts; (5) let the listener keep working (mother keeps cooking) instead of turning to face the speaker.
