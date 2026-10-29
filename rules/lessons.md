@@ -104,3 +104,6 @@ Rule: name the wall that holds the prop AND name the walls that don't ("the far 
 
 **L24 — Off-screen dialogue confuses lip-sync**
 Rule: every spoken word on camera with the mouth visible; split a line around an insert rather than voicing it over the insert.
+
+**L25 — Talking to camera while walking feels fake** (1C v4)
+Rule: for natural dialogue, keep the speaker busy with a task and their eyes on the task; satisfy lip-sync by placing the camera where their face already points (e.g. beside the stove facing a cook), not by having them look into the lens. Face toward the lens ≠ eyes on the lens.
