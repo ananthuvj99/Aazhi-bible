@@ -42,3 +42,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 27. **References assigned to cuts;** a reference used in one cut is named with "cut N only".
 28. **One location per generation when there is dialogue;** split at location changes.
 29. **Room contents:** "this room contains only: …" for every room on screen.
+30. **Word scan:** search the prompt for every off-screen prop name, including hidden ones ("o'clock" contains "clock"). Describe time by light, never by clock words, except in the clock insert.
