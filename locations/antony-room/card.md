@@ -14,7 +14,8 @@ West half of the house, west of the central passage.
 - Red-oxide floor; pale blue walls with deep blue base band; wooden rafters and clay tiles visible.
 
 ## Not in this room
-- No crucifix, no religious pictures, no clock of any kind, no mirror (L17).
+- No crucifix, no religious pictures, no mirror.
+- **Wall clock** (`@wallclock`, added by Ananthu): on the front wall beside the front window, near the outer corner, above the foot of the cot. See `props/wallclock/card.md`.
 
 ## Light
 - Morning: warm slanting sun through the south front window. West window gets no direct morning sun.
