@@ -35,6 +35,10 @@ Rule: count syllables; every line ends at least 0.2 s before the next cut.
 Cause: Manglish in brackets beside Malayalam may be spoken as a second line.
 Rule: Malayalam script only inside prompts.
 
-**L9 — House location came out wrong in 1A** (showreel 1A) — OPEN
-Cause (suspected): the only house reference is a top-down cutaway with the roof removed, not a ground-level front view, so the model has no eye-level exterior to match.
-Rule (pending): add a ground-level front-elevation sheet for the house and attach that for exterior shots. Update when the user reports the details.
+**L9 — House location came out wrong in 1A** (showreel 1A)
+Cause: the only house reference was a top-down cutaway with the roof removed; the model had no eye-level exterior or surroundings to match.
+Rule: for exterior shots attach `@houseout` (environment) and `@housefullview` (elevations); never `@houseclean`/`@housemap`. Describe the surroundings from the card (headland, compound wall gap, beach and church to the east) in the LOCATION MAP.
+
+**L10 — Sheets can disagree with each other** — OPEN
+Example: the rear elevation shows a centre back door; the kitchen interior sheet has no north door.
+Rule: when two sheets conflict, flag it to the user before writing a shot that shows that part; never silently pick one.

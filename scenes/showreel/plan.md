@@ -3,7 +3,7 @@ Source storyboard: https://aazhi-storyboard.vercel.app/#p=14&lang=ml
 
 | Scene | Beat | Storyboard | Shots | Status |
 |---|---|---|---|---|
-| 1 | Antony oversleeps; mother throws the spoon | SB014 | 1A–1E (~31 s) | prompts ready; 1A house wrong (L9) |
+| 1 | Antony oversleeps; mother throws the spoon | SB014 | 1A–1E (~31 s) | prompts ready; 1A v2 uses new house views |
 | 2 | Ten days — mother makes him eat | SB015 | — | not started |
 | 3 | Eight o'clock — Clara's classroom | SB016–017 | — | not started; Clara ID needed |
 | 4 | Come back safely — walk to harbour | SB018 | — | not started |
