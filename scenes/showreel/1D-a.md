@@ -1,4 +1,4 @@
-# Shot 1D-a · Passage: "Oh ee Amma" (15 s) — v2 (scoped, L27, + background kitchen)
+# Shot 1D-a · Passage: "Oh ee Amma" (15 s) — v3 (Malayalam locked, L28)
 Status: **ready**
 References: @antonyhome, @rosamma, @hallclean, @kitchenclean (cut 1, background only)
 Speaker(s): Antony
@@ -7,10 +7,11 @@ Replaces part of: 1D v3 (split by location after L27).
 ## Prompt
 ```
 SCENE
-Morning, 1998, a fisherman's house on the Alappad coast, Kerala. In the central passage of the house, Rosamma walks up from the kitchen doorway at the far end, wiping her hands. Antony steps out of his bedroom doorway near the camera. They stop face to face in the middle of the passage. Half exasperated, half fond, he tells her he is going to sea today and must quickly go and bathe, then turns back into his bedroom doorway. Only Antony speaks. Rosamma's mouth stays closed.
+Morning, 1998, a fisherman's house on the Alappad coast, Kerala. In the central passage of the house, Rosamma walks up from the kitchen doorway at the far end, wiping her hands. Antony steps out of his bedroom doorway near the camera. They stop face to face in the middle of the passage. Half exasperated, half fond, he tells her he is going to sea today and must quickly go and bathe, then turns back into his bedroom doorway. Only Antony speaks, and he speaks only in Malayalam. Rosamma's mouth stays closed.
+SPOKEN LANGUAGE: Malayalam. Every spoken word in this shot is Malayalam — the exact Malayalam text given in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
-@antonyhome (all cuts): Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair messy from sleep. Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice. 100% matches the reference.
+@antonyhome (all cuts): Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair messy from sleep. A native Malayalam speaker from the Kollam coast who speaks only Malayalam; warm, slightly hoarse young male voice. 100% matches the reference.
 @rosamma (all cuts): Rosamma, coastal Latin Catholic mother in her early 50s, medium-brown skin, kind face with fine lines, black hair streaked with grey, centre parting, low bun. 100% matches the reference.
 @hallclean (all cuts): the central passage exactly as in the reference. 100% matches the reference.
 @kitchenclean (cut 1 only, background only): the kitchen seen only through the open double doors at the far end of the passage — the wood-fire stove glowing, the soot-blackened wall. The camera never enters it; all action stays in the passage. 100% matches the reference.
@@ -45,9 +46,9 @@ ACTION
 3.8s to 5.0s — [tired] Antony steps out of the near left-hand doorway, rubbing one eye, and turns to face her; they stop in the middle of the passage, 1.5 meters apart. The right-hand door stays closed.
 5.0s HARD CUT
 5.0s to 5.6s — [playful] Over her shoulder: he drops his hand and gives her an exasperated half-smile, face to the lens.
-5.6s to 6.4s — [playful] He says his first line, head steady, face to the lens.
+5.6s to 6.4s — [playful] He says his first line in Malayalam, head steady, face to the lens.
 6.4s to 6.9s — [playful] A small shake of the head.
-6.9s to 10.2s — [rushed] He says his second line, quick and practical, head steady, face to the lens.
+6.9s to 10.2s — [rushed] He says his second line in Malayalam, quick and practical, head steady, face to the lens.
 10.2s to 11.0s — [rushed] He nods once, mouth closed.
 11.0s HARD CUT
 11.0s to 12.5s — [rushed] Wide again: he turns and goes back in through his near left-hand doorway.
@@ -64,7 +65,7 @@ Soft morning daylight from the open front door, warm orange firelight from the f
 
 AUDIO
 Sound effects only — natural on-location sound, the soundtrack carries no music.
-Kerala Malayalam, native Kollam coastal accent, everyday pronunciation. Lip-sync exact; every word on camera. Each line spoken once, exactly as written.
+Spoken language: Malayalam only. Antony speaks the exact Malayalam words written in quotes below, in everyday Kollam coastal Malayalam pronunciation, and nothing else — no English, no translation. Lip-sync exact; every word on camera. Each line spoken once, exactly as written.
 
 5.6s to 6.4s — Antony: exasperated but fond, "ഓ" drawn out slightly, stress on "അമ്മ", falling. About 0.8 seconds.
 [playful] "ഓ, ഈ അമ്മ!"
@@ -78,9 +79,9 @@ STYLE
 Photoreal 1998 Kerala period film, warm golden morning tones, fine natural film grain.
 
 POSITIVE LOCKS
-Every cut is in the central passage. Rosamma enters from the far doors; Antony from the near left-hand doorway; the right-hand door stays closed. Only Antony speaks. Both barefoot. Holds of 2 seconds at the start and 2.5 seconds at the end.
+Every cut is in the central passage. Rosamma enters from the far doors; Antony from the near left-hand doorway; the right-hand door stays closed. Only Antony speaks, and every word he speaks is Malayalam. Both barefoot. Holds of 2 seconds at the start and 2.5 seconds at the end.
 
 ```
 
 ## Generation results
-- (none yet)
+- v2: dialogue came out in English (L28).

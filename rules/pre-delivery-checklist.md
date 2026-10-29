@@ -44,3 +44,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 29. **Room contents:** "this room contains only: …" for every room on screen.
 30. **Word scan:** search the prompt for every off-screen prop name, including hidden ones ("o'clock" contains "clock"). Describe time by light, never by clock words, except in the clock insert.
 31. **Background-only rooms** (seen through a doorway): leave untagged by default; if tagged, mark "(cut N only, background only) … the camera never enters it; all action stays in <room>".
+32. **Language lock (L28):** SPOKEN LANGUAGE line under SCENE; "speaks only Malayalam" in each speaker's reference; "in Malayalam" on every speaking ACTION line; Malayalam-only AUDIO header; lock in POSITIVE LOCKS.

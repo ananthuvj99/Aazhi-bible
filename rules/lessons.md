@@ -121,3 +121,7 @@ Rules:
 3. Each reference is assigned to its cut: "@antonyroomclean — cut 3 only".
 4. List exactly what is in each room on screen ("this kitchen contains only: ...").
 5. Split generations at location changes whenever a line of dialogue is involved. One location per generation is the reliable default; multi-location only for silent transitions. The edit stitches the generations.
+
+**L28 — Dialogue generated in English** (1D-a v2)
+Cause: the prompt is written in English and the compact AUDIO line stated the language only once, in passing; the model voiced the lines in English.
+Rule: state the spoken language four times — a SPOKEN LANGUAGE line under SCENE, "speaks only Malayalam" in the speaker's reference line, "says his line in Malayalam" in each ACTION line, and "Malayalam only … the exact Malayalam words in quotes … no English, no translation" in AUDIO — plus a lock in POSITIVE LOCKS.
