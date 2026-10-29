@@ -38,7 +38,7 @@ Consequence: one speaker per shot. Speakers are always front-facing in MCU — n
 - Every prompt set inside Antony's house includes the HOUSE LAYOUT block from `locations/house-exterior/house-layout-block.txt`, placed right after ACTIVE REFERENCES, so the model never invents rooms, doors or directions.
 
 ## References
-- Tag a character/location only in shots where it is on screen.
+- Tag a character/location only in shots where it is on screen — and also tag the location the camera stands in when its walls or door frame frame the shot (e.g. @hallclean for a view from the passage into a bedroom).
 - Attach the **clean** location sheet. Never attach a `map.png` — its text labels can print on screen.
 - Wardrobe and hair come from the character sheet; write "costume exactly as in the reference" unless the user has stated something specific.
 
