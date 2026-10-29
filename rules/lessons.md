@@ -42,3 +42,10 @@ Rule: for exterior shots attach `@houseout` (environment) and `@housefullview` (
 **L10 — Sheets can disagree with each other** — OPEN
 Example: the rear elevation shows a centre back door; the kitchen interior sheet has no north door.
 Rule: when two sheets conflict, flag it to the user before writing a shot that shows that part; never silently pick one.
+
+**L11 — Sunrise direction on the Kerala coast**
+Cause: the house sheets mark the sea to the north/east, but Alappad faces the Arabian Sea to the west — the sun rises over the land and sets over the sea. A sun rising out of the sea would look wrong to a Kerala audience.
+Rule: dawn shots put the sun low over the inland palm-covered hills; the sea is backlit, never the source of the sunrise. Sunsets go over the sea. Avoid compass words in prompts; describe the sun relative to camera and landmarks.
+
+**L12 — Cameras cannot pass through a tiled roof**
+Rule: an aerial move ends looking straight down at the roof; the next shot opens on a matching straight-down view inside the room (match cut in the edit). Same principle as L4 for barred windows.
