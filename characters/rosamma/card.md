@@ -14,4 +14,4 @@ Native Kollam coastal Malayalam speaker, warm, firm middle-aged female voice. Ir
 
 ## Continuity notes
 - She wears a **saree**, not chatta-mundu — earlier prompts said chatta-mundu; superseded.
-- Indoors, Kerala households go barefoot; sheet shows sandals. Decide: barefoot inside the house, sandals outside? (open question)
+- Barefoot inside the house, always stated in the prompt — the sheet shows sandals and the model copies them (L26). Sandals only outdoors.
