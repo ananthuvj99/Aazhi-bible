@@ -48,3 +48,13 @@ Mapped sheets carry printed text labels (room names, compass words). Prefer the 
 | Veranda, looking out at the yard | yard, compound wall gap, lane, palms | NO house sheets (L35) — words only; @houseout only if the house itself is also in frame |
 | Yard, looking at the house | house front, veranda, pillars | @houseout, @housefullview |
 | Aerial | headland, beach, church, roof | @houseout, @housefullview |
+
+## Planned (Scene 3) — suggested IDs, sheets not yet uploaded
+| ID | Shows | Use |
+|---|---|---|
+| @clara20 | Clara, 1998, ~20, the tuition teacher | Every shot with Clara in Scenes 3–4 |
+| @tuitionout | Tuition centre exterior in its surroundings: small one-room tiled shed, half walls, open door, wooden name board, yard | Arrival shots, camera outside looking at it |
+| @tuitionfullview | Tuition centre elevations: front, sides, back, roof | Any exterior shot needing exact architecture |
+| @tuitionclean | Tuition centre interior: blackboard, teacher's table, wooden benches, half walls/windows, door | Every shot inside the classroom |
+| @tuitionmap | Labelled top-down layout of the tuition centre | Geography only — never attach (labels can print) |
+| @villagelane | Sandy village lane between palms and small tiled cottages | Antony's walk |
