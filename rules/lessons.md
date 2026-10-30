@@ -191,3 +191,11 @@ Rule: keep extras few, small and from behind; put the camera above head height l
 
 **W3 — Lock staging from an approved end frame** (3-2 approved)
 When a generation is approved, describe where each person stands in its last frame (relative to doors, windows, left/right as seen from the camera) and paste that STAGING block into every following shot of the scene; derive each reverse-angle background from that staging.
+
+**L44 — Shallow depth of field reads as fake** (3-3 v2) — evidence: `3-3-v2-*.png`
+"Shallow depth of field / softly out of focus / large-format" produced portrait-mode blur; Antony's background turned into generic trees instead of the building.
+Rule: dialogue singles use natural depth of field ("medium aperture, background clearly readable, only slightly softer"), MCU at 35° so the place shows, and the background described as "filling most of the frame".
+
+**L45 — Talking into the lens looks like a presenter** (3-3 v2)
+Both actors looked straight into the lens.
+Rule: in singles the speaker's eyes are on the other person about 20° off the lens — "never looks into the lens" — while the face stays within 30° for lip-sync.
