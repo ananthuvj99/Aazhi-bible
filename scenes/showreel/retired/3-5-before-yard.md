@@ -1,0 +1,80 @@
+# Shot 3-5 · Doorway: lines 7–8 (14 s) — v1
+Status: **ready** (v3 — QA 96: no background voices, closed-lip laugh)
+
+## Prompt
+```
+SCENE
+Mid-morning, 1998, the doorway of a small village tuition centre at Alappad, Kollam, Kerala. Three shots. Clara answers with one Malayalam line; Antony smiles without speaking; Clara says one more Malayalam line. Each line is spoken by one person, alone in the frame, in Malayalam only. The video runs the full 14 seconds.
+SPOKEN LANGUAGE: Malayalam. Every spoken word in this video is Malayalam — the exact Malayalam text given in quotes in AUDIO. No English words are spoken.
+
+ACTIVE REFERENCES
+@clara20 (Clara shots): Clara, about 20, the village tuition teacher; costume, hair and footwear exactly as in the reference. A native Malayalam speaker from the Kollam coast who speaks only Malayalam; clear, warm, composed young female voice. 100% matches the reference.
+@antony20 (Antony shots): Antony, 24-year-old coastal sailor, lean, sun-browned, slim face, short black hair combed neat. A native Malayalam speaker from the Kollam coast who speaks only Malayalam; warm, slightly hoarse young male voice. 100% matches the reference.
+@tuitionfullview (Clara shots only): the green door and pale-yellow wall seen from outside, exactly as in the reference. 100% matches the reference.
+
+ON SCREEN
+Antony: short-sleeve cotton shirt with thin vertical lavender-grey and white stripes, sleeves rolled once, top button open, one chest pocket on his left; grey-green checked mundu with a narrow white border stripe; thin silver chain; barefoot; a small faded khaki cotton shoulder bag on a long strap on his left shoulder.
+Clara: light sky-blue cotton saree with a thin white border, pallu over her left shoulder; matching light sky-blue short-sleeve blouse; black hair centre-parted in one long thick plait; thin gold chain with a small gold cross; small gold stud earrings; thin wooden-bead bangles on her right wrist and thin gold bangles on her left; brown leather thong sandals. Identical in every shot.
+
+THE DOORWAY (all dialogue shots)
+The open green wooden door of the tuition centre, in the pale-yellow lime-washed wall with a deep green band at the base, two stone steps outside. Clara stands just inside the doorway, facing out. Antony stands on the top step outside, facing in, about one metre from her.
+
+FRAME BREAKDOWN
+Shot 1 — Clara. Camera outside on the top step, beside Antony and just to his right, looking in at Clara in a medium close-up. Behind her, through the doorway: the dim classroom — the blank chalkboard and the teacher's table with a small stack of books just inside; the benches and the children are out of frame to the side. EYELINE: Antony is beside the camera, just to screen-left of the lens; she looks at him there. Nobody stands behind her.
+Shot 2 — Antony. Camera just inside the doorway beside Clara, looking out at Antony on the top step in a medium close-up. Behind him: the sunlit sandy yard, a low laterite wall and palms, softly out of focus. EYELINE: Clara is beside the camera, just to screen-right of the lens; he looks at her there. Nobody stands behind him.
+Shot 3 — Clara. Same set-up as shot 1.
+
+FIRST FRAME
+Shot 1: Clara in the doorway in a medium close-up, a dry, amused look, looking just left of the lens.
+
+FORMAT MODE
+Timed multishot, 14 seconds total. Cuts only at the specified points; the camera does not cut on its own. The video runs the full 14 seconds.
+
+OPTICS
+Shot 1 (0.0s–6.5s) MCU 29°. Shot 2 (6.5s–9.5s) MCU 29°. Shot 3 (9.5s–14.0s) MCU 29°. Shallow depth of field; natural perspective. No drift mid-shot.
+
+CAMERA
+Every shot on a tripod at eye level, level horizon, completely still; sharp focus on the speaker's eyes and mouth.
+
+ACTION
+0.0s to 1.0s — Shot 1: Clara tilts her head, the dry smile coming.
+1.0s to 5.0s — She says her line in Malayalam, head steady, face toward the lens, perfectly polite.
+5.0s to 6.5s — She holds, mouth closed, eyebrows up.
+6.5s HARD CUT
+6.5s to 9.5s — Shot 2: Antony breaks into a broad closed-lip smile, a short breath of a laugh through the nose, and shakes his head once. His lips stay together. He says nothing.
+9.5s HARD CUT
+9.5s to 10.5s — Shot 3: Clara's smile fades into something softer; she holds his gaze.
+10.5s to 12.3s — She says her line in Malayalam, quietly, head steady, meaning it.
+12.3s to 14.0s — She holds, mouth closed.
+
+DIALOGUE RULES
+Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
+While a line is spoken, the speaker is the only person in the frame.
+
+PERFORMANCE
+Clara: dry, teasing, then plainly tender. Antony: a broad closed-lip smile. Mouth movements natural and moderate; nothing theatrical. Pore-level skin, living eyes.
+
+LIGHTING
+Soft morning daylight. Clara in the doorway is lit by the bright yard in front of her, soft and even on her face. Antony on the step is lit by soft daylight and the pale-yellow wall, even on his face; the bright yard behind him gives a gentle rim on his hair.
+
+AUDIO
+Sound effects only — natural on-location sound, the soundtrack carries no music.
+Spoken language: Malayalam only. Each speaker says the exact Malayalam words written in quotes below, in everyday Kollam coastal Malayalam pronunciation, and nothing else — no English, no translation. Easy, natural, conversational delivery; quiet, because a class is going on inside. Lip-sync exact; every word on camera by the person alone in frame. Each line spoken once, exactly as written.
+
+1.0s to 5.0s — Clara, light and dry, a small pause after "തട്ടിക്കോ", stress on "അച്ഛനാ". About 4 seconds.
+[playful] "ആ, തട്ടിക്കോ. അച്ഛനാ തൊറക്കുന്നതെങ്കി, പുള്ളിയോട് സംസാരിച്ചോ."
+
+10.5s to 12.3s — Clara, quiet and plain, warm on "ഡാ". About 1.8 seconds.
+"സൂക്ഷിച്ചു പോണം ട്ടോ ഡാ."
+
+Ambient: a faint rustle of slates and the scratch of chalk from inside — no voices; crows, palm fronds in the breeze, distant surf.
+
+STYLE
+Cinematic photoreal 1998 Kerala period feature film: large-format cinema look, shallow depth of field, gentle highlight roll-off, natural skin tones, warm soft morning palette, fine natural film grain.
+
+POSITIVE LOCKS
+Clara stays just inside the doorway and Antony on the top step outside. Each line is spoken by one person alone in a medium close-up, looking just beside the lens at the other off-screen; nobody stands behind a speaker; no children in the dialogue shots. Every word is Malayalam. Runs the full 14 seconds.
+```
+
+## Generation results
+- (none yet)

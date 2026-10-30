@@ -28,4 +28,4 @@ Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the s
 ## Shot list after L27 (scoped, one location per dialogue generation)
 1A (approved) → 1B v12 → 1C v6 → 1D-1 → 1D-2 → 1D-3 → 2-1 → 2-2 → 2-3 → 2-4 → 2-5 → 2-6
 
-Scene 3 order: 3-1 → 3-2a → 3-2b → 3-3 → 3-4 → 3-5 → 3-6
+Scene 3 order (yard version): existing walk-to-school clip → 3-2 (Clara comes out) → 3-3 → 3-4 → 3-5 → 3-6
