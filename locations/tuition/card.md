@@ -20,3 +20,8 @@ IDs: `@tuitionout` (exterior in surroundings) · `@tuitionfullview` (elevations)
 ## Sight-lines
 - Outside on the steps looking in through the door: the chalkboard and the teacher's table are straight ahead/just inside; the benches are to the side.
 - Inside the door looking out: yard, laterite wall, palms, houses — no tuition sheets needed (L35).
+
+## Scene notes
+- The sheets show a brass bell on the teacher's table — Ananthu doesn't want it. Prompts say "the table holds only a stack of books and chalk". If it keeps appearing, regenerate @tuitionclean / @tuitiondoor / @tuitionout without the bell.
+- Door position relative to Clara at the front facing the class: on her LEFT.
+- Class roster for Scene 3: see scenes/showreel/3-2.md (eight children, fixed seats and clothes).

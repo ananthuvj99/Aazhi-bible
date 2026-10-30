@@ -58,3 +58,7 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 43. **No background voices during dialogue:** ambient in dialogue shots has no murmuring/talking crowds — use object sounds.
 44. **Silent reactions closed-lip:** laughs and smiles in non-speaking shots are closed-lip ("breath of a laugh through the nose").
 45. **QA runs on the FINAL version** of every prompt, after all edits.
+46. **Interior through windows/doors (L38)** matches the moment.
+47. **Extras roster + gaze (L39).**
+48. **Blank boards/papers/signs (L40).**
+49. **ROOM LAYOUT block + positions relative to the character; list surface contents exactly (L41).**

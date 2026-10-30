@@ -164,3 +164,19 @@ Rule: one shot per generation (5–8 s). Each generation is a single camera set-
 
 **W2 — What worked: Scene 2 Part A** (approved)
 Recipe: one location (the passage), three shots in 15 s, every line a clean single with an EYELINE block (listener off-screen beside the lens, opposite sides for shot/reverse), one emotion tag per speaker on their first line only, references scoped to shots, background-only kitchen, Malayalam lock in five places, no English paraphrase, holds at both ends. Reuse this as the template for every dialogue generation.
+
+**L38 — Interiors seen from outside must match the moment** (3-2 v1) — evidence: `3-2-v1-empty-classroom-exterior.png`
+The exterior sheet shows an empty room, so the model showed an empty classroom while the class was supposed to be in progress.
+Rule: when a sheet shows an empty space but the scene has people in it, say explicitly what is visible through windows and doors in that shot ("through the barred windows, the eight children seated…").
+
+**L39 — Extras: fixed roster, fixed gaze** (3-2 v1) — evidence: `3-2-v1-kids-look-back-gibberish-board.png`
+Children turned round to look at the camera; their clothes and number varied.
+Rule: write a roster (who sits where, what each wears) and repeat it in every shot with extras; state where extras look ("face the front or turn sideways to the door, never toward the camera").
+
+**L40 — No writing on boards, papers or signs** (3-2 v1)
+Clara's writing came out as gibberish.
+Rule: boards, papers and signs stay blank; give the character a different task (reading from a book).
+
+**L41 — Sheet props override wishes; name the room's layout relative to the character** (3-2 v1) — evidence: `3-2-v1-door-side-bell.png`
+The bell (in every tuition sheet) stayed; the door side read inconsistently between angles.
+Rule: when a sheet prop isn't wanted, list exactly what the surface holds ("the table holds only…"), and consider regenerating the sheet without it. Define door/board positions relative to the character too ("the door is on her left as she faces the class"), and keep a ROOM LAYOUT block in every interior prompt.
