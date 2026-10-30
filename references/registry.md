@@ -49,7 +49,7 @@ Mapped sheets carry printed text labels (room names, compass words). Prefer the 
 | Yard, looking at the house | house front, veranda, pillars | @houseout, @housefullview |
 | Aerial | headland, beach, church, roof | @houseout, @housefullview |
 
-## Planned (Scene 3) — suggested IDs, sheets not yet uploaded
+## Scene 3 — REGISTERED (sheets in repo: characters/clara20, locations/tuition, locations/villagelane)
 | ID | Shows | Use |
 |---|---|---|
 | @clara20 | Clara, 1998, ~20, the tuition teacher | Every shot with Clara in Scenes 3–4 |
