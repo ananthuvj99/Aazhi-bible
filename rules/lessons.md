@@ -188,3 +188,6 @@ Rule: inside a room, keep ONE camera axis for a scene (all shots from the same s
 **L43 — The model inflates and turns crowds** (3-2 v2)
 "Eight children" became about twenty-five, and the ones nearest the lens faced the camera.
 Rule: keep extras few, small and from behind; put the camera above head height looking over them; say "the rest of every bench is empty"; let only named extras move. Don't rely on a long roster — frame so the crowd can't take over.
+
+**W3 — Lock staging from an approved end frame** (3-2 approved)
+When a generation is approved, describe where each person stands in its last frame (relative to doors, windows, left/right as seen from the camera) and paste that STAGING block into every following shot of the scene; derive each reverse-angle background from that staging.
