@@ -24,6 +24,9 @@ Before any prompt is handed over, run `tools/prompt-qa-SKILL.md`: extract every 
    - commits with a message naming the lesson.
 4. When a shot is approved, status → `approved`, and its end state is written into `continuity-ledger.md`.
 
+## Template for dialogue generations
+`scenes/showreel/2-PART-A.md` (approved, W2): one location, ≤3 shots per 15 s, clean singles + EYELINE, one emotion tag per speaker.
+
 ## Layout
 ```
 rules/                 prompt rules, lessons log, platform emotion tag screenshots

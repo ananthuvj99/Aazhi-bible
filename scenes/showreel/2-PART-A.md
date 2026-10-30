@@ -1,5 +1,5 @@
 # Scene 2 · Part A — inside: "Daa nikkeda" / "Samayamillamme" (15 s, 3 shots) — v1
-Status: **ready**
+Status: **approved**
 References: @antony20, @rosamma, @hallclean, @kitchenclean (bg)
 
 ## Prompt
@@ -79,4 +79,4 @@ All three shots are inside the house, in the passage. Each line is spoken by one
 ```
 
 ## Generation results
-- (none yet)
+- v1: approved by Ananthu — "came out really well".

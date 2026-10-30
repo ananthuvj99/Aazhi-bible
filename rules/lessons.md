@@ -161,3 +161,6 @@ Rule: when A speaks to B and A is on camera, B is off-screen in the direction of
 **L37 — The platform collapses multi-shot prompts** (1D-a v4: 7 s; v6: 10 s; 1D v9: 7 s)
 Outputs keep coming back shorter than the set duration and with shots merged into one composition.
 Rule: one shot per generation (5–8 s). Each generation is a single camera set-up with one clear composition; cuts happen in the edit. Multi-shot prompts only when the user asks for them.
+
+**W2 — What worked: Scene 2 Part A** (approved)
+Recipe: one location (the passage), three shots in 15 s, every line a clean single with an EYELINE block (listener off-screen beside the lens, opposite sides for shot/reverse), one emotion tag per speaker on their first line only, references scoped to shots, background-only kitchen, Malayalam lock in five places, no English paraphrase, holds at both ends. Reuse this as the template for every dialogue generation.
