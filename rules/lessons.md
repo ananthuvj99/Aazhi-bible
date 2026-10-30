@@ -180,3 +180,11 @@ Rule: boards, papers and signs stay blank; give the character a different task (
 **L41 — Sheet props override wishes; name the room's layout relative to the character** (3-2 v1) — evidence: `3-2-v1-door-side-bell.png`
 The bell (in every tuition sheet) stayed; the door side read inconsistently between angles.
 Rule: when a sheet prop isn't wanted, list exactly what the surface holds ("the table holds only…"), and consider regenerating the sheet without it. Define door/board positions relative to the character too ("the door is on her left as she faces the class"), and keep a ROOM LAYOUT block in every interior prompt.
+
+**L42 — I broke L37 and crossed the axis** (3-2 v2) — evidence: `3-2-v2-frames.jpg`
+3-2 put three set-ups in one generation: outside, inside from the back, inside from the front facing the door. The reverse inside angle flipped where the door appears on screen, and the model walked Antony into the room. 
+Rule: inside a room, keep ONE camera axis for a scene (all shots from the same side of the room — the 180° rule). Never use a reverse room angle just to see someone in a doorway. One set-up per generation when a room, crowd or doorway geography matters.
+
+**L43 — The model inflates and turns crowds** (3-2 v2)
+"Eight children" became about twenty-five, and the ones nearest the lens faced the camera.
+Rule: keep extras few, small and from behind; put the camera above head height looking over them; say "the rest of every bench is empty"; let only named extras move. Don't rely on a long roster — frame so the crowd can't take over.

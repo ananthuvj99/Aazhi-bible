@@ -62,3 +62,6 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 47. **Extras roster + gaze (L39).**
 48. **Blank boards/papers/signs (L40).**
 49. **ROOM LAYOUT block + positions relative to the character; list surface contents exactly (L41).**
+50. **One camera axis per room (L42);** no reverse room angles for doorway views.
+51. **Crowds (L43):** few extras, from behind, camera above heads, empty seats stated.
+52. **Re-check L37 before sending:** one set-up per generation when geography or crowds matter.
