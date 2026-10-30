@@ -199,3 +199,7 @@ Rule: dialogue singles use natural depth of field ("medium aperture, background 
 **L45 — Talking into the lens looks like a presenter** (3-3 v2)
 Both actors looked straight into the lens.
 Rule: in singles the speaker's eyes are on the other person about 20° off the lens — "never looks into the lens" — while the face stays within 30° for lip-sync.
+
+**L46 — Equipment words get drawn** (3-3 v3) — evidence: `3-3-v3-tripod-in-frame-and-antony-in-clara-shot.png`
+"On a tripod" put a tripod and camera rig into the frame. "Camera beside Antony" also pulled Antony's face into Clara's single.
+Rule: never write tripod, rig, dolly, slider, crane, gimbal, microphone or similar; describe the result ("a locked-off, perfectly steady view"). For singles write "seen from just beside X's shoulder, with X completely out of frame". Add a WHAT IS IN FRAME line listing only what belongs in the shot.

@@ -67,3 +67,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 52. **Re-check L37 before sending:** one set-up per generation when geography or crowds matter.
 53. **Natural DOF (L44):** no shallow DOF/portrait blur in dialogue singles; backgrounds readable.
 54. **Off-lens eyeline (L45):** eyes ~20° off the lens on the other person; never into the lens.
+55. **No equipment words (L46):** no tripod/rig/dolly/gimbal/mic; 'locked-off, perfectly steady view'; singles 'with X completely out of frame'; WHAT IS IN FRAME line.
