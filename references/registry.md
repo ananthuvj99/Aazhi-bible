@@ -55,6 +55,7 @@ Mapped sheets carry printed text labels (room names, compass words). Prefer the 
 | @clara20 | Clara, 1998, ~20, the tuition teacher | Every shot with Clara in Scenes 3–4 |
 | @tuitionout | Tuition centre exterior in its surroundings: small one-room tiled shed, half walls, open door, wooden name board, yard | Arrival shots, camera outside looking at it |
 | @tuitionfullview | Tuition centre elevations: front, sides, back, roof | Any exterior shot needing exact architecture |
-| @tuitionclean | Tuition centre interior: blackboard, teacher's table, wooden benches, half walls/windows, door | Every shot inside the classroom |
+| @tuitionclean | Interior looking toward the chalkboard: teacher's table, benches, door on the right wall near the board | Shots inside facing the board |
+| @tuitiondoor | Interior from the chalkboard end looking at the open door | Shots inside facing the door (Clara's view of Antony) |
 | @tuitionmap | Labelled top-down layout of the tuition centre | Geography only — never attach (labels can print) |
 | @villagelane | Sandy village lane between palms and small tiled cottages | Antony's walk |
