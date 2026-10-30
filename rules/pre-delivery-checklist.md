@@ -55,3 +55,6 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 40. **Exterior sheets only for looking AT the house (L35);** never when the camera looks out from inside.
 41. **Eyeline (L36):** listener off-screen beside the lens in the speaker's eyeline; nobody behind the speaker; EYELINE block written.
 42. **One shot per generation (L37)** unless the user asks for multi-shot; 5–8 s each.
+43. **No background voices during dialogue:** ambient in dialogue shots has no murmuring/talking crowds — use object sounds.
+44. **Silent reactions closed-lip:** laughs and smiles in non-speaking shots are closed-lip ("breath of a laugh through the nose").
+45. **QA runs on the FINAL version** of every prompt, after all edits.
