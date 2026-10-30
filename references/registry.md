@@ -32,16 +32,19 @@ Mapped sheets carry printed text labels (room names, compass words). Prefer the 
 |---|---|---|
 | @wallclock | Old round wall clock, black bezel, cream dial — lives on the front wall of Antony's room above the foot of the cot | Only when the clock is on screen. Never in any other room. |
 
+## RULE (L35): @housefullview / @houseout / @houseclean only when the camera is OUTSIDE looking AT the house. Never for views looking out from the house.
+
 ## Sight-lines — what is visible behind / through, by camera position (use for reverse angles, L32)
 | Camera position, looking toward… | What is seen | IDs to add (mode) |
 |---|---|---|
-| Passage, toward the front of the house | open front door → veranda (pillars, red-oxide floor) → yard beyond | @hallclean (full), @housefullview (background-only), @houseout (background-only, optional — yard) |
+| Passage, toward the front of the house | open front door → veranda → yard | @hallclean (full). NO house sheets (L35) — describe veranda, yard, wall, palms in words |
 | Passage, toward the back | kitchen double doors → stove glow | @hallclean (full), @kitchenclean (background-only) — but not if a character has to leave the kitchen in this shot |
 | Passage, toward Antony's door | doorway → his room | @hallclean; @antonyroomclean only if the room interior is meant to be seen |
 | Antony's room doorway, from the passage, looking in | cot sideways across the frame, side window | @antonyroomclean (full), @hallclean (camera stands there, door frame) |
 | Inside Antony's room, toward the front wall | front window, wall clock | @antonyroomclean, @wallclock |
 | Kitchen, toward the passage doors | passage, front door light at the far end | @kitchenclean (full), @hallclean (background-only) |
-| Front doorway from the veranda | dim passage behind | @housefullview (full), @hallclean (background-only, optional) |
-| Veranda, looking out | yard, compound wall gap, lane, palms | @housefullview, @houseout |
+| Front doorway from the veranda (camera outside, looking at the door) | the house wall, the door, dim passage behind | @housefullview (full), @hallclean (background-only, optional) |
+| Inside the front door, looking out | veranda floor, pillars as framing, yard, wall gap, lane, palms, sky | NO house sheets (L35) — words only |
+| Veranda, looking out at the yard | yard, compound wall gap, lane, palms | NO house sheets (L35) — words only; @houseout only if the house itself is also in frame |
 | Yard, looking at the house | house front, veranda, pillars | @houseout, @housefullview |
 | Aerial | headland, beach, church, roof | @houseout, @housefullview |

@@ -149,3 +149,15 @@ Rule: one emotion tag for the whole scene, before the first line only (per speak
 **L34 — Lip-sync jumps to the non-speaker** (1D v8)
 In the over-the-shoulder shot the listener's face was in frame during Antony's line, and the external lip-sync animated her mouth.
 Rule: every spoken line is a clean single — the speaker alone in frame. Listeners appear only in their own silent reaction shots, never while someone is speaking. Over-the-shoulder framing is retired for dialogue.
+
+**L35 — A second copy of the house appeared outside the front door** (1D v9) — evidence: `1D-v9-duplicate-house-antony-outside.png`
+Cause: @housefullview and @houseout (sheets that show the house's exterior) were attached to a shot looking OUT from the front door. The model put the house it was told to show into the view.
+Rule: exterior house sheets (@housefullview, @houseout, @houseclean) only when the camera is OUTSIDE looking AT the house. When the camera is inside looking out, attach no house sheet; describe in words only what is seen: veranda floor, pillars as framing, yard, wall, lane, palms, sky.
+
+**L36 — Listener placed behind the speaker** (1D v9)
+The model composed Antony facing the camera with Rosamma behind him, so he talked to the lens instead of to her.
+Rule: when A speaks to B and A is on camera, B is off-screen in the direction of A's eyeline — beside the lens — never behind A. Write an EYELINE block: where B stands relative to the camera, and "nobody stands behind him".
+
+**L37 — The platform collapses multi-shot prompts** (1D-a v4: 7 s; v6: 10 s; 1D v9: 7 s)
+Outputs keep coming back shorter than the set duration and with shots merged into one composition.
+Rule: one shot per generation (5–8 s). Each generation is a single camera set-up with one clear composition; cuts happen in the edit. Multi-shot prompts only when the user asks for them.

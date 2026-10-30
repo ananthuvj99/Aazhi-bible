@@ -52,3 +52,6 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 37. **Reference-ID audit:** derive needed IDs per shot from `references/registry.md` + sight-lines (incl. backgrounds behind people and through doors); add missing, remove wrong, exact spelling, scope + mode on each.
 38. **Emotion tags (L33):** one tag per speaker per scene, first line only; none on ACTION beats; pauses as timing.
 39. **Clean singles (L34):** while a line is spoken, nobody else's face is in frame.
+40. **Exterior sheets only for looking AT the house (L35);** never when the camera looks out from inside.
+41. **Eyeline (L36):** listener off-screen beside the lens in the speaker's eyeline; nobody behind the speaker; EYELINE block written.
+42. **One shot per generation (L37)** unless the user asks for multi-shot; 5–8 s each.
