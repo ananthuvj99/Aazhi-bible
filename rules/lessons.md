@@ -141,3 +141,11 @@ Rule: start every character in the frame already where the dialogue needs them. 
 **L32 — Reverse-angle backgrounds must be named** (1D-a v6) — evidence: `1D-a-v6-wrong-background-behind-antony.png`
 The over-the-shoulder shot showed a blank wall behind Antony. In the passage, the reverse angle toward the front of the house sees the open front door and the veranda.
 Rule: for every reverse angle, state what is directly behind the person in frame using the house map, and tag that place as "(shot N only, background only)".
+
+**L33 — Too many emotion tags make delivery dramatic** (1D v8)
+Two tags on a line, plus tags on every action beat, pushed the voice and face toward theatre.
+Rule: one emotion tag for the whole scene, before the first line only (per speaker); no tags on later lines; no emotion tags on ACTION beats; pauses written as timing, not as a [pause] tag. Describe the delivery in plain words: "easy, conversational, everyday".
+
+**L34 — Lip-sync jumps to the non-speaker** (1D v8)
+In the over-the-shoulder shot the listener's face was in frame during Antony's line, and the external lip-sync animated her mouth.
+Rule: every spoken line is a clean single — the speaker alone in frame. Listeners appear only in their own silent reaction shots, never while someone is speaking. Over-the-shoulder framing is retired for dialogue.

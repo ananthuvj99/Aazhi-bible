@@ -13,12 +13,12 @@
 - Pace: slowly, rushed, drawn out, pause, long pause
 - Reaction: laughs, chuckles, sighs, exhales, gasps, crying, swallows, clears throat
 
-One tag per bracket: `[scared]`, never `[scared, rushed]`. Extra tags go in their own brackets before the line: `[gasps] [scared] "..."`. Never inside a line — split the line into two entries instead. Every dialogue line and every action beat gets a tag. Screenshots: `platform-emotion-tags/`.
+UPDATED (L33): one emotion tag per speaker per scene, before their first line only; no tags on other lines or on ACTION beats. One tag per bracket: `[scared]`, never `[scared, rushed]`. Extra tags go in their own brackets before the line: `[gasps] [scared] "..."`. Never inside a line — split the line into two entries instead. Every dialogue line and every action beat gets a tag. Screenshots: `platform-emotion-tags/`.
 
 ## Lip-sync block (external lip-sync platform) — paste verbatim into every prompt with dialogue
 > Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
 
-Consequence: one speaker per shot. Speakers are always front-facing in MCU — never profile or side view; place the camera beside whatever the speaker is talking toward (a door, another person) so their eyeline falls just beside the lens. Multi-speaker beats are split into separate shots.
+Consequence: one speaker per shot, and the speaker ALONE in frame while speaking — clean singles, no over-the-shoulder during lines (L34). Speakers are always front-facing in MCU — never profile or side view; place the camera beside whatever the speaker is talking toward (a door, another person) so their eyeline falls just beside the lens. Multi-speaker beats are split into separate shots.
 
 ## Timing
 - Hold 2–3 s still at the start and 2–3 s after the last line/action of every shot, for the edit (L14).

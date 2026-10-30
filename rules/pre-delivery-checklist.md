@@ -50,3 +50,5 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 35. **Start positions (L31):** characters begin where the dialogue happens; no cross-room travel in a dialogue shot.
 36. **Reverse-angle background (L32):** name what is directly behind each person in frame from the house map; tag it background-only.
 37. **Reference-ID audit:** derive needed IDs per shot from `references/registry.md` + sight-lines (incl. backgrounds behind people and through doors); add missing, remove wrong, exact spelling, scope + mode on each.
+38. **Emotion tags (L33):** one tag per speaker per scene, first line only; none on ACTION beats; pauses as timing.
+39. **Clean singles (L34):** while a line is spoken, nobody else's face is in frame.
