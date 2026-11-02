@@ -17,7 +17,7 @@ In Claude Code the repo is the current folder; pull main first.
 2. For every character, location and prop the scene mentions: its `card.md` and image. For locations also `cameras.md` (camera positions and sight-lines) and `topview.png`.
 3. `learnings/INDEX.md`: lessons and wins from every creator.
 4. The scene's ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
-5. If something the scene needs is not in `INDEX.md` on main, check the other creators' branches or open pull requests. If it exists there, say who made it and that it is waiting for approval.
+5. Run `git fetch --all --prune` and `bash tools/pending.sh` to see assets and lessons on the other creators' branches that are not merged yet. If something the scene needs exists there, say who made it and that it is waiting for approval, and apply their unmerged lessons too.
 
 ## Step 2 — Split the scene into shots
 

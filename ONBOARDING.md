@@ -64,6 +64,12 @@ All of them live in the repo under `.claude/skills/`:
 
 Online: github.com/ananthuvj99/Aazhi-bible/tree/main/.claude/skills
 
+## Seeing who did what, and undoing it
+
+- Ask Claude "show activity" (or run `bash tools/activity.sh`) for every change on every branch: who, when, what, and a commit code.
+- To undo a change, give Claude its commit code. Your own unmerged work you can undo yourself; anything already merged, or someone else's work, goes to Ananthu.
+- Assets that any shot has used are never deleted, only marked retired.
+
 ## Rules everyone keeps
 
 - Work only on your own branch and your own shots.
