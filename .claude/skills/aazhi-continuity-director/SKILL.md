@@ -21,7 +21,7 @@ Before judging the new prompt, assemble everything that is already locked. Sourc
 3. The AAZHI bible repo (in Claude Code, the current folder; pull main first): the scene's ledger in `continuity/`, the cards of every character and location in the shot (find them through `INDEX.md`, whoever created them), and `learnings/INDEX.md`.
 4. Every scene prompt already finalised, in this conversation and in the shot files under `scenes/`, oldest to newest.
 5. `references/continuity-bible.md` in this skill: project-wide locks and the seed ledger.
-6. The storyboard (scene order, dialogue authority).
+6. The storyboard, `storyboard/aazhi-storyboard.md` (scene order, dialogue authority; the Manglish line is the original wording).
 
 From these, list the facts the new scene inherits. Track at least:
 

@@ -10,7 +10,7 @@ A hook in `.claude/settings.json` runs automatically when the session opens: it 
 2. `git pull` on `main`, then switch to your own branch: `git switch <your-name>` (create it from `main` the first time).
 3. Read `INDEX.md`: every character look, location, plate, prop and scale sheet, with ID, folder, creator and status.
 4. Read `learnings/INDEX.md`, `rules/prompt-rules.md` and `rules/pre-delivery-checklist.md`.
-5. For the scene being worked on, read its ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
+5. For the scene being worked on, read its panels in `storyboard/aazhi-storyboard.md`, its ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
 6. Tell the creator what changed since their last session, from the hook's output.
 
 ## The loop for every shot
