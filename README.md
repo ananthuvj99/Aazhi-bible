@@ -21,6 +21,7 @@ characters/<id>/             card.md + sheet image, one folder per look
 locations/<name>/            card.md, clean image, labelled map (never attach), cameras.md
 props/<id>/                  card.md + image
 references/scale/            scale sheets
+storyboard/                  aazhi-storyboard.md: the full storyboard, 126 panels, approved dialogue
 scenes/showreel/             plan.md, one file per shot, retired/, evidence/
 continuity/                  one ledger per scene sequence (showreel.md)
 learnings/                   INDEX.md, lessons/, wins/

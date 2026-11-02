@@ -16,7 +16,7 @@ In Claude Code the repo is the current folder; pull main first.
 1. `INDEX.md`: every character look, location, plate, prop and scale sheet, with ID, folder, creator and status.
 2. For every character, location and prop the scene mentions: its `card.md` and image. For locations also `cameras.md` (camera positions and sight-lines) and `topview.png`.
 3. `learnings/INDEX.md`: lessons and wins from every creator.
-4. The scene's ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
+4. The scene's panels in `storyboard/aazhi-storyboard.md` (search by panel ID such as SB014, or by ref), then the scene's ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
 5. Run `git fetch --all --prune` and `bash tools/pending.sh` to see assets and lessons on the other creators' branches that are not merged yet. If something the scene needs exists there, say who made it and that it is waiting for approval, and apply their unmerged lessons too.
 
 ## Step 2 — Split the scene into shots
