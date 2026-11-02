@@ -1,3 +1,12 @@
+---
+id: "@wallclock"
+type: prop
+created_by: Ananthu
+created: 2026-10-29
+status: approved
+image: sheet.png
+---
+
 # Wall clock — Antony's room
 Platform ID: `@wallclock` · Sheet: `sheet.png` (front, three-quarter, side, dial and bezel details)
 

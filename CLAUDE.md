@@ -1,0 +1,84 @@
+# AAZHI production bible — how every session works
+
+This repo is the shared memory for AAZHI (ആഴി), a Techjays Originals AI-made Malayalam film set on the Alappad coast in a Latin Catholic fishing community (1998–2026). Three creators work from it. Ananthu approves every change that reaches `main`. The video model remembers nothing between generations, so everything that must stay the same lives here.
+
+## Start of every session
+
+1. `git pull` on `main`, then switch to your own branch: `git switch <your-name>` (create it from `main` the first time).
+2. Read `INDEX.md`: every character look, location, plate, prop and scale sheet, with ID, folder, creator and status.
+3. Read `learnings/INDEX.md`, `rules/prompt-rules.md` and `rules/pre-delivery-checklist.md`.
+4. For the scene being worked on, read its ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
+5. Check the other creators' branches or open pull requests for assets that exist but are not merged yet.
+
+## The loop for every shot
+
+1. **Brief.** The creator describes the scene and attaches references.
+2. **Breakdown.** Run the `aazhi-scene-breakdown` skill: shot by shot, every reference to call, what is missing, the lessons that apply, and questions. Reuse any asset in `INDEX.md`, whoever made it.
+3. **Assets.** Make missing plates or start frames through the Higgsfield MCP, named by the rules below. Show them; save them only after the creator approves (folder, card, `INDEX.md` row). Tell the creator to upload each new image to the platform under exactly its ID.
+4. **Base prompt.** Write it from the breakdown, the cards and the rules, following the `seedance-2-5-prompt-writer` skill.
+5. **Checks.** Run `aazhi-continuity-director`, then `aazhi-prompt-qa`. Fix small issues yourself for at most two rounds; ask about anything bigger (see Approval).
+6. **Deliver.** One copyable code block with the final prompt, then: the IDs to attach (each with shot and mode), the settings (duration, aspect ratio, dialogue language Malayalam) and the QA score.
+7. **Feedback.** Bad take: log a lesson. Good take: log a win. Save the approved first and last frames in `scenes/<scene>/<shot>/approved/`.
+8. **Next shot.** Ask for the last frame of the approved take. Without one, propose positions from the room's `topview.png` and `cameras.md`, and offer a start frame.
+
+## Adding a character, location, prop or plate
+
+Whenever a creator gives you a new character sheet, or you make any new asset:
+
+1. Check `INDEX.md` first. If it already exists, use it and say who made it. Never make a second version; a new costume or state is a new look with its own ID.
+2. Make its folder: `characters/<id>/` (one folder per look), `locations/<name>/`, `props/<id>/`, or `locations/<name>/plates/` for plates.
+3. Save the image: `sheet.png` for a character, `clean.png` for a location, `<camera>-plate.png` for a plate, `prop.png` for a prop.
+4. Write `card.md` from `templates/` with `created_by`, `created` (date) and `status: waiting for approval`.
+5. Add its row to `INDEX.md` in the same commit. A folder without an index row, or a row without a folder, is incomplete.
+6. Ananthu sets `status: approved` when he merges.
+
+## Learnings from every creator
+
+- **Bad take** → a file in `learnings/lessons/` from `templates/learning.md` (type `lesson`), a row in `learnings/INDEX.md`, and a line in `rules/pre-delivery-checklist.md`.
+- **Good take** → a file in `learnings/wins/` (type `win`) that records the recipe, and a row in `learnings/INDEX.md`.
+- Always fill author, shot, category and date. Name new files `L-new-<slug>.md` or `W-new-<slug>.md`; Ananthu gives the number (L047, W004) when he merges.
+- Apply every new lesson to all later prompts with the same situation, not only the shot that failed.
+- Categories: position, elements, characters, sizes, angles, in-frame, dialogue, timing, light, platform.
+
+## Approval
+
+**Claude fixes alone, then says what it changed:** rewording to follow an existing rule; adding an ID that already exists in `INDEX.md`; removing a word that names something off screen; adding holds, the dialogue block or the duration line; saving a lesson that only adds a check.
+
+**Claude asks the creator first:** any change to approved dialogue; changing the action, cast, camera position or scene emotion; a new or replaced image, plate or ID; changing or removing an existing rule; anything still flagged after two automatic rounds.
+
+**Ananthu approves every merge to `main`.** New or changed IDs and sheets, rule changes, ledger changes and edits to someone else's shot always go to him.
+
+## Naming
+
+A camera position belongs to its location, not to a scene. `antonyroom-c1-top` is the same spot in every scene; a new location starts at C1. Never renumber; a new spot takes the next number. The view word is only a reminder.
+
+| What | File name | Platform ID |
+|---|---|---|
+| Camera position | `antonyroom-c1-top` | not uploaded |
+| Plate | `antonyroom-c1-plate` | `@antonyroomc1plate` |
+| Plate, other time of day | `antonyroom-c1-plate-night` | `@antonyroomc1platenight` |
+| Top view | `locations/antony-room/topview.png` | never attached |
+| Shot | `s01-sh02-v3` | not uploaded |
+| Start frame | `s01-sh02-start` | `@s01sh02start` |
+| Approved frames | `s01-sh02-first`, `s01-sh02-last` | `@s01sh02last` |
+| Character look | `characters/antonyhome/` | `@antonyhome` |
+| Scale sheet | `scale-antony-door` | `@scaleantonydoor` |
+
+Platform IDs have no hyphens or underscores. Never print a name inside an image.
+
+## Prompt rules (always)
+
+- Dialogue in Malayalam script only, with no English paraphrase or romanised copy anywhere in the prompt; dubbing language Malayalam.
+- One emotion per scene, from the platform's fixed list, written once. If the mood changes, split the scene.
+- While someone speaks, only their face is in frame; the listener gets a separate silent shot and is never behind the speaker. Every prompt with dialogue carries the dialogue block from `rules/prompt-rules.md` word for word.
+- Write only what the camera sees: no other rooms, no back-story, no equipment words.
+- IDs exactly as in `INDEX.md`, attached only when in frame. Reverse angles name what is behind the person.
+- Positions come from the last approved frame; characters start where the dialogue happens; eyes slightly off the lens.
+- One camera set-up per generation, 5–8 s, with 2–3 s holds at the start and end.
+- Top views and labelled maps are for planning; never attach them.
+
+## Git
+
+- Work only on your own branch and your own shots. Commit messages name the shot: `s03-sh02 v3: door side fixed (L-new-door-side)`.
+- Never commit access tokens or API keys.
+- Push often; open a pull request to `main` when a shot or asset is ready.

@@ -1,3 +1,12 @@
+---
+id: "@clara20"
+type: character
+created_by: Ananthu
+created: 2026-10-30
+status: approved
+image: sheet.jpg
+---
+
 # Clara — 1998, the tuition teacher
 Platform ID: `@clara20` · Sheet: `sheet.jpg` (front, back, face close-up, props)
 

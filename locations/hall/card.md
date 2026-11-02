@@ -1,3 +1,12 @@
+---
+ids: ["@hallclean", "@hallmapped"]
+type: location
+created_by: Ananthu
+created: 2026-10-29
+status: approved
+images: [clean.png, map.png]
+---
+
 # Central passage / hall (LOC-ANTONY-HOUSE-1990_HAL-01)
 Platform ID: `@hallclean` · Labelled: `@hall_mapped` (never attach)
 

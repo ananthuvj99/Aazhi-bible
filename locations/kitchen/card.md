@@ -1,3 +1,12 @@
+---
+ids: ["@kitchenclean", "@kitchenmapped"]
+type: location
+created_by: Ananthu
+created: 2026-10-29
+status: approved
+images: [clean.png, map.png]
+---
+
 # Kitchen (LOC-ANTONY-HOUSE-1990_KIT-01)
 Platform ID: `@kitchenclean` · Labelled: `@kitchenmapped` (never attach)
 

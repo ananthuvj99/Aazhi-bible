@@ -1,3 +1,12 @@
+---
+id: "@antonyhome"
+type: character
+created_by: Ananthu
+created: 2026-10-29
+status: approved
+image: sheet.png
+---
+
 # Antony — at home, just woken up
 Platform ID: `@antonyhome` · Sheet: `sheet.png` (front, back, profile, face close-up, details)
 Use for: every shot inside the house before he dresses to go out.

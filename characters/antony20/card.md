@@ -1,3 +1,12 @@
+---
+id: "@antony20"
+type: character
+created_by: Ananthu
+created: 2026-10-29
+status: approved
+image: sheet.jpg
+---
+
 # Antony — dressed to go out (1998)
 Platform ID: `@antony20` · Sheet: `sheet.jpg` (front, back, face close-up)
 Use for: once he is dressed — from Scene 2 onward, after an on-screen change or a clear time cut.

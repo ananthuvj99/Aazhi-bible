@@ -1,3 +1,12 @@
+---
+ids: ["@houseout", "@housefullview", "@houseclean", "@housemap"]
+type: location
+created_by: Ananthu
+created: 2026-10-29
+status: approved
+images: [environment.webp, elevations.webp, clean.png, map.png]
+---
+
 # Antony's house — exterior (LOC-ANTONY-HOUSE-1990)
 Platform IDs:
 - `@houseout` — eye-level view of the house **in its environment** (`environment.webp`). Attach for any wide exterior / establishing shot.

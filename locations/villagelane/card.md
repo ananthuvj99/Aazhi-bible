@@ -1,3 +1,12 @@
+---
+id: "@villagelane"
+type: location
+created_by: Ananthu
+created: 2026-10-30
+status: approved
+image: sheet.png
+---
+
 # Village lane
 ID: `@villagelane` · Sheet: `sheet.png` (three views)
 - Narrow lane of pale sand and red earth between tall coconut palms.
