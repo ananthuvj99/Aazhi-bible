@@ -1,3 +1,12 @@
+---
+id: "@rosamma"
+type: character
+created_by: Ananthu
+created: 2026-10-29
+status: approved
+image: sheet.png
+---
+
 # Rosamma — Antony's mother
 Platform ID: `@rosamma` · Sheet: `sheet.png` (front, back, face close-up)
 

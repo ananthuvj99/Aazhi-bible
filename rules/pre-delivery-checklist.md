@@ -6,7 +6,7 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 1. **Entrances:** every character who enters is shown IN their origin room in the first frame (visible through a doorway) and walks out of it. Name the doors that stay empty. (L26)
 2. **Exits:** state the exact door/route and screen side. (L16, L26)
 3. **Speaker direction:** the camera stands where the speaker's face already points (a door, a person, a task). Eyes may be on the task; face within 30° of the lens. (L16, L25)
-4. **One speaker per shot;** everyone else's mouth closed. Over-the-shoulder for conversations. (L5)
+4. **One speaker per shot;** everyone else's mouth closed. While a line is spoken, only the speaker's face is in frame: clean singles, never over-the-shoulder; the listener gets a separate silent shot. (L5, L34)
 
 ## What they look like
 5. **Wardrobe** block lists every item, plus what is NOT worn. (L20)
@@ -29,7 +29,7 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 18. **Sunrise inland, sunset over the sea.** (L11)
 19. **Holds:** 2–3 s still at the start and after the last line/action. (L14)
 20. **Sound effects only, no music.**
-21. **Dialogue:** Malayalam script only; 32-tag list, one per bracket; never inside a line; no line crosses a cut; every word on camera. (L7, L8, L24)
+21. **Dialogue:** Malayalam script only; one scene emotion from the platform's list; never inside a line; no line crosses a cut; every word on camera. (L7, L8, L24)
 
 ## References
 22. **Tags exactly as registered** (no underscores: @hallclean). (L19)
@@ -49,8 +49,8 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 34. **Pacing (L30):** ≤ 3 shots per 15 s; "runs the full N seconds"; unhurried actions with breathing room; listener keeps doing their task.
 35. **Start positions (L31):** characters begin where the dialogue happens; no cross-room travel in a dialogue shot.
 36. **Reverse-angle background (L32):** name what is directly behind each person in frame from the house map; tag it background-only.
-37. **Reference-ID audit:** derive needed IDs per shot from `references/registry.md` + sight-lines (incl. backgrounds behind people and through doors); add missing, remove wrong, exact spelling, scope + mode on each.
-38. **Emotion tags (L33):** one tag per speaker per scene, first line only; none on ACTION beats; pauses as timing.
+37. **Reference-ID audit:** derive needed IDs per shot from `INDEX.md` + the location's `cameras.md` sight-lines (incl. backgrounds behind people and through doors); add missing, remove wrong, exact spelling, scope + mode on each.
+38. **Emotion (L33, updated):** one emotion tag for the whole scene, before the first line; none on other lines or ACTION beats; pauses as timing.
 39. **Clean singles (L34):** while a line is spoken, nobody else's face is in frame.
 40. **Exterior sheets only for looking AT the house (L35);** never when the camera looks out from inside.
 41. **Eyeline (L36):** listener off-screen beside the lens in the speaker's eyeline; nobody behind the speaker; EYELINE block written.

@@ -1,3 +1,12 @@
+---
+ids: ["@tuitionout", "@tuitionfullview", "@tuitionclean", "@tuitiondoor", "@tuitionmap"]
+type: location
+created_by: Ananthu
+created: 2026-10-30
+status: approved
+images: [tuitionout.png, tuitionfullview.png, tuitionclean.png, tuitiondoor.png, tuitionmap.png]
+---
+
 # Clara's tuition centre (Scene 3)
 IDs: `@tuitionout` (exterior in surroundings) · `@tuitionfullview` (elevations) · `@tuitionclean` (inside, toward chalkboard) · `@tuitiondoor` (inside, toward the door) · `@tuitionmap` (labelled top-down — never attach)
 

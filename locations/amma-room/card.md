@@ -1,3 +1,12 @@
+---
+ids: ["@ammaroomclean", "@ammaroommapped"]
+type: location
+created_by: Ananthu
+created: 2026-10-29
+status: approved
+images: [clean.png, map.png]
+---
+
 # Rosamma's room (LOC-ANTONY-HOUSE-1990_MOT-01)
 Platform ID: `@ammaroomclean` · Labelled: `@ammaroommapped` (never attach)
 
