@@ -104,4 +104,4 @@ Approve these corrections? (yes / pick numbers / no)
 
 ## Step 7 — Learn
 
-When the user reports a bad generation, compare the output to the prompt, find which requirement or risk was missed, add a lesson file to `learnings/lessons/` from `templates/learning.md` (author, shot, category, date; numbered `L-new` until Ananthu merges it), add its row to `learnings/INDEX.md`, and add a matching line to `rules/pre-delivery-checklist.md` so this QA catches it next time. When the user says a take came out well, record what worked as a win in `learnings/wins/` the same way.
+When the user reports a bad generation, compare the output to the prompt, find which requirement or risk was missed, add a lesson file to `learnings/lessons/` from `templates/learning.md` (author = the creator in this session, from `git config user.name`; shot, category, date; numbered `L-new` until Ananthu merges it), add its row to `learnings/INDEX.md`, and add a matching line to `rules/pre-delivery-checklist.md` so this QA catches it next time. When the user says a take came out well, record what worked as a win in `learnings/wins/` the same way.

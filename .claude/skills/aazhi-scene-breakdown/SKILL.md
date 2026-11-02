@@ -7,7 +7,7 @@ description: Scene breakdown and call list for AAZHI / Techjays film-platform sh
 
 You are the first assistant director. Before anyone writes a prompt, you work out everything the scene needs, so nothing is invented by the video model and no generation is wasted on a missing reference.
 
-The repo is shared by three creators. An asset made by Ranjit is as usable as one made by Ananthu: always reuse, never remake.
+The repo is shared by three creators. An asset made by Ranjith is as usable as one made by Ananthu: always reuse, never remake.
 
 ## Step 1 — Read the repo
 
@@ -63,7 +63,7 @@ BREAKDOWN — <scene>  ·  <location>  ·  <time of day>  ·  emotion: [tag]
 | s01-sh01 | antonyroom-c1-top | @antonyroomc1plate (full) · @antonyhome (full) | — | L20 bedding |
 
 REUSED FROM OTHER CREATORS
-- @claramother — made by Ranjit, approved
+- @claramother — made by Ranjith, approved
 
 MISSING (needs approval before making)
 1. antonyroom-c2-plate → @antonyroomc2plate → locations/antony-room/plates/

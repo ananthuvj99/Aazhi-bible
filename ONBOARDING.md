@@ -11,9 +11,12 @@ This gets your Claude Code working exactly like Ananthu's: the same characters a
    ```
    git clone https://github.com/ananthuvj99/Aazhi-bible.git
    cd Aazhi-bible
+   git config user.name "<Your Name>"
    git switch -c <your-name>
    git push -u origin <your-name>
    ```
+
+   The name you set is how Claude credits every character, location and lesson you add, so use your real name.
 
 4. **Start Claude Code inside the folder** by running `claude`. It reads `CLAUDE.md` and loads the shared agents from `.claude/skills/` automatically. When it asks whether to trust the folder and use the project's Higgsfield server, say yes, and sign in with your own Higgsfield account when the browser opens. If Higgsfield doesn't appear, run:
 

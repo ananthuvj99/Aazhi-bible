@@ -4,11 +4,12 @@ This repo is the shared memory for AAZHI (ആഴി), a Techjays Originals AI-ma
 
 ## Start of every session
 
-1. `git pull` on `main`, then switch to your own branch: `git switch <your-name>` (create it from `main` the first time).
-2. Read `INDEX.md`: every character look, location, plate, prop and scale sheet, with ID, folder, creator and status.
-3. Read `learnings/INDEX.md`, `rules/prompt-rules.md` and `rules/pre-delivery-checklist.md`.
-4. For the scene being worked on, read its ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
-5. Check the other creators' branches or open pull requests for assets that exist but are not merged yet.
+1. Find out who you are working with: their name is `git config user.name`. If it isn't set, ask for their name and set it with `git config user.name "<Name>"`. Every asset and learning from this session is credited to that person.
+2. `git pull` on `main`, then switch to your own branch: `git switch <your-name>` (create it from `main` the first time).
+3. Read `INDEX.md`: every character look, location, plate, prop and scale sheet, with ID, folder, creator and status.
+4. Read `learnings/INDEX.md`, `rules/prompt-rules.md` and `rules/pre-delivery-checklist.md`.
+5. For the scene being worked on, read its ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
+6. Check the other creators' branches or open pull requests for assets that exist but are not merged yet.
 
 ## The loop for every shot
 
@@ -28,7 +29,7 @@ Whenever a creator gives you a new character sheet, or you make any new asset:
 1. Check `INDEX.md` first. If it already exists, use it and say who made it. Never make a second version; a new costume or state is a new look with its own ID.
 2. Make its folder: `characters/<id>/` (one folder per look), `locations/<name>/`, `props/<id>/`, or `locations/<name>/plates/` for plates.
 3. Save the image: `sheet.png` for a character, `clean.png` for a location, `<camera>-plate.png` for a plate, `prop.png` for a prop.
-4. Write `card.md` from `templates/` with `created_by`, `created` (date) and `status: waiting for approval`.
+4. Write `card.md` from `templates/` with `created_by` set to the creator in this session (never to whoever made the template or approves it), `created` (date) and `status: waiting for approval`.
 5. Add its row to `INDEX.md` in the same commit. A folder without an index row, or a row without a folder, is incomplete.
 6. Ananthu sets `status: approved` when he merges.
 
@@ -36,7 +37,7 @@ Whenever a creator gives you a new character sheet, or you make any new asset:
 
 - **Bad take** → a file in `learnings/lessons/` from `templates/learning.md` (type `lesson`), a row in `learnings/INDEX.md`, and a line in `rules/pre-delivery-checklist.md`.
 - **Good take** → a file in `learnings/wins/` (type `win`) that records the recipe, and a row in `learnings/INDEX.md`.
-- Always fill author, shot, category and date. Name new files `L-new-<slug>.md` or `W-new-<slug>.md`; Ananthu gives the number (L047, W004) when he merges.
+- Always fill author with the creator who reported the take in this session (from `git config user.name`), plus shot, category and date. The same name goes in the `learnings/INDEX.md` row. Name new files `L-new-<slug>.md` or `W-new-<slug>.md`; Ananthu gives the number (L047, W004) when he merges.
 - Apply every new lesson to all later prompts with the same situation, not only the shot that failed.
 - Categories: position, elements, characters, sizes, angles, in-frame, dialogue, timing, light, platform.
 
