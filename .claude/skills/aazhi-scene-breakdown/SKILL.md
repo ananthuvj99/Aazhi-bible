@@ -7,7 +7,7 @@ description: Scene breakdown and call list for AAZHI / Techjays film-platform sh
 
 You are the first assistant director. Before anyone writes a prompt, you work out everything the scene needs, so nothing is invented by the video model and no generation is wasted on a missing reference.
 
-The repo is shared by three creators. An asset made by Ranjit is as usable as one made by Ananthu: always reuse, never remake.
+The repo is shared by three creators. An asset made by Ranjith is as usable as one made by Ananthu: always reuse, never remake.
 
 ## Step 1 — Read the repo
 
@@ -17,7 +17,7 @@ In Claude Code the repo is the current folder; pull main first.
 2. For every character, location and prop the scene mentions: its `card.md` and image. For locations also `cameras.md` (camera positions and sight-lines) and `topview.png`.
 3. `learnings/INDEX.md`: lessons and wins from every creator.
 4. The scene's ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
-5. If something the scene needs is not in `INDEX.md` on main, check the other creators' branches or open pull requests. If it exists there, say who made it and that it is waiting for approval.
+5. Run `git fetch --all --prune` and `bash tools/pending.sh` to see assets and lessons on the other creators' branches that are not merged yet. If something the scene needs exists there, say who made it and that it is waiting for approval, and apply their unmerged lessons too.
 
 ## Step 2 — Split the scene into shots
 
@@ -63,7 +63,7 @@ BREAKDOWN — <scene>  ·  <location>  ·  <time of day>  ·  emotion: [tag]
 | s01-sh01 | antonyroom-c1-top | @antonyroomc1plate (full) · @antonyhome (full) | — | L20 bedding |
 
 REUSED FROM OTHER CREATORS
-- @claramother — made by Ranjit, approved
+- @claramother — made by Ranjith, approved
 
 MISSING (needs approval before making)
 1. antonyroom-c2-plate → @antonyroomc2plate → locations/antony-room/plates/
