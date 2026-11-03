@@ -36,6 +36,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@tuitionclean` | Interior toward the chalkboard: teacher's table, benches, door on the right wall near the board | Shots inside facing the board | `locations/tuition/tuitionclean.png` | Ananthu | 2026-10-30 | approved |
 | `@tuitiondoor` | Interior from the chalkboard end looking at the open door | Shots inside facing the door (Clara's view of Antony) | `locations/tuition/tuitiondoor.png` | Ananthu | 2026-10-30 | approved |
 | `@tuitionmap` | Labelled top-down layout of the tuition centre | Planning only; never attach (labels print) | `locations/tuition/tuitionmap.png` | Ananthu | 2026-10-30 | approved |
+| — (top view, not uploaded) | Tuition centre straight from above, roof removed: front wall at the bottom with 3 barred windows then the green door at the right end and 2 steps; back wall 3 barred windows; chalkboard on the right end wall; teacher's table and chair before it; 4 desk-bench rows across the room, benches on the left so the children face the board. Replaces `@tuitionmap` for planning; hipped-roof set | Planning only; never attach (L9) | `locations/tuition/topview.webp` | Aswanth | 2026-11-03 | waiting for approval |
 | `@villagelane` | Sandy village lane between palms and small tiled cottages | Antony's walk | `locations/villagelane/sheet.png` | Ananthu | 2026-10-30 | approved |
 
 ## Plates (one per camera position)
