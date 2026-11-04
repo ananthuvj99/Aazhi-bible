@@ -42,6 +42,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@tuitionmap` | Labelled top-down layout of the tuition centre | Planning only; never attach (labels print) | `locations/tuition/tuitionmap.png` | Ananthu | 2026-10-30 | approved |
 | `@tuitionboardclass` | Inside from the back toward the blank board, class in session: Clara at the board, 8 uniformed children from behind, door in the right wall near the board, hipped roof | Shots inside facing the board during class; attach @clara20 too | `locations/tuition/tuitionboardclass.png` | Ranjith | 2026-11-04 | waiting for approval |
 | `@tuitionfrontclass` | Straight-on front from the yard, class in session: children behind the three barred windows, Clara in the green doorway with a book, hipped roof | Shots from the yard looking at the school during class; attach @clara20 too | `locations/tuition/tuitionfrontclass.png` | Ranjith | 2026-11-04 | waiting for approval |
+| `topview-class` (no ID) | Top-down, roof removed, class in session: seating of the 8 children, Clara's table, board, door, windows | Planning only; never attach | `locations/tuition/topview-class.png` | Ranjith | 2026-11-04 | waiting for approval |
 | `@villagelane` | Sandy village lane between palms and small tiled cottages | Antony's walk | `locations/villagelane/sheet.png` | Ananthu | 2026-10-30 | approved |
 
 ## Plates (one per camera position)
