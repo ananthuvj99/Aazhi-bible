@@ -11,7 +11,7 @@ Bright late morning, 1998, the kitchen at the back of a fisherman's house on the
 ACTIVE REFERENCES
 @kitchenc3plate: the kitchen's stove corner exactly as in the reference — the raised mud stove with the wood fire, the soot-blackened wall, the shelf and ladles at the left, the barred back window with white shutters and the sea at the right — this is where the camera stands. 100% matches the reference.
 @kitchenclean (background only): the same kitchen, for its colours and objects. 100% matches the reference.
-@rosamma (hands only): Rosamma's medium-brown hands and forearms, a thin gold bangle on one wrist, the edge of her cream cotton saree with a small blue floral print and her solid mid-blue blouse sleeve. Her face is not in the shot. 100% matches the reference.
+@rosamma (hands only): Rosamma's medium-brown hands and bare forearms, no bangles or rings, the edge of her cream cotton saree with a small blue floral print and her solid mid-blue blouse sleeve. Her face is not in the shot. 100% matches the reference.
 
 WHAT IS IN FRAME
 Only the stove and what is on it, Rosamma's hands and forearms, the edge of her saree, and the stove corner of the kitchen behind them. Nobody's face. No clock anywhere. Every frame looks like the film itself, with nothing from the making of it.
