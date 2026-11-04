@@ -74,3 +74,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 59. **No sound design (L49):** no riser/whoosh/swell/transition sounds; ambience at a steady level.
 60. **Body under cloth (L49):** name the parts the cloth rises over; a raised knee; feet as bumps; never flat.
 61. **Every generation carries one registered location tag** (background-only if only a corner is seen) so the planner never invents a location (L19); close-ups never get a wide plate (L50).
+62. **Camera (Sony Venice 2):** STYLE names "Sony Venice 2 full-frame digital cinema camera" once, followed by the look line from `rules/prompt-rules.md`; nowhere else; WHAT IS IN FRAME keeps "nothing from the making of it".

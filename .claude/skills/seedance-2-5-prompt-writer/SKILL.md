@@ -81,7 +81,7 @@ Cover these aspects, each in its home block:
 | Lighting | **LIGHTING** | source, direction, exposure, key/fill, haze for THIS scene |
 | Color / grade | **COLOR GRADE** (own block if grade is strong, e.g. teal-cyan desaturated) or folded into **LOCATION** + **LIGHTING** for a naturalistic look | palette as material + light beam + role, never a flat list |
 | Lens / optical character | **OPTICS** | FOV°, rectilinear/anamorphic, prime-lens character, motion-blur |
-| Camera body / tonal character | **CAMERA** | tonal latitude, highlight roll-off, color science — as a look, not a model name |
+| Camera body / tonal character | **STYLE** | AAZHI: "Shot on a Sony Venice 2 full-frame digital cinema camera:" + the look line in `rules/prompt-rules.md` (tonal latitude, highlight roll-off, colour) |
 | Skin / micro-realism | **PERFORMANCE** (or inside **ACTION**) | pore-level realism, capillary flush, living eyes, catch-lights, visible breath |
 | Acting | **PERFORMANCE** (or inside **ACTION**) | micro-pauses, precise eye-line, restraint, muscle-level emotion |
 | Physics realism | **PHYSICS** | gravity, inertia, mass, contact shadows, fluids, particles |
@@ -149,7 +149,7 @@ AUDIO
 [Only the needed sound / line.]
 
 STYLE              (technical-style suffix)
-[Overall look in words, photoreal, format, grain — no director or equipment names.]
+[Overall look in words, photoreal, format, grain — no director names; for AAZHI, the one Sony Venice 2 line from `rules/prompt-rules.md`, no other equipment names.]
 
 OUTPUT SETTINGS    (when format must be pinned)
 [Aspect, anamorphic, real-time vs slow-mo per segment. Note: words like "8K" set detail intent, not output size.]
@@ -334,7 +334,7 @@ A whip under 0.8s renders as a hard cut without blur.
 
 **White balance** in Kelvin, set to the scene mood, fixed within a scene (3200K / 4000K / 5600K / 8500K).
 
-**Equipment:** describe the look, not gear. No camera/film/lens model names — they get ignored or break complex moves.
+**Equipment:** describe the look, not gear. No camera/film/lens model names — they get ignored or break complex moves. **AAZHI exception:** every prompt names the Sony Venice 2 once in STYLE, followed by its look in words (see `rules/prompt-rules.md`, "Camera"); no other camera, lens or film-stock names, and no rig words.
 
 **Color rule:** tie color to **material + light beam + compositional role**, never a flat list.
 - ❌ "the woman wears red, the man wears blue"
@@ -372,4 +372,4 @@ A whip under 0.8s renders as a hard cut without blur.
 
 - **English prompts only.**
 - **Positive phrasing only** — state the target, never the prohibition.
-- **No director names, no signature-work references, no equipment names.**
+- **No director names, no signature-work references, no equipment names** (AAZHI exception: the one Sony Venice 2 line in STYLE).
