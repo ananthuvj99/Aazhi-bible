@@ -20,3 +20,4 @@ State of the story world after the last approved shot. Update when a shot is app
 
 - 2026-11-04 (1A v9): Antony sleeps under a thin, faded blue checked cotton cover sheet (as before); it ends folded across his chest. 1A ends on his smile and eyes opening; the realisation is in 1B.
 - 2026-11-04 (1A v13): Antony sleeps under @coversheet (thin faded rose-pink cotton, maroon border), crumpled; it ends crumpled across his chest and legs, over the blue checked bedsheet. 1B must open with it there (it stays on the cot or falls as he sits up).
+- 2026-11-04: 1A v14 APPROVED. End state for 1B: Antony on his back, eyes open and smiling, rose-pink @coversheet crumpled across his chest with legs under it; strong late-morning sun through the left-wall window; clock at a quarter to eight.
