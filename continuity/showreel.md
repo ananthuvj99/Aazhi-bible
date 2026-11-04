@@ -18,4 +18,4 @@ State of the story world after the last approved shot. Update when a shot is app
 - Antony (`@antony20`): striped lavender-grey shirt, checked mundu, silver chain, barefoot, khaki cotton shoulder bag on his left shoulder, hair combed. Has left through the compound wall gap toward the beach/harbour, breakfast uneaten.
 - Rosamma: on the veranda at the top of the steps, barefoot, holding the full steel plate of puttu and curry.
 
-- 2026-11-04 (1A v8): Antony sleeps under a plain WHITE cotton cover sheet (not blue checked); it ends folded across his chest. The cot's bedsheet beneath stays faded blue checked. 1A ends on his smile and eyes opening; the realisation is in 1B.
+- 2026-11-04 (1A v9): Antony sleeps under a thin, faded blue checked cotton cover sheet (as before); it ends folded across his chest. 1A ends on his smile and eyes opening; the realisation is in 1B.
