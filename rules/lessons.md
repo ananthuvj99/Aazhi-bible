@@ -16,3 +16,7 @@ Rule: no cover sheet (L20 stands). Write bedding as slept-in: "crumpled and crea
 **L48 — Landmarks get duplicated** (1A v11) — evidence: `1A-v11-two-churches.png`
 The model drew the church twice.
 Rule: give a count and a single position for every landmark ("exactly one white church, small in the distance beyond the headland, to the right of the house") and say what stands in the other places instead.
+
+**L49 — "No music" still gets a riser; sheets lie flat** (1A v13) — evidence: `1A-v13-sheet-flat-no-body.png`
+The model added a cinematic riser under the aerial move, and the cover sheet lay flat on the cot with no body under it.
+Rules: in AUDIO also ban sound design — "no riser, no whoosh, no swell, no rumble, no transition sound; steady level that does not build". For a body under cloth, name each part the cloth rises over (chest, hips, thighs, the hollow between the legs, a raised bent knee that tents it, the feet as bumps) and say "never flat on the cot".

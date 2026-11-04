@@ -71,3 +71,5 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 56. **Audio line:** "No music at all — no score, no background music, no song" + a timed list of sound effects covering the whole clip.
 57. **Bedding (L47):** slept-in, crumpled; no cover sheet in the bedding's pattern.
 58. **Landmarks (L48):** count + one position for each; say what fills the other places.
+59. **No sound design (L49):** no riser/whoosh/swell/transition sounds; ambience at a steady level.
+60. **Body under cloth (L49):** name the parts the cloth rises over; a raised knee; feet as bumps; never flat.
