@@ -33,3 +33,7 @@ With @wallclock attached as well as the room sheet (which already shows the cloc
 Rules: if the room sheet already shows a prop, don't attach the prop sheet too — point to where it hangs in the room sheet. State which walls have no clock (L23). For "looking at something while talking", put the object out of frame at a named corner and the face about 30° off the camera toward it.
 **L52 — Continuity from a start frame** (1B-1 v4) — evidence: `1B-1-v4-sheet-changed.png`
 Text alone could not hold the sheet's position from 1A. Attach the previous shot's last frames as a start image (@endframe1a) and say "the first frame matches it exactly".
+
+**L53 — The plate decides where the camera stands** (1B-3 v3) — evidence: `1B-3-v3-cot-in-passage.png`
+With @antonyroomc4plate (shot from the passage, looking through the door), the model used that view as the set and put Antony's cot in the passage, with a second cot seen in the room through the door.
+Rule: attach only the plate whose camera position is where the shot is filmed from. For action inside a room, use an inside plate (C1/C3) and say "the camera stands inside the room; the doorway and passage are behind it and never seen; exactly one cot". Use C4 only for shots that look in from the passage.
