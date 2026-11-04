@@ -41,3 +41,7 @@ Rule: attach only the plate whose camera position is where the shot is filmed fr
 **L54 — Stiff, angry, to-camera delivery** (1B-3 v4) — evidence: `1B-3-v4-stiff-to-camera.png`
 A speaker with nothing to do sits still and stares into the lens; [annoyed] read as anger.
 Rules: give the speaker a real task during and around the line, kept below the face (re-tying a mundu, folding a sheet) and a human beat before it (hands in the hair, a long breath) — L25. Put what they talk to (a door, a person) just off frame and say "never looks into the camera at any moment". Describe the relationship tone ("the way a son grumbles to his mother") and prefer [worried] over [annoyed] for family complaints.
+
+**L55 — Say which way the off-screen person is, and which way is wrong** (1B-3 v6) — evidence: `1B-3-v6-looks-at-window.png`
+"Toward the door" was not enough: he looked toward the bright front window. And [worried] made a call across the house sound sad.
+Rules: name the off-screen person's direction on screen ("the kitchen is to screen-right, out through the door") and name the tempting wrong direction ("never toward the window"). A call to another room is loud: describe it as projected and use [shouts], with "not angry, not sad".
