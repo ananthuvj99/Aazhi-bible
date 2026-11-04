@@ -37,3 +37,7 @@ Text alone could not hold the sheet's position from 1A. Attach the previous shot
 **L53 — The plate decides where the camera stands** (1B-3 v3) — evidence: `1B-3-v3-cot-in-passage.png`
 With @antonyroomc4plate (shot from the passage, looking through the door), the model used that view as the set and put Antony's cot in the passage, with a second cot seen in the room through the door.
 Rule: attach only the plate whose camera position is where the shot is filmed from. For action inside a room, use an inside plate (C1/C3) and say "the camera stands inside the room; the doorway and passage are behind it and never seen; exactly one cot". Use C4 only for shots that look in from the passage.
+
+**L54 — Stiff, angry, to-camera delivery** (1B-3 v4) — evidence: `1B-3-v4-stiff-to-camera.png`
+A speaker with nothing to do sits still and stares into the lens; [annoyed] read as anger.
+Rules: give the speaker a real task during and around the line, kept below the face (re-tying a mundu, folding a sheet) and a human beat before it (hands in the hair, a long breath) — L25. Put what they talk to (a door, a person) just off frame and say "never looks into the camera at any moment". Describe the relationship tone ("the way a son grumbles to his mother") and prefer [worried] over [annoyed] for family complaints.
