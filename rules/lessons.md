@@ -27,3 +27,9 @@ What made it work: approved W1 structure; room written in the C1 plate's orienta
 **L50 — A four-shot generation collapsed to 3 seconds** (1B v15) — evidence: `1B-v15-3s-collapsed.png`
 The platform returned one 3-second wide shot from an 18-second, four-shot prompt — and the first shot copied the C1 plate's wide framing instead of the close-up.
 Rule: four set-ups never go in one generation. Keep one camera set-up per generation; put beats that share a set-up into one continuous shot (eyes to the clock and the line, both overhead), and generate inserts (the clock) separately to cut in during the edit. Don't attach a wide room plate to a close-up.
+
+**L51 — A clock prop sheet creates a second clock** (1B-1 v4) — evidence: `1B-1-v4-clock-on-back-wall-looks-at-camera.png`
+With @wallclock attached as well as the room sheet (which already shows the clock), the model hung a clock on the back wall above the window — wrong wall, and he looked into the camera.
+Rules: if the room sheet already shows a prop, don't attach the prop sheet too — point to where it hangs in the room sheet. State which walls have no clock (L23). For "looking at something while talking", put the object out of frame at a named corner and the face about 30° off the camera toward it.
+**L52 — Continuity from a start frame** (1B-1 v4) — evidence: `1B-1-v4-sheet-changed.png`
+Text alone could not hold the sheet's position from 1A. Attach the previous shot's last frames as a start image (@endframe1a) and say "the first frame matches it exactly".

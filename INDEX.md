@@ -52,6 +52,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | ID | Shows | Attach when | File | Created by | Date | Status |
 |---|---|---|---|---|---|---|
 | `@coversheet` | Antony's thin, faded rose-pink cotton cover sheet with a thin maroon border (contrasts with the blue checked bedsheet) | Whenever Antony sleeps under a sheet; always crumpled and showing his body's shape (L47) | `props/coversheet/coversheet.png` | Ananthu | 2026-11-04 | approved — register on platform |
+| `@endframe1a` | The last frames of approved 1A v14 (overhead, head at top, eyes closed, sheet from the waist down under both hands) | First frame of 1B-1; attach as the start image | `scenes/showreel/approved/1A-v14-end-frame.png` | Ananthu | 2026-11-04 | register on platform |
 | `@wallclock` | Old round wall clock, black bezel, cream dial | Only when the clock is on screen; it lives on the front wall of Antony's room above the foot of the cot. Never in any other room | `props/wallclock/sheet.png` | Ananthu | 2026-10-29 | approved |
 
 ## Scale sheets
