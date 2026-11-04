@@ -56,5 +56,6 @@ Categories: position, elements, characters, sizes, angles, in-frame, dialogue, t
 | W1 | win | angles | What worked: aerial flight + match cut in one generation | showreel 1A v4, approved | Ananthu | 2026-10-29 | [W001-what-worked-aerial-flight-match-cut.md](wins/W001-what-worked-aerial-flight-match-cut.md) |
 | W2 | win | dialogue | What worked: Scene 2 Part A | approved | Ananthu | 2026-10-30 | [W002-what-worked-scene-2-part-a.md](wins/W002-what-worked-scene-2-part-a.md) |
 | W3 | win | position | Lock staging from an approved end frame | 3-2 approved | Ananthu | 2026-10-30 | [W003-lock-staging-from-an-approved-end.md](wins/W003-lock-staging-from-an-approved-end.md) |
+| W-new | win | platform | 1A v14 recipe: what to copy from an approved prompt | showreel 1A v14, approved | Ranjith | 2026-11-04 | [W-new-1a-v14-recipe.md](wins/W-new-1a-v14-recipe.md) |
 
 Until November 2026 all lessons and wins lived in one file, `rules/lessons.md`. Entries are never deleted; a later lesson marks an earlier one superseded.
