@@ -51,7 +51,7 @@ Status: `approved` · `waiting for approval` · `retired`
 
 | ID | Shows | Attach when | File | Created by | Date | Status |
 |---|---|---|---|---|---|---|
-| `@coversheet` | Antony's thin off-white cotton cover sheet with a faded indigo stripe on each long edge (contrasts with the blue checked bedsheet) | Whenever Antony sleeps under a sheet; always write it crumpled and showing his body's shape (L47) | `props/coversheet/coversheet.png` | Ananthu | 2026-11-04 | planned — image requested |
+| `@coversheet` | Antony's thin off-white cotton cover sheet with a faded indigo stripe on each long edge (contrasts with the blue checked bedsheet) | Whenever Antony sleeps under a sheet; always write it crumpled and showing his body's shape (L47) | `props/coversheet/coversheet.png` | Ananthu | 2026-11-04 | approved — register on platform |
 | `@wallclock` | Old round wall clock, black bezel, cream dial | Only when the clock is on screen; it lives on the front wall of Antony's room above the foot of the cot. Never in any other room | `props/wallclock/sheet.png` | Ananthu | 2026-10-29 | approved |
 
 ## Scale sheets
