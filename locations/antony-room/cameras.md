@@ -9,7 +9,7 @@ Camera positions belong to this location and never change number; a new spot tak
 | C1 | Directly above the room, roof removed | Straight down. Frame: west wall top, north right, front (south) wall left | `@antonyroomc1plate` | Nothing beyond; clock visible top-left — set its hands |
 | C2 | Inside, just within the door (east wall) | West across the room: front window + clock at left, west window above the cot, hooks + shelf at right, trunk right foreground | — (panel 3 of `@antonyroom`; no plate yet) | Clock visible — set its hands |
 | C3 | Inside, south-east corner | North-west: west wall with window and the cot along it, hooks in the corner, shelf on the north wall, trunk at right | `@antonyroomc3plate` | Front wall and clock are behind the camera — not visible |
-| C4 | In the passage, outside the door | West through the open door: the cot sideways across the far wall, head end at screen-right, window at right | `@antonyroomc4plate` | Behind the camera: the passage (`@hallclean`, background only) |
+| C4 (only for looking in from the passage — L53) | In the passage, outside the door | West through the open door: the cot sideways across the far wall, head end at screen-right, window at right | `@antonyroomc4plate` | Behind the camera: the passage (`@hallclean`, background only) |
 
 ## Sight-lines (moved from the old registry; use for reverse angles, L32)
 
