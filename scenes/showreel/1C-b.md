@@ -1,7 +1,9 @@
-# Shot 1C-b · Antony walks into the kitchen, his line (10 s) — v1
+# Shot 1C-b · Antony walks into the kitchen, his line (10 s) — v2
 Status: **ready (QA 94)**
 References: @antonyhome, @kitchenc2plate
 One set-up, one speaker (L58). Order: 1C-a → 1C-b → 1C-c.
+
+v2 (QA after 1C-a approved): bedroom doors placed at the passage's far end as in @hallclean; THE DOORS block — he enters only by the double doors (the C2 view shows both side doors); open curry pot at frame edge.
 
 ## Prompt
 ```
@@ -17,7 +19,10 @@ ON SCREEN
 Antony: plain white sleeveless cotton vest, grey-green checked mundu with a narrow white border stripe, thin silver chain, barefoot, hair messy from sleep.
 
 WHERE EVERYONE IS
-The camera stands inside the kitchen, beside the stove, as in @kitchenc2plate. The open blue double doors are in the middle of the far wall; through them the straight passage runs away to the bright front door. In the passage there are exactly two bedroom doors facing each other halfway down — Antony's on the RIGHT-hand wall, his mother's on the LEFT, closed — and nothing else. Antony walks FROM his bedroom TOWARD the kitchen, toward the camera, never away from it. His mother is at the stove just off frame at the right.
+The camera stands inside the kitchen, beside the stove, as in @kitchenc2plate. The open blue double doors are in the middle of the far wall; through them the straight passage runs away to the bright front door. In the passage there are exactly two bedroom doors facing each other, near its far end by the front door — Antony's on the RIGHT-hand wall, his mother's on the LEFT, closed — and nothing else. Antony walks FROM his bedroom TOWARD the kitchen, toward the camera, never away from it. His mother is at the stove just off frame at the right.
+
+THE DOORS — important
+The kitchen has three doorways: the open blue DOUBLE doors in the middle of the far wall, leading to the passage inside the house, and one small side door to the outside yard in each side wall (at the left and right of the frame). Antony comes in ONLY through the double doors in the middle, from the passage — never through a side door.
 
 WHAT IS IN FRAME
 Only Antony, the kitchen as in @kitchenc2plate, and the passage through its doors. Nobody else. No clock. Every frame looks like the film itself, with nothing from the making of it.
@@ -26,7 +31,7 @@ EYELINE
 When he speaks, he looks at his mother at the stove, just to the right of the camera, about 25 degrees off the lens, mouth fully visible. He never looks straight into the camera.
 
 FIRST FRAME
-From beside the stove: the open kitchen doors in the middle of the far wall, the passage beyond them, and far down it Antony just stepping out of his bedroom door on the right-hand wall; the fire glowing at the bottom-right corner.
+From beside the stove: the open kitchen doors in the middle of the far wall, the passage beyond them, and at its far end Antony just stepping out of his bedroom door on the right-hand wall; at the bottom-right corner, the edge of the stove with its fire and the open curry pot, steam rising.
 
 FORMAT MODE
 One continuous shot, 10 seconds. The camera does not cut. The video runs the full 10 seconds.
@@ -38,7 +43,7 @@ CAMERA
 At standing eye level, with the faint, living steadiness of a real operator. Still while he walks; from 5.0s to 6.5s it eases in to him as he stops; completely still for his line.
 
 ACTION
-0.0s to 1.0s — Far down the passage, Antony steps out of his bedroom door on the right-hand wall, scratching the back of his head with both hands.
+0.0s to 1.0s — At the far end of the passage, Antony steps out of his bedroom door on the right-hand wall, scratching the back of his head with both hands.
 1.0s to 5.0s — He turns toward the kitchen and walks up the passage toward the camera, barefoot, sheepish, at an easy pace.
 5.0s to 6.5s — He comes through the kitchen doors and stops beside the stove, just left of the camera, looking at his mother just right of the camera; the camera eases in to him alone.
 6.5s to 7.0s — He draws a breath.
@@ -64,7 +69,7 @@ STYLE
 Photoreal 1998 Kerala period feature film with the look of a high-end full-frame digital cinema camera: very wide dynamic range; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich but true skin tones; real daylight and firelight only; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look, no lens flare.
 
 POSITIVE LOCKS
-One continuous shot from inside the kitchen beside the stove. Antony walks FROM his bedroom (right-hand door) up the passage TOWARD the kitchen and stops beside the stove. The passage has exactly two bedroom doors facing each other — no extra rooms, doors or corridors. Only Antony on screen; his mother is just off frame. He never looks into the camera. Every word is Malayalam. Runs the full 10 seconds.
+One continuous shot from inside the kitchen beside the stove. Antony walks FROM his bedroom (right-hand door) up the passage TOWARD the kitchen, enters through the double doors in the middle — never a side door — and stops beside the stove. The passage has exactly two bedroom doors facing each other — no extra rooms, doors or corridors. Only Antony on screen; his mother is just off frame. He never looks into the camera. Every word is Malayalam. Runs the full 10 seconds.
 ```
 
 ## Generation results

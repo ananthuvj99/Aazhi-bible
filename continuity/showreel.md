@@ -28,3 +28,4 @@ State of the story world after the last approved shot. Update when a shot is app
 - 2026-11-04: 1B-3 v7 APPROVED. End: Antony standing by the cot, head turned toward the door/kitchen, listening; mundu tied; sheet heaped on the cot. Kitchen sounds paused after his call. Next: 1C — Rosamma in the kitchen, answering.
 - 2026-11-04 (1C v7): Rosamma at the stove making puttu and curry; she lifts the puttu maker off the steam — this is the breakfast on the plate in Scene 2.
 - 2026-11-04: 1C v9 — Rosamma calls loudly toward the passage. 1D-walk-1/2/3: Antony (vest, mundu, barefoot, messy hair) scratches his head, walks out, down the passage (his door on the right looking from the kitchen end), and ends leaning in the kitchen doorway grinning at her.
+- 2026-11-05: 1C-a v3.1 APPROVED — Rosamma teases from the stove, back to stirring; curry pot OPEN, lid on the stove edge. Next 1C-b: Antony walks in through the passage double doors.
