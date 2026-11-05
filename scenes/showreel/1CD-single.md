@@ -94,7 +94,7 @@ Spoken language: Malayalam only — not English, not a translation. Each speaker
 
 SOUND EFFECTS — natural sounds only, clearly audible under and between the lines, never covering a word:
 Throughout: far-away waves breaking on the beach, a soft steady wash heard through the barred back window; outside ambience — crows cawing, hens clucking in the yard, a light sea breeze in the palm fronds, now and then a distant fishing-boat engine out at sea.
-Shot 1 (0.0s–4.5s): the wooden ladle stirring and scraping the steel pot, the curry bubbling thickly, the wood fire crackling and popping, steam hissing from the puttu maker; the stirring stops when she stops at 0.8s and starts again at 3.4s.
+Shot 1 (0.0s–4.5s): the wooden ladle stirring and scraping the steel pot, the curry bubbling thickly, the wood fire crackling and popping, steam hissing from the puttu maker; the stirring stops when she stops at 1.0s and starts again at 3.4s.
 Shot 2 (4.5s–12.0s): the cooking sounds close by — stirring, bubbling, crackling fire; Antony's bare feet padding on the red-oxide floor, faint far down the passage and growing louder as he comes toward the kitchen; the stirring continues under his line.
 Shot 3 (12.0s–17.0s): steady stirring and the ladle tapping the rim of the pot once at the end; the fire crackling; the far-away waves and the crows.
 
