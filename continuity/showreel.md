@@ -29,3 +29,4 @@ State of the story world after the last approved shot. Update when a shot is app
 - 2026-11-04 (1C v7): Rosamma at the stove making puttu and curry; she lifts the puttu maker off the steam — this is the breakfast on the plate in Scene 2.
 - 2026-11-04: 1C v9 — Rosamma calls loudly toward the passage. 1D-walk-1/2/3: Antony (vest, mundu, barefoot, messy hair) scratches his head, walks out, down the passage (his door on the right looking from the kitchen end), and ends leaning in the kitchen doorway grinning at her.
 - 2026-11-05: 1C-a v3.1 APPROVED — Rosamma teases from the stove, back to stirring; curry pot OPEN, lid on the stove edge. Next 1C-b: Antony walks in through the passage double doors.
+- 2026-11-05: 1C-b2 v4 APPROVED — front angle (@angle1cb2), close-up of Antony: ഇന്ന് ആശാന്റെ കൂടെ കടലിൽ പോവാൻ ഉള്ളതാ… വൈകിപ്പോയല്ലോ അമ്മേ! Amma stirring at frame left. Next: 1C-c, Amma's reply, same side of the line.
