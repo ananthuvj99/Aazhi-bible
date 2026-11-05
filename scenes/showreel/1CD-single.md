@@ -1,8 +1,9 @@
-# Shot 1CD · Kitchen: Amma teases → Antony walks in → Amma answers (17 s, 3 shots) — v3.2
+# Shot 1CD · Kitchen: Amma teases → Antony walks in → Amma answers (17 s, 3 shots) — v3.3
 Status: **ready** (QA 93)
 References: @rosamma, @antonyhome, @kitchenclean (1, 3), @kitchenc2plate (2), @hallclean (2, background)
 
 ## History
+- v3.3 (QA): shot 3 background corrected to what is really behind her from Antony's position (shelves + Sacred Heart wall, edge of soot wall — not the back window); @kitchenclean scoped as camera position for shot 1 only (L53).
 - v3.2: detailed, timed natural sound effects (stirring, fire, steam, footsteps, crows, hens, breeze, far-away waves, distant boat engine); no music.
 - v3.1: @houseclean removed — not registered on the platform; the house plan is held by the THE HOUSE text block.
 - v3 (Ananthu on v2): kitchen shot good. New dialogue order (Amma 1 line → Antony → Amma); he walked AWAY from the kitchen — now camera in the kitchen (C2) so he walks toward it and stops beside her.
@@ -21,7 +22,7 @@ SPOKEN LANGUAGE: Malayalam. Every spoken word in this video is Malayalam — the
 ACTIVE REFERENCES
 @rosamma: Rosamma, coastal Latin Catholic mother in her early 50s, medium-brown skin, kind face with fine lines, black hair streaked with grey, centre parting, low bun. A native Malayalam speaker from the Kollam coast who speaks only Malayalam; warm, strong middle-aged female voice. 100% matches the reference.
 @antonyhome: Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair messy from sleep. A native Malayalam speaker from the Kollam coast who speaks only Malayalam; warm, slightly hoarse young male voice. 100% matches the reference.
-@kitchenclean (shots 1 and 3): the kitchen exactly as in the reference — the view from the passage-door side, looking at the back wall with the barred window and the sea, the raised mud wood-fire stove at the back-left with its soot stain, the shelves and Sacred Heart pictures on the left wall. 100% matches the reference.
+@kitchenclean (shot 1 — this is where the camera stands; shot 3 — for the kitchen's walls, colours and objects): the kitchen exactly as in the reference — the view from the passage-door side, looking at the back wall with the barred window and the sea, the raised mud wood-fire stove at the back-left with its soot stain, the shelves and Sacred Heart pictures on the left wall. 100% matches the reference.
 @kitchenc2plate (shot 2): the kitchen seen from beside the stove toward the open passage doors, exactly as in the reference — this is where the camera stands in shot 2. 100% matches the reference.
 @hallclean (shot 2, background only): the central passage, seen only through the open kitchen doors, with the bright front door at its far end. 100% matches the reference.
 
@@ -35,7 +36,7 @@ Antony: plain white sleeveless cotton vest, grey-green checked mundu with a narr
 FRAME BREAKDOWN
 Shot 1 — LOCATION: the kitchen, the camera just inside the passage doors and a little to their left, as in @kitchenclean. Rosamma alone at the stove at the back-left, medium close-up once she turns. EYELINE (shot 1): she looks toward the passage doors just to the right of the camera, about 25 degrees off the lens, mouth fully visible.
 Shot 2 — LOCATION: the kitchen, the camera beside the stove, as in @kitchenc2plate, looking toward the open passage doors in the middle of the far wall; through them the passage and the bright front door beyond. Rosamma's shoulder and back at the right edge of the frame at first, cooking, her face not seen. Antony comes up the passage, into the kitchen, and stops beside the stove, just to the left of the camera; the camera eases in to a medium close-up of him alone. EYELINE (shot 2): he looks at his mother at the stove, just to the right of the camera, about 25 degrees off the lens.
-Shot 3 — LOCATION: the kitchen, the reverse view, the camera standing where Antony stands, as in @kitchenclean: Rosamma alone at the stove in medium close-up, the soot wall and the barred window behind her. EYELINE (shot 3): she glances at her son, just to the left of the camera, about 25 degrees off the lens, then back to her pot.
+Shot 3 — LOCATION: the kitchen, the reverse view, the camera standing where Antony stands beside the stove, looking at Rosamma: she is alone at the stove in medium close-up; behind her, softly readable, the side wall with the wooden shelves of steel containers and the Sacred Heart pictures, and the edge of the soot-blackened wall above the stove. EYELINE (shot 3): she glances at her son, just to the left of the camera, about 25 degrees off the lens, then back to her pot.
 Nobody ever looks straight into the camera. While a line is spoken, the speaker is the only person in the frame.
 
 FIRST FRAME
