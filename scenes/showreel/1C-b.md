@@ -1,4 +1,4 @@
-# Shot 1C-b · Antony walks into the kitchen, his line (12 s) — v3.1
+# Shot 1C-b · Antony walks into the kitchen, his line (12 s) — v3.2
 Status: **ready (QA 94)**
 References: @antonyhome, @kitchenc2plate
 One set-up, one speaker (L58). Order: 1C-a → 1C-b → 1C-c.
@@ -6,6 +6,8 @@ One set-up, one speaker (L58). Order: 1C-a → 1C-b → 1C-c.
 v2 (QA after 1C-a approved): bedroom doors placed at the passage's far end as in @hallclean; THE DOORS block — he enters only by the double doors (the C2 view shows both side doors); open curry pot at frame edge.
 
 v3 (Ananthu): new line — ഇന്ന് ആശാന്റെ കൂടെ കടലിൽ പോവാൻ ഉള്ളതാ… വൈകിപ്പോയല്ലോ ദൈവമേ! — worried, [worried]; 12 s.
+
+v3.2: @endframe1ca (last frame of approved 1C-a) added as a continuity reference.
 
 ## Prompt
 ```
@@ -16,6 +18,7 @@ SPOKEN LANGUAGE: Malayalam. Every spoken word in this video is Malayalam — the
 ACTIVE REFERENCES
 @antonyhome: Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair messy from sleep. A native Malayalam speaker from the Kollam coast who speaks only Malayalam; warm, slightly hoarse young male voice. 100% matches the reference.
 @kitchenc2plate: the kitchen seen from beside the stove toward the open passage doors, exactly as in the reference — this is where the camera stands, and the passage seen through the doors is exactly as in the reference. 100% matches the reference.
+@endframe1ca (continuity only — the camera is in a different place): the last frame of the previous shot, for the moment, the light, the open curry pot, the fire and steam, and how his mother is standing at the stove. In this shot she stays just off frame at the right and is never seen. 100% matches the reference.
 
 ON SCREEN
 Antony: plain white sleeveless cotton vest, grey-green checked mundu with a narrow white border stripe, thin silver chain, barefoot, hair messy from sleep.
