@@ -14,7 +14,7 @@ ACTIVE REFERENCES
 @kitchenclean (for the kitchen's walls, colours and objects only): the same kitchen, exactly as in the reference. 100% matches the reference.
 
 ON SCREEN
-Rosamma: cream cotton saree with a small blue floral print, the pallu tucked firmly at her waist; solid mid-blue short-sleeve blouse; gold chain with a small gold cross; small gold stud earrings; barefoot; a long wooden ladle in her hand. On the stove: a blackened steel pot of brown curry, a steel puttu maker steaming beside it.
+Rosamma: cream cotton saree with a small blue floral print, the pallu tucked firmly at her waist; solid mid-blue short-sleeve blouse; gold chain with a small gold cross; small gold stud earrings; barefoot; a long wooden ladle in her hand. On the stove: a wide, blackened steel pot with NO LID — open, full of thick brown fish curry, bubbling, the ladle moving through it; its lid lies to one side on the stove. A steel puttu maker steams beside it.
 
 WHAT IS IN FRAME
 Only Rosamma at the stove, in medium close-up. Behind her, softly readable: the side wall with the wooden shelves of steel containers and the Sacred Heart pictures, and the edge of the soot-blackened wall above the stove. Nobody else. No clock. Every frame looks like the film itself, with nothing from the making of it.
