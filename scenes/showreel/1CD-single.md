@@ -1,8 +1,9 @@
-# Shot 1CD · Kitchen: Amma teases → Antony walks in → Amma answers (17 s, 3 shots) — v3
+# Shot 1CD · Kitchen: Amma teases → Antony walks in → Amma answers (17 s, 3 shots) — v3.1
 Status: **ready** (QA 93)
-References: @houseclean (layout only), @rosamma, @antonyhome, @kitchenclean (1, 3), @kitchenc2plate (2), @hallclean (2, background)
+References: @rosamma, @antonyhome, @kitchenclean (1, 3), @kitchenc2plate (2), @hallclean (2, background)
 
 ## History
+- v3.1: @houseclean removed — not registered on the platform; the house plan is held by the THE HOUSE text block.
 - v3 (Ananthu on v2): kitchen shot good. New dialogue order (Amma 1 line → Antony → Amma); he walked AWAY from the kitchen — now camera in the kitchen (C2) so he walks toward it and stops beside her.
 
 ## Dialogue
@@ -17,7 +18,6 @@ Bright late morning, 1998, a single-storey fisherman's house on the Alappad coas
 SPOKEN LANGUAGE: Malayalam. Every spoken word in this video is Malayalam — the exact Malayalam text given in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
-@houseclean (layout only — never shown on screen): the floor plan of this house, for where every room and door is. The film never shows a plan, a cut-away or a view from above. 100% matches the reference.
 @rosamma: Rosamma, coastal Latin Catholic mother in her early 50s, medium-brown skin, kind face with fine lines, black hair streaked with grey, centre parting, low bun. A native Malayalam speaker from the Kollam coast who speaks only Malayalam; warm, strong middle-aged female voice. 100% matches the reference.
 @antonyhome: Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair messy from sleep. A native Malayalam speaker from the Kollam coast who speaks only Malayalam; warm, slightly hoarse young male voice. 100% matches the reference.
 @kitchenclean (shots 1 and 3): the kitchen exactly as in the reference — the view from the passage-door side, looking at the back wall with the barred window and the sea, the raised mud wood-fire stove at the back-left with its soot stain, the shelves and Sacred Heart pictures on the left wall. 100% matches the reference.
