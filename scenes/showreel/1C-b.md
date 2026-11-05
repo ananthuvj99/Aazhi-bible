@@ -1,4 +1,4 @@
-# Shot 1C-b · Antony beside his mother: "…വൈകിപ്പോയല്ലോ ദൈവമേ!" (8 s) — v4.1
+# Shot 1C-b · Antony beside his mother: "…വൈകിപ്പോയല്ലോ ദൈവമേ!" (8 s) — v4.2
 Status: **ready** (QA 95)
 References: @antonyhome, @rosamma (foreground, from behind), @kitchenc3plate, @endframe1ca (continuity)
 
@@ -6,6 +6,8 @@ References: @antonyhome, @rosamma (foreground, from behind), @kitchenc3plate, @e
 - v4 (Ananthu on v3.2): the walk ate 10 s; mother in frame looking at the passage; two profiles; delivery not natural. Now: no walk, over her shoulder, she looks at her pot, natural low-key delivery, no emotion tag.
 
 v4.1 (Ananthu): feature-film camera look written out (image, colour, lens, motion, texture); operator movement.
+
+v4.2 (Ananthu): realistic camera movement — opening push and arc past the steam with a focus pull, still for each part of the line, a creep in the pause, an ease-back with his glance.
 
 ## Prompt
 ```
@@ -39,10 +41,15 @@ FORMAT MODE
 One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
 
 OPTICS
-MCU 35° on Antony, his face filling at least a third of the frame height; natural depth of field — his face sharp, his mother's shoulder soft in the foreground, the window behind him readable. No lens flare.
+Starts MS 47° with the steaming pot soft in the foreground; MCU 35° on Antony from 1.4s to 5.2s, his face filling at least a third of the frame height; ends a little wider, MS 40°. Natural depth of field — his face sharp, his mother's shoulder soft in the foreground, the window behind him readable. No lens flare.
 
 CAMERA
-At his eye level, as a real camera operator would hold it on a shoulder: a faint, living breath of movement — the tiniest sway — never shaky; a very slow, slight drift in toward him in the first second; completely still during his line.
+Moved by hand like a real feature-film operator: smooth, unhurried, with a faint living breath — the tiniest sway — never shaky.
+0.0s to 1.4s — It starts a little low and wide, the open curry pot and its rising steam soft in the near foreground; it pushes slowly in and arcs a little to the left around his mother's shoulder, rising to his eye level; the focus slides off the steam and settles on his face just as his hand drops.
+1.4s to 3.6s — Completely still for the first part of his line.
+3.6s to 4.0s — In the tiny pause, a barely noticeable creep closer to him.
+4.0s to 5.2s — Completely still for the end of his line.
+5.2s to 8.0s — As he glances toward the passage, it eases slowly back and pans a touch to the left with his look, letting more of his mother's shoulder and the steaming pot back into the frame, and settles.
 
 ACTION
 0.0s to 1.0s — Antony stands beside the stove, still half-asleep, rubbing one eye with the back of his wrist; his mother stirs, eyes on the pot.
