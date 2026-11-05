@@ -54,6 +54,7 @@ Categories: position, elements, characters, sizes, angles, in-frame, dialogue, t
 | L45 | lesson | position | Talking into the lens looks like a presenter | 3-3 v2 | Ananthu | 2026-10-30 | [L045-talking-into-the-lens-looks-like.md](lessons/L045-talking-into-the-lens-looks-like.md) |
 | L46 | lesson | elements | Equipment words get drawn | 3-3 v3 | Ananthu | 2026-10-30 | [L046-equipment-words-get-drawn.md](lessons/L046-equipment-words-get-drawn.md) |
 | L-new | lesson | platform | Every prompt is shot on a Sony Venice 2 | all shots (s11 v2 on) | Ranjith | 2026-11-05 | [L-new-sony-venice-2-every-prompt.md](lessons/L-new-sony-venice-2-every-prompt.md) |
+| L-new | lesson | elements | Furniture in the plate's action path comes back in the take | s11-sh01 v2 | Ranjith | 2026-11-05 | [L-new-plate-furniture-in-the-path.md](lessons/L-new-plate-furniture-in-the-path.md) |
 | W1 | win | angles | What worked: aerial flight + match cut in one generation | showreel 1A v4, approved | Ananthu | 2026-10-29 | [W001-what-worked-aerial-flight-match-cut.md](wins/W001-what-worked-aerial-flight-match-cut.md) |
 | W2 | win | dialogue | What worked: Scene 2 Part A | approved | Ananthu | 2026-10-30 | [W002-what-worked-scene-2-part-a.md](wins/W002-what-worked-scene-2-part-a.md) |
 | W3 | win | position | Lock staging from an approved end frame | 3-2 approved | Ananthu | 2026-10-30 | [W003-lock-staging-from-an-approved-end.md](wins/W003-lock-staging-from-an-approved-end.md) |

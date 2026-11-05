@@ -78,3 +78,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 63. **Start frames (L52):** a shot that continues another attaches its last frames as the start image.
 64. **Plate = camera position (L53):** the attached plate must be shot from where this shot's camera stands; inside action never uses a from-outside plate.
 65. **Camera (Sony Venice 2):** STYLE names "Sony Venice 2 full-frame digital cinema camera" once, followed by the look line from `rules/prompt-rules.md`; nowhere else; WHAT IS IN FRAME keeps "nothing from the making of it".
+66. **Plate furniture in the path (L-new-plate-furniture-in-the-path):** look at the attached plate; any furniture on the path or spot where the action happens is either wanted or named away: open path in the reference line, open floor with a size and "the only furniture" in the room block, and in POSITIVE LOCKS. A person in the plate standing elsewhere is placed in words.
