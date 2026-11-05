@@ -57,7 +57,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@endframe1a` | The last frames of approved 1A v14 (overhead, head at top, eyes closed, sheet from the waist down under both hands) | First frame of 1B-1; attach as the start image | `scenes/showreel/approved/1A-v14-end-frame.png` | Ananthu | 2026-11-04 | register on platform |
 | `@endframe1b1` | The last frames of approved 1B-1 (head raised, staring at the clock corner, sheet from the waist down, hand gripping it) | Continuity reference for 1B-3 (different camera — not a start image) | `scenes/showreel/approved/1B-1-end-frame.png` (to add) | Ananthu | 2026-11-04 | register on platform |
 | `@kitchendoorframe` | From the passage: open blue double doors framing the kitchen, Rosamma at the stove, back half to us | Start frame of 1C-a | `scenes/showreel/approved/1C-a-start-frame-kitchendoor.png` | Ananthu | 2026-11-05 | register on platform |
-| `@endframe1ca` | Last frame of approved 1C-a (Rosamma back at the stove, stirring; curry pot open) | Continuity reference for 1C-b / 1C-c (different camera — not a start image) | (Ananthu to send) | Ananthu | 2026-11-05 | register on platform |
+| `@endframe1ca` | Last frame of approved 1C-a (Rosamma back at the stove, stirring; curry pot open) | START frame for 1C-b v5 (same camera); continuity for 1C-c | `scenes/showreel/approved/1C-a-end-frame.png` | Ananthu | 2026-11-05 | register on platform |
 | `@wallclock` | Old round wall clock, black bezel, cream dial | Only when the clock is on screen; it lives on the front wall of Antony's room above the foot of the cot. Never in any other room | `props/wallclock/sheet.png` | Ananthu | 2026-10-29 | approved |
 
 ## Scale sheets

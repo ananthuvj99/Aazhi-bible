@@ -1,85 +1,85 @@
-# Shot 1C-b · Antony beside his mother: "…വൈകിപ്പോയല്ലോ ദൈവമേ!" (8 s) — v4.2
-Status: **ready** (QA 95)
-References: @antonyhome, @rosamma (foreground, from behind), @kitchenc3plate, @endframe1ca (continuity)
+# Shot 1C-b · Antony walks in behind Amma and talks to her (12 s) — v5
+Status: **ready** (QA 93)
+References: @endframe1ca (START frame — same camera as 1C-a's end), @antonyhome, @rosamma, @kitchenclean
+Position sketch: approved/1C-b-antony-position-sketch.png
 
 ## History
-- v4 (Ananthu on v3.2): the walk ate 10 s; mother in frame looking at the passage; two profiles; delivery not natural. Now: no walk, over her shoulder, she looks at her pot, natural low-key delivery, no emotion tag.
-
-v4.1 (Ananthu): feature-film camera look written out (image, colour, lens, motion, texture); operator movement.
-
-v4.2 (Ananthu): realistic camera movement — opening push and arc past the steam with a focus pull, still for each part of the line, a creep in the pause, an ease-back with his glance.
+- v5 (Ananthu on v4.2: 'kind of okay'): start on 1C-a's last frame; Antony walks in through the doors from behind the camera (back view), stops at Amma's right in front of the left half of the window, stool at his feet; she keeps stirring. New line: …വൈകിപ്പോയല്ലോ അമ്മേ!
 
 ## Prompt
 ```
 SCENE
-Bright late morning, 1998, the kitchen at the back of a fisherman's house on the Alappad coast, Kerala — straight after his mother has teased him. One continuous shot. Antony is already standing in the kitchen beside the wood-fire stove, next to his mother, who keeps stirring the curry with her eyes on the pot. Half-awake, he suddenly remembers he has to go to sea today and says one Malayalam line to her, ordinary and real. Seen over his mother's shoulder; only Antony speaks. He speaks only in Malayalam.
+Bright late morning, 1998, the kitchen at the back of a fisherman's house on the Alappad coast, Kerala — the moment straight after the previous shot. One continuous shot that begins exactly on the attached last frame of the previous shot (@endframe1ca): seen from the passage, through the open blue double doors, Rosamma stands at the wood-fire stove stirring the curry, her back half to us. Antony walks in through those doors from behind the camera — we see his back — crosses the kitchen and stops beside his mother, and says one Malayalam line to her. She keeps stirring the whole time. Only Antony speaks. He speaks only in Malayalam.
 SPOKEN LANGUAGE: Malayalam. Every spoken word in this video is Malayalam — the exact Malayalam text given in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
+@endframe1ca (start frame): the first frame of this video is exactly this image — the open blue double doors at both edges, the kitchen beyond: the shelves and ladles on the left wall, the soot-blackened wall, the raised mud stove with the fire, Rosamma at the stove with her back half to us, the barred window with open white shutters and the sea in the middle of the back wall, the small wooden stool with two coconut halves on the red floor below the window, the dried fish on the right wall. 100% matches the reference.
 @antonyhome: Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair messy from sleep. A native Malayalam speaker from the Kollam coast who speaks only Malayalam; warm, slightly hoarse young male voice. 100% matches the reference.
-@rosamma (foreground, from behind only): his mother — her grey-streaked low bun, her shoulder in the cream saree with a small blue floral print and mid-blue blouse, soft at the right edge of the frame. Her face is not seen and she does not speak. 100% matches the reference.
-@kitchenc3plate: the kitchen's stove corner exactly as in the reference — the raised mud stove with the wood fire, the soot-blackened wall, the barred back window with white shutters and the sea. 100% matches the reference.
-@endframe1ca (continuity only — the camera is in a different place): the last frame of the previous shot, for the light, the open curry pot, the fire and steam, and his mother at the stove. 100% matches the reference.
+@rosamma: Rosamma, coastal Latin Catholic mother in her early 50s, black hair streaked with grey in a low bun. She does not speak in this shot. 100% matches the reference.
+@kitchenclean: the same kitchen, for its walls, colours and objects. 100% matches the reference.
 
 ON SCREEN
 Antony: plain white sleeveless cotton vest, grey-green checked mundu with a narrow white border stripe, thin silver chain, barefoot, hair messy from sleep.
-On the stove: the wide blackened steel pot, open, full of thick brown fish curry, bubbling; its lid on the edge of the stove; the steel puttu maker steaming beside it.
+Rosamma: cream cotton saree with a small blue floral print, mid-blue blouse, barefoot, the long wooden ladle in her hand.
+On the stove: the wide blackened steel pot, open, full of thick brown fish curry, bubbling; the steel puttu maker steaming beside it.
 
-WHERE EVERYONE IS
-Rosamma stands at the stove, stirring, her eyes on the pot the whole time — she never looks toward the passage. Antony stands at the far end of the stove, beside the barred back window, facing her. The camera is just behind his mother's right shoulder. Antony is in the middle of the frame; behind him, readable: the barred window with white shutters and the bright sea, and the edge of the soot-darkened wall. There is no walking in this shot — he is already there.
-
-WHAT IS IN FRAME
-Only Antony in medium close-up, his mother's shoulder and the back of her head soft at the right edge, the stove and the steaming pot at the bottom of the frame, and the window and wall behind him. No clock. Every frame looks like the film itself, with nothing from the making of it.
+WHERE ANTONY STANDS — exact spot
+Antony walks from the doors straight toward the back wall and stops at his mother's RIGHT side (screen-right of her), about an arm's length from her: in front of the LEFT half of the barred window, with the small wooden stool and its two coconut halves just in front of his feet, slightly to his left. His mother stays where she is, in front of the stove fire. He stands half a step nearer the window than she does, so when he turns to her his body and face are three-quarter toward the camera. Nothing else in the kitchen moves.
 
 EYELINE
-He looks at his mother, just to the right of the camera, about 25 degrees off the lens, mouth fully visible. He never looks straight into the camera.
+When he speaks, he looks at his mother on his right side — on screen, down and to the left — his face turned about 30 degrees to the left of the camera, mouth fully visible. He never looks straight into the camera. His mother keeps her eyes on her pot and does not look at him while he speaks.
+
+WHAT IS IN FRAME
+Only Antony, his mother, and the kitchen as in the start frame. No clock. Every frame looks like the film itself, with nothing from the making of it.
 
 FIRST FRAME
-A little low and wide, over his mother's shoulder: the open curry pot and its rising steam soft in the near foreground; beyond it Antony standing beside the stove in front of the barred window, still sleepy, rubbing one eye with the back of his wrist; his mother's shoulder and bun soft at the right edge.
+Exactly the image @endframe1ca.
 
 FORMAT MODE
-One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
+One continuous shot, 12 seconds. The camera does not cut. The video runs the full 12 seconds.
 
 OPTICS
-Starts MS 47° with the steaming pot soft in the foreground; MCU 35° on Antony from 1.4s to 5.2s, his face filling at least a third of the frame height; ends a little wider, MS 40°. Natural depth of field — his face sharp, his mother's shoulder soft in the foreground, the window behind him readable. No lens flare.
+Starts WS 63° framed by the open doors, exactly as in @endframe1ca; ends MCU 35° on Antony, his face filling at least a third of the frame height, his mother's shoulder and the stove at the left side of the frame. Natural depth of field, the window and wall behind them readable. No lens flare.
 
 CAMERA
-Moved by hand like a real feature-film operator: smooth, unhurried, with a faint living breath — the tiniest sway — never shaky.
-0.0s to 1.4s — It starts a little low and wide, the open curry pot and its rising steam soft in the near foreground; it pushes slowly in and arcs a little to the left around his mother's shoulder, rising to his eye level; the focus slides off the steam and settles on his face just as his hand drops.
-1.4s to 3.6s — Completely still for the first part of his line.
-3.6s to 4.0s — In the tiny pause, a barely noticeable creep closer to him.
-4.0s to 5.2s — Completely still for the end of his line.
-5.2s to 8.0s — As he glances toward the passage, it eases slowly back and pans a touch to the left with his look, letting more of his mother's shoulder and the steaming pot back into the frame, and settles.
+Moved by hand like a real feature-film operator: smooth, unhurried, with a faint living breath — never shaky.
+0.0s to 1.5s — Holds on the start frame.
+1.5s to 5.5s — As Antony walks in, it follows a few steps behind him through the doorway and glides slowly across the kitchen after him, the door frames sliding out of the picture.
+5.5s to 7.0s — As he stops and turns to her, it eases round a little to the right and in, until he is in medium close-up three-quarter to the camera, his mother's shoulder at the left.
+7.0s to 10.3s — Completely still for his line.
+10.3s to 12.0s — A faint drift; settles.
 
 ACTION
-0.0s to 1.0s — Antony stands beside the stove, still half-asleep, rubbing one eye with the back of his wrist; his mother stirs, eyes on the pot.
-1.0s to 1.4s — It hits him: his hand drops, his eyes open properly.
-1.4s to 3.6s — He says the first part of his line to her, head steady.
-3.6s to 4.0s — A tiny pause; he puts one hand on the back of his head, well behind his face.
-4.0s to 5.2s — He says the end of his line, more to himself, head steady.
-5.2s to 8.0s — He lets out a breath through his nose and glances toward the passage, already thinking of the boat; his mother keeps stirring. Mouth closed.
+0.0s to 1.5s — Rosamma stirs the curry at the stove, her back half to us, steam rising.
+1.5s to 2.5s — Antony enters from behind the camera, his back to us, stepping in between the open blue doors, one hand rubbing the back of his messy head.
+2.5s to 5.5s — He walks barefoot across the red floor toward the window, past the stool, and stops at her right side, in front of the left half of the window, the stool and coconut halves just in front of his feet.
+5.5s to 7.0s — He turns to her, three-quarter toward the camera, and draws a breath. She keeps stirring.
+7.0s to 9.0s — He says the first part of his line to her, head steady.
+9.0s to 9.3s — A tiny pause.
+9.3s to 10.3s — He says the end of his line, head steady.
+10.3s to 12.0s — He rubs the back of his neck with a sheepish half-smile; she keeps stirring, eyes on the pot. Mouths closed.
 
 DIALOGUE RULES
 Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
-While the line is spoken, Antony is the only person whose face is in the frame.
+While the line is spoken, Antony is the only person speaking; his mother's mouth stays closed and her face stays toward her pot.
 
 PERFORMANCE
-Completely ordinary, like real life — not acting for the camera. A sleepy young man in his mother's kitchen who has just remembered he's late for the boat: a small jolt, then a tired, half-laughing groan at himself. His voice is a normal speaking voice at kitchen distance — not loud, not dramatic, not sad, not angry. Small, natural face: eyebrows up, a wince, a breath.
+Completely ordinary, like real life — not acting for the camera. A young man telling his mother, half complaining and half laughing at himself, that he's late for the boat. Normal speaking voice at kitchen distance — not loud, not dramatic, not sad, not angry. His mother: calm, busy, stirring, a small private smile.
 
 PHYSICS
-Steam curls up from the curry between them; the ladle moves in the pot; the fire crackles under it.
+Steam curls up from the pots; the curry bubbles; the fire crackles; his bare feet pad on the red-oxide floor; the mundu swings as he walks.
 
 LIGHTING
-Strong late-morning daylight from the barred window behind him rims his hair and shoulders; his face lit softly and evenly by daylight bouncing off the walls and the warm glow of the fire below; no hard shadow across his mouth.
+Strong late-morning daylight from the barred window with the sea, warm orange firelight from the stove; his face lit softly and evenly by daylight bouncing off the walls, no hard shadow across his mouth.
 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only — not English, not a translation. Antony speaks the exact Malayalam words written in quotes below, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera. Spoken once, exactly as written.
 
-1.4s to 5.2s — Antony, a normal conversational voice, the way people really talk at home: the first part quick and matter-of-fact as it comes back to him, a light stress on "കടലിൽ"; a tiny pause; then "വൈകിപ്പോയല്ലോ ദൈവമേ" softer and lower, a tired half-laugh of a groan at himself, trailing off. About 3.4 seconds.
-"ഇന്ന് ആശാന്റെ കൂടെ കടലിൽ പോവാൻ ഉള്ളതാ… വൈകിപ്പോയല്ലോ ദൈവമേ!"
+7.0s to 10.3s — Antony, a normal conversational voice, the way a son really talks to his mother at home: the first part matter-of-fact, a light stress on "കടലിൽ"; a tiny pause; then "വൈകിപ്പോയല്ലോ അമ്മേ" a little softer, a tired half-laughing complaint, "അമ്മേ" drawn out gently. About 3.3 seconds.
+"ഇന്ന് ആശാന്റെ കൂടെ കടലിൽ പോവാൻ ഉള്ളതാ… വൈകിപ്പോയല്ലോ അമ്മേ!"
 
-SOUND EFFECTS — natural sounds, never covering a word: the ladle stirring the steel pot steadily, the curry bubbling, the wood fire crackling, steam hissing; far-away waves breaking on the beach through the window behind him; crows cawing, hens clucking in the yard, a light sea breeze in the palm fronds.
+SOUND EFFECTS — natural sounds, never covering a word: the ladle stirring the steel pot steadily, the curry bubbling, the wood fire crackling, steam hissing; Antony's bare footsteps on the red-oxide floor from 1.5s to 5.5s; far-away waves breaking on the beach through the window; crows cawing, hens clucking in the yard, a light sea breeze in the palm fronds.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot like a modern theatrical release on a large-format, full-frame digital cinema camera:
@@ -90,8 +90,8 @@ Photoreal 1998 Kerala period feature film, shot like a modern theatrical release
 - Texture: very fine, organic film-like grain; no over-sharpening, no digital edge halos, no smooth plastic skin, no glossy or video look.
 
 POSITIVE LOCKS
-One continuous shot in the kitchen; no walking — Antony is already beside the stove. His mother stirs with her eyes on the pot, seen only from behind at the frame edge, and never looks toward the passage. Only Antony speaks; he looks at his mother, never into the camera; face lit, mouth clear. No clock. Every word is Malayalam. Runs the full 8 seconds.
+Starts exactly on @endframe1ca. Antony enters through the passage double doors from behind the camera, back to us, and stops at his mother's right, in front of the left half of the window, the stool with coconut halves at his feet. His mother stays at the stove and keeps stirring, eyes on the pot. Only Antony speaks; he looks at her, never into the camera; face lit, mouth clear. No clock. Every word is Malayalam. Runs the full 12 seconds.
 ```
 
 ## Generation results
-- v3.2: see evidence/1C-b-v3-long-walk-twoshot.png
+- v4.2: kind of okay.
