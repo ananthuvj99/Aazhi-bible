@@ -59,3 +59,7 @@ Rules: never ask for more than 15 s. One generation = one camera set-up and one 
 
 **L59 — "The passage doors" became a door to the outside** (1C-a v1)
 The kitchen also has side doors to the yard; with the camera placed only by words, the model came in from one and she looked outside. Fix: start the move in the passage (@hallclean, whose centre shows the kitchen through the double doors) and say how many doorways the room has and which one is meant.
+
+**L60 — A continuity frame that shows a character puts her in the shot** (1C-b v3.2) — evidence: `1C-b-v3-long-walk-twoshot.png`
+With @endframe1ca (showing Rosamma) attached, she appeared in frame, still looking down the passage as at the end of 1C-a, and the scene became two profiles. The long passage walk also ate 10 s.
+Rules: if a continuity frame shows someone, either keep them in the shot on purpose (over-the-shoulder, from behind, with their new action stated — "eyes on the pot, never toward the passage") or don't attach it. Skip long walks inside dialogue clips; start the speaker where the line happens (L31).
