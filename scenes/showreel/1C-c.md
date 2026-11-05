@@ -1,7 +1,9 @@
-# Shot 1C-c · Amma answers him (7 s) — v1
+# Shot 1C-c · Amma answers him (7 s) — v2
 Status: **ready (QA 96)**
 References: @rosamma, @kitchenclean (objects only)
 One set-up, one speaker (L58). Order: 1C-a → 1C-b → 1C-c.
+
+v2 (Ananthu): line now — നിന്നെ മൂന്നാല് പ്രാവശ്യം വിളിച്ചതാ. എണീക്കുന്നില്ലേൽ ഞാനെന്ത് ചെയ്യാനാ?
 
 ## Prompt
 ```
@@ -50,7 +52,7 @@ No music at all — no score, no background music, no song, no humming, and no c
 Spoken language: Malayalam only — not English, not a translation. Rosamma speaks the exact Malayalam words written in quotes below, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera. Spoken once, exactly as written.
 
 0.8s to 4.5s — Rosamma, to his face, a normal voice, still cooking: a mock complaint with a laugh in it — quick and sing-song, stress on "മൂന്നാല്", a small pause after "വിളിച്ചതാ", then a shrug in the voice, falling at the end. About 3.7 seconds.
-[playful] "നിന്നെ മൂന്നാല് തവണ വിളിച്ചതാ. എണീച്ചില്ലേൽ പിന്നെ ഞാനെന്ത് ചെയ്യാനാ?"
+[playful] "നിന്നെ മൂന്നാല് പ്രാവശ്യം വിളിച്ചതാ. എണീക്കുന്നില്ലേൽ ഞാനെന്ത് ചെയ്യാനാ?"
 
 SOUND EFFECTS — natural sounds, never covering a word: steady stirring, the curry bubbling, the wood fire crackling, the ladle tapping the rim once at 6.0s. Far-away waves breaking on the beach through the barred back window; crows cawing, hens clucking in the yard, a light sea breeze in the palm fronds.
 
