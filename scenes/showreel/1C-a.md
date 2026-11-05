@@ -1,4 +1,4 @@
-# Shot 1C-a · Amma teases from the stove (12 s) — v3
+# Shot 1C-a · Amma teases from the stove (12 s) — v3.1
 Status: **ready (QA 96)**
 References: @kitchendoorframe (start frame), @rosamma, @kitchenclean
 One set-up, one speaker (L58). Order: 1C-a → 1C-b → 1C-c.
@@ -19,7 +19,7 @@ ACTIVE REFERENCES
 @kitchenclean (from 3.0s): the kitchen exactly as in the reference — this is where the camera ends up: just inside the passage doors, looking at the back wall with the barred window and the sea, the raised mud wood-fire stove at the back-left with its soot stain, the shelves and Sacred Heart pictures on the left wall. 100% matches the reference.
 
 ON SCREEN
-Rosamma: cream cotton saree with a small blue floral print, the pallu tucked firmly at her waist; solid mid-blue short-sleeve blouse; gold chain with a small gold cross; small gold stud earrings; barefoot; a long wooden ladle in her hand. On the stove: a blackened steel pot of brown curry, a steel puttu maker steaming beside it.
+Rosamma: cream cotton saree with a small blue floral print, the pallu tucked firmly at her waist; solid mid-blue short-sleeve blouse; gold chain with a small gold cross; small gold stud earrings; barefoot; a long wooden ladle in her hand. On the stove: a wide, blackened steel pot with NO LID — open, full of thick brown fish curry, bubbling, its oily surface and chunks visible, the ladle moving through it; the pot's lid lies off to one side on the edge of the stove. A steel puttu maker steams beside it.
 
 THE DOORS — important
 The kitchen has three doorways: the blue DOUBLE doors from the passage inside the house (behind the camera once it is in the kitchen, slightly to its right), and one small side door to the outside yard in each side wall. The camera comes in only through the passage double doors, from inside the house. When Rosamma calls her son, she looks back toward those passage double doors — never toward either side door to the outside.
@@ -68,8 +68,10 @@ STYLE
 Photoreal 1998 Kerala period feature film with the look of a high-end full-frame digital cinema camera: very wide dynamic range; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich but true skin tones; real daylight and firelight only; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look, no lens flare.
 
 POSITIVE LOCKS
-One continuous shot that starts in the passage inside the house and glides through the blue double doors into the kitchen; only Rosamma. She calls back toward those passage doors — never toward the side doors to the outside, never into the camera; face lit, mouth clear. No clock. Every word is Malayalam. Runs the full 12 seconds.
+The curry pot is open, no lid on it, the curry visible. One continuous shot that starts in the passage inside the house and glides through the blue double doors into the kitchen; only Rosamma. She calls back toward those passage doors — never toward the side doors to the outside, never into the camera; face lit, mouth clear. No clock. Every word is Malayalam. Runs the full 12 seconds.
 ```
+
+v3.1: curry pot open, lid off, curry visible (Ananthu).
 
 ## Generation results
 - v1: wrong door.
