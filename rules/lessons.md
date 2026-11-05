@@ -52,3 +52,7 @@ With her eyes on the pot the model played it as quiet talk to herself. For a cal
 **L57 — [shouts] changed the emotion; the passage grew extra rooms** (1CD-single v1)
 [shouts] turned a teasing mother into a shouting one. Loudness belongs in words ("loud enough to carry, with a smile in her voice"); the tag carries the emotion ([playful]). Describe each line's delivery separately.
 A passage described loosely grows doors and corridors. Count them: "exactly two bedroom doors facing each other, kitchen doors at one end, front door at the other — no other doors, rooms or corridors". The house plan (@houseclean) may be attached as layout only, never shown.
+
+**L58 — Two people, three shots, five references, 17 s: everything broke** (1CD v3.3) — evidence: `1CD-v3-wrong-rooms-no-dialogue.png`
+The platform returned 15 s (its cap — 17 s was cut), put the mother in the passage, had Antony come from the wrong way, ended on two backs, and spoke no dialogue at all.
+Rules: never ask for more than 15 s. One generation = one camera set-up and one speaker. Don't attach a plate of a space we only glimpse (the passage through the doors) — the model builds the scene there; use the plate that already contains it (@kitchenc2plate shows the passage). Two-person dialogue = separate generations, joined in the edit.

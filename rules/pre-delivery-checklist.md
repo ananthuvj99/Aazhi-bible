@@ -77,3 +77,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 62. **No duplicate props (L51):** don't attach a prop sheet for a prop the room sheet already shows.
 63. **Start frames (L52):** a shot that continues another attaches its last frames as the start image.
 64. **Plate = camera position (L53):** the attached plate must be shot from where this shot's camera stands; inside action never uses a from-outside plate.
+65. **15 s maximum per generation (L58)**; dialogue scenes with two speakers are split into one generation per speaker.
