@@ -35,7 +35,7 @@ EYELINE
 He looks at his mother, just to the right of the camera, about 25 degrees off the lens, mouth fully visible. He never looks straight into the camera.
 
 FIRST FRAME
-Over his mother's shoulder: Antony standing beside the stove in front of the barred window, still sleepy, rubbing one eye with the back of his wrist; steam rising from the open curry pot between them; his mother's shoulder and bun soft at the right edge.
+A little low and wide, over his mother's shoulder: the open curry pot and its rising steam soft in the near foreground; beyond it Antony standing beside the stove in front of the barred window, still sleepy, rubbing one eye with the back of his wrist; his mother's shoulder and bun soft at the right edge.
 
 FORMAT MODE
 One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
