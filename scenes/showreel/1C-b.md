@@ -1,9 +1,11 @@
-# Shot 1C-b · Antony beside his mother: "…വൈകിപ്പോയല്ലോ ദൈവമേ!" (8 s) — v4
+# Shot 1C-b · Antony beside his mother: "…വൈകിപ്പോയല്ലോ ദൈവമേ!" (8 s) — v4.1
 Status: **ready** (QA 95)
 References: @antonyhome, @rosamma (foreground, from behind), @kitchenc3plate, @endframe1ca (continuity)
 
 ## History
 - v4 (Ananthu on v3.2): the walk ate 10 s; mother in frame looking at the passage; two profiles; delivery not natural. Now: no walk, over her shoulder, she looks at her pot, natural low-key delivery, no emotion tag.
+
+v4.1 (Ananthu): feature-film camera look written out (image, colour, lens, motion, texture); operator movement.
 
 ## Prompt
 ```
@@ -40,7 +42,7 @@ OPTICS
 MCU 35° on Antony, his face filling at least a third of the frame height; natural depth of field — his face sharp, his mother's shoulder soft in the foreground, the window behind him readable. No lens flare.
 
 CAMERA
-At his eye level, with the faint, living steadiness of a real operator; completely still during his line.
+At his eye level, as a real camera operator would hold it on a shoulder: a faint, living breath of movement — the tiniest sway — never shaky; a very slow, slight drift in toward him in the first second; completely still during his line.
 
 ACTION
 0.0s to 1.0s — Antony stands beside the stove, still half-asleep, rubbing one eye with the back of his wrist; his mother stirs, eyes on the pot.
@@ -73,7 +75,12 @@ Spoken language: Malayalam only — not English, not a translation. Antony speak
 SOUND EFFECTS — natural sounds, never covering a word: the ladle stirring the steel pot steadily, the curry bubbling, the wood fire crackling, steam hissing; far-away waves breaking on the beach through the window behind him; crows cawing, hens clucking in the yard, a light sea breeze in the palm fronds.
 
 STYLE
-Photoreal 1998 Kerala period feature film with the look of a high-end full-frame digital cinema camera: very wide dynamic range; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich but true skin tones; real daylight and firelight only; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look, no lens flare.
+Photoreal 1998 Kerala period feature film, shot like a modern theatrical release on a large-format, full-frame digital cinema camera:
+- Image: very wide dynamic range — the bright sea through the window and the dark soot wall both hold detail in one frame; clean, noise-free shadows; soft, gradual roll-off in the highlights, never clipped white.
+- Colour: graded like a feature film — accurate, natural colour, rich but true skin tones, warm firelight against cool daylight, slightly lifted blacks, no oversaturation.
+- Lens: a fine vintage-style cinema prime — natural full-frame perspective, gentle fall-off of sharpness and light toward the frame edges, the softly blurred background has round, smooth highlights; a faint, natural glow around the brightest window highlights; no lens flare.
+- Motion: 24 frames per second with natural motion blur on movement, like a real film camera; steam and hands move with that soft cinematic cadence.
+- Texture: very fine, organic film-like grain; no over-sharpening, no digital edge halos, no smooth plastic skin, no glossy or video look.
 
 POSITIVE LOCKS
 One continuous shot in the kitchen; no walking — Antony is already beside the stove. His mother stirs with her eyes on the pot, seen only from behind at the frame edge, and never looks toward the passage. Only Antony speaks; he looks at his mother, never into the camera; face lit, mouth clear. No clock. Every word is Malayalam. Runs the full 8 seconds.
