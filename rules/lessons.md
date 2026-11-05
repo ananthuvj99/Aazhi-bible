@@ -45,3 +45,6 @@ Rules: give the speaker a real task during and around the line, kept below the f
 **L55 — Say which way the off-screen person is, and which way is wrong** (1B-3 v6) — evidence: `1B-3-v6-looks-at-window.png`
 "Toward the door" was not enough: he looked toward the bright front window. And [worried] made a call across the house sound sad.
 Rules: name the off-screen person's direction on screen ("the kitchen is to screen-right, out through the door") and name the tempting wrong direction ("never toward the window"). A call to another room is loud: describe it as projected and use [shouts], with "not angry, not sad".
+
+**L56 — "Eyes on her work" made the call quiet** (1C v8)
+With her eyes on the pot the model played it as quiet talk to herself. For a call to another room, she must turn and look toward where the other person is, and the camera goes where that look lands (here K1, the passage doors) so her face stays within 30° of the lens.
