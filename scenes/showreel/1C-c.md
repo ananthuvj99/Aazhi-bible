@@ -1,9 +1,11 @@
-# Shot 1C-c · Start frame → reverse on Amma, her answer (9 s) — v4
+# Shot 1C-c · Start frame → reverse on Amma, her answer (9 s) — v4.1
 Status: **ready** (QA 94)
 References: @endframe1cb2 (START — approved/1C-b2-end-frame.png), @rosamma, @antonyhome, @kitchenclean
 
 ## History
 - v4 (Ananthu): the real end frame of 1C-b2 is over Amma's shoulder with Antony by the window shutter — a pan cannot reach her face from there, so: hold the start frame, hard cut to the reverse from beside his shoulder; nobody moves. @angle1cb2 dropped (different layout).
+
+v4.1 (Ananthu): more natural delivery — no emotion tag (as in approved 1C-b2), conversational rhythm, breath of a laugh, small face.
 
 ## Prompt
 ```
@@ -50,7 +52,7 @@ ACTION
 0.0s to 1.2s — Shot 1: Antony's sheepish half-smile; his mother stirs.
 1.2s HARD CUT
 1.2s to 1.8s — Shot 2: Rosamma stirs the curry, a small amused smile, and looks up at her son just right of the camera.
-1.8s to 5.5s — She says her line to him, head steady, still stirring slowly.
+1.8s to 5.5s — She says her line to him, head steady, still stirring slowly, glancing back down at the pot only at the very end.
 5.5s to 9.0s — She looks back down at her pot, shaking her head with a fond smile, and taps the ladle once on the rim. Mouth closed.
 
 DIALOGUE RULES
@@ -58,7 +60,7 @@ Dialogue rules: whenever a character speaks, frame them in a medium close-up wit
 While the line is spoken, Rosamma is the only person whose face is in the frame.
 
 PERFORMANCE
-Amused and fond — a mother's mock complaint to her grown son, enjoying it; never angry, never shouting. Natural and unhurried, the way she'd really talk while cooking.
+Not performed — real life. A mother who has said this a hundred times, answering her son while she cooks: relaxed, amused, fond, only half her attention on him. Small, natural face — a little lift of the eyebrows, a smile in the corner of her mouth — no big expressions, nothing for the camera. Never angry, never shouting, never sing-song.
 
 PHYSICS
 Steam rises from the curry in front of her; the ladle moves through it; the fire crackles under the pot.
@@ -70,8 +72,8 @@ AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only — not English, not a translation. Rosamma speaks the exact Malayalam words written in quotes below, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera. Spoken once, exactly as written.
 
-1.8s to 5.5s — Rosamma, to his face, a normal voice, still cooking: a mock complaint with a laugh in it — quick and sing-song, stress on "മൂന്നാല്", a small pause after "വിളിച്ചതാ", then a shrug in the voice, falling at the end. About 3.7 seconds.
-[playful] "നിന്നെ മൂന്നാല് പ്രാവശ്യം വിളിച്ചതാ. എണീക്കുന്നില്ലേൽ ഞാനെന്ത് ചെയ്യാനാ?"
+1.8s to 5.5s — Rosamma, to his face, her ordinary speaking voice at kitchen distance, the way people really talk at home: a small breath of a laugh just before she starts; the first sentence easy and unhurried, a light mock-exasperated weight on "മൂന്നാല് പ്രാവശ്യം"; a short natural pause; then the second sentence lighter, with a shrug in it, trailing off as her eyes go back to the pot. Conversational rhythm, not recited; not sing-song, not dramatic. About 3.7 seconds.
+"നിന്നെ മൂന്നാല് പ്രാവശ്യം വിളിച്ചതാ. എണീക്കുന്നില്ലേൽ ഞാനെന്ത് ചെയ്യാനാ?"
 
 SOUND EFFECTS — natural sounds, continuous across the cut, never covering a word: steady stirring, the curry bubbling, the wood fire crackling, steam hissing, the ladle tapping the rim once at 8.0s; far-away waves breaking on the beach; crows cawing, hens clucking in the yard, a light sea breeze in the palm fronds.
 

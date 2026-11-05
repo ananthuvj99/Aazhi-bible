@@ -67,3 +67,6 @@ Rules: if a continuity frame shows someone, either keep them in the shot on purp
 **L61 — A frame from another angle drags the camera back to it** (1C-b2 v1) — evidence: `1C-b2-v1-side-angle-again.png`
 Asked for a reverse angle, but with the side-view frame attached the model kept the side view, wide and static.
 Rule: for a NEW camera angle, first make a still of that angle (image model, with the old frame as reference for the people and room), approve it, and use it as the START frame. Don't attach frames from the old angle.
+
+**W6 — Natural dialogue = no emotion tag + everyday description** (1C-b2 v4 approved)
+Antony's line came out natural once the tag was removed and the delivery was written as ordinary speech ("normal voice at kitchen distance, the way people really talk at home… not dramatic"). Use the same for family/kitchen dialogue; keep tags for clearly emotional beats only.
