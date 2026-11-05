@@ -1,8 +1,9 @@
-# Shot 1CD · Kitchen: Amma teases → Antony walks in → Amma answers (17 s, 3 shots) — v3.1
+# Shot 1CD · Kitchen: Amma teases → Antony walks in → Amma answers (17 s, 3 shots) — v3.2
 Status: **ready** (QA 93)
 References: @rosamma, @antonyhome, @kitchenclean (1, 3), @kitchenc2plate (2), @hallclean (2, background)
 
 ## History
+- v3.2: detailed, timed natural sound effects (stirring, fire, steam, footsteps, crows, hens, breeze, far-away waves, distant boat engine); no music.
 - v3.1: @houseclean removed — not registered on the platform; the house plan is held by the THE HOUSE text block.
 - v3 (Ananthu on v2): kitchen shot good. New dialogue order (Amma 1 line → Antony → Amma); he walked AWAY from the kitchen — now camera in the kitchen (C2) so he walks toward it and stops beside her.
 
@@ -91,7 +92,11 @@ Spoken language: Malayalam only — not English, not a translation. Each speaker
 12.6s to 16.3s — Rosamma, in shot 3, to his face now, a normal voice, still cooking: a mock complaint with a laugh in it — quick and sing-song, stress on "മൂന്നാല്", a small pause after "വിളിച്ചതാ", then a shrug in the voice, falling at the end. About 3.7 seconds.
 "നിന്നെ മൂന്നാല് തവണ വിളിച്ചതാ. എണീച്ചില്ലേൽ പിന്നെ ഞാനെന്ത് ചെയ്യാനാ?"
 
-Ambient: the crackle of the wood fire, steam hissing, the curry bubbling, the ladle on the steel pot; his bare footsteps in the passage in shot 2; crows outside.
+SOUND EFFECTS — natural sounds only, clearly audible under and between the lines, never covering a word:
+Throughout: far-away waves breaking on the beach, a soft steady wash heard through the barred back window; outside ambience — crows cawing, hens clucking in the yard, a light sea breeze in the palm fronds, now and then a distant fishing-boat engine out at sea.
+Shot 1 (0.0s–4.5s): the wooden ladle stirring and scraping the steel pot, the curry bubbling thickly, the wood fire crackling and popping, steam hissing from the puttu maker; the stirring stops when she stops at 0.8s and starts again at 3.4s.
+Shot 2 (4.5s–12.0s): the cooking sounds close by — stirring, bubbling, crackling fire; Antony's bare feet padding on the red-oxide floor, faint far down the passage and growing louder as he comes toward the kitchen; the stirring continues under his line.
+Shot 3 (12.0s–17.0s): steady stirring and the ladle tapping the rim of the pot once at the end; the fire crackling; the far-away waves and the crows.
 
 STYLE
 Photoreal 1998 Kerala period feature film with the look of a high-end full-frame digital cinema camera: very wide dynamic range; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich but true skin tones; real daylight and firelight only; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look, no lens flare.
