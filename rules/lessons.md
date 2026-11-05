@@ -48,3 +48,7 @@ Rules: name the off-screen person's direction on screen ("the kitchen is to scre
 
 **L56 — "Eyes on her work" made the call quiet** (1C v8)
 With her eyes on the pot the model played it as quiet talk to herself. For a call to another room, she must turn and look toward where the other person is, and the camera goes where that look lands (here K1, the passage doors) so her face stays within 30° of the lens.
+
+**L57 — [shouts] changed the emotion; the passage grew extra rooms** (1CD-single v1)
+[shouts] turned a teasing mother into a shouting one. Loudness belongs in words ("loud enough to carry, with a smile in her voice"); the tag carries the emotion ([playful]). Describe each line's delivery separately.
+A passage described loosely grows doors and corridors. Count them: "exactly two bedroom doors facing each other, kitchen doors at one end, front door at the other — no other doors, rooms or corridors". The house plan (@houseclean) may be attached as layout only, never shown.
