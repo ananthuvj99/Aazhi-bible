@@ -1,5 +1,5 @@
 # Shot 1C-b · Antony walks in behind Amma and talks to her (12 s) — v5
-Status: **ready** (QA 93)
+Status: **APPROVED to 7.0 s** (Ananthu: 'almost good'); his line moves to 1C-b2
 References: @endframe1ca (START frame — same camera as 1C-a's end), @antonyhome, @rosamma, @kitchenclean
 Position sketch: approved/1C-b-antony-position-sketch.png
 
