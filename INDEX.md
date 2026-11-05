@@ -60,6 +60,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@endframe1ca` | Last frame of approved 1C-a (Rosamma back at the stove, stirring; curry pot open) | START frame for 1C-b v5 (same camera); continuity for 1C-c | `scenes/showreel/approved/1C-a-end-frame.png` | Ananthu | 2026-11-05 | register on platform |
 | `@frame1cb` | Clean frame from 1C-b v5 at ~7 s (side view): Rosamma at the stove, Antony in front of the window | START frame (frame 1) of 1C-b2 | `scenes/showreel/approved/1C-b-v5-7s-clean-frame.png` | Ananthu | 2026-11-05 | register on platform |
 | `@angle1cb2` | Start frame made by Ananthu (ChatGPT): from the stove end, Rosamma front-left stirring, Antony facing her by the open side door | Camera-angle reference for 1C-b2 (front view from the stove end) and 1C-c | `scenes/showreel/approved/1C-b2-start-frame-ananthu.png` (earlier Higgsfield version: 1C-b2-start-frame.png) | Ananthu (ChatGPT image) | 2026-11-05 | register on platform |
+| `@endframe1cb2` | Last frame of approved 1C-b2 (close view of Antony, front angle) | START frame of 1C-c | (Ananthu to send) | Ananthu | 2026-11-05 | register on platform |
 | `@wallclock` | Old round wall clock, black bezel, cream dial | Only when the clock is on screen; it lives on the front wall of Antony's room above the foot of the cot. Never in any other room | `props/wallclock/sheet.png` | Ananthu | 2026-10-29 | approved |
 
 ## Scale sheets
