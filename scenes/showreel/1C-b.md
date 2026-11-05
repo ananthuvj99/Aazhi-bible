@@ -1,11 +1,11 @@
-# Shot 1C-b · Antony walks into the kitchen, his line (12 s) — v3
+# Shot 1C-b · Antony walks into the kitchen, his line (12 s) — v3.1
 Status: **ready (QA 94)**
 References: @antonyhome, @kitchenc2plate
 One set-up, one speaker (L58). Order: 1C-a → 1C-b → 1C-c.
 
 v2 (QA after 1C-a approved): bedroom doors placed at the passage's far end as in @hallclean; THE DOORS block — he enters only by the double doors (the C2 view shows both side doors); open curry pot at frame edge.
 
-v3 (Ananthu): new line — ഓ, ഇന്ന് ആശാന്റെ കൂടെ കടലിൽ പോവാൻ ഉള്ളതാ… വൈകിപ്പോയല്ലോ ദൈവമേ! — worried, [worried]; 12 s.
+v3 (Ananthu): new line — ഇന്ന് ആശാന്റെ കൂടെ കടലിൽ പോവാൻ ഉള്ളതാ… വൈകിപ്പോയല്ലോ ദൈവമേ! — worried, [worried]; 12 s.
 
 ## Prompt
 ```
@@ -51,8 +51,8 @@ ACTION
 6.5s to 7.0s — It hits him; he draws a quick breath.
 7.0s to 9.2s — He says the first part of his line to her, head steady.
 9.2s to 9.6s — A tiny pause; he grips the back of his head with one hand, well above and behind his face.
-9.6s to 10.8s — He says the end of his line, head steady.
-10.8s to 12.0s — He blows out a breath and glances back toward the passage, already thinking of the boat. Mouth closed.
+9.6s to 10.6s — He says the end of his line, head steady.
+10.6s to 12.0s — He blows out a breath and glances back toward the passage, already thinking of the boat. Mouth closed.
 
 DIALOGUE RULES
 Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
@@ -64,8 +64,8 @@ AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only — not English, not a translation. Antony speaks the exact Malayalam words written in quotes below, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera. Spoken once, exactly as written.
 
-7.0s to 10.8s — Antony, a normal voice, to his mother beside him, worried and quick: "ഓ" short, then the first sentence fast, stress on "കടലിൽ"; a tiny pause; then "വൈകിപ്പോയല്ലോ ദൈവമേ" lower, half to himself, stress on "വൈകിപ്പോയല്ലോ", falling at the end. About 3.8 seconds.
-[worried] "ഓ, ഇന്ന് ആശാന്റെ കൂടെ കടലിൽ പോവാൻ ഉള്ളതാ… വൈകിപ്പോയല്ലോ ദൈവമേ!"
+7.0s to 10.6s — Antony, a normal voice, to his mother beside him, worried and quick: the first sentence fast, stress on "കടലിൽ"; a tiny pause; then "വൈകിപ്പോയല്ലോ ദൈവമേ" lower, half to himself, stress on "വൈകിപ്പോയല്ലോ", falling at the end. About 3.6 seconds.
+[worried] "ഇന്ന് ആശാന്റെ കൂടെ കടലിൽ പോവാൻ ഉള്ളതാ… വൈകിപ്പോയല്ലോ ദൈവമേ!"
 
 SOUND EFFECTS — natural sounds, never covering a word: close by, the ladle stirring the steel pot, the curry bubbling, the wood fire crackling, steam hissing; Antony's bare footsteps on the red-oxide floor, faint far down the passage and growing louder as he comes in. Far-away waves breaking on the beach through the barred back window; crows cawing, hens clucking in the yard, a light sea breeze in the palm fronds.
 
