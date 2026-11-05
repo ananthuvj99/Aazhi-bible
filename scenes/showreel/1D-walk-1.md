@@ -1,11 +1,13 @@
-# Shot 1D-walk-1 · Antony scratches his head, leaves his room (8 s, silent) — v1
+# Shot 1D-walk-1 · Antony scratches his head, leaves his room (6 s, silent) — v2
 Status: **ready** (QA 96)
 References: @antonyhome, @coversheet, @antonyroom, @antonyroomc3plate
+
+v2: plays UNDER Rosamma's lines (intercut) — shorter, no voices in the clip; her voice comes from 1C in the edit.
 
 ## Prompt
 ```
 SCENE
-Bright late morning, 1998, Antony's bedroom in a fisherman's house on the Alappad coast, Kerala — straight after the previous shot. One continuous shot inside his bedroom, from just inside the door, the same view as the shot before. Antony stands beside his cot, having just heard his mother teasing him from the kitchen. Caught out, he scratches his head with both hands, gives a sheepish grin, and walks out of the room through the door at screen-right, heading for the kitchen. Only Antony is in the room. Nobody speaks.
+Bright late morning, 1998, Antony's bedroom in a fisherman's house on the Alappad coast, Kerala — while his mother is calling to him from the kitchen. One continuous shot inside his bedroom, from just inside the door, the same view as the shot before. Antony stands beside his cot, hearing her teasing him from the far end of the house. Caught out, he scratches his head with both hands, gives a sheepish grin, and walks out of the room through the door at screen-right, heading for the kitchen. Only Antony is in the room. Nobody speaks.
 
 ACTIVE REFERENCES
 @antonyhome: Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair messy from sleep. 100% matches the reference.
@@ -27,7 +29,7 @@ FIRST FRAME
 Medium shot from just inside the door: Antony standing beside his cot, head turned toward the door at screen-right, listening — the rose-pink sheet heaped on the cot behind him, bright sun stripes on the red floor.
 
 FORMAT MODE
-One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
+One continuous shot, 6 seconds. The camera does not cut. The video runs the full 6 seconds.
 
 OPTICS
 MS 47°, holding him and the cot; natural depth of field, the room clearly readable. No lens flare.
@@ -36,10 +38,10 @@ CAMERA
 At his eye level, with the faint, living steadiness of a real operator; as he walks toward the door it pans gently right with him until he passes out of frame at the right edge.
 
 ACTION
-0.0s to 2.0s — He listens toward the door, then winces with a guilty half-smile — she's got him.
-2.0s to 4.0s — He scratches the back of his head with both hands, messing his hair further, and lets out a sheepish breath, shaking his head at himself.
-4.0s to 5.5s — He drops his hands, gives the mundu knot one tug, and starts toward the door.
-5.5s to 8.0s — He walks across the red floor toward the door at screen-right and out of frame, barefoot, unhurried but quick.
+0.0s to 1.0s — He listens toward the door at screen-right, then winces with a guilty half-smile — she's got him.
+1.0s to 3.0s — He scratches the back of his head with both hands, messing his hair further, shaking his head at himself.
+3.0s to 3.8s — He drops his hands and gives the mundu knot one tug.
+3.8s to 6.0s — He walks quickly across the red floor toward the door at screen-right and out of frame, barefoot.
 
 PERFORMANCE
 Natural and lightly comic: a grown son caught out by his mother's teasing — guilty, amused, a little embarrassed. No dialogue; his mouth stays closed except a breath.
@@ -52,13 +54,13 @@ The same strong late-morning sunshine as the shots before: sun and bar shadows a
 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds at a steady level for the whole shot.
-No dialogue. His bare feet on the floor, a sheepish breath, the tick of the wall clock; from the kitchen at the far end of the passage, faint cooking sounds — a ladle on a steel pot, the crackle of a fire; hens and a crow outside.
+No dialogue in this clip, and no voices at all. His bare feet on the floor, a sheepish breath, the tick of the wall clock; hens and a crow outside.
 
 STYLE
 Photoreal 1998 Kerala period feature film with the look of a high-end full-frame digital cinema camera: very wide dynamic range; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich but true skin tones; real daylight only; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look, no lens flare.
 
 POSITIVE LOCKS
-One continuous shot in Antony's bedroom from just inside the door; the passage is never seen; one cot, one clock on the left-hand front wall. He scratches his head with both hands, then walks out at screen-right. Nobody speaks. Runs the full 8 seconds.
+One continuous shot in Antony's bedroom from just inside the door; the passage is never seen; one cot, one clock on the left-hand front wall. He scratches his head with both hands, then walks out at screen-right. Nobody speaks. Runs the full 6 seconds.
 ```
 
 ## Generation results

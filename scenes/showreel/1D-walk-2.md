@@ -1,6 +1,8 @@
-# Shot 1D-walk-2 · Down the passage to the kitchen (8 s, silent) — v1
+# Shot 1D-walk-2 · Down the passage to the kitchen (6 s, silent) — v2
 Status: **ready** (QA 96)
 References: @antonyhome, @hallclean
+
+v2: plays UNDER Rosamma's lines (intercut) — shorter, no voices in the clip; her voice comes from 1C in the edit.
 
 ## Prompt
 ```
@@ -21,21 +23,21 @@ WHAT IS IN FRAME
 Only Antony and the passage. Nobody else. No clock. Every frame looks like the film itself, with nothing from the making of it.
 
 FIRST FRAME
-Looking down the passage from the kitchen end, a low, wide view: the bright open front door at the far end, the blue doors on each side, the passage empty; Antony's bedroom door open on the right-hand wall, halfway down.
+Looking down the passage from the kitchen end, a low, wide view: the bright open front door at the far end, the blue doors on each side; Antony just appearing in his open bedroom door on the right-hand wall, halfway down.
 
 FORMAT MODE
-One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
+One continuous shot, 6 seconds. The camera does not cut. The video runs the full 6 seconds.
 
 OPTICS
 Starts WS 63°, ends MS 47° as he reaches the camera. Natural depth of field: the passage and the front door at the far end clearly readable. No lens flare.
 
 CAMERA
-A low, smooth view a little below his chest height, with the faint, living steadiness of a real operator. 0.0s to 2.0s: still. 2.0s to 8.0s: it glides slowly backward ahead of him as he walks toward it, so he grows in frame.
+A low, smooth view a little below his chest height, with the faint, living steadiness of a real operator. 0.0s to 1.0s: still. 1.0s to 6.0s: it glides slowly backward ahead of him as he walks toward it, so he grows in frame.
 
 ACTION
-0.0s to 1.5s — The passage is empty; then Antony steps out of his bedroom door on the right-hand wall.
-1.5s to 2.5s — He turns toward the kitchen — toward the camera — still running a hand through his messy hair.
-2.5s to 8.0s — He walks barefoot down the passage toward the camera, quick and easy, a sheepish half-smile, eyes on the kitchen doors just past the camera; he never looks into the camera.
+0.0s to 0.8s — Antony steps quickly out of his bedroom door on the right-hand wall.
+0.8s to 1.5s — He turns toward the kitchen — toward the camera — still running a hand through his messy hair.
+1.5s to 6.0s — He walks barefoot down the passage toward the camera, quick and easy, a sheepish half-smile, eyes on the kitchen doors just past the camera; he never looks into the camera.
 
 PERFORMANCE
 Natural: a son heading to the kitchen to face his mother, a little sheepish, a little in a hurry. No dialogue; mouth closed.
@@ -48,13 +50,13 @@ Bright late-morning daylight pouring in through the open front door at the far e
 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds at a steady level for the whole shot.
-No dialogue. His bare footsteps on the floor; from the kitchen behind the camera, getting louder as he approaches: the crackle of the wood fire, a ladle on a steel pot, steam hissing; crows outside.
+No dialogue in this clip, and no voices at all. His bare footsteps on the floor; from the kitchen behind the camera, getting louder as he approaches: the crackle of the wood fire, a ladle on a steel pot, steam hissing; crows outside.
 
 STYLE
 Photoreal 1998 Kerala period feature film with the look of a high-end full-frame digital cinema camera: very wide dynamic range; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich but true skin tones; real daylight only; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look, no lens flare.
 
 POSITIVE LOCKS
-One continuous shot in the passage, from the kitchen end; his door on the right-hand wall, his mother's on the left; only Antony, walking toward the camera, never looking into it. Nobody speaks. Runs the full 8 seconds.
+One continuous shot in the passage, from the kitchen end; his door on the right-hand wall, his mother's on the left; only Antony, walking toward the camera, never looking into it. Nobody speaks. Runs the full 6 seconds.
 ```
 
 ## Generation results
