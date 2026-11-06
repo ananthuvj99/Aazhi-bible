@@ -7,12 +7,18 @@ if ! git fetch --all --prune --quiet 2>/dev/null; then
   exit 0
 fi
 branch=$(git branch --show-current)
-if [ "$branch" != "main" ]; then
-  echo "AAZHI: switching to main (everyone works on main now)."
-  git switch main --quiet 2>/dev/null
-  branch=main
+if [ "$(git config --get aazhi.ownbranch)" = "true" ] && [ -n "$branch" ] && [ "$branch" != "main" ]; then
+  # Own-branch mode: this creator works on their own branch; their personal sync hook
+  # merges main into it and pushes it into main. Leave the branch as it is.
+  echo "AAZHI: own-branch mode on '$branch' (synced with main both ways by the personal hook)."
+else
+  if [ "$branch" != "main" ]; then
+    echo "AAZHI: switching to main (everyone works on main now)."
+    git switch main --quiet 2>/dev/null
+    branch=main
+  fi
+  git pull --rebase --quiet 2>/dev/null
 fi
-git pull --rebase --quiet 2>/dev/null
 echo "AAZHI session: $(git config user.name 2>/dev/null || echo 'name not set') on branch $branch"
 echo
 bash tools/pending.sh

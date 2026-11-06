@@ -1,13 +1,13 @@
 # AAZHI production bible — how every session works
 
-This repo is the shared memory for AAZHI (ആഴി), a Techjays Originals AI-made Malayalam film set on the Alappad coast in a Latin Catholic fishing community (1998–2026). Three creators work from it, all directly on `main`: there is no approval step — every creator's Claude pulls the latest `main` before writing and pushes to `main` after every piece of feedback (see `rules/workflow.md`). The video model remembers nothing between generations, so everything that must stay the same lives here.
+This repo is the shared memory for AAZHI (ആഴി), a Techjays Originals AI-made Malayalam film set on the Alappad coast in a Latin Catholic fishing community (1998–2026). Three creators work from it, all directly on `main`: there is no approval step — every creator's Claude pulls the latest `main` before writing and pushes to `main` after every piece of feedback (see `rules/workflow.md`). A creator may instead keep their own branch in **own-branch mode** (below): the branch and `main` sync both ways automatically, so `main` still holds everyone's work. The video model remembers nothing between generations, so everything that must stay the same lives here.
 
 ## Start of every session
 
 A hook in `.claude/settings.json` runs automatically when the session opens: it fetches and updates `main` and prints the latest activity. If that output isn't in the session, run `git fetch --all --prune`, `bash tools/pending.sh` and `bash tools/activity.sh` yourself.
 
 1. Find out who you are working with: their name is `git config user.name`. If it isn't set, ask for their name and set it with `git config user.name "<Name>"`. Every asset and learning from this session is credited to that person.
-2. Stay on `main` and run `git pull --rebase`. No personal branches.
+2. Stay on `main` and run `git pull --rebase`. In own-branch mode (`git config aazhi.ownbranch` is `true`), stay on your own branch instead and merge `origin/main` into it (the personal hook does this).
 3. Read `INDEX.md`: every character look, location, plate, prop and scale sheet, with ID, folder, creator and status.
 4. Read `learnings/INDEX.md`, `rules/prompt-rules.md` and `rules/pre-delivery-checklist.md`.
 5. For the scene being worked on, read its panels in `storyboard/aazhi-storyboard.md`, its ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
@@ -15,7 +15,7 @@ A hook in `.claude/settings.json` runs automatically when the session opens: it 
 
 ## The loop for every shot
 
-**Before every breakdown and every prompt**, run `git pull --rebase` on `main` so you have everyone's latest assets and lessons, and apply them.
+**Before every breakdown and every prompt**, run `git pull --rebase` on `main` (in own-branch mode: `git fetch` and merge `origin/main` into your branch) so you have everyone's latest assets, lessons and skills, and apply them.
 
 1. **Brief.** The creator describes the scene and attaches references.
 2. **Breakdown.** Run the `aazhi-scene-breakdown` skill: shot by shot, every reference to call, what is missing, the lessons that apply, and questions. Reuse any asset in `INDEX.md`, whoever made it.
@@ -85,9 +85,16 @@ Platform IDs have no hyphens or underscores. Never print a name inside an image.
 
 ## Saving: push straight away, one item per commit
 
-- The moment a new asset, lesson, win or shot version is saved, commit it and push it to `main` (`git pull --rebase` first), so the other creators see it within seconds.
+- The moment a new asset, lesson, win or shot version is saved, commit it and push it to `main` (`git pull --rebase` first), so the other creators see it within seconds. In own-branch mode, commit on your branch, merge `origin/main` in, then push the branch and push it into `main` (`git push origin <branch>` and `git push origin HEAD:main`); never rebase a pushed branch.
 - One item per commit, so any one of them can be undone alone. The message starts with the creator's name, then the type: `Ranjith: asset: Clara's mother (@claramother)`, `Ranjith: lesson: door side flips between angles (L67)`, `Ranjith: win: yard staging held (W8)`, `Ranjith: shot: s03-sh02 v3`, `Ranjith: rule: ...`, `Ranjith: undo: ...`.
-- Everyone works on `main`; no personal branches and no pull requests (see `rules/workflow.md`). Work on your own shots; editing someone else's approved shot needs their agreement first.
+- No pull requests: everyone's work reaches `main` directly (see `rules/workflow.md`). Work on your own shots; editing someone else's approved shot needs their agreement first.
+
+### Own-branch mode (optional, per creator)
+
+For a creator who wants their own branch for their scenes while `main` stays the shared memory:
+1. `git config aazhi.ownbranch true` in their clone; the team start-up hook then leaves them on their branch instead of switching to `main`.
+2. A personal hook (`~/.claude/aazhi-sync-main.sh`, wired in their `.claude/settings.local.json` on SessionStart, UserPromptSubmit and Stop) merges `origin/main` into the branch before prompts, and after every Claude reply pushes the branch and pushes it into `main`. It never forces, never merges over uncommitted work and stops on any conflict.
+3. Result: prompts are always written from everyone's latest lessons and skills, and the creator's own lessons and shots reach `main` within one reply.
 - After pushing, check that GitHub `main` equals the local commit, and say so.
 - Never commit access tokens or API keys. Never force-push or rewrite history.
 
