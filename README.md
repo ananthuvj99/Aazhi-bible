@@ -31,4 +31,4 @@ templates/                   cards and learning files to copy
 .claude/skills/              the shared agents
 ```
 
-**Working rule:** every prompt is written from `main`; every result Ananthu comments on is pushed to `main`. See `rules/workflow.md`.
+**Working rule (whole team):** this repo is our shared memory. Every prompt is written from the latest `main`; every result anyone comments on is pushed straight to `main` — no approval step. See `rules/workflow.md`; new teammates paste `team/claude-project-instructions.md` into their Claude Project.
