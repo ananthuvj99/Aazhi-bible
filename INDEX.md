@@ -53,6 +53,7 @@ Status: `approved` · `waiting for approval` · `retired`
 
 | ID | Shows | Attach when | File | Created by | Date | Status |
 |---|---|---|---|---|---|---|
+| `@harbourc1plate` | Cochin cargo harbour 1998 from above the water's edge (harbour-c1-quay): long stone quay right, cargo shed, sacks, crates, handcarts, ~12 workers, two-masted urus moored mid-frame, canoes bottom-left | Shots from harbour-c1-quay (SB019 / 13A); keep the workers on purpose. Never the full four-panel `sheet.jpg` (labels) | `locations/harbour/plates/harbour-c1-plate.png` | Ranjith | 2026-11-06 | approved |
 
 ## Props
 
