@@ -54,6 +54,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | ID | Shows | Attach when | File | Created by | Date | Status |
 |---|---|---|---|---|---|---|
 | `@harbourc1plate` | Cochin harbour 1998, sheet v2 panel 13A (harbour-c1-quay): low view along a stone quay with old tiled two-storey warehouses, crates, sacks, rope, handcarts; hero uru (blue-grey hull, carved deckhouse) moored at the far end; canoes along the near wall; palm shore left. No workers in the plate | Shots from harbour-c1-quay (SB019 / 13A); write workers in by count. Never the four-panel `sheet.jpg` (labels) | `locations/harbour/plates/harbour-c1-plate.png` | Ranjith | 2026-11-06 | approved |
+| `@harbourc2plate` | Cochin harbour, sheet v2 panel 13B (harbour-c2-approach): standing on the stone quay looking along it, warehouses and sacks left, the hero uru moored close on the right, bow and mooring rope, handcarts, crates and rope coil; no workers | SB020 (Antony walks up to the uru); add @uru; write workers in by count | `locations/harbour/plates/harbour-c2-plate.png` | Ranjith | 2026-11-06 | approved |
 
 ## Props
 
