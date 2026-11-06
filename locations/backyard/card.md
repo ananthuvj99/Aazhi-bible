@@ -3,7 +3,7 @@ ids: ["@backyardwell", "@backyardmirror"]
 type: location
 created_by: Ananthu (Higgsfield GPT Image 2.5, from the house back elevation)
 created: 2026-11-06
-status: proposed — Ananthu to approve and register
+status: approved (Ananthu, 2026-11-06)
 images: [well.png, mirror.png]
 alternatives: [alternatives/well-v1-steel-brown.png, alternatives/mirror-v1-brown-door.png]  # v1, not used
 ---
