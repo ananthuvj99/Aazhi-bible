@@ -29,7 +29,8 @@ used_in: [s13-sh01]
 - Single wooden mast with rigging; weathered blue-grey planked hull streaked with rust and iron fastenings, red-oxide paint below the waterline; high curved bow.
 - A carved wooden deckhouse aft with two railed decks (turned balusters), cargo and coir rope on deck.
 - Panel 15 prints "COCHIN" on the stern: never let that lettering into a prompt or a plate.
-- The tracker names the hero uru `@Uru2`; register it (card, clean sheet without lettering, INDEX row) before SB020, where Antony walks up to it.
+- Registered 2026-11-06 as `@uru` (`props/uru/prop.png`, from panel 13B). The tracker's name for it was `@Uru2`.
+- `plates/harbour-c2-plate.png` (@harbourc2plate): panel 13B without its label, the approach view for SB020.
 - Rule: the vessel is a Beypore uru (wooden dhow), never a fishing boat (`rules/prompt-rules.md`).
 
 ## When to attach

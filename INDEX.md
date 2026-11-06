@@ -69,6 +69,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@endframe1cb2` | Last frame of approved 1C-b2 (close view of Antony, front angle) | START frame of 1C-c | `scenes/showreel/approved/1C-b2-end-frame.png` | Ananthu | 2026-11-05 | register on platform |
 | `@wallclock` | Old round wall clock, black bezel, cream dial | Only when the clock is on screen; it lives on the front wall of Antony's room above the foot of the cot. Never in any other room | `props/wallclock/sheet.png` | Ananthu | 2026-10-29 | approved |
 | `@antonybag` | Antony's large faded beige canvas shoulder bag, slouchy, half full, one long canvas strap (bag alone, plain background) | Every shot where Antony carries it in frame (with @antony20): strap over his LEFT shoulder, bag at his left hip; also write it in full (L64) | `props/antonybag/prop.png` | Ranjith | 2026-11-06 | approved |
+| `@uru` | The hero uru: Beypore wooden dhow, high curved bow, weathered blue-grey hull with rust streaks, red-oxide waterline, one mast, carved two-deck wooden deckhouse aft; no lettering | Every shot where Antony's vessel is on screen (SB019 on); lock its size when it is far away | `props/uru/prop.png` | Ranjith | 2026-11-06 | approved |
 
 ## Scale sheets
 
