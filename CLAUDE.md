@@ -17,13 +17,13 @@ A hook in `.claude/settings.json` runs automatically when the session opens: it 
 
 **Before every breakdown and every prompt**, run `git pull --rebase` on `main` (in own-branch mode: `git fetch` and merge `origin/main` into your branch) so you have everyone's latest assets, lessons and skills, and apply them.
 
-1. **Brief.** The creator describes the scene and attaches references.
+1. **Brief.** The creator describes the scene and attaches references. Update the creator's line in `team/now.md` (`- Name: shot — what you are doing`) and push it, so the Memory Hub shows what everyone is on.
 2. **Breakdown.** Run the `aazhi-scene-breakdown` skill: shot by shot, every reference to call, what is missing, the lessons that apply, and questions. Reuse any asset in `INDEX.md`, whoever made it.
 3. **Assets.** Make missing plates or start frames through the Higgsfield MCP, named by the rules below. Run `aazhi-image-qa` on every new, cropped or mirrored image and show its continuity score with the image; save it only after the creator approves (folder, card with `continuity_score`, `INDEX.md` row, report in `scenes/showreel/image-qa/`). Tell the creator to upload each new image to the platform under exactly its ID.
 4. **Base prompt.** Write it from the breakdown, the cards and the rules, following the `seedance-2-5-prompt-writer` skill.
 5. **Checks.** Run `aazhi-continuity-director`, then `aazhi-prompt-qa`. Fix small issues yourself for at most two rounds; ask about anything bigger (see Approval).
 6. **Deliver.** One copyable code block with the final prompt, then: the IDs to attach (each with shot and mode), the settings (duration, aspect ratio, dialogue language Malayalam) and the QA score.
-7. **Feedback.** Bad take: log a lesson. Good take: log a win. Save the approved first and last frames in `scenes/<scene>/<shot>/approved/`.
+7. **Feedback.** Bad take: log a lesson. Good take: log a win. Save the approved first and last frames in `scenes/<scene>/<shot>/approved/`. Log every take as one line under `## Generation results` in the shot file, starting with its version and a result tag: `- v3 [approved] …`, `- v3 [partial] …` or `- v3 [failed] …` (the Memory Hub counts these).
 8. **Next shot.** Ask for the last frame of the approved take. Without one, propose positions from the room's `topview.png` and `cameras.md`, and offer a start frame.
 
 ## Adding a character, location, prop or plate
@@ -99,6 +99,8 @@ For a creator who wants their own branch for their scenes while `main` stays the
 - Never commit access tokens or API keys. Never force-push or rewrite history.
 
 ## Who did what, and undoing it
+
+- **Memory Hub (live dashboard):** https://ananthuvj99.github.io/Aazhi-bible/ shows who is active, what each creator is working on, every shot's status, takes, lessons, rules and assets. It rebuilds itself on every push to `main` (`.github/workflows/memory-hub.yml`, `hub/`). Scene completion comes from the Status column of `scenes/showreel/plan.md`: write `complete` there when a scene is done.
 
 - **See who pushed what:** `bash tools/activity.sh` lists every change, newest first, with who, what and a commit code. `bash tools/activity.sh 50 Ranjith` shows one person's last 50. On GitHub, the Commits page of `main` shows the same.
 - **Undo something:** run `git revert <commit code>` on `main`, then `git pull --rebase` and push. GitHub also has a Revert button on every commit's page.

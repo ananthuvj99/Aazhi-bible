@@ -11,7 +11,7 @@ This repo is the team's common memory. Ananthu, Ranjith and Aswanth (and anyone 
 - Save the prompt as a new version in the shot's file and push it.
 
 ## 3. After every generation the person comments on — push in the same turn
-- Shot file: what came out, status (approved / partial / failed), next version.
+- Shot file: what came out, status (approved / partial / failed), next version. Each take is one line under `## Generation results` with a result tag: `- v3 [approved] …` / `[partial]` / `[failed]`.
 - Frames: failures → `scenes/showreel/evidence/`, start/end frames → `scenes/showreel/approved/`.
 - Each new lesson or win → its own file in `learnings/lessons/` or `learnings/wins/` + one row in `learnings/INDEX.md` (never `rules/lessons.md`).
 - New checklist items, continuity-ledger lines, new IDs in `INDEX.md`.

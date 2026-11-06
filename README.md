@@ -9,6 +9,7 @@ Single source of truth for generating AAZHI / ആഴി shots on the Techjays AI
 - **Shared agents:** `.claude/skills/`.
 - **New creators start here:** `ONBOARDING.md`.
 - **Who pushed what, and what's waiting for approval:** `bash tools/activity.sh`, `bash tools/pending.sh`.
+- **Live dashboard (Memory Hub):** https://ananthuvj99.github.io/Aazhi-bible/ — who is active, what everyone is working on, shots, takes, learnings, rules and assets.
 
 ## Template for dialogue generations
 `scenes/showreel/2-PART-A.md` (approved, W2): one location, at most 3 shots per 15 s, clean singles plus EYELINE, one emotion tag per scene.
