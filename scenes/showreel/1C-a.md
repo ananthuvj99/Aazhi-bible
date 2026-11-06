@@ -1,5 +1,5 @@
 # Shot 1C-a · Amma teases from the stove (12 s) — v3.1
-Status: **ready (QA 96)**
+Status: **APPROVED** (v3.1, 2026-11-05 — per the continuity ledger; end frame `approved/1C-a-end-frame.png` = `@endframe1ca`)
 References: @kitchendoorframe (start frame), @rosamma, @kitchenclean
 One set-up, one speaker (L58). Order: 1C-a → 1C-b → 1C-c.
 
