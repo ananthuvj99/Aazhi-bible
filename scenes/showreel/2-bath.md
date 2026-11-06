@@ -1,7 +1,9 @@
-# Shot 2-bath · Bucket bath by the well, shoulders up (10 s) — v1
+# Shot 2-bath · Bucket bath by the well, shoulders up (10 s) — v1.1
 Status: **ready** (QA 95)
 References: @backyardwell, @antonyhome
 After 1D-exit (Scene 1). Then Antony dresses in his room (@antony20) → Scene 2 Part A.
+
+v1.1 (Ananthu): AUDIO spells out no music, sound effects only, and a constant distant sea ambience.
 
 ## Prompt
 ```
@@ -48,9 +50,10 @@ LIGHTING
 Strong late-morning sun through the palms, the soft moving shadows of palm fronds across the scene; his wet face lit softly and evenly; bright sparkle on the water drops.
 
 AUDIO
-No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
+No music at all — no score, no background music, no song, no humming, no instruments, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. The soundtrack is only natural sound effects and ambience, clearly audible for the whole shot.
 No dialogue.
-The mug scooping into the plastic bucket, water pouring and splashing onto the wet stone slab, drips; his sharp breath at the cold water; crows cawing, hens clucking, a light sea breeze in the palm fronds, far-away waves breaking on the beach.
+Ambience all the way through, under everything: the sea in the distance beyond the palms — the steady, soft roll and wash of waves breaking on the beach — with a light breeze in the palm fronds.
+The mug scooping into the plastic bucket, water pouring and splashing onto the wet stone slab, drips; his sharp breath at the cold water; crows cawing, hens clucking.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:

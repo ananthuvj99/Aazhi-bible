@@ -1,7 +1,9 @@
-# Shot 2-mirror · Combing at the outdoor mirror, mirror → face (12 s) — v1
+# Shot 2-mirror · Combing at the outdoor mirror, mirror → face (12 s) — v1.1
 Status: **ready** (QA 92)
 References: @backyardmirror, @antonyhome
 After 1D-exit (Scene 1). Then Antony dresses in his room (@antony20) → Scene 2 Part A.
+
+v1.1 (Ananthu): AUDIO spells out no music, sound effects only, and a constant distant sea ambience.
 
 ## Prompt
 ```
@@ -50,9 +52,10 @@ LIGHTING
 Strong late-morning sun from the side, soft moving palm-frond shadows across the pale blue wall; his face lit softly and evenly; the bright backyard glowing in the mirror.
 
 AUDIO
-No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
+No music at all — no score, no background music, no song, no humming, no instruments, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. The soundtrack is only natural sound effects and ambience, clearly audible for the whole shot.
 No dialogue.
-The soft scrape of the comb through damp hair, the tin lid clicking, crows cawing, hens clucking, a light sea breeze in the palm fronds, far-away waves breaking on the beach; water still dripping at the bathing corner in the distance.
+Ambience all the way through, under everything: the sea in the distance beyond the palms — the steady, soft roll and wash of waves breaking on the beach — with a light breeze in the palm fronds.
+The soft scrape of the comb through damp hair, the tin lid clicking, crows cawing, hens clucking; water still dripping at the bathing corner in the distance.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
