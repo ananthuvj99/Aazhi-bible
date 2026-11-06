@@ -12,6 +12,9 @@ ACTIVE REFERENCES
 @backyardwell: the backyard exactly as in the reference — the laterite well with its two tall wooden posts and pulley, the open-air bathing corner with the wet laterite slab and the woven coconut-leaf screen, the faded blue plastic bucket of water and the small red plastic mug, the striped cotton towel on the screen, the white back door of the house, the palms and the sea. 100% matches the reference.
 @antonyhome: Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair, thin silver chain. 100% matches the reference.
 
+ON SCREEN
+Antony is dressed for an ordinary village bath: his grey-green checked mundu tied at the waist, below the frame; the thin silver chain at his neck. Only his head, neck and the tops of his shoulders are ever in the frame.
+
 FRAME
 The camera stands at the bathing corner, at his eye level, looking at Antony from the front, a little to his right. He is framed from the shoulders up — never lower — in a medium close-up. Behind him, softly readable: the laterite well with its tall posts and pulley, the white back door of the house, palms, and a glimpse of bright sea between them. Only Antony is in the frame.
 
