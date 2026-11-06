@@ -19,4 +19,4 @@ Rule: a prop the character carries but the sheet does not show is written in ful
 3. Its size matches the reference the creator approved, not a guess.
 4. To make it hold for good, it gets its own prop card and image (L17: a prop is valid once it has a card, a sheet and a placement). Ask the creator before making that image.
 
-Checklist line: item 67 in `rules/pre-delivery-checklist.md`.
+Checklist line: item 76 in `rules/pre-delivery-checklist.md`.

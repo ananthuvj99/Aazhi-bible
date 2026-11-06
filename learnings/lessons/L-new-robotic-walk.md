@@ -15,4 +15,4 @@ Cause: the prompt said only "steps up … and stops" (s11-sh01) and "walks … a
 
 Rule: every walk or step names the body mechanics once in its ACTION beat: heel to toe, weight rolling from foot to foot, relaxed shoulders, a free arm swing (or where the hands are), a slight head bob, and what the clothes and carried things do. PERFORMANCE says "a loose, everyday human walk". A character standing in a hold breathes and shifts his weight slightly, so he does not freeze.
 
-Checklist line: item 68 in `rules/pre-delivery-checklist.md`.
+Checklist line: item 77 in `rules/pre-delivery-checklist.md`.

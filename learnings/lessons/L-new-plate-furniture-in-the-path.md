@@ -20,4 +20,4 @@ Rule: before attaching a plate, look at the image itself and list every piece of
 4. If the furniture still comes back, ask the creator for a corrected plate (a new or replaced image needs approval).
 Also check whether the plate shows a person in a different position from the shot's first frame, and place them in words.
 
-Checklist line: item 66 in `rules/pre-delivery-checklist.md`.
+Checklist line: item 75 in `rules/pre-delivery-checklist.md`.

@@ -15,4 +15,4 @@ Cause: "turns her head sideways to the right" and "giggle" never said what each 
 
 Rule: every reacting extra gets a target and a profile: "turns her head to her right toward the door; face toward the door in profile, the back of her head toward the view". The extras who do not react are told what they keep doing ("keep writing, heads bowed"). The main character's look names who she looks at and where her eyes stay. POSITIVE LOCKS repeats who turns and where they look.
 
-Checklist line: item 69 in `rules/pre-delivery-checklist.md`.
+Checklist line: item 78 in `rules/pre-delivery-checklist.md`.

@@ -17,4 +17,4 @@ Rule: every prompt, silent or with dialogue, new or a new version of an old shot
 "Shot on a Sony Venice 2 full-frame digital cinema camera: very wide dynamic range that holds the brightest light and the deepest shade in one frame; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich, true skin tones; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look."
 It appears only in STYLE (never in CAMERA, OPTICS or ACTION, never as an object in the shot), and WHAT IS IN FRAME keeps "Every frame looks like the film itself, with nothing from the making of it" (L46). No other camera, lens, film-stock or rig names. When an older prompt is revised, its new version adds the line.
 
-Checklist line: already item 65 in `rules/pre-delivery-checklist.md`; QA fails a prompt whose STYLE does not name the Sony Venice 2 exactly once.
+Checklist line: item 74 in `rules/pre-delivery-checklist.md`; QA fails a prompt whose STYLE does not name the Sony Venice 2 exactly once.
