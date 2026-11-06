@@ -1,8 +1,8 @@
 # Standard STYLE block — feature-film camera look (from 1C-b v4.1)
-Use in every prompt. Describe the look; never name a camera brand or model (W4, L46).
+Use in every prompt. Team rule since 2026-11-06 (L62): name the Sony Venice 2 once, here in STYLE only, then describe its look. Never name it anywhere else, and no rig words (L46).
 
 ```
-Photoreal 1998 Kerala period feature film, shot like a modern theatrical release on a large-format, full-frame digital cinema camera:
+Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
 - Image: very wide dynamic range — the bright sea through the window and the dark soot wall both hold detail in one frame; clean, noise-free shadows; soft, gradual roll-off in the highlights, never clipped white.
 - Colour: graded like a feature film — accurate, natural colour, rich but true skin tones, warm firelight against cool daylight, slightly lifted blacks, no oversaturation.
 - Lens: a fine vintage-style cinema prime — natural full-frame perspective, gentle fall-off of light toward the frame edges; the background stays readable, only slightly softer than the face, and any out-of-focus highlights are round and smooth; a faint, natural glow around the brightest window highlights; no lens flare.

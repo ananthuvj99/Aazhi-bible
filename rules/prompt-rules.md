@@ -46,7 +46,7 @@ Consequence: one speaker per shot, and the speaker ALONE in frame while speaking
 SCENE CONTEXT → ACTIVE REFERENCES → LOCATION MAP → FIRST FRAME → FORMAT MODE → OPTICS → CAMERA → ACTION → DIALOGUE RULES → PERFORMANCE → (PHYSICS) → LIGHTING → AUDIO → STYLE → POSITIVE LOCKS.
 Positive phrasing, FOV from the anchor table (12/29/47/63/84°), speed in km/h, atmosphere in % / meters, left/right from camera, no director names, and no equipment names except the one camera below.
 
-## Camera: Sony Venice 2 (Ranjith, 2026-11-04; waiting for Ananthu's approval)
+## Camera: Sony Venice 2 (Ranjith, 2026-11-04; approved by Ananthu 2026-11-06 as the team rule)
 Every shot is filmed as if on a Sony Venice 2. Every prompt names it once, in STYLE, followed by the look it gives, described by its qualities (W5, W7). Paste this line, adapting only the light words to the scene:
 > Shot on a Sony Venice 2 full-frame digital cinema camera: very wide dynamic range that holds the brightest light and the deepest shade in one frame; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich, true skin tones; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look.
 - Name it only in STYLE, never in CAMERA, OPTICS or ACTION, and never as an object ("the camera" never appears in a shot).
