@@ -15,6 +15,11 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@aashaan` | Aashaan the skipper, about 60: grey hair combed back, grey moustache, cream half-sleeve shirt open over a white vest, spectacles in the vest, white towel on his LEFT shoulder, white mundu, brown sandals | Every shot with Aashaan (harbour, uru deck, voyage) | `characters/aashaan/sheet.jpg` | Ananthu | 2026-11-06 | approved |
 | `@rosamma` | Rosamma: cream floral saree, blue blouse, gold cross, low bun. The sheet shows sandals; lock barefoot indoors | Whenever she is on screen, even silent or seen from behind | `characters/rosamma/sheet.png` | Ananthu | 2026-10-29 | approved |
 | `@clara20` | Clara, 1998, about 20, the tuition teacher | Every shot with Clara in Scenes 3 and 4 | `characters/clara20/sheet.jpg` | Ananthu | 2026-10-30 | approved |
+| `@crew` | The uru's crew, line-up of 8 barefoot men in working vests, shirts, mundus and lungis (men 2, 5, 6, 8 have their own sheets) | Background crew on deck; always write "men 1, 4 and 7 from @crew only"; man 3 is a boy, background only | `characters/crew/sheet.png` | Aswanth | 2026-11-06 | approved |
+| `@sasi` | Crewman Sasi (@crew #2), about 35: long black curly hair, full beard, stained off-white half-sleeve shirt over vest, white mundu, barefoot | Song on deck: dancer, lead singer, receives the fish | `characters/sasi/sheet.png` | Aswanth | 2026-11-06 | approved |
+| `@suresh` | Crewman Suresh (@crew #5), about 30: curly hair, moustache, cream shirt sleeves rolled, green small-check mundu, red thread right wrist | Song on deck: laughing dancer | `characters/suresh/sheet.png` | Aswanth | 2026-11-06 | approved |
+| `@raghavan` | Crewman Raghavan (@crew #6), about 60: wiry, grey hair and moustache, white vest, red-and-white checked towel round the neck, white mundu | Song on deck: beats the steel plate, drinks | `characters/raghavan/sheet.png` | Aswanth | 2026-11-06 | approved |
+| `@babu` | Crewman Babu (@crew #8), about 40: heavy-set, moustache, red-and-white checked head towel, off-white half-sleeve shirt over vest, grey-brown checked lungi | Song on deck: dancer, serves the fried fish | `characters/babu/sheet.png` | Aswanth | 2026-11-06 | approved |
 
 ## Locations
 
