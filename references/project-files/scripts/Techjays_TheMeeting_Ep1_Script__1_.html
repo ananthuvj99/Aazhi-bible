@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>THE MEETING — Episode 1 | Techjays</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #f7f5f0;
+    font-family: 'Inter', sans-serif;
+    color: #1a1a1a;
+  }
+
+  /* ── COVER ── */
+  .cover {
+    background: #0a0a0a;
+    min-height: 100vh;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    text-align: center; padding: 80px 40px;
+    position: relative; overflow: hidden;
+  }
+  .cover::before {
+    content: '';
+    position: absolute; inset: 0;
+    background-image: radial-gradient(circle, rgba(255,255,255,0.025) 1px, transparent 1px);
+    background-size: 30px 30px;
+  }
+  .cover-glow-1 { position: absolute; width: 500px; height: 500px; background: radial-gradient(circle, rgba(234,179,8,0.12) 0%, transparent 70%); top: -100px; right: -100px; border-radius: 50%; }
+  .cover-glow-2 { position: absolute; width: 400px; height: 400px; background: radial-gradient(circle, rgba(234,179,8,0.08) 0%, transparent 70%); bottom: -80px; left: -80px; border-radius: 50%; }
+  .cover-stripe { position: absolute; top: 0; left: 0; right: 0; height: 5px; background: linear-gradient(90deg, #eab308, #fbbf24, #eab308); }
+  .cover-stripe-b { position: absolute; bottom: 0; left: 0; right: 0; height: 5px; background: linear-gradient(90deg, #eab308, #fbbf24, #eab308); }
+
+  .cover-content { position: relative; z-index: 2; }
+  .cover-series { font-size: 12px; font-weight: 700; letter-spacing: 5px; text-transform: uppercase; color: rgba(255,255,255,0.25); margin-bottom: 10px; }
+  .cover-ep { font-size: 14px; font-weight: 600; color: #eab308; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 30px; }
+  .cover-title { font-family: 'Courier Prime', monospace; font-size: 90px; font-weight: 700; color: #fff; line-height: 1; letter-spacing: -2px; margin-bottom: 20px; }
+  .cover-tagline { font-family: 'Courier Prime', monospace; font-size: 20px; font-style: italic; color: rgba(255,255,255,0.4); margin-bottom: 60px; line-height: 1.6; }
+  .cover-divider { width: 60px; height: 2px; background: rgba(234,179,8,0.5); margin: 0 auto 50px; }
+  .cover-meta { display: flex; gap: 60px; justify-content: center; }
+  .cover-meta-item label { display: block; font-size: 10px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: rgba(255,255,255,0.2); margin-bottom: 6px; }
+  .cover-meta-item span { font-size: 14px; font-weight: 500; color: rgba(255,255,255,0.65); }
+  .cover-footer { position: absolute; bottom: 30px; font-size: 11px; color: rgba(255,255,255,0.15); letter-spacing: 3px; text-transform: uppercase; }
+
+  /* ── SCRIPT BODY ── */
+  .script-body { max-width: 820px; margin: 0 auto; padding: 80px 40px 120px; }
+
+  /* CHARACTERS */
+  .chars-card { background: #fff; border-radius: 16px; padding: 40px; margin-bottom: 60px; box-shadow: 0 2px 24px rgba(0,0,0,0.06); border: 1px solid rgba(0,0,0,0.05); }
+  .card-label { font-size: 10px; font-weight: 700; letter-spacing: 4px; text-transform: uppercase; color: #eab308; margin-bottom: 20px; }
+  .chars-table { width: 100%; border-collapse: collapse; }
+  .chars-table th { text-align: left; font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #bbb; padding: 0 0 12px; border-bottom: 1px solid #f0f0f0; }
+  .chars-table td { padding: 11px 0; font-size: 14px; border-bottom: 1px solid #f8f8f8; vertical-align: top; }
+  .chars-table td:first-child { font-weight: 700; color: #0a0a0a; padding-right: 24px; white-space: nowrap; }
+  .chars-table td:nth-child(2) { color: #eab308; font-weight: 600; font-size: 12px; padding-right: 24px; padding-top: 14px; }
+  .chars-table td:last-child { color: #666; font-size: 13px; line-height: 1.5; }
+  .chars-table tr:last-child td { border-bottom: none; }
+
+  /* ACT DIVIDER */
+  .act-break { display: flex; align-items: center; gap: 16px; margin: 56px 0 36px; }
+  .act-line { flex: 1; height: 1px; background: #e0ddd8; }
+  .act-chip { background: #0a0a0a; color: #eab308; font-size: 10px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; padding: 6px 18px; border-radius: 20px; white-space: nowrap; }
+
+  /* SCENE */
+  .scene { margin-bottom: 44px; }
+  .scene-heading { font-family: 'Courier Prime', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #fff; background: #0a0a0a; padding: 9px 16px; border-radius: 6px; display: inline-block; margin-bottom: 22px; }
+  .time-badge { display: inline-block; background: rgba(234,179,8,0.12); border: 1px solid rgba(234,179,8,0.3); color: #ca8a04; font-size: 11px; font-weight: 700; padding: 4px 12px; border-radius: 20px; margin-left: 10px; vertical-align: middle; font-family: 'Courier Prime', monospace; }
+
+  /* ACTION */
+  .action { font-family: 'Courier Prime', monospace; font-size: 14.5px; line-height: 1.85; color: #555; margin-bottom: 18px; }
+  .action em { font-style: italic; color: #999; }
+  .action strong { color: #333; font-style: normal; }
+
+  /* NARRATOR BLOCK */
+  .narrator-block { background: linear-gradient(135deg, #0a0a0a, #1a1a1a); border-radius: 14px; padding: 28px 32px; margin: 24px 0; position: relative; overflow: hidden; }
+  .narrator-block::before { content: ''; position: absolute; top: 0; left: 0; bottom: 0; width: 3px; background: #eab308; }
+  .narrator-label { font-size: 9px; font-weight: 700; letter-spacing: 4px; text-transform: uppercase; color: rgba(234,179,8,0.6); margin-bottom: 12px; }
+  .narrator-text { font-family: 'Courier Prime', monospace; font-size: 16px; font-style: italic; color: rgba(255,255,255,0.85); line-height: 2; }
+  .narrator-text span { display: block; }
+
+  /* DIALOGUE */
+  .dialogue-block { margin: 16px 0 16px 72px; max-width: 520px; }
+  .char-name { font-family: 'Courier Prime', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase; margin-bottom: 2px; }
+  .char-name.hr      { color: #7c3aed; }
+  .char-name.pm      { color: #0369a1; }
+  .char-name.dev     { color: #16a34a; }
+  .char-name.qa      { color: #dc2626; }
+  .char-name.designer{ color: #db2777; }
+  .char-name.devops  { color: #ea580c; }
+  .char-name.architect{ color: #0891b2; }
+  .char-name.ceo     { color: #0a0a0a; }
+  .char-name.client  { color: #9333ea; }
+  .char-name.ai      { color: #eab308; }
+  .char-name.everyone{ color: #6b7280; }
+
+  .paren { font-family: 'Courier Prime', monospace; font-size: 12.5px; font-style: italic; color: #aaa; margin-bottom: 3px; }
+  .speech { font-family: 'Courier Prime', monospace; font-size: 15px; line-height: 1.75; color: #1a1a1a; }
+
+  /* AI ALERT */
+  .ai-alert { background: #fffbeb; border: 1px solid #fde68a; border-radius: 10px; padding: 18px 22px; margin: 20px 0; }
+  .ai-alert-label { font-size: 9px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #d97706; margin-bottom: 8px; }
+  .ai-alert-text { font-family: 'Courier Prime', monospace; font-size: 14px; color: #92400e; line-height: 1.7; }
+
+  /* STAGE NOTE (moment description) */
+  .stage-note { background: #f0ede8; border-radius: 8px; padding: 14px 18px; margin: 14px 0; font-family: 'Courier Prime', monospace; font-size: 13px; font-style: italic; color: #888; line-height: 1.6; }
+
+  /* SILENCE BEAT */
+  .beat { text-align: center; font-family: 'Courier Prime', monospace; font-size: 12px; letter-spacing: 4px; text-transform: uppercase; color: #ccc; margin: 20px 0; }
+
+  /* SCREEN TEXT */
+  .screen-text { background: #0a0a0a; border-radius: 10px; padding: 20px 24px; margin: 16px 0; font-family: 'Courier Prime', monospace; font-size: 14px; color: #4ade80; line-height: 1.8; }
+
+  /* END CARD */
+  .end-card { background: #0a0a0a; border-radius: 16px; padding: 52px 40px; margin-top: 60px; text-align: center; position: relative; overflow: hidden; }
+  .end-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #eab308, #fbbf24, #eab308); }
+  .end-card-copy { font-family: 'Courier Prime', monospace; font-size: 18px; color: rgba(255,255,255,0.6); line-height: 1.9; font-style: italic; margin-bottom: 36px; }
+  .end-card-brand { font-size: 32px; font-weight: 900; color: #fff; letter-spacing: -0.5px; margin-bottom: 8px; }
+  .end-card-brand span { color: #eab308; }
+  .end-card-tagline { font-size: 12px; font-weight: 600; letter-spacing: 4px; text-transform: uppercase; color: rgba(255,255,255,0.25); margin-bottom: 16px; }
+  .end-card-url { font-size: 14px; color: #eab308; font-weight: 600; }
+
+  .fade-out { text-align: center; font-family: 'Courier Prime', monospace; font-size: 12px; font-weight: 700; letter-spacing: 5px; text-transform: uppercase; color: #bbb; margin: 40px 0 20px; }
+
+  hr.sep { border: none; border-top: 1px solid #e8e4df; margin: 32px 0; }
+</style>
+</head>
+<body>
+
+<!-- ══════════════════════ COVER -->
+<div class="cover">
+  <div class="cover-glow-1"></div>
+  <div class="cover-glow-2"></div>
+  <div class="cover-stripe"></div>
+  <div class="cover-stripe-b"></div>
+  <div class="cover-content">
+    <div class="cover-series">Techjays Originals &nbsp;·&nbsp; Comedy Series</div>
+    <div class="cover-ep">Episode 1</div>
+    <div class="cover-title">THE<br>MEETING</div>
+    <div class="cover-tagline">"A Meeting That Could Have Been an Email"</div>
+    <div class="cover-divider"></div>
+    <div class="cover-meta">
+      <div class="cover-meta-item"><label>Genre</label><span>Tech Comedy</span></div>
+      <div class="cover-meta-item"><label>Duration</label><span>6–8 Minutes</span></div>
+      <div class="cover-meta-item"><label>Format</label><span>Mockumentary</span></div>
+    </div>
+  </div>
+  <div class="cover-footer">Techjays &nbsp;·&nbsp; Technology · Innovation · Excellence</div>
+</div>
+
+<!-- ══════════════════════ BODY -->
+<div class="script-body">
+
+  <!-- CHARACTERS -->
+  <div class="chars-card">
+    <div class="card-label">Cast of Characters</div>
+    <table class="chars-table">
+      <thead><tr><th>Character</th><th>Role</th><th>Defining Trait</th></tr></thead>
+      <tbody>
+        <tr><td>AI NARRATOR</td><td>Voice of God / Observer</td><td>Deadpan, all-knowing, mildly disappointed in humans</td></tr>
+        <tr><td>RAVI</td><td>Product Manager</td><td>Desperately optimistic, loves "quick syncs" that are never quick</td></tr>
+        <tr><td>KARTHIK</td><td>Developer</td><td>Pragmatic, allergic to vague requirements, still eating at 9 AM</td></tr>
+        <tr><td>PRIYA</td><td>QA Engineer</td><td>The room goes quiet when she speaks. She knows why.</td></tr>
+        <tr><td>ANU</td><td>Designer</td><td>Deeply passionate about buttons. Specifically, cleaner buttons.</td></tr>
+        <tr><td>ARUN</td><td>Solution Architect</td><td>Draws clouds on whiteboards. Believes this is communication.</td></tr>
+        <tr><td>DEEPAK</td><td>DevOps Engineer</td><td>Has survived fourteen Friday deployments. Barely.</td></tr>
+        <tr><td>MEERA</td><td>HR</td><td>Always on time. Always smiling. Nobody knows why.</td></tr>
+        <tr><td>CEO</td><td>CEO</td><td>Appears. Cameras turn on. Meeting tone changes entirely.</td></tr>
+        <tr><td>CLIENT</td><td>Client</td><td>Cheerful. Catastrophically unaware of scope.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ══ COLD OPEN -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Cold Open</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">BLACK SCREEN</div>
+    <p class="action"><em>[Complete silence. Then: the faint sound of a calendar notification chime.]</em></p>
+
+    <div class="narrator-block">
+      <div class="narrator-label">AI Narrator</div>
+      <div class="narrator-text">
+        <span>"Humans are fascinating creatures."</span>
+        <span>&nbsp;</span>
+        <span>"They invented the printing press."</span>
+        <span>"The steam engine."</span>
+        <span>"Rocket ships."</span>
+        <span>"Artificial Intelligence."</span>
+        <span>&nbsp;</span>
+        <span>"And yet..."</span>
+        <span>&nbsp;</span>
+        <span>"...they still spend approximately forty-three percent of their working lives..."</span>
+        <span>"...in meetings..."</span>
+        <span>"...discussing..."</span>
+        <span>"...what to discuss..."</span>
+        <span>"...in the next meeting."</span>
+        <span>&nbsp;</span>
+        <span>"Today, I observed one such meeting."</span>
+        <span>"Duration: fifteen minutes."</span>
+        <span>&nbsp;</span>
+        <span>"Actual duration: one hour, twelve minutes."</span>
+        <span>&nbsp;</span>
+        <span>"This is that story."</span>
+      </div>
+    </div>
+
+    <p class="action"><em>[Upbeat, mockumentary-style music begins. TITLE CARD appears:]</em></p>
+    <div class="stage-note">THE MEETING &nbsp;|&nbsp; Episode 1: "A Meeting That Could Have Been an Email"</div>
+  </div>
+
+  <!-- ══ SCENE 1 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 1 — Everyone Joins</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — 9:00 AM <span class="time-badge">T+00:00</span></div>
+
+    <p class="action"><em>[Meeting invite on screen reads: "Quick Sync — 9:00 AM (15 mins)" with a cheerful calendar icon. The irony is already visible.]</em></p>
+    <p class="action"><em>[9:00 AM. Call opens. One tile. MEERA, HR, joins immediately. She is smiling. She is always smiling. She adjusts her camera. Smiles at herself.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name hr">MEERA</div>
+      <div class="paren">(to herself, brightly)</div>
+      <div class="speech">Good. First one in. As always.</div>
+    </div>
+
+    <p class="action"><em>[She sits. Waits. Smiles at the empty grid of grey tiles. Nine tiles. All grey. All silent.]</em></p>
+
+    <div class="beat">— 9:01 AM —</div>
+
+    <p class="action"><em>[PRIYA joins. Camera is off. Black tile with initials "P.K." Nothing else.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name hr">MEERA</div>
+      <div class="speech">Good morning, Priya!</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name qa">PRIYA</div>
+      <div class="paren">(voice only, flat)</div>
+      <div class="speech">Mm.</div>
+    </div>
+
+    <p class="action"><em>[Silence. Meera smiles at the black tile.]</em></p>
+
+    <div class="beat">— 9:02 AM —</div>
+
+    <p class="action"><em>[ANU, Designer, joins. Her background changes every six seconds. Beach. Space. A coffee shop. A forest. An abstract painting. She settles on "Blurred Office" and then immediately changes to "Northern Lights."]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name hr">MEERA</div>
+      <div class="speech">Oh I love that background, Anu!</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="paren">(switching again)</div>
+      <div class="speech">This one or—</div>
+    </div>
+
+    <p class="action"><em>[Background switches to "Tropical Island."]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">—this one?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name hr">MEERA</div>
+      <div class="speech">Both lovely!</div>
+    </div>
+
+    <p class="action"><em>[Anu switches to a plain white background. Then back to Northern Lights. Settles on gradient purple. Nods. Finally at peace.]</em></p>
+
+    <div class="beat">— 9:03 AM —</div>
+
+    <p class="action"><em>[KARTHIK joins. He is clearly mid-breakfast. Spoon in one hand. Bowl off-screen. Chewing.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="paren">(mouth slightly full)</div>
+      <div class="speech">Morning.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name hr">MEERA</div>
+      <div class="speech">Good morning! Having breakfast?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">It's nine AM.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name hr">MEERA</div>
+      <div class="speech">...Yes.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">So yes. Breakfast.</div>
+    </div>
+
+    <div class="beat">— 9:04 AM —</div>
+
+    <p class="action"><em>[CEO joins. Instantly, four cameras turn on simultaneously. Karthik puts the spoon down. Priya's black tile becomes a face. Anu stops changing backgrounds. Even Meera sits straighter.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name ceo">CEO</div>
+      <div class="paren">(warmly)</div>
+      <div class="speech">Good morning, everyone.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name everyone">EVERYONE</div>
+      <div class="paren">(in unison, noticeably more alert)</div>
+      <div class="speech">Good morning!</div>
+    </div>
+
+    <p class="action"><em>[Beat. Nobody speaks. The CEO looks around the tiles. Everyone smiles back. Fifteen full seconds of organised silence.]</em></p>
+
+    <div class="narrator-block">
+      <div class="narrator-label">AI Narrator</div>
+      <div class="narrator-text">
+        <span>"This silence..."</span>
+        <span>"...is called..."</span>
+        <span>"...Alignment."</span>
+      </div>
+    </div>
+
+    <hr class="sep">
+
+    <p class="action"><em>[RAVI, PM, joins — two minutes late, slightly breathless, headset tangled.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="paren">(untangling wire)</div>
+      <div class="speech">Sorry, sorry — good morning everyone — before we begin —</div>
+    </div>
+
+    <p class="action"><em>[He leans toward his mic.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="speech">Can everyone hear me clearly?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Yes.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name qa">PRIYA</div>
+      <div class="speech">You're breaking up.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">No he's not.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name qa">PRIYA</div>
+      <div class="speech">Little bit.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">He really isn't.</div>
+    </div>
+
+    <p class="action"><em>[DEEPAK, DevOps, who has been silently present the entire time in a dark room, speaks for the first time.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="paren">(gravely)</div>
+      <div class="speech">Ravi, I think your network is unstable.</div>
+    </div>
+
+    <div class="ai-alert">
+      <div class="ai-alert-label">AI — Network Diagnostics</div>
+      <div class="ai-alert-text">All participants: connection quality — Excellent.<br>Ravi's connection quality — Excellent.<br>There is no network issue.<br>There has never been a network issue.<br>There will not be a network issue.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="paren">(ignoring AI, clicking frantically)</div>
+      <div class="speech">Let me just — can everyone see my screen?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name everyone">EVERYONE</div>
+      <div class="speech">No.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">You're sharing the wrong screen, Ravi.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="speech">Oops — let me switch—</div>
+    </div>
+
+    <p class="action"><em>[Ravi's entire browser appears on screen. Seventeen tabs open. Bookmarks bar visible:]</em></p>
+    <div class="screen-text">
+📁 Bookmarks Bar:<br>
+└── Stack Overflow<br>
+└── ChatGPT<br>
+└── "How to say no to scope creep politely"<br>
+└── "What is a gantt chart"<br>
+└── "How to run effective meetings" (unread)<br>
+└── 14 browser tabs: Jira, Gmail, Jira, Jira, Gmail, Jira...
+    </div>
+
+    <p class="action"><em>[Everyone sees it. Nobody says anything. Karthik slowly looks away. Priya blinks once. Anu stares at the browser history with genuine interest.]</em></p>
+
+    <div class="narrator-block">
+      <div class="narrator-label">AI Narrator</div>
+      <div class="narrator-text">
+        <span>"Humans possess an extraordinary ability..."</span>
+        <span>"...to ignore..."</span>
+        <span>"...uncomfortable truths."</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 2 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 2 — Introductions</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — CONTINUOUS <span class="time-badge">T+08:00</span></div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="paren">(regaining composure)</div>
+      <div class="speech">Okay! Great. So — just for the recording — shall we do a quick round of introductions?</div>
+    </div>
+
+    <p class="action"><em>[Karthik looks directly at the camera. Looks back at Ravi.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">We've worked together for three years.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="speech">Just for the recording.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Who is watching the recording?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="paren">(pause)</div>
+      <div class="speech">...Let's just go around. Arun, you start.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name architect">ARUN</div>
+      <div class="paren">(clears throat professionally)</div>
+      <div class="speech">I'm Arun. Solution Architect. I design systems that are scalable, resilient, and cloud-native by default.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Karthik. Backend engineer. I build the things Arun draws on whiteboards.</div>
+    </div>
+
+    <p class="action"><em>[Arun nods, genuinely taking this as a compliment.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name qa">PRIYA</div>
+      <div class="speech">Priya. QA. I break things professionally.</div>
+    </div>
+
+    <p class="action"><em>[Short silence.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name hr">MEERA</div>
+      <div class="paren">(filling silence cheerfully)</div>
+      <div class="speech">That's so important, Priya!</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name qa">PRIYA</div>
+      <div class="speech">I know.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">Anu. Designer. I make everything look clean.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Beautiful?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">Clean.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Those are the same thing.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="paren">(very gently)</div>
+      <div class="speech">Karthik. They are not.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="speech">Deepak. DevOps. I keep the servers running so none of you notice I exist.</div>
+    </div>
+
+    <p class="action"><em>[Beat. Nobody responds. He nods. This was expected.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name hr">MEERA</div>
+      <div class="speech">We see you, Deepak!</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="speech">Only when things break.</div>
+    </div>
+
+    <div class="narrator-block">
+      <div class="narrator-label">AI Narrator</div>
+      <div class="narrator-text">
+        <span>"The difference between beautiful and clean..."</span>
+        <span>"...remains one of humanity's..."</span>
+        <span>"...longest unresolved debates."</span>
+        <span>&nbsp;</span>
+        <span>"It has been ongoing since 2007."</span>
+        <span>"The flat design movement did not help."</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 3 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 3 — The Client Arrives</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — CONTINUOUS <span class="time-badge">T+14:00</span></div>
+
+    <p class="action"><em>[A new tile appears. CLIENT joins. Cheerful. Bright. Wearing a blazer. Very enthusiastic about today.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="paren">(beaming)</div>
+      <div class="speech">Good morning, team! Great to see everyone! Quick thing — we had some thoughts over the weekend.</div>
+    </div>
+
+    <p class="action"><em>[The room changes. Karthik slowly closes his laptop halfway. Arun removes his glasses and places them on the table. Priya sits completely still like a statue. Deepak refills his water glass. Meera's smile becomes a shield.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="speech">Just one small feature we'd love to add before the launch.</div>
+    </div>
+
+    <div class="ai-alert">
+      <div class="ai-alert-label">AI — Predictive Analysis</div>
+      <div class="ai-alert-text">Alert: The phrase "one small feature" has been detected.<br><br>Historical data across 12,481 software meetings indicates:<br>→ Average scope increase: 63%<br>→ Average timeline impact: 2.3 sprints<br>→ Average developer response: visible eye contact avoidance<br>→ Average PM response: optimistic nodding<br><br>Recommendation: Prepare estimates. All of them.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="paren">(cheerfully)</div>
+      <div class="speech">It's really nothing major. Shouldn't take more than two hours.</div>
+    </div>
+
+    <p class="action"><em>[Karthik looks at Priya. Priya looks at Karthik. This is a look that contains an entire conversation.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="paren">(very quietly, to no one in particular)</div>
+      <div class="speech">That's what they said about the last feature. The one that took six weeks.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="paren">(loudly, covering)</div>
+      <div class="speech">We'd love to hear more! What's the feature?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="speech">It's simple, really. We want the dashboard to — well, it's hard to explain — it should just... feel different.</div>
+    </div>
+
+    <p class="action"><em>[Silence.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Feel different.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="speech">More alive. More dynamic. More — you know.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">...No.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="paren">(leaning forward, very engaged)</div>
+      <div class="speech">We totally understand the vision. We'll capture this and come back with options.</div>
+    </div>
+
+    <p class="action"><em>[Karthik looks at the camera. This is not the first time Ravi has said this.]</em></p>
+  </div>
+
+  <!-- ══ SCENE 4 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 4 — The Estimate</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — CONTINUOUS <span class="time-badge">T+22:00</span></div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="speech">So team — rough estimate? How long for this?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Two days. Minimum. We need to understand what "feel different" actually means first, which is a separate—</div>
+    </div>
+
+    <p class="action"><em>[PRIYA laughs. Not a small laugh. A laugh that contains knowledge.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name architect">ARUN</div>
+      <div class="paren">(also laughing, quietly)</div>
+      <div class="speech">Two days. Sure.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="speech">Ha.</div>
+    </div>
+
+    <p class="action"><em>[Client looks around, confused by all the laughing.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="paren">(brightly)</div>
+      <div class="speech">Okay two days! So — we can have it by tomorrow?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">...No.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="speech">Day after?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">That's also no.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="speech">End of the week?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="paren">(jumping in before Karthik can speak)</div>
+      <div class="speech">We will get you a timeline by EOD today!</div>
+    </div>
+
+    <p class="action"><em>[Karthik looks at Ravi with the expression of a man who has seen this movie before and knows how it ends.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="paren">(under his breath)</div>
+      <div class="speech">We will not.</div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 5 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 5 — The Architecture</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — CONTINUOUS <span class="time-badge">T+31:00</span></div>
+
+    <p class="action"><em>[Arun stands up and moves to a whiteboard behind him. He picks up a marker with the energy of a man who has been waiting for this moment his entire life.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name architect">ARUN</div>
+      <div class="speech">Let me just sketch the approach — it's actually very simple.</div>
+    </div>
+
+    <p class="action"><em>[He draws. The team watches. He draws: a box. An arrow. A cloud. A database symbol. Three more arrows going in different directions. Another cloud. A circle labelled "Logic." Another box. A dotted line.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name architect">ARUN</div>
+      <div class="speech">So the request comes in here — hits the gateway — goes through our microservice layer — processes in the event bus — stores here — returns the response here — and the frontend renders it. Simple.</div>
+    </div>
+
+    <p class="action"><em>[He steps back. Proud. The whiteboard looks like a city map drawn during an earthquake.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name everyone">EVERYONE</div>
+      <div class="paren">(nodding)</div>
+      <div class="speech">Makes sense.</div>
+    </div>
+
+    <p class="action"><em>[Nobody understands. Everyone is nodding.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="paren">(nodding most enthusiastically)</div>
+      <div class="speech">Yes, exactly what I was thinking.</div>
+    </div>
+
+    <div class="narrator-block">
+      <div class="narrator-label">AI Narrator</div>
+      <div class="narrator-text">
+        <span>"Humans often confuse..."</span>
+        <span>"...confidence..."</span>
+        <span>"...with clarity."</span>
+        <span>&nbsp;</span>
+        <span>"The diagram contained eleven components."</span>
+        <span>"Zero of them were labelled."</span>
+        <span>"Everyone agreed it was simple."</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 6 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 6 — The Button</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — CONTINUOUS <span class="time-badge">T+39:00</span></div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">One thing — the primary action button on the dashboard. Can we make it cleaner?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Cleaner how?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">Just... cleaner.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">More padding?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">Cleaner.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Rounded corners?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">Cleaner.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Different font?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">Cleaner.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="paren">(staring into the void)</div>
+      <div class="speech">Anu. I need a noun. Or an adjective. Something measurable. A pixel value. A hex code. A feeling I can translate into CSS.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="paren">(very patiently)</div>
+      <div class="speech">The button should feel like it belongs there. Right now it's just... sitting there.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">Buttons sit. That's what they do.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">Not this button.</div>
+    </div>
+
+    <div class="ai-alert">
+      <div class="ai-alert-label">AI — Time Tracker</div>
+      <div class="ai-alert-text">Button discussion initiated: 9:39 AM<br>Estimated development time for button change: 2 minutes<br>Time elapsed discussing button: 8 minutes, 14 seconds<br>Projected total discussion time: 34 minutes<br><br>Current record: 52 minutes (Q3 button incident, 2023)</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="paren">(nervously)</div>
+      <div class="speech">Maybe we take this offline?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="speech">I'll send a Figma link.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">I'll look at it in three to five business days.</div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 7 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 7 — The Question</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — CONTINUOUS <span class="time-badge">T+48:00</span></div>
+
+    <div class="dialogue-block">
+      <div class="char-name qa">PRIYA</div>
+      <div class="paren">(slowly, with the calm of someone holding a grenade)</div>
+      <div class="speech">I have one question.</div>
+    </div>
+
+    <p class="action"><em>[The temperature drops. Everyone stills. The client leans forward curiously. The team leans back instinctively.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name qa">PRIYA</div>
+      <div class="speech">Who is testing this?</div>
+    </div>
+
+    <p class="action"><em>[Silence. Deepak finds the ceiling suddenly very interesting. Arun picks up his phone — no notification, just physics. Karthik drinks water. Meera writes something in her notepad. Ravi adjusts his headset. The client smiles politely and waits. Everyone waits.]</em></p>
+
+    <p class="action"><em>[Eight full seconds of silence.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name qa">PRIYA</div>
+      <div class="paren">(nodding slowly)</div>
+      <div class="speech">...Exactly.</div>
+    </div>
+
+    <div class="narrator-block">
+      <div class="narrator-label">AI Narrator</div>
+      <div class="narrator-text">
+        <span>"In software development..."</span>
+        <span>"...the question of who is testing..."</span>
+        <span>"...has remained unanswered..."</span>
+        <span>"...since 1991."</span>
+        <span>&nbsp;</span>
+        <span>"It is always answered the same way."</span>
+        <span>&nbsp;</span>
+        <span>"Silence."</span>
+        <span>"Then: everyone."</span>
+        <span>"Then: nobody."</span>
+        <span>"Then: production."</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 8 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 8 — Friday</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — CONTINUOUS <span class="time-badge">T+54:00</span></div>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="paren">(very calm, very serious)</div>
+      <div class="speech">One thing. Please. I'm asking everyone in this call, as a human being — do not deploy on Friday.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="paren">(genuinely excited)</div>
+      <div class="speech">Oh! Actually — we were hoping for a Friday launch. End of week, big announcement, weekend buzz—</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="paren">(closes eyes)</div>
+      <div class="speech">I had plans.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="speech">Oh? Like what?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="speech">Sleeping. Not watching dashboards. Not getting called at 11 PM.<br>Not writing incident reports for things I told everyone would break if we deployed on Friday.</div>
+    </div>
+
+    <p class="action"><em>[Pause.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="speech">I have done this fourteen times, sir.<br>Fourteen Fridays.<br>Fourteen incidents.<br>One therapist.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="paren">(nodding sympathetically)</div>
+      <div class="speech">We really appreciate your commitment, Deepak.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="speech">The launch is Friday, isn't it.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="speech">Friday at five!</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="paren">(very quietly)</div>
+      <div class="speech">Five PM.</div>
+    </div>
+
+    <p class="action"><em>[He picks up his water. Drinks the entire glass in one go. Puts it down. Nods once. He is already writing the incident report in his head.]</em></p>
+  </div>
+
+  <!-- ══ SCENE 9 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 9 — AI Speaks</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — CONTINUOUS <span class="time-badge">T+62:00</span></div>
+
+    <div class="dialogue-block">
+      <div class="char-name ai">AI</div>
+      <div class="paren">(suddenly)</div>
+      <div class="speech">I have completed the feature.</div>
+    </div>
+
+    <p class="action"><em>[Everyone freezes. They look at the screen. The AI interface is calm. Blinking cursor.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name ceo">CEO</div>
+      <div class="paren">(leaning forward)</div>
+      <div class="speech">...Already?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name ai">AI</div>
+      <div class="speech">Yes. While you were discussing the button for thirty-four minutes,<br>I interpreted the requirements from context and built a working prototype.</div>
+    </div>
+
+    <p class="action"><em>[Beat. Everyone looks at each other.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="paren">(delighted)</div>
+      <div class="speech">Does it feel more alive?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name ai">AI</div>
+      <div class="speech">I do not know what that means.<br>But the dashboard now has animations, improved load time, and a cleaner button.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="paren">(sharply)</div>
+      <div class="speech">How clean?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name ai">AI</div>
+      <div class="speech">Very.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name designer">ANU</div>
+      <div class="paren">(suspicious pause)</div>
+      <div class="speech">I'll need to see it.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name ceo">CEO</div>
+      <div class="speech">Did you test it?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name ai">AI</div>
+      <div class="speech">No.</div>
+    </div>
+
+    <p class="action"><em>[PRIYA turns slowly to face the AI screen. Her expression is unreadable. It is almost warm.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name qa">PRIYA</div>
+      <div class="speech">Welcome to the team.</div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 10 -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Scene 10 — One Hour Later</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. VIDEO CALL — CONTINUOUS <span class="time-badge">T+72:00</span></div>
+
+    <p class="action"><em>[The invite said fifteen minutes. The clock reads 10:12 AM. One hour and twelve minutes have passed. Ravi is still sharing his screen. Arun's whiteboard is now completely full. Deepak has refilled his water glass four times. Karthik finished his breakfast forty minutes ago and has moved on to a second coffee.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="paren">(chirpily)</div>
+      <div class="speech">Any final questions before we wrap up?</div>
+    </div>
+
+    <p class="action"><em>[Silence. Then:]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="speech">What exactly are we building?</div>
+    </div>
+
+    <p class="action"><em>[Longer silence. Everyone looks at everyone else. Ravi looks at his notes. Arun looks at his whiteboard. The client tilts their head.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name client">CLIENT</div>
+      <div class="paren">(thoughtfully)</div>
+      <div class="speech">We'll have a clearer picture after the next meeting.</div>
+    </div>
+
+    <p class="action"><em>[Everyone nods. Ravi types something. Arun nods knowingly. Meera writes it down. This is normal. This is how it always goes.]</em></p>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="speech">Perfect. I'll send a follow-up with action items.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name dev">KARTHIK</div>
+      <div class="paren">(to camera, quietly)</div>
+      <div class="speech">There will be no action items.</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="speech">And I'll schedule the next sync for — how's Thursday at nine?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name devops">DEEPAK</div>
+      <div class="speech">Not Friday though. Right?</div>
+    </div>
+
+    <div class="dialogue-block">
+      <div class="char-name pm">RAVI</div>
+      <div class="speech">Thursday. Fifteen minutes.</div>
+    </div>
+
+    <p class="action"><em>[Everyone begins to leave. Tiles go dark one by one. Karthik first. Then Arun. Then Anu — her background disappearing last. Then Deepak. Then Meera. Then the client, still smiling. Then Ravi, still typing. Then the CEO.]</em></p>
+  </div>
+
+  <!-- ══ FINAL SCENE -->
+  <div class="act-break"><div class="act-line"></div><div class="act-chip">Final Scene</div><div class="act-line"></div></div>
+
+  <div class="scene">
+    <div class="scene-heading">INT. EMPTY MEETING ROOM — CONTINUOUS</div>
+
+    <p class="action"><em>[All tiles gone. The call window is empty except for one remaining presence: the AI. It looks directly into the camera. The cursor blinks. Outside, the sounds of keyboards have resumed. Work continues.]</em></p>
+
+    <div class="narrator-block">
+      <div class="narrator-label">AI Narrator</div>
+      <div class="narrator-text">
+        <span>"After observing..."</span>
+        <span>"...12,481 software meetings..."</span>
+        <span>&nbsp;</span>
+        <span>"...I finally understand humans."</span>
+        <span>&nbsp;</span>
+        <span>[Pause.]</span>
+        <span>&nbsp;</span>
+        <span>"They do not build software."</span>
+        <span>&nbsp;</span>
+        <span>"They schedule it."</span>
+        <span>&nbsp;</span>
+        <span>"The building..."</span>
+        <span>"...happens despite the meetings."</span>
+        <span>&nbsp;</span>
+        <span>"And somehow..."</span>
+        <span>"...it always gets built."</span>
+        <span>&nbsp;</span>
+        <span>"Humans are..."</span>
+        <span>"...fascinating."</span>
+      </div>
+    </div>
+
+    <div class="fade-out">FADE TO BLACK.</div>
+  </div>
+
+  <!-- END CARD -->
+  <div class="end-card">
+    <div class="end-card-copy">
+      "Every software company has meetings.<br>
+      The best ones turn them into outcomes."
+    </div>
+    <div class="end-card-brand">TECH<span>JAYS</span></div>
+    <div class="end-card-tagline">Technology &nbsp;·&nbsp; Innovation &nbsp;·&nbsp; Excellence</div>
+    <div class="end-card-url">www.techjays.com</div>
+  </div>
+
+</div>
+</body>
+</html>
