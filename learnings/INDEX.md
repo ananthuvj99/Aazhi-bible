@@ -84,3 +84,4 @@ Categories: position, elements, characters, sizes, angles, in-frame, dialogue, t
 | W7 | win | platform | 1A v14 recipe: what to copy from an approved prompt | showreel 1A v14, approved | Ranjith | 2026-11-04 | [W007-1a-v14-recipe.md](wins/W007-1a-v14-recipe.md) |
 Until November 2026 all lessons and wins lived in one file, `rules/lessons.md`. Entries are never deleted; a later lesson marks an earlier one superseded.
 | W8 | win | characters | Give the listener something to do; cut back for their reaction | 1C-c v5 | Ananthu | 2026-11-06 | [W008-listener-reaction-shot.md](wins/W008-listener-reaction-shot.md) |
+| L69 | lesson | dialogue | "Not playful" turned into a mumble | 1D-exit v1.1 | Ananthu | 2026-11-06 | [L069-not-playful-became-too-soft.md](lessons/L069-not-playful-became-too-soft.md) |
