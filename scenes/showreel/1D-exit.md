@@ -1,7 +1,9 @@
-# Shot 1D-exit · "ഓ, ഈ അമ്മ! ഞാൻ പെട്ടെന്ന് പോയി കുളിച്ചിട്ട് വരട്ടെ." — Antony leaves the kitchen (9 s) — v1
+# Shot 1D-exit · "ഓ, ഈ അമ്മ! ഞാൻ പെട്ടെന്ന് പോയി കുളിച്ചിട്ട് വരട്ടെ." — Antony leaves the kitchen (9 s) — v1.1
 Status: **ready** (QA 94)
 References: @endframe1cc (START — approved/1C-c-end-frame.png), @antonyhome, @rosamma (from behind), @kitchenclean
 Follows approved 1C-c v5. Last shot of Scene 1.
+
+v1.1 (Ananthu): delivery natural, not too playful — no laugh, half a sigh, matter-of-fact second sentence; small smile only.
 
 ## Prompt
 ```
@@ -43,7 +45,7 @@ Moved by hand like a real feature-film operator, with a faint living breath — 
 ACTION
 0.0s to 0.6s — Antony grins at his mother, as in the start frame.
 0.6s to 1.2s — He lifts one hand and scratches the back of his head, the hand well behind his head, never in front of his face.
-1.2s to 2.2s — Hand still at the back of his head, head steady, he says the first part of his line with a laugh in it.
+1.2s to 2.2s — Hand still at the back of his head, head steady, he says the first part of his line, a small easy smile.
 2.2s to 2.6s — He drops his hand; a small breath.
 2.6s to 4.8s — He says the rest of his line to her, head steady.
 4.8s to 5.6s — He turns away to the right, toward the passage doors behind the camera.
@@ -55,7 +57,7 @@ Dialogue rules: whenever a character speaks, frame them in a medium close-up wit
 While the line is spoken, Antony is the only person whose face is in the frame; his mother's face is never seen.
 
 PERFORMANCE
-Natural, like real life — not acting for the camera. Antony: caught out and laughing at himself, fond and a little cheeky with his mother, in a hurry to get going. His mother: amused, unbothered, carrying on with her cooking.
+Natural, like real life — not acting for the camera. Antony: a grown son, mildly caught out, fond of his mother, with his mind already on getting ready — a small smile, nothing more; not playful, not cheeky, no big grin. His mother: amused, unbothered, carrying on with her cooking.
 
 PHYSICS
 Steam rises from the curry at the bottom-left; his bare feet pad on the red-oxide floor; the mundu swings as he turns and walks.
@@ -67,7 +69,7 @@ AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only — not English, not a translation. Antony speaks the exact Malayalam words written in quotes below, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera. Spoken once, exactly as written.
 
-1.2s to 4.8s — Antony, his ordinary speaking voice at kitchen distance, the way a son really talks to his mother: "ഓ, ഈ അമ്മ!" with a short laugh in it, fond and caught out; a tiny breath; then the second sentence easy and quick, already on his way, "വരട്ടെ" light and rising at the end. Conversational, not recited, not dramatic. About 3.2 seconds.
+1.2s to 4.8s — Antony, his ordinary speaking voice at kitchen distance, the way a son really talks to his mother at home: "ഓ, ഈ അമ്മ!" low and easy, half a sigh, a little fond, no laugh; a tiny breath; then the second sentence plain and matter-of-fact, a normal pace, his mind already on the bath, "വരട്ടെ" level, not sung. Calm and conversational — not playful, not teasing, not recited, not dramatic. About 3.2 seconds.
 "ഓ, ഈ അമ്മ! ഞാൻ പെട്ടെന്ന് പോയി കുളിച്ചിട്ട് വരട്ടെ."
 
 SOUND EFFECTS — natural sounds, never covering a word: steady stirring, the curry bubbling, the wood fire crackling, steam hissing; his bare footsteps on the red-oxide floor, close as he passes the camera and fading away toward the passage; far-away waves breaking on the beach through the window; crows cawing, hens clucking in the yard, a light sea breeze in the palm fronds.
