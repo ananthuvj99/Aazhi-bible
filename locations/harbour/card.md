@@ -7,7 +7,8 @@ created: 2026-11-06
 status: approved
 image: plates/harbour-c1-plate.png
 topview: none yet
-used_in: [s13-sh01]
+used_in: [s13-sh00, s13-sh01]
+continuity_score: {harbourc4plate: 89}
 ---
 
 ## Source
