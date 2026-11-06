@@ -1,0 +1,6 @@
+# Memory Hub data is rebuilt by the GitHub Action on every push
+hub/data.json
+# Personal preview settings
+.claude/launch.json
+.claude/settings.local.json
+.DS_Store
