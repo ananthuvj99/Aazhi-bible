@@ -11,27 +11,30 @@ used_in: [s13-sh01]
 ---
 
 ## Source
-- `sheet.jpg`: Ranjith's four-panel location sheet "AAZHI / Cochin Harbour / 1998" (13A Harbour, 13B Approach, 14 Boarding, 15 Departure), Higgsfield job 8f1f41ae-4c2a-44c9-b276-7ac32c89b860. **Never attach it**: it carries printed titles and panel labels, and a grid makes the model copy the layout.
-- Tracker reference: tab "Harbour - Scene 13" of the location tracker (L06; LA033 13A, LA034 13B, LA035 15).
-- `plates/harbour-c1-plate.png` (@harbourc1plate): panel 13A cropped without its label, full resolution (2395 × 1383).
+- `sheet.jpg` (v2, current): Ranjith's four-panel sheet "AAZHI / Cochin Harbour / 1998" (13A Harbour, 13B Approach, 14 Boarding, 15 Departure). **Never attach it**: printed title and panel labels, and the grid gets copied.
+- `sheet-v1.jpg`: the first sheet (big industrial quay, many workers, two-masted urus). Replaced by v2 on 2026-11-06; kept for history.
+- `plates/harbour-c1-plate.png` (@harbourc1plate): panel 13A of sheet v2, cropped without its label. Only 727 × 461 px (taken from a reduced copy); replace with a crop of the full-size sheet when available, same ID.
+- `plates/harbour-c1-plate-v1.png`: the v1 plate (from sheet v1). Never used in a generation; not attached any more.
+- Tracker: tab "Harbour - Scene 13" of the location tracker (L06; LA033 13A, LA034 13B, LA035 15).
 
-## What the image shows (@harbourc1plate)
-- Raised view, about 5 m up, from the water's edge at the near end of a long stone cargo quay, looking along it into the haze.
-- Water on the left two-thirds: a row of about eight empty wooden canoes moored at the bottom-left with a small canopied boat; old tin-roofed cargo sheds and moored cargo vessels across the water.
-- At mid-frame along the quay: two-masted wooden cargo urus moored side by side (dark hulls), more urus further along.
-- Right third: the stone quay; an open cargo shed along the right edge with a tiled roof on pillars; burlap sacks and wooden crates stacked under it and along the quay; wooden handcarts.
-- About twelve workers in white shirts and checked lungis: one bending over a sack pile in the bottom-right foreground, one beside a handcart of crates, one carrying a sack at the right edge, more pushing carts and stacking cargo further along.
-- Hazy daylight from high screen-right; short shadows fall to the left.
-- Small flaws to word away in prompts: faint marks on one far shed wall, a tiny flag on a distant vessel.
+## What the image shows (@harbourc1plate, v2)
+- Low view, about 3 m over the water just off the near corner of the quay, looking along it.
+- Right half: the stone quay with a dark stone wall dropping into the water; old two-storey warehouses with tiled roofs, plastered walls and wooden shutters behind it; stacked wooden crates, burlap sacks, coils of coir rope, two wooden handcarts.
+- Far end of the quay, mid-frame: the hero uru moored bow toward the view (see below); two small boats beyond it.
+- Left half: calm water with sun glitter; a small boat with a standing boatman and pole; wooden canoes moored along the near quay wall in the foreground; a low palm-lined shore with tiled houses across the water.
+- No workers on the quay: write them in by count and task (L39, L43).
+- Hazy morning sun low in front-left: glitter on the water at the left, shadows toward the right.
+
+## Hero uru (as drawn in sheet v2, all four panels)
+- Single wooden mast with rigging; weathered blue-grey planked hull streaked with rust and iron fastenings, red-oxide paint below the waterline; high curved bow.
+- A carved wooden deckhouse aft with two railed decks (turned balusters), cargo and coir rope on deck.
+- Panel 15 prints "COCHIN" on the stern: never let that lettering into a prompt or a plate.
+- The tracker names the hero uru `@Uru2`; register it (card, clean sheet without lettering, INDEX row) before SB020, where Antony walks up to it.
+- Rule: the vessel is a Beypore uru (wooden dhow), never a fishing boat (`rules/prompt-rules.md`).
 
 ## When to attach
-- Any shot from camera position harbour-c1-quay (13A wide of the working harbour, Antony arriving).
-- The workers are in the plate: keep them on purpose, each with a fixed task, looking only at their work (L39, L60, L66).
+- Shots from camera position harbour-c1-quay (13A, the harbour wide, Antony arriving).
 
 ## Never attach for
-- Shots from other spots on the quay (13B approach, 14 boarding, 15 departure): each needs its own plate cropped or made from the matching panel (L53).
+- Shots from other spots on the quay (13B approach, 14 boarding, 15 departure): each needs its own plate from the matching panel (L53).
 - Close shots (L50).
-
-## Hero uru
-- The tracker names the hero uru @Uru2. It is not registered here yet; the urus in this plate are background vessels, not the hero uru. Register @Uru2 (card, sheet, INDEX row) before SB020.
-- Rule: the vessel is a Beypore uru (wooden dhow), never a fishing boat (`rules/prompt-rules.md`).
