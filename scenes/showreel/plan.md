@@ -1,14 +1,16 @@
-# Techjays AI platform showreel — ~60 s, storyboard SB014 → SB018
+# Techjays AI platform showreel — storyboard SB014 → SB023 (status updated 2026-11-06)
 Source storyboard: https://aazhi-storyboard.vercel.app/#p=14&lang=ml
 
 | Scene | Beat | Storyboard | Shots | Status |
 |---|---|---|---|---|
-| 1 | Dawn over the coast; Antony oversleeps; Amma from the kitchen | SB014 | 1A (15 s, approved), 1B (10.5 s), 1C (19 s) = ~44.5 s | 1B, 1C ready |
-| 2 | Ten days — mother makes him eat | SB015 | — | not started |
-| 3 | Eight o'clock — Clara's classroom | SB016–017 | — | not started; Clara ID needed |
+| 1 | Dawn over the coast; Antony oversleeps; Amma from the kitchen | SB014 | Approved: 1A v14, 1B-1, 1B-3 v7, 1C-a v3.1, 1C-b (to 7 s), 1C-b2 v4. Ready: 1C-c v5 (QA 94), then 1D | in progress (Ananthu) |
+| 2 | Ten days — mother makes him eat | SB015 | Approved: 2-PART-A. Ready: 2-PART-B (and singles 2-1…2-6 as a fallback) | in progress (Ananthu) |
+| 3 / s11 | Eight o'clock — Clara's classroom | SB016–017 | Two versions: Ananthu's 3-1…3-6 (ready, v3) and Ranjith's s11-sh00…02 (proposals for Ananthu, s11-sh01 v4 take kept) | decision pending: which version |
 | 4 | Come back safely — walk to harbour | SB018 | — | not started |
+| s13 | The harbour; reaching the uru | SB019–020 | s13-sh01 v4 (QA 94), s13-sh02 v1 (QA 93); upload @harbourc1plate, @harbourc2plate, @uru, @antonybag first | ready (Ranjith) |
+| SB023 | Aashaan's confidence | SB023 | SB023-SINGLES, three single-line shots | draft, two references missing |
 
-Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the showreel runs ~75 s — decision pending.
+(2026-11-04 note) Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the showreel runs ~75 s — decision pending.
 
 ## Finalised Scene 1 dialogue
 - Antony (1D): ഓ, ഈ അമ്മ! — *Oh, this Amma!*
