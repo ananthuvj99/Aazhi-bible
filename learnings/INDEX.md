@@ -1,7 +1,7 @@
 # Learnings — lessons and wins from every creator
 
 The agents read this before every prompt. One row per file in `lessons/` and `wins/`.
-New files are named `L-new-<slug>.md` or `W-new-<slug>.md`; Ananthu gives the number when he merges.
+New files take the next free number after a fresh pull (e.g. `L062-<slug>.md`) and are pushed straight to `main` — no approval step. If the number was taken meanwhile, renumber to the next free one. See `rules/workflow.md`.
 
 Categories: position, elements, characters, sizes, angles, in-frame, dialogue, timing, light, platform.
 
