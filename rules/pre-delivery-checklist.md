@@ -78,3 +78,11 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 63. **Start frames (L52):** a shot that continues another attaches its last frames as the start image.
 64. **Plate = camera position (L53):** the attached plate must be shot from where this shot's camera stands; inside action never uses a from-outside plate.
 65. **15 s maximum per generation (L58)**; dialogue scenes with two speakers are split into one generation per speaker.
+66. **Natural acting (L54):** the speaker has a real task near the line (kept below the face) and a human beat before it; what they talk to is just off frame; "never looks into the camera at any moment".
+67. **Off-screen person's direction (L55):** name which side of the screen they are on, and name the tempting wrong direction ("never toward the window").
+68. **Calls to another room (L56, L57):** the speaker turns toward where the other person is; loudness is written in words ("loud enough to carry, with a smile in her voice") — no [shouts].
+69. **Count the doorways (L59):** when a room has several doors, say how many and which one is meant; start camera moves from the right space.
+70. **Continuity frames that show people (L60):** keep them in the shot on purpose with their new action stated, or don't attach the frame.
+71. **New camera angle (L61):** make a still of the new angle first and use it as the start frame; never attach a frame from the old angle.
+72. **Family dialogue (W6):** no emotion tag; describe ordinary speech ("normal voice at kitchen distance, the way people really talk at home, not dramatic").
+73. **House plan (L57):** count the passage doors ("exactly two bedroom doors facing each other…"); @houseclean / @hallmapped are never attached.
