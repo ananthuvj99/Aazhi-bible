@@ -74,6 +74,7 @@ Categories: position, elements, characters, sizes, angles, in-frame, dialogue, t
 | L65 | lesson | characters | Bare walking verbs give a robotic walk | s11-sh01 v3 | Ranjith | 2026-11-05 | [L065-robotic-walk.md](lessons/L065-robotic-walk.md) |
 | L66 | lesson | characters | Laughing extras turn round to the lens | s11-sh01 v4 | Ranjith | 2026-11-05 | [L066-reacting-extras-face-the-lens.md](lessons/L066-reacting-extras-face-the-lens.md) |
 | L67 | lesson | characters | What a character gains in one scene must reach every later scene's prompt | s13-sh01 v1 | Ranjith | 2026-11-06 | [L067-carry-looks-forward-from-earlier-scenes.md](lessons/L067-carry-looks-forward-from-earlier-scenes.md) |
+| L68 | lesson | angles | A walk toward a goal keeps its direction across the cut | s13-sh02 v1 | Ranjith | 2026-11-06 | [L068-a-walk-to-a-goal-keeps-its-direction.md](lessons/L068-a-walk-to-a-goal-keeps-its-direction.md) |
 | W1 | win | angles | What worked: aerial flight + match cut in one generation | showreel 1A v4, approved | Ananthu | 2026-10-29 | [W001-what-worked-aerial-flight-match-cut.md](wins/W001-what-worked-aerial-flight-match-cut.md) |
 | W2 | win | dialogue | What worked: Scene 2 Part A | approved | Ananthu | 2026-10-30 | [W002-what-worked-scene-2-part-a.md](wins/W002-what-worked-scene-2-part-a.md) |
 | W3 | win | position | Lock staging from an approved end frame | 3-2 approved | Ananthu | 2026-10-30 | [W003-lock-staging-from-an-approved-end.md](wins/W003-lock-staging-from-an-approved-end.md) |
