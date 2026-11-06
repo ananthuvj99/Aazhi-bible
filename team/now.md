@@ -5,4 +5,4 @@ Format: `- Name: shot — what you are doing`
 
 - Ananthu: 1C-c — Amma's reply in the kitchen (v5 ready to generate)
 - Ranjith: s13-sh05 — SB021 Ready to sail, part 3 (Antony at the bow)
-- Aswanth: SB023 — Aashaan's confidence, three single-line shots
+- Aswanth: s16b-sh01/sh02 — SB024 song on deck: plate beat (6 s) + circle dance (6 s), v1 ready
