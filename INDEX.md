@@ -68,6 +68,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@angle1cb2` | Start frame made by Ananthu (ChatGPT): from the stove end, Rosamma front-left stirring, Antony facing her by the open side door | Camera-angle reference for 1C-b2 (front view from the stove end) and 1C-c | `scenes/showreel/approved/1C-b2-start-frame-ananthu.png` (earlier Higgsfield version: 1C-b2-start-frame.png) | Ananthu (ChatGPT image) | 2026-11-05 | register on platform |
 | `@endframe1cb2` | Last frame of approved 1C-b2 (close view of Antony, front angle) | START frame of 1C-c | `scenes/showreel/approved/1C-b2-end-frame.png` | Ananthu | 2026-11-05 | register on platform |
 | `@wallclock` | Old round wall clock, black bezel, cream dial | Only when the clock is on screen; it lives on the front wall of Antony's room above the foot of the cot. Never in any other room | `props/wallclock/sheet.png` | Ananthu | 2026-10-29 | approved |
+| `@antonybag` | Antony's large faded beige canvas shoulder bag, slouchy, half full, one long canvas strap (bag alone, plain background) | Every shot where Antony carries it in frame (with @antony20): strap over his LEFT shoulder, bag at his left hip; also write it in full (L64) | `props/antonybag/prop.png` | Ranjith | 2026-11-06 | approved |
 
 ## Scale sheets
 
