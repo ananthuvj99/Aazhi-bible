@@ -53,22 +53,9 @@ Categories: position, elements, characters, sizes, angles, in-frame, dialogue, t
 | L44 | lesson | angles | Shallow depth of field reads as fake | 3-3 v2 | Ananthu | 2026-10-30 | [L044-shallow-depth-of-field-reads-as.md](lessons/L044-shallow-depth-of-field-reads-as.md) |
 | L45 | lesson | position | Talking into the lens looks like a presenter | 3-3 v2 | Ananthu | 2026-10-30 | [L045-talking-into-the-lens-looks-like.md](lessons/L045-talking-into-the-lens-looks-like.md) |
 | L46 | lesson | elements | Equipment words get drawn | 3-3 v3 | Ananthu | 2026-10-30 | [L046-equipment-words-get-drawn.md](lessons/L046-equipment-words-get-drawn.md) |
-| L-new | lesson | platform | Every prompt is shot on a Sony Venice 2 | all shots (s11 v2 on) | Ranjith | 2026-11-05 | [L-new-sony-venice-2-every-prompt.md](lessons/L-new-sony-venice-2-every-prompt.md) |
-| L-new | lesson | elements | Furniture in the plate's action path comes back in the take | s11-sh01 v2 | Ranjith | 2026-11-05 | [L-new-plate-furniture-in-the-path.md](lessons/L-new-plate-furniture-in-the-path.md) |
-| L-new | lesson | elements | A prop that is not on the character sheet gets dropped | s11-sh01 v3 | Ranjith | 2026-11-05 | [L-new-unsheeted-prop-drops.md](lessons/L-new-unsheeted-prop-drops.md) |
-| L-new | lesson | characters | Bare walking verbs give a robotic walk | s11-sh01 v3 | Ranjith | 2026-11-05 | [L-new-robotic-walk.md](lessons/L-new-robotic-walk.md) |
-| L-new | lesson | characters | Laughing extras turn round to the lens | s11-sh01 v4 | Ranjith | 2026-11-05 | [L-new-reacting-extras-face-the-lens.md](lessons/L-new-reacting-extras-face-the-lens.md) |
-| W1 | win | angles | What worked: aerial flight + match cut in one generation | showreel 1A v4, approved | Ananthu | 2026-10-29 | [W001-what-worked-aerial-flight-match-cut.md](wins/W001-what-worked-aerial-flight-match-cut.md) |
-| W2 | win | dialogue | What worked: Scene 2 Part A | approved | Ananthu | 2026-10-30 | [W002-what-worked-scene-2-part-a.md](wins/W002-what-worked-scene-2-part-a.md) |
-| W3 | win | position | Lock staging from an approved end frame | 3-2 approved | Ananthu | 2026-10-30 | [W003-lock-staging-from-an-approved-end.md](wins/W003-lock-staging-from-an-approved-end.md) |
-| W-new | win | platform | 1A v14 recipe: what to copy from an approved prompt | showreel 1A v14, approved | Ranjith | 2026-11-04 | [W-new-1a-v14-recipe.md](wins/W-new-1a-v14-recipe.md) |
-
-Until November 2026 all lessons and wins lived in one file, `rules/lessons.md`. Entries are never deleted; a later lesson marks an earlier one superseded.
-| W4 | win | light | 1A v10 worked at 480p | 1A v10 | Ananthu | 2026-11-04 | [W004-1a-v10-worked-at-480p.md](wins/W004-1a-v10-worked-at-480p.md) |
 | L47 | lesson | elements | A cover sheet in the bedding's pattern disappears; made beds look fake | 1A v11 | Ananthu | 2026-11-04 | [L047-a-cover-sheet-in-the-bedding.md](lessons/L047-a-cover-sheet-in-the-bedding.md) |
 | L48 | lesson | elements | Landmarks get duplicated | 1A v11 | Ananthu | 2026-11-04 | [L048-landmarks-get-duplicated.md](lessons/L048-landmarks-get-duplicated.md) |
 | L49 | lesson | platform | "No music" still gets a riser; sheets lie flat | 1A v13 | Ananthu | 2026-11-04 | [L049-no-music-still-gets-a-riser.md](lessons/L049-no-music-still-gets-a-riser.md) |
-| W5 | win | elements | 1A v14 approved | 1A v14 | Ananthu | 2026-11-04 | [W005-1a-v14-approved.md](wins/W005-1a-v14-approved.md) |
 | L50 | lesson | timing | A four-shot generation collapsed to 3 seconds | 1B v15 | Ananthu | 2026-11-04 | [L050-a-four-shot-generation-collapsed-to.md](lessons/L050-a-four-shot-generation-collapsed-to.md) |
 | L51 | lesson | elements | A clock prop sheet creates a second clock | 1B-1 v4 | Ananthu | 2026-11-04 | [L051-a-clock-prop-sheet-creates-a.md](lessons/L051-a-clock-prop-sheet-creates-a.md) |
 | L52 | lesson | position | Continuity from a start frame | 1B-1 v4 | Ananthu | 2026-11-04 | [L052-continuity-from-a-start-frame.md](lessons/L052-continuity-from-a-start-frame.md) |
@@ -81,4 +68,16 @@ Until November 2026 all lessons and wins lived in one file, `rules/lessons.md`. 
 | L59 | lesson | angles | "The passage doors" became a door to the outside | 1C-a v1 | Ananthu | 2026-11-05 | [L059-the-passage-doors-became-a-door.md](lessons/L059-the-passage-doors-became-a-door.md) |
 | L60 | lesson | characters | A continuity frame that shows a character puts her in the shot | 1C-b v3.2 | Ananthu | 2026-11-05 | [L060-a-continuity-frame-that-shows-a.md](lessons/L060-a-continuity-frame-that-shows-a.md) |
 | L61 | lesson | angles | A frame from another angle drags the camera back to it | 1C-b2 v1 | Ananthu | 2026-11-05 | [L061-a-frame-from-another-angle-drags.md](lessons/L061-a-frame-from-another-angle-drags.md) |
+| L62 | lesson | platform | Every prompt is shot on a Sony Venice 2 | all shots (s11 v2 on) | Ranjith | 2026-11-05 | [L062-sony-venice-2-every-prompt.md](lessons/L062-sony-venice-2-every-prompt.md) |
+| L63 | lesson | elements | Furniture in the plate's action path comes back in the take | s11-sh01 v2 | Ranjith | 2026-11-05 | [L063-plate-furniture-in-the-path.md](lessons/L063-plate-furniture-in-the-path.md) |
+| L64 | lesson | elements | A prop that is not on the character sheet gets dropped | s11-sh01 v3 | Ranjith | 2026-11-05 | [L064-unsheeted-prop-drops.md](lessons/L064-unsheeted-prop-drops.md) |
+| L65 | lesson | characters | Bare walking verbs give a robotic walk | s11-sh01 v3 | Ranjith | 2026-11-05 | [L065-robotic-walk.md](lessons/L065-robotic-walk.md) |
+| L66 | lesson | characters | Laughing extras turn round to the lens | s11-sh01 v4 | Ranjith | 2026-11-05 | [L066-reacting-extras-face-the-lens.md](lessons/L066-reacting-extras-face-the-lens.md) |
+| W1 | win | angles | What worked: aerial flight + match cut in one generation | showreel 1A v4, approved | Ananthu | 2026-10-29 | [W001-what-worked-aerial-flight-match-cut.md](wins/W001-what-worked-aerial-flight-match-cut.md) |
+| W2 | win | dialogue | What worked: Scene 2 Part A | approved | Ananthu | 2026-10-30 | [W002-what-worked-scene-2-part-a.md](wins/W002-what-worked-scene-2-part-a.md) |
+| W3 | win | position | Lock staging from an approved end frame | 3-2 approved | Ananthu | 2026-10-30 | [W003-lock-staging-from-an-approved-end.md](wins/W003-lock-staging-from-an-approved-end.md) |
+| W4 | win | light | 1A v10 worked at 480p | 1A v10 | Ananthu | 2026-11-04 | [W004-1a-v10-worked-at-480p.md](wins/W004-1a-v10-worked-at-480p.md) |
+| W5 | win | elements | 1A v14 approved | 1A v14 | Ananthu | 2026-11-04 | [W005-1a-v14-approved.md](wins/W005-1a-v14-approved.md) |
 | W6 | win | dialogue | Natural dialogue = no emotion tag + everyday description | 1C-b2 v4 | Ananthu | 2026-11-05 | [W006-natural-dialogue-no-emotion-tag-everyday.md](wins/W006-natural-dialogue-no-emotion-tag-everyday.md) |
+| W7 | win | platform | 1A v14 recipe: what to copy from an approved prompt | showreel 1A v14, approved | Ranjith | 2026-11-04 | [W007-1a-v14-recipe.md](wins/W007-1a-v14-recipe.md) |
+Until November 2026 all lessons and wins lived in one file, `rules/lessons.md`. Entries are never deleted; a later lesson marks an earlier one superseded.
