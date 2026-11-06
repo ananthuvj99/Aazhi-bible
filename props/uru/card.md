@@ -9,7 +9,7 @@ used_in: [s13-sh01]
 ---
 
 # The hero uru — Antony's cargo vessel (1998)
-Platform ID: `@uru` · Image: `prop.png` (cropped from panel 13B "Approach" of Ranjith's harbour sheet v2; 418 × 290 px, replace with a sharper crop under the same ID when the full-size sheet is available)
+Platform ID: `@uru` · Image: `prop.png` (cropped from panel 13B "Approach" of Ranjith's harbour sheet v2; 467 × 329 px, the largest copy available)
 Tracker note: the location tracker calls the hero uru `@Uru2`. This is the vessel Ranjith chose on 2026-11-06 (the one in panels 13B Approach and 14 Boarding); if a different `@Uru2` image exists on the platform, tell Ananthu before using it.
 
 ## What it looks like
