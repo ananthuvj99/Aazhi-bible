@@ -1,5 +1,6 @@
 # Scene 2 · single-prompt version (30 s, six shots) — v1
 Status: **ready** (QA 86/100 — platform merge risk L37)
+> 2026-11-06 (Ananthu): bag wording changed from the old small khaki bag to `@antonybag` (L67). Before generating: attach `@antonybag` with its reference line (as in s13-sh01) and re-run QA.
 References: @antony20, @rosamma, @hallclean, @kitchenclean (bg), @housefullview, @houseout
 Alternative to 2-1 … 2-6 at Ananthu's request.
 
@@ -18,7 +19,7 @@ ACTIVE REFERENCES
 @houseout (shot 6 only): the yard and palms around the house exactly as in the reference. 100% matches the reference.
 
 ON SCREEN
-Antony: short-sleeve cotton shirt with thin vertical lavender-grey and white stripes, sleeves rolled once, top button open, one chest pocket on his left; grey-green checked mundu with a narrow white border stripe, ankle length; thin silver chain; barefoot. A small faded khaki cotton shoulder bag on a long strap hangs from his left shoulder in every shot.
+Antony: short-sleeve cotton shirt with thin vertical lavender-grey and white stripes, sleeves rolled once, top button open, one chest pocket on his left; grey-green checked mundu with a narrow white border stripe, ankle length; thin silver chain; barefoot. A large, soft, faded beige canvas shoulder bag, slouchy and half full, hangs on one long canvas strap from his left shoulder at his left hip in every shot.
 Rosamma: cream cotton saree with a small blue floral print, pallu tucked at her waist; solid mid-blue short-sleeve blouse; gold chain with a gold cross; small gold stud earrings. Barefoot inside the house and on the veranda. From shot 2 on, both hands hold one round steel plate with two short white cylinders of steamed puttu and a ladle of brown curry; it stays full to the last frame.
 
 FRAME BREAKDOWN
@@ -98,7 +99,7 @@ STYLE
 Cinematic photoreal 1998 Kerala period feature film: large-format cinema look, shallow depth of field, gentle highlight roll-off, natural skin tones, warm golden morning palette, fine natural film grain.
 
 POSITIVE LOCKS
-Six separate shots, each with one clear composition. Every line is spoken by one person alone in a medium close-up, looking just beside the lens at the other person off-screen; nobody stands behind a speaker. Shots 3 and 5 look out from the house: only the doorway, veranda, yard, wall, lane, palms and sky. Antony wears the striped shirt, checked mundu, chain and khaki bag in every shot; Rosamma is barefoot and holds the full plate from shot 2 to the end. Every word is Malayalam. The video runs the full 30 seconds.
+Six separate shots, each with one clear composition. Every line is spoken by one person alone in a medium close-up, looking just beside the lens at the other person off-screen; nobody stands behind a speaker. Shots 3 and 5 look out from the house: only the doorway, veranda, yard, wall, lane, palms and sky. Antony wears the striped shirt, checked mundu, chain and beige canvas bag in every shot; Rosamma is barefoot and holds the full plate from shot 2 to the end. Every word is Malayalam. The video runs the full 30 seconds.
 ```
 
 ## Generation results

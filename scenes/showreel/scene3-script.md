@@ -1,6 +1,7 @@
 # Scene 3 — "The window" (was "Eight o'clock") · script v2 — Ananthu's dialogue
+> 2026-11-06 (Ananthu): bag wording changed from the old small khaki bag to `@antonybag` (L67). Before generating: attach `@antonybag` with its reference line (as in s13-sh01) and re-run QA.
 Location: village lane → Clara's tuition centre (@villagelane, @tuitionout, @tuitionclean, @tuitiondoor)
-Characters: Antony (@antony20, khaki bag), Clara (@clara20), ~10 children (extras)
+Characters: Antony (@antony20, beige canvas bag), Clara (@clara20), ~10 children (extras)
 
 | # | Speaker | Malayalam | Manglish | English |
 |---|---|---|---|---|

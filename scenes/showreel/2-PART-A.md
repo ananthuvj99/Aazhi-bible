@@ -80,3 +80,4 @@ All three shots are inside the house, in the passage. Each line is spoken by one
 
 ## Generation results
 - v1: approved by Ananthu — "came out really well".
+- 2026-11-06 (Ananthu): the bag is now `@antonybag` (large faded beige canvas, Ranjith's). This approved take was prompted with the old small khaki bag: check the bag in the footage; if it doesn't match `@antonybag`, regenerate with it attached.

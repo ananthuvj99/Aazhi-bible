@@ -15,7 +15,7 @@ State of the story world after the last approved shot. Update when a shot is app
 - Next: Antony returns bathed and changes into `@antony20`.
 
 ## After 2A
-- Antony (`@antony20`): striped lavender-grey shirt, checked mundu, silver chain, barefoot, khaki cotton shoulder bag on his left shoulder, hair combed. Has left through the compound wall gap toward the beach/harbour, breakfast uneaten.
+- Antony (`@antony20`): striped lavender-grey shirt, checked mundu, silver chain, barefoot, `@antonybag` (large, soft, faded beige canvas shoulder bag, slouchy, half full, one long canvas strap) on his left shoulder at his left hip — the same bag on every outing (see Scene 11 → 13 below; Ananthu chose Ranjith's bag on 2026-11-06, replacing the old small khaki bag), hair combed. Has left through the compound wall gap toward the beach/harbour, breakfast uneaten.
 - Rosamma: on the veranda at the top of the steps, barefoot, holding the full steel plate of puttu and curry.
 
 - 2026-11-04 (1A v9): Antony sleeps under a thin, faded blue checked cotton cover sheet (as before); it ends folded across his chest. 1A ends on his smile and eyes opening; the realisation is in 1B.
