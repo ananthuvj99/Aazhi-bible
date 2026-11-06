@@ -77,8 +77,17 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 62. **No duplicate props (L51):** don't attach a prop sheet for a prop the room sheet already shows.
 63. **Start frames (L52):** a shot that continues another attaches its last frames as the start image.
 64. **Plate = camera position (L53):** the attached plate must be shot from where this shot's camera stands; inside action never uses a from-outside plate.
-65. **Camera (Sony Venice 2):** STYLE names "Sony Venice 2 full-frame digital cinema camera" once, followed by the look line from `rules/prompt-rules.md`; nowhere else; WHAT IS IN FRAME keeps "nothing from the making of it".
-66. **Plate furniture in the path (L-new-plate-furniture-in-the-path):** look at the attached plate; any furniture on the path or spot where the action happens is either wanted or named away: open path in the reference line, open floor with a size and "the only furniture" in the room block, and in POSITIVE LOCKS. A person in the plate standing elsewhere is placed in words.
-67. **Props not on the sheet (L-new-unsheeted-prop-drops):** a carried prop the character sheet lacks is described in full (size, colour, material, strap, shoulder, where it hangs) in the reference line, in every ACTION beat the character is in, and in POSITIVE LOCKS.
-68. **Natural walk (L-new-robotic-walk):** every walk or step names heel to toe, weight shift, relaxed shoulders, arm swing or hand position, slight head bob and what clothes and carried things do; holds include breathing and a slight weight shift.
-69. **Reacting extras (L-new-reacting-extras-face-the-lens):** every extra who reacts has a look target and 'in profile, back of the head toward the view'; the ones who don't react keep a named task; the lead's look names who she looks at.
+65. **15 s maximum per generation (L58)**; dialogue scenes with two speakers are split into one generation per speaker.
+66. **Natural acting (L54):** the speaker has a real task near the line (kept below the face) and a human beat before it; what they talk to is just off frame; "never looks into the camera at any moment".
+67. **Off-screen person's direction (L55):** name which side of the screen they are on, and name the tempting wrong direction ("never toward the window").
+68. **Calls to another room (L56, L57):** the speaker turns toward where the other person is; loudness is written in words ("loud enough to carry, with a smile in her voice") — no [shouts].
+69. **Count the doorways (L59):** when a room has several doors, say how many and which one is meant; start camera moves from the right space.
+70. **Continuity frames that show people (L60):** keep them in the shot on purpose with their new action stated, or don't attach the frame.
+71. **New camera angle (L61):** make a still of the new angle first and use it as the start frame; never attach a frame from the old angle.
+72. **Family dialogue (W6):** no emotion tag; describe ordinary speech ("normal voice at kitchen distance, the way people really talk at home, not dramatic").
+73. **House plan (L57):** count the passage doors ("exactly two bedroom doors facing each other…"); @houseclean / @hallmapped are never attached.
+74. **Camera (Sony Venice 2):** STYLE names "Sony Venice 2 full-frame digital cinema camera" once, followed by the look line from `rules/prompt-rules.md`; nowhere else; WHAT IS IN FRAME keeps "nothing from the making of it".
+75. **Plate furniture in the path (L-new-plate-furniture-in-the-path):** look at the attached plate; any furniture on the path or spot where the action happens is either wanted or named away: open path in the reference line, open floor with a size and "the only furniture" in the room block, and in POSITIVE LOCKS. A person in the plate standing elsewhere is placed in words.
+76. **Props not on the sheet (L-new-unsheeted-prop-drops):** a carried prop the character sheet lacks is described in full (size, colour, material, strap, shoulder, where it hangs) in the reference line, in every ACTION beat the character is in, and in POSITIVE LOCKS.
+77. **Natural walk (L-new-robotic-walk):** every walk or step names heel to toe, weight shift, relaxed shoulders, arm swing or hand position, slight head bob and what clothes and carried things do; holds include breathing and a slight weight shift.
+78. **Reacting extras (L-new-reacting-extras-face-the-lens):** every extra who reacts has a look target and 'in profile, back of the head toward the view'; the ones who don't react keep a named task; the lead's look names who she looks at.

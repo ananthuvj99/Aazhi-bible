@@ -64,3 +64,21 @@ Categories: position, elements, characters, sizes, angles, in-frame, dialogue, t
 | W-new | win | platform | 1A v14 recipe: what to copy from an approved prompt | showreel 1A v14, approved | Ranjith | 2026-11-04 | [W-new-1a-v14-recipe.md](wins/W-new-1a-v14-recipe.md) |
 
 Until November 2026 all lessons and wins lived in one file, `rules/lessons.md`. Entries are never deleted; a later lesson marks an earlier one superseded.
+| W4 | win | light | 1A v10 worked at 480p | 1A v10 | Ananthu | 2026-11-04 | [W004-1a-v10-worked-at-480p.md](wins/W004-1a-v10-worked-at-480p.md) |
+| L47 | lesson | elements | A cover sheet in the bedding's pattern disappears; made beds look fake | 1A v11 | Ananthu | 2026-11-04 | [L047-a-cover-sheet-in-the-bedding.md](lessons/L047-a-cover-sheet-in-the-bedding.md) |
+| L48 | lesson | elements | Landmarks get duplicated | 1A v11 | Ananthu | 2026-11-04 | [L048-landmarks-get-duplicated.md](lessons/L048-landmarks-get-duplicated.md) |
+| L49 | lesson | platform | "No music" still gets a riser; sheets lie flat | 1A v13 | Ananthu | 2026-11-04 | [L049-no-music-still-gets-a-riser.md](lessons/L049-no-music-still-gets-a-riser.md) |
+| W5 | win | elements | 1A v14 approved | 1A v14 | Ananthu | 2026-11-04 | [W005-1a-v14-approved.md](wins/W005-1a-v14-approved.md) |
+| L50 | lesson | timing | A four-shot generation collapsed to 3 seconds | 1B v15 | Ananthu | 2026-11-04 | [L050-a-four-shot-generation-collapsed-to.md](lessons/L050-a-four-shot-generation-collapsed-to.md) |
+| L51 | lesson | elements | A clock prop sheet creates a second clock | 1B-1 v4 | Ananthu | 2026-11-04 | [L051-a-clock-prop-sheet-creates-a.md](lessons/L051-a-clock-prop-sheet-creates-a.md) |
+| L52 | lesson | position | Continuity from a start frame | 1B-1 v4 | Ananthu | 2026-11-04 | [L052-continuity-from-a-start-frame.md](lessons/L052-continuity-from-a-start-frame.md) |
+| L53 | lesson | angles | The plate decides where the camera stands | 1B-3 v3 | Ananthu | 2026-11-04 | [L053-the-plate-decides-where-the-camera.md](lessons/L053-the-plate-decides-where-the-camera.md) |
+| L54 | lesson | characters | Stiff, angry, to-camera delivery | 1B-3 v4 | Ananthu | 2026-11-04 | [L054-stiff-angry-to-camera-delivery.md](lessons/L054-stiff-angry-to-camera-delivery.md) |
+| L55 | lesson | position | Say which way the off-screen person is, and which way is wrong | 1B-3 v6 | Ananthu | 2026-11-04 | [L055-say-which-way-the-off-screen.md](lessons/L055-say-which-way-the-off-screen.md) |
+| L56 | lesson | dialogue | "Eyes on her work" made the call quiet | 1C v8 | Ananthu | 2026-11-05 | [L056-eyes-on-her-work-made-the.md](lessons/L056-eyes-on-her-work-made-the.md) |
+| L57 | lesson | dialogue | [shouts] changed the emotion; the passage grew extra rooms | 1CD v1 | Ananthu | 2026-11-05 | [L057-shouts-changed-the-emotion-the-passage.md](lessons/L057-shouts-changed-the-emotion-the-passage.md) |
+| L58 | lesson | platform | Two people, three shots, five references, 17 s: everything broke | 1CD v3.3 | Ananthu | 2026-11-05 | [L058-two-people-three-shots-five-references.md](lessons/L058-two-people-three-shots-five-references.md) |
+| L59 | lesson | angles | "The passage doors" became a door to the outside | 1C-a v1 | Ananthu | 2026-11-05 | [L059-the-passage-doors-became-a-door.md](lessons/L059-the-passage-doors-became-a-door.md) |
+| L60 | lesson | characters | A continuity frame that shows a character puts her in the shot | 1C-b v3.2 | Ananthu | 2026-11-05 | [L060-a-continuity-frame-that-shows-a.md](lessons/L060-a-continuity-frame-that-shows-a.md) |
+| L61 | lesson | angles | A frame from another angle drags the camera back to it | 1C-b2 v1 | Ananthu | 2026-11-05 | [L061-a-frame-from-another-angle-drags.md](lessons/L061-a-frame-from-another-angle-drags.md) |
+| W6 | win | dialogue | Natural dialogue = no emotion tag + everyday description | 1C-b2 v4 | Ananthu | 2026-11-05 | [W006-natural-dialogue-no-emotion-tag-everyday.md](wins/W006-natural-dialogue-no-emotion-tag-everyday.md) |

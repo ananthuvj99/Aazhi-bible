@@ -29,3 +29,6 @@ Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the s
 1A (approved) → 1B-1 (incl. clock) → 1B-3 → 1C v6 → 1D-1 → 1D-2 → 1D-3 → 2-1 → 2-2 → 2-3 → 2-4 → 2-5 → 2-6
 
 Scene 3 order (yard version): existing walk-to-school clip → 3-2 (Clara comes out) → 3-3 → 3-4 → 3-5 → 3-6
+
+- 2026-11-04: after 1C → 1D-walk-1 (room) → 1D-walk-2 (passage) → 1D-walk-3 (kitchen doorway).
+- 2026-11-04: option — 1C + 1D-oner (one continuous follow shot) instead of walk-1/2/3.

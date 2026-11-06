@@ -6,8 +6,9 @@ Camera positions belong to this location and never change number; a new spot tak
 
 | Camera | Where it stands | Looking toward | Plate ID | What is behind / through doors (IDs, mode) |
 |---|---|---|---|---|
-
-None numbered yet.
+| K1 | Just inside the passage double doors (south wall) | North, at the back wall: barred window with white shutters and the sea, the wood-fire stove at the back-left with the soot stain, shelves and the two Sacred Heart pictures on the left wall, dried fish and winnow on the right wall, a side door in each side wall | `@kitchenclean` (clean.png) | The passage doors are behind the camera — not in the image |
+| K2 | Beside the stove, back-left corner, chest height | South: the open passage double doors in the centre, the passage and front-door light beyond; shelves + Sacred Heart picture wall at screen-right; dried fish, winnow, clay pot wall at screen-left; stove edge and fire at bottom-right | `@kitchenc2plate` (c2plate.png) | Through the doors: the passage (@hallclean, background only) |
+| K3 | In front of the stove, slightly right, waist height | The stove in three-quarter view: fire, pots, soot stain, shelf and ladles at left, barred back window with the sea at right; grinding stone and stool in front | `@kitchenc3plate` (c3plate.png) | The sea through the back window |
 
 ## Sight-lines (moved from the old registry; use for reverse angles, L32)
 
