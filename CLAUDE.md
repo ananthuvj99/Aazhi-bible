@@ -1,13 +1,13 @@
 # AAZHI production bible — how every session works
 
-This repo is the shared memory for AAZHI (ആഴി), a Techjays Originals AI-made Malayalam film set on the Alappad coast in a Latin Catholic fishing community (1998–2026). Three creators work from it. Ananthu approves every change that reaches `main`. The video model remembers nothing between generations, so everything that must stay the same lives here.
+This repo is the shared memory for AAZHI (ആഴി), a Techjays Originals AI-made Malayalam film set on the Alappad coast in a Latin Catholic fishing community (1998–2026). Three creators work from it, all directly on `main`: there is no approval step — every creator's Claude pulls the latest `main` before writing and pushes to `main` after every piece of feedback (see `rules/workflow.md`). The video model remembers nothing between generations, so everything that must stay the same lives here.
 
 ## Start of every session
 
-A hook in `.claude/settings.json` runs automatically when the session opens: it fetches every creator's branch, updates `main`, and prints what is waiting for approval and the latest activity. If that output isn't in the session, run `git fetch --all --prune`, `bash tools/pending.sh` and `bash tools/activity.sh` yourself.
+A hook in `.claude/settings.json` runs automatically when the session opens: it fetches and updates `main` and prints the latest activity. If that output isn't in the session, run `git fetch --all --prune`, `bash tools/pending.sh` and `bash tools/activity.sh` yourself.
 
 1. Find out who you are working with: their name is `git config user.name`. If it isn't set, ask for their name and set it with `git config user.name "<Name>"`. Every asset and learning from this session is credited to that person.
-2. `git pull` on `main`, then switch to your own branch: `git switch <your-name>` (create it from `main` the first time).
+2. Stay on `main` and run `git pull --rebase`. No personal branches.
 3. Read `INDEX.md`: every character look, location, plate, prop and scale sheet, with ID, folder, creator and status.
 4. Read `learnings/INDEX.md`, `rules/prompt-rules.md` and `rules/pre-delivery-checklist.md`.
 5. For the scene being worked on, read its panels in `storyboard/aazhi-storyboard.md`, its ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
@@ -15,7 +15,7 @@ A hook in `.claude/settings.json` runs automatically when the session opens: it 
 
 ## The loop for every shot
 
-**Before every breakdown and every prompt**, run `git fetch --all --prune` and `bash tools/pending.sh`. Assets and lessons on another creator's branch count even before Ananthu merges them: apply their lessons, and offer their assets marked "waiting for approval" (ask the creator before using a pending ID in a prompt).
+**Before every breakdown and every prompt**, run `git pull --rebase` on `main` so you have everyone's latest assets and lessons, and apply them.
 
 1. **Brief.** The creator describes the scene and attaches references.
 2. **Breakdown.** Run the `aazhi-scene-breakdown` skill: shot by shot, every reference to call, what is missing, the lessons that apply, and questions. Reuse any asset in `INDEX.md`, whoever made it.
@@ -33,15 +33,15 @@ Whenever a creator gives you a new character sheet, or you make any new asset:
 1. Check `INDEX.md` first. If it already exists, use it and say who made it. Never make a second version; a new costume or state is a new look with its own ID.
 2. Make its folder: `characters/<id>/` (one folder per look), `locations/<name>/`, `props/<id>/`, or `locations/<name>/plates/` for plates.
 3. Save the image: `sheet.png` for a character, `clean.png` for a location, `<camera>-plate.png` for a plate, `prop.png` for a prop.
-4. Write `card.md` from `templates/` with `created_by` set to the creator in this session (never to whoever made the template or approves it), `created` (date) and `status: waiting for approval`.
+4. Write `card.md` from `templates/` with `created_by` set to the creator in this session (never to whoever made the template), `created` (date) and `status: approved` once the creator approves the image.
 5. Add its row to `INDEX.md` in the same commit. A folder without an index row, or a row without a folder, is incomplete.
-6. Ananthu sets `status: approved` when he merges.
+6. Commit and push to `main` straight away (pull --rebase first).
 
 ## Learnings from every creator
 
 - **Bad take** → a file in `learnings/lessons/` from `templates/learning.md` (type `lesson`), a row in `learnings/INDEX.md`, and a line in `rules/pre-delivery-checklist.md`.
 - **Good take** → a file in `learnings/wins/` (type `win`) that records the recipe, and a row in `learnings/INDEX.md`.
-- Always fill author with the creator who reported the take in this session (from `git config user.name`), plus shot, category and date. The same name goes in the `learnings/INDEX.md` row. Name new files `L-new-<slug>.md` or `W-new-<slug>.md`; Ananthu gives the number (L047, W004) when he merges.
+- Always fill author with the creator who reported the take in this session (from `git config user.name`), plus shot, category and date. The same name goes in the `learnings/INDEX.md` row. After a fresh pull, name new files with the next free number (e.g. `L062-<slug>.md`) and push straight away; if someone took that number first, renumber to the next free one.
 - Apply every new lesson to all later prompts with the same situation, not only the shot that failed.
 - Categories: position, elements, characters, sizes, angles, in-frame, dialogue, timing, light, platform.
 
@@ -51,7 +51,7 @@ Whenever a creator gives you a new character sheet, or you make any new asset:
 
 **Claude asks the creator first:** any change to approved dialogue; changing the action, cast, camera position or scene emotion; a new or replaced image, plate or ID; changing or removing an existing rule; anything still flagged after two automatic rounds.
 
-**Ananthu approves every merge to `main`.** New or changed IDs and sheets, rule changes, ledger changes and edits to someone else's shot always go to him.
+**No merge approval.** After the creator's feedback, push to `main` in the same turn: `git pull --rebase`, then `git push`; never force-push; when a rebase conflicts keep both sides and never delete someone else's line. Changing or removing an existing rule, or editing someone else's approved shot, still needs that creator (or Ananthu) to agree in the conversation first. Commit messages start with the creator's name.
 
 ## Naming
 

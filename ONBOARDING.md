@@ -1,6 +1,6 @@
 # AAZHI — setup for new creators
 
-This gets your Claude Code working exactly like Ananthu's: the same characters and IDs, the same rules, the same agents, and one shared set of learnings. Anything you make or learn becomes available to everyone once Ananthu approves it.
+This gets your Claude Code working exactly like Ananthu's: the same characters and IDs, the same rules, the same agents, and one shared set of learnings. Anything you make or learn is pushed to `main` and is available to everyone straight away.
 
 ## One-time setup
 
@@ -12,8 +12,6 @@ This gets your Claude Code working exactly like Ananthu's: the same characters a
    git clone https://github.com/ananthuvj99/Aazhi-bible.git
    cd Aazhi-bible
    git config user.name "<Your Name>"
-   git switch -c <your-name>
-   git push -u origin <your-name>
    ```
 
    The name you set is how Claude credits every character, location and lesson you add, so use your real name.
@@ -29,7 +27,7 @@ This gets your Claude Code working exactly like Ananthu's: the same characters a
 ## Your first message in every session
 
 ```
-Read CLAUDE.md and follow it for this whole session. Pull main, switch to my branch <your-name>, read INDEX.md and learnings/INDEX.md, then tell me which characters and locations exist and who made them.
+Read CLAUDE.md and follow it for this whole session. Pull main, read INDEX.md and learnings/INDEX.md, then tell me what changed since my last session.
 ```
 
 ## Every shot
@@ -48,7 +46,7 @@ Issue categories: position, elements, characters, sizes, angles, in-frame, dialo
 
 ## Adding a character, location or prop
 
-Give Claude the sheet and say who or what it is and which look. Claude checks `INDEX.md` first. If it's new, Claude makes its folder (for example `characters/claramother/`), writes the card with your name as creator, and adds the `INDEX.md` row on your branch. Ananthu approves it, and from then on everyone's Claude can use it.
+Give Claude the sheet and say who or what it is and which look. Claude checks `INDEX.md` first. If it's new, Claude makes its folder (for example `characters/claramother/`), writes the card with your name as creator, and adds the `INDEX.md` row, then pushes to `main` — from then on everyone's Claude can use it.
 
 ## The agents
 
