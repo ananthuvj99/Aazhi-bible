@@ -19,7 +19,7 @@ A hook in `.claude/settings.json` runs automatically when the session opens: it 
 
 1. **Brief.** The creator describes the scene and attaches references.
 2. **Breakdown.** Run the `aazhi-scene-breakdown` skill: shot by shot, every reference to call, what is missing, the lessons that apply, and questions. Reuse any asset in `INDEX.md`, whoever made it.
-3. **Assets.** Make missing plates or start frames through the Higgsfield MCP, named by the rules below. Show them; save them only after the creator approves (folder, card, `INDEX.md` row). Tell the creator to upload each new image to the platform under exactly its ID.
+3. **Assets.** Make missing plates or start frames through the Higgsfield MCP, named by the rules below. Run `aazhi-image-qa` on every new, cropped or mirrored image and show its continuity score with the image; save it only after the creator approves (folder, card with `continuity_score`, `INDEX.md` row, report in `scenes/showreel/image-qa/`). Tell the creator to upload each new image to the platform under exactly its ID.
 4. **Base prompt.** Write it from the breakdown, the cards and the rules, following the `seedance-2-5-prompt-writer` skill.
 5. **Checks.** Run `aazhi-continuity-director`, then `aazhi-prompt-qa`. Fix small issues yourself for at most two rounds; ask about anything bigger (see Approval).
 6. **Deliver.** One copyable code block with the final prompt, then: the IDs to attach (each with shot and mode), the settings (duration, aspect ratio, dialogue language Malayalam) and the QA score.
