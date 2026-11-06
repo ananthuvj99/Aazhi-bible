@@ -85,16 +85,16 @@ Platform IDs have no hyphens or underscores. Never print a name inside an image.
 
 ## Saving: push straight away, one item per commit
 
-- The moment a new asset, lesson, win or shot version is saved, commit it and push it to your own branch, so the other creators see it within seconds.
-- One item per commit, so any one of them can be undone alone. The message starts with its type: `asset: Clara's mother (@claramother)`, `lesson: door side flips between angles (L-new-door-side)`, `win: yard staging held (W-new-yard-staging)`, `shot: s03-sh02 v3`, `rule: ...`, `undo: ...`.
-- Work only on your own branch and your own shots. Open a pull request to `main` when work is ready for Ananthu.
+- The moment a new asset, lesson, win or shot version is saved, commit it and push it to `main` (`git pull --rebase` first), so the other creators see it within seconds.
+- One item per commit, so any one of them can be undone alone. The message starts with the creator's name, then the type: `Ranjith: asset: Clara's mother (@claramother)`, `Ranjith: lesson: door side flips between angles (L67)`, `Ranjith: win: yard staging held (W8)`, `Ranjith: shot: s03-sh02 v3`, `Ranjith: rule: ...`, `Ranjith: undo: ...`.
+- Everyone works on `main`; no personal branches and no pull requests (see `rules/workflow.md`). Work on your own shots; editing someone else's approved shot needs their agreement first.
+- After pushing, check that GitHub `main` equals the local commit, and say so.
 - Never commit access tokens or API keys. Never force-push or rewrite history.
 
 ## Who did what, and undoing it
 
-- **See who pushed what:** `bash tools/activity.sh` lists every change on every branch, newest first, with who, branch, what and a commit code. `bash tools/activity.sh 50 Ranjith` shows one person's last 50. On GitHub, each branch's Commits page shows the same.
-- **Undo something not yet merged:** run `git revert <commit code>` on that branch and push. Ananthu can also simply not merge it.
-- **Undo something already in `main`:** run `git revert <commit code>` on your own branch, push, and open a pull request for Ananthu. GitHub also has a Revert button on every merged pull request.
+- **See who pushed what:** `bash tools/activity.sh` lists every change, newest first, with who, what and a commit code. `bash tools/activity.sh 50 Ranjith` shows one person's last 50. On GitHub, the Commits page of `main` shows the same.
+- **Undo something:** run `git revert <commit code>` on `main`, then `git pull --rebase` and push. GitHub also has a Revert button on every commit's page.
 - **Delete an asset:** if any shot used its ID, never delete it. Set `status: retired` in its card and its `INDEX.md` row, so old shots still make sense. Remove the folder and row only for an asset no shot ever used, and only with Ananthu's approval.
-- **Who may undo what:** anyone can undo their own unmerged work. Undoing someone else's work, or anything in `main`, goes to Ananthu.
+- **Who may undo what:** anyone can undo their own work. Undoing someone else's work needs that creator (or Ananthu) to agree in the conversation first.
 - `revert` never erases history: the undo is a new commit, so it can itself be undone.
