@@ -4,9 +4,9 @@ This gets your Claude Code working exactly like Ananthu's: the same characters a
 
 ## One-time setup
 
-1. **Repo access.** Send Ananthu your GitHub username and accept the invite to the private repo `ananthuvj99/Aazhi-bible`.
+1. **Repo access.** Send Ananthu your GitHub username and accept the invite to `ananthuvj99/Aazhi-bible` (you need write access to push).
 2. **Install Claude Code** from Anthropic's documentation at code.claude.com/docs.
-3. **Get the repo and make your branch:**
+3. **Get the repo:**
 
    ```
    git clone https://github.com/ananthuvj99/Aazhi-bible.git
@@ -14,7 +14,9 @@ This gets your Claude Code working exactly like Ananthu's: the same characters a
    git config user.name "<Your Name>"
    ```
 
-   The name you set is how Claude credits every character, location and lesson you add, so use your real name.
+   The name you set is how Claude credits every character, location and lesson you add, so use your real name. Everyone works directly on `main`; there is no branch to make (own-branch mode is optional, see `CLAUDE.md`).
+
+   **Sign in to GitHub so Claude can push for you.** Either install the GitHub CLI and run `gh auth login --web` then `gh auth setup-git` (you approve in the browser, no token to copy), or use your own fine-grained token (this repo only, Contents read/write). Never paste a token into a chat.
 
 4. **Start Claude Code inside the folder** by running `claude`. It reads `CLAUDE.md` and loads the shared agents from `.claude/skills/` automatically. When it asks whether to trust the folder and use the project's Higgsfield server, say yes, and sign in with your own Higgsfield account when the browser opens. If Higgsfield doesn't appear, run:
 
@@ -65,14 +67,14 @@ Online: github.com/ananthuvj99/Aazhi-bible/tree/main/.claude/skills
 ## Seeing who did what, and undoing it
 
 - Ask Claude "show activity" (or run `bash tools/activity.sh`) for every change on every branch: who, when, what, and a commit code.
-- To undo a change, give Claude its commit code. Your own unmerged work you can undo yourself; anything already merged, or someone else's work, goes to Ananthu.
+- To undo a change, give Claude its commit code; Claude reverts it on `main` with a new commit (history is never erased). Anyone can undo their own work; undoing someone else's needs that creator (or Ananthu) to agree first.
 - Assets that any shot has used are never deleted, only marked retired.
 
 ## Rules everyone keeps
 
-- Work only on your own branch and your own shots.
+- Everyone pushes straight to `main` after every piece of feedback: pull first, never force-push, and on a conflict keep both sides. Work on your own shots; editing someone else's approved shot needs their agreement.
 - Never paste an access token into a chat or commit one to the repo.
 - Dialogue in Malayalam only, with one emotion for the whole scene.
-- New or changed IDs, sheets and rules need Ananthu's approval.
+- New assets are saved once you approve the image, and pushed to `main` straight away. Changing or removing an existing rule needs that rule's creator (or Ananthu) to agree first.
 
 Questions go to Ananthu.
