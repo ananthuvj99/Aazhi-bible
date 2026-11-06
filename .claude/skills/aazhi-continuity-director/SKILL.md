@@ -54,7 +54,7 @@ Read the prompt as a director, not as a checker. Cover, briefly and concretely:
 - **Lip-sync protection.** The speaker's face must be readable while they speak; a character turning away mid-line or covered by a prop will break sync. Only the speaker's lips move.
 - **Timing.** Does the dialogue physically fit the seconds given? Natural spoken Malayalam runs about 5–6 syllables per second (up to 7 when angry or rushed); count the syllables and check that no line runs past a HARD CUT.
 - **Performance and blocking** that will read on screen; anything ambiguous the model will fill badly.
-- **Seedance rules** (if `seedance-2-5-prompt-writer` is available, follow it): positive phrasing only, FOV from the anchor table, km/h for speed, % / meters for atmosphere, left/right from camera, no director or equipment names, English prompt text (dialogue in Malayalam script is the exception).
+- **Seedance rules** (if `seedance-2-5-prompt-writer` is available, follow it): positive phrasing only, FOV from the anchor table, km/h for speed, % / meters for atmosphere, left/right from camera, no director names and no equipment names except the one Sony Venice 2 line in STYLE (`rules/prompt-rules.md`), English prompt text (dialogue in Malayalam script is the exception).
 - **Story and tone.** Pre-arrest scenes should feel casual and day-to-day; the dread (the wrist) is a whisper, not a horror beat.
 
 Rank notes: **Must fix** (will visibly break the shot), **Should fix** (will hurt quality), **Consider** (taste). Apply all Must and Should fixes to the prompt yourself. Leave Consider notes as suggestions.

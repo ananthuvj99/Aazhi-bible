@@ -44,7 +44,15 @@ Consequence: one speaker per shot, and the speaker ALONE in frame while speaking
 
 ## Seedance 2.5 structure
 SCENE CONTEXT → ACTIVE REFERENCES → LOCATION MAP → FIRST FRAME → FORMAT MODE → OPTICS → CAMERA → ACTION → DIALOGUE RULES → PERFORMANCE → (PHYSICS) → LIGHTING → AUDIO → STYLE → POSITIVE LOCKS.
-Positive phrasing, FOV from the anchor table (12/29/47/63/84°), speed in km/h, atmosphere in % / meters, left/right from camera, no director or equipment names.
+Positive phrasing, FOV from the anchor table (12/29/47/63/84°), speed in km/h, atmosphere in % / meters, left/right from camera, no director names, and no equipment names except the one camera below.
+
+## Camera: Sony Venice 2 (Ranjith, 2026-11-04; waiting for Ananthu's approval)
+Every shot is filmed as if on a Sony Venice 2. Every prompt names it once, in STYLE, followed by the look it gives, described by its qualities (W5, W-new-1a-v14-recipe). Paste this line, adapting only the light words to the scene:
+> Shot on a Sony Venice 2 full-frame digital cinema camera: very wide dynamic range that holds the brightest light and the deepest shade in one frame; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich, true skin tones; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look.
+- Name it only in STYLE, never in CAMERA, OPTICS or ACTION, and never as an object ("the camera" never appears in a shot).
+- Keep "Every frame looks like the film itself, with nothing from the making of it" in WHAT IS IN FRAME, so the camera itself is never drawn (L46).
+- Still no rig words (tripod, dolly, gimbal, crane, slider, drone, microphone) and no lens or film-stock names.
+- Why the old rule said no names: names can be ignored or can upset complex moves. Test the first generation with the name at 480p; if a move breaks, report it as a lesson.
 
 ## Project locks
 - 1998 Alappad coast, Latin Catholic fishing family. Act 1 grade: warm golden, fine natural grain.
