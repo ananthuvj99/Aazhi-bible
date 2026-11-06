@@ -1,5 +1,5 @@
 ---
-id: L-new
+id: L66
 type: lesson
 category: characters
 shot: s11-sh01-v4
@@ -7,7 +7,7 @@ author: Ranjith
 date: 2026-11-05
 ---
 
-**L-new — Laughing extras turn round to the lens** (s11-sh01 v4) — evidence: `scenes/showreel/evidence/s11-sh01-v4-faces-to-lens-front-table.png`
+**L66 — Laughing extras turn round to the lens** (s11-sh01 v4) — evidence: `scenes/showreel/evidence/s11-sh01-v4-faces-to-lens-front-table.png`
 
 Symptom: all eight children, seen from behind, turned round and smiled into the lens, and Clara looked back over her shoulder at the back of the room, although only four children were meant to turn, toward the door.
 

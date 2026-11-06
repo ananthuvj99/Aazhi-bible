@@ -1,5 +1,5 @@
 ---
-id: L-new
+id: L65
 type: lesson
 category: characters
 shot: s11-sh01-v3
@@ -7,7 +7,7 @@ author: Ranjith
 date: 2026-11-05
 ---
 
-**L-new — Bare walking verbs give a robotic walk** (s11-sh01 v3)
+**L65 — Bare walking verbs give a robotic walk** (s11-sh01 v3)
 
 Symptom: Antony walked and stepped into the doorway stiffly, like a robot.
 

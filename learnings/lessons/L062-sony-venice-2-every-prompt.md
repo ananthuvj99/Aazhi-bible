@@ -1,5 +1,5 @@
 ---
-id: L-new
+id: L62
 type: lesson
 category: platform
 shot: all shots (from s11-sh00 / s11-sh01 v2 / s11-sh02 v2 on)
@@ -7,7 +7,7 @@ author: Ranjith
 date: 2026-11-05
 ---
 
-**L-new — Every prompt is shot on a Sony Venice 2**
+**L62 — Every prompt is shot on a Sony Venice 2**
 
 Symptom: most shot prompts in `scenes/showreel/` (1A to 3-6) never name a camera, so the look changes from generation to generation and the film does not cut together as one camera. Ranjith's direction: every AAZHI prompt is filmed on a Sony Venice 2.
 

@@ -1,5 +1,5 @@
 ---
-id: W-new
+id: W7
 type: win
 category: platform
 shot: "showreel 1A v14 (approved)"
@@ -7,7 +7,7 @@ author: Ranjith
 date: 2026-11-04
 ---
 
-**W-new — 1A v14 recipe: what to copy from an approved prompt** (showreel 1A v14, approved by Ananthu: "came out great")
+**W7 — 1A v14 recipe: what to copy from an approved prompt** (showreel 1A v14, approved by Ananthu: "came out great")
 
 Expands W5 (one line in `rules/lessons.md`) into a recipe any shot can reuse. Full prompt: `scenes/showreel/1A.md`, section v14.
 

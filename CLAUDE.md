@@ -81,7 +81,7 @@ Platform IDs have no hyphens or underscores. Never print a name inside an image.
 - Positions come from the last approved frame; characters start where the dialogue happens; eyes slightly off the lens.
 - One camera set-up per generation, 5–8 s, with 2–3 s holds at the start and end.
 - Top views and labelled maps are for planning; never attach them.
-- Every prompt names the camera once, in STYLE: the Sony Venice 2 line from `rules/prompt-rules.md` (L-new-sony-venice-2). No other equipment names.
+- Every prompt names the camera once, in STYLE: the Sony Venice 2 line from `rules/prompt-rules.md` (L62). No other equipment names.
 
 ## Saving: push straight away, one item per commit
 

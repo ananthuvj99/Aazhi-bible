@@ -1,5 +1,5 @@
 ---
-id: L-new
+id: L64
 type: lesson
 category: elements
 shot: s11-sh01-v3
@@ -7,7 +7,7 @@ author: Ranjith
 date: 2026-11-05
 ---
 
-**L-new — A prop that is not on the character sheet gets dropped** (s11-sh01 v3) — reference: `scenes/showreel/evidence/s11-antony-bag-reference.png`
+**L64 — A prop that is not on the character sheet gets dropped** (s11-sh01 v3) — reference: `scenes/showreel/evidence/s11-antony-bag-reference.png`
 
 Symptom: Antony came through the tuition door with no bag, although the prompt gave him "a small faded khaki cloth bag on his left shoulder".
 

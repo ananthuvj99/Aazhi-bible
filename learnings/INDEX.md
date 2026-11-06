@@ -53,15 +53,15 @@ Categories: position, elements, characters, sizes, angles, in-frame, dialogue, t
 | L44 | lesson | angles | Shallow depth of field reads as fake | 3-3 v2 | Ananthu | 2026-10-30 | [L044-shallow-depth-of-field-reads-as.md](lessons/L044-shallow-depth-of-field-reads-as.md) |
 | L45 | lesson | position | Talking into the lens looks like a presenter | 3-3 v2 | Ananthu | 2026-10-30 | [L045-talking-into-the-lens-looks-like.md](lessons/L045-talking-into-the-lens-looks-like.md) |
 | L46 | lesson | elements | Equipment words get drawn | 3-3 v3 | Ananthu | 2026-10-30 | [L046-equipment-words-get-drawn.md](lessons/L046-equipment-words-get-drawn.md) |
-| L-new | lesson | platform | Every prompt is shot on a Sony Venice 2 | all shots (s11 v2 on) | Ranjith | 2026-11-05 | [L-new-sony-venice-2-every-prompt.md](lessons/L-new-sony-venice-2-every-prompt.md) |
-| L-new | lesson | elements | Furniture in the plate's action path comes back in the take | s11-sh01 v2 | Ranjith | 2026-11-05 | [L-new-plate-furniture-in-the-path.md](lessons/L-new-plate-furniture-in-the-path.md) |
-| L-new | lesson | elements | A prop that is not on the character sheet gets dropped | s11-sh01 v3 | Ranjith | 2026-11-05 | [L-new-unsheeted-prop-drops.md](lessons/L-new-unsheeted-prop-drops.md) |
-| L-new | lesson | characters | Bare walking verbs give a robotic walk | s11-sh01 v3 | Ranjith | 2026-11-05 | [L-new-robotic-walk.md](lessons/L-new-robotic-walk.md) |
-| L-new | lesson | characters | Laughing extras turn round to the lens | s11-sh01 v4 | Ranjith | 2026-11-05 | [L-new-reacting-extras-face-the-lens.md](lessons/L-new-reacting-extras-face-the-lens.md) |
+| L62 | lesson | platform | Every prompt is shot on a Sony Venice 2 | all shots (s11 v2 on) | Ranjith | 2026-11-05 | [L062-sony-venice-2-every-prompt.md](lessons/L062-sony-venice-2-every-prompt.md) |
+| L63 | lesson | elements | Furniture in the plate's action path comes back in the take | s11-sh01 v2 | Ranjith | 2026-11-05 | [L063-plate-furniture-in-the-path.md](lessons/L063-plate-furniture-in-the-path.md) |
+| L64 | lesson | elements | A prop that is not on the character sheet gets dropped | s11-sh01 v3 | Ranjith | 2026-11-05 | [L064-unsheeted-prop-drops.md](lessons/L064-unsheeted-prop-drops.md) |
+| L65 | lesson | characters | Bare walking verbs give a robotic walk | s11-sh01 v3 | Ranjith | 2026-11-05 | [L065-robotic-walk.md](lessons/L065-robotic-walk.md) |
+| L66 | lesson | characters | Laughing extras turn round to the lens | s11-sh01 v4 | Ranjith | 2026-11-05 | [L066-reacting-extras-face-the-lens.md](lessons/L066-reacting-extras-face-the-lens.md) |
 | W1 | win | angles | What worked: aerial flight + match cut in one generation | showreel 1A v4, approved | Ananthu | 2026-10-29 | [W001-what-worked-aerial-flight-match-cut.md](wins/W001-what-worked-aerial-flight-match-cut.md) |
 | W2 | win | dialogue | What worked: Scene 2 Part A | approved | Ananthu | 2026-10-30 | [W002-what-worked-scene-2-part-a.md](wins/W002-what-worked-scene-2-part-a.md) |
 | W3 | win | position | Lock staging from an approved end frame | 3-2 approved | Ananthu | 2026-10-30 | [W003-lock-staging-from-an-approved-end.md](wins/W003-lock-staging-from-an-approved-end.md) |
-| W-new | win | platform | 1A v14 recipe: what to copy from an approved prompt | showreel 1A v14, approved | Ranjith | 2026-11-04 | [W-new-1a-v14-recipe.md](wins/W-new-1a-v14-recipe.md) |
+| W7 | win | platform | 1A v14 recipe: what to copy from an approved prompt | showreel 1A v14, approved | Ranjith | 2026-11-04 | [W007-1a-v14-recipe.md](wins/W007-1a-v14-recipe.md) |
 
 Until November 2026 all lessons and wins lived in one file, `rules/lessons.md`. Entries are never deleted; a later lesson marks an earlier one superseded.
 | W4 | win | light | 1A v10 worked at 480p | 1A v10 | Ananthu | 2026-11-04 | [W004-1a-v10-worked-at-480p.md](wins/W004-1a-v10-worked-at-480p.md) |
