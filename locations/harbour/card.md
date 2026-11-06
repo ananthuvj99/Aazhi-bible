@@ -32,6 +32,7 @@ used_in: [s13-sh01]
 - Registered 2026-11-06 as `@uru` (`props/uru/prop.png`, from panel 13B). The tracker's name for it was `@Uru2`.
 - `plates/harbour-c2-plate.png` (@harbourc2plate): panel 13B without its label. It looks back along the quay (warehouses left), the opposite way to c1; SB020 v1 used it and the take reversed the geography (L68), so use it only for a deliberate reverse.
 - `plates/harbour-c3-plate.png` (@harbourc3plate): panel 14 (Boarding) **mirrored left-right**, so the uru and water are on the left and the warehouses on the right, matching c1 and the kept s13-sh01 take. End view of SB020 and the boarding view for SB021.
+- `plates/harbour-c4-plate.png` (@harbourc4plate): the harbour from the sea, generated 2026-11-06 (GPT Image 2.6, Higgsfield job af62aa9b-0eda-46aa-805a-845b0574d440) from @harbourc1plate and @uru, angle from Ranjith's watercolour reference. Square on to the quay, hero uru side-on in the centre, bow LEFT, a smaller single-masted boat at each side, canoes along the wall, no people. Continuity score: see `scenes/showreel/image-qa/harbour-c4-plate.md`.
 - Rule: the vessel is a Beypore uru (wooden dhow), never a fishing boat (`rules/prompt-rules.md`).
 
 ## When to attach
