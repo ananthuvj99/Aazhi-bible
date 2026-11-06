@@ -30,7 +30,8 @@ used_in: [s13-sh01]
 - A carved wooden deckhouse aft with two railed decks (turned balusters), cargo and coir rope on deck.
 - Panel 15 prints "COCHIN" on the stern: never let that lettering into a prompt or a plate.
 - Registered 2026-11-06 as `@uru` (`props/uru/prop.png`, from panel 13B). The tracker's name for it was `@Uru2`.
-- `plates/harbour-c2-plate.png` (@harbourc2plate): panel 13B without its label, the approach view for SB020.
+- `plates/harbour-c2-plate.png` (@harbourc2plate): panel 13B without its label. It looks back along the quay (warehouses left), the opposite way to c1; SB020 v1 used it and the take reversed the geography (L68), so use it only for a deliberate reverse.
+- `plates/harbour-c3-plate.png` (@harbourc3plate): panel 14 (Boarding) **mirrored left-right**, so the uru and water are on the left and the warehouses on the right, matching c1 and the kept s13-sh01 take. End view of SB020 and the boarding view for SB021.
 - Rule: the vessel is a Beypore uru (wooden dhow), never a fishing boat (`rules/prompt-rules.md`).
 
 ## When to attach
