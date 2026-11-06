@@ -30,3 +30,5 @@ asset-requests/              image-generation prompts for assets still to be mad
 templates/                   cards and learning files to copy
 .claude/skills/              the shared agents
 ```
+
+**Working rule:** every prompt is written from `main`; every result Ananthu comments on is pushed to `main`. See `rules/workflow.md`.
