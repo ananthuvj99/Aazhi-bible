@@ -1,5 +1,5 @@
 # Shot 1D-exit · "ഓ, ഈ അമ്മ! ഞാൻ പെട്ടെന്ന് പോയി കുളിച്ചിട്ട് വരട്ടെ." — Antony leaves the kitchen (10 s) — v2.1
-Status: **ready** (QA 93)
+Status: **APPROVED** (v2.1, 2026-11-06) — last shot of Scene 1
 References: @endframe1cc (START — approved/1C-c-end-frame.png), @antonyhome, @rosamma (from behind), @kitchenclean
 Follows approved 1C-c v5. Last shot of Scene 1.
 
@@ -98,3 +98,4 @@ Starts exactly on @endframe1cc. Antony scratches the back of his head, says his 
 ## Generation results
 - v1.1: almost all right — only "ഓ, ഈ അമ്മ!" was too soft (Ananthu, 2026-11-06).
 - v2: rejected by Higgsfield as NSFW (false positive) — no video (Ananthu, 2026-11-06).
+- v2.1: **APPROVED** — "came out really good" (Ananthu, 2026-11-06).

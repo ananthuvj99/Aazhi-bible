@@ -97,3 +97,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 82. **Listener (W8):** in two-person dialogue the listener has a physical action around the line (not in the speaker's frame), mouth closed; consider a cut back for their reaction.
 83. **Silent tail after the last line (L70):** a shot whose line ends the dialogue has its line end at least 2.5 s before the clip ends, a silent beat in ACTION, "after the line, nobody speaks" in AUDIO and the tail in POSITIVE LOCKS; mid-exchange shots need only a short beat.
 84. **Duration on the platform (L71):** shots are 8 s (12 or 15 s if long), not odd lengths; the delivery's first setting, in bold, tells the creator to set the platform's duration to that length.
+85. **Filter-safe wording (L72):** no 'barefoot/bare', 'sleeveless', 'grin', moving clothing, 'brush-off', 'off-face'; costume described as worn.
