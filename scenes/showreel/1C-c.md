@@ -1,5 +1,5 @@
 # Shot 1C-c · Start frame → reverse on Amma, her answer (10 s) — v5
-Status: **ready** (QA 94)
+Status: **APPROVED** (v5, 2026-11-06)
 References: @endframe1cb2 (START — approved/1C-b2-end-frame.png), @rosamma, @antonyhome, @kitchenclean
 
 ## History
@@ -99,3 +99,4 @@ Starts exactly on @endframe1cb2; hard cut to the reverse angle from beside Anton
 
 ## Generation results
 - v4.1: almost worked — Antony stood still in the start-frame shot (Ananthu, 2026-11-06).
+- v5: **APPROVED** — "generated good, dialogues also came out really good" (Ananthu, 2026-11-06).
