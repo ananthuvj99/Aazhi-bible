@@ -85,3 +85,4 @@ Categories: position, elements, characters, sizes, angles, in-frame, dialogue, t
 Until November 2026 all lessons and wins lived in one file, `rules/lessons.md`. Entries are never deleted; a later lesson marks an earlier one superseded.
 | W8 | win | characters | Give the listener something to do; cut back for their reaction | 1C-c v5 | Ananthu | 2026-11-06 | [W008-listener-reaction-shot.md](wins/W008-listener-reaction-shot.md) |
 | L69 | lesson | dialogue | "Not playful" turned into a mumble | 1D-exit v1.1 | Ananthu | 2026-11-06 | [L069-not-playful-became-too-soft.md](lessons/L069-not-playful-became-too-soft.md) |
+| L70 | lesson | timing | A shot never ends on the last word | s13-sh04 v1 | Ranjith | 2026-11-06 | [L070-a-shot-never-ends-on-the-last-word.md](lessons/L070-a-shot-never-ends-on-the-last-word.md) |
