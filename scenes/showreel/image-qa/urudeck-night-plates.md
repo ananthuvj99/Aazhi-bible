@@ -17,3 +17,13 @@ Compared with: @urudeckc1plate, @urudeckc2plate, @uru, @harbourc3plate, cameras.
 ⚠️ The deck seen through the windows is at a slightly different scale from c1
 
 Drift to write away in prompts: gentle swell; keep the moon sides; weathered wood.
+
+## v2 (2026-11-07): Kling O1 remakes, graded to a natural night
+@urudeckc1platenight v2 · 88/100 · Matches with small drift
+✅ Same layout as v1 (deckhouse two tiers, lit windows with the wheel inside, mats, sacks, mast base, rail on the right); photographic wood and rope
+✅ Graded dark to match @s21sh02start; lantern glow kept warm
+⚠️ Generated as dusk; the grade makes it night, but the sky keeps a little grey; the deck is darker than v1, so the sleepers will need moonlight described
+
+@urudeckc2platenight v2 · 89/100 · Matches with small drift
+✅ Same bow layout; more natural texture; moon high RIGHT with its path; graded to match
+⚠️ Very dark foreground; say "faint moonlight on the planks" in prompts

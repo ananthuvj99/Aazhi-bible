@@ -8,7 +8,7 @@ status: approved
 image: plates/urudeck-c1-plate.png
 topview: none yet
 used_in: [s13-sh04, s13-sh05, s21-sh01, s21-sh02, s21-sh03]
-continuity_score: {urudeckc1plate: 90, urudeckc2plate: 88, urudeckc1platenight: 90, urudeckc2platenight: 88, urudeckc3platenight: 87}
+continuity_score: {urudeckc1plate: 90, urudeckc2plate: 88, urudeckc1platenight: 88, urudeckc2platenight: 89, urudeckc3platenight: 87}
 ---
 
 # The uru's deck
@@ -19,6 +19,7 @@ Made 2026-11-06 with GPT Image 2.6 (Higgsfield jobs 2fa8901c… aft, a4d1abf0…
 - `plates/urudeck-c2-plate.png` (@urudeckc2plate): on the foredeck a few metres aft of the bow, kneeling face height, looking FORWARD. The tall curved stem post at the centre; the bow rail with turned posts on both sides; a pair of thick wooden mooring bitts with the heavy coir mooring rope wound round them in the foreground-LEFT, the rope running over the left rail toward the quay; a coil of rope and a small wooden box on the right; the quay and a warehouse at the LEFT edge; hazy water and a low palm shore ahead; sun at the upper right. **Mirrored left-right** from the generation so the quay is on the left when looking forward (it is on the right when looking aft in c1).
 
 ## Night plates (2026-11-07, Ranjith, SB027; made from the day plates and @uru)
+- v2 (same day): c1 and c2 night remade with Kling O1 and graded down to a natural, dark night that matches @s21sh02start (Ranjith found the GPT Image versions cartoonish). The GPT versions are kept as `*-plate-night-v1.png`, not used. c3 (the helm interior) is now represented by the start frame @s21sh02start.
 - `plates/urudeck-c1-plate-night.png` (@urudeckc1platenight): the c1 view at night at sea: deckhouse front windows and half-open door glowing from a lantern INSIDE, the wheel seen through the middle windows, the open deck in front clear, rolled mats and folded cloth for sleepers, moonlit sea beyond the RIGHT rail, half moon high on the LEFT.
 - `plates/urudeck-c2-plate-night.png` (@urudeckc2platenight): the c2 bow view at night: stem post, rail, bitts with the rope coiled, open sea to the horizon, half moon high on the RIGHT with its silver path.
 - `plates/urudeck-c3-plate-night.png` (@urudeckc3platenight): INSIDE the deckhouse behind the helm, looking forward: the spoked wheel on its pedestal, hurricane lantern from the ceiling beam at the left, open wooden-framed front windows and doorway onto the moonlit deck, mast and bow, brass compass in a wooden box on a shelf at the right, coiled rope.
