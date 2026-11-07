@@ -1,9 +1,9 @@
-# Shot 2-bath · Bucket bath by the well, shoulders up (10 s) — v1.1
-Status: **v1.1 failed — v2 in progress** (L73)
-References: @backyardwell, @antonyhome
+# Shot 2-bath · Bucket bath by the well, waist up (8 s) — v2
+Status: **ready** (QA 98) · storyboard `storyboards/2-bath-storyboard.png`
+References: @2bathstart (START — approved/2-bath-start.png), @antonybath, @backyardwell · camera backyard-c1-bath (new)
 After 1D-exit (Scene 1). Then Antony dresses in his room (@antony20) → Scene 2 Part A.
 
-v1.1 (Ananthu): AUDIO spells out no music, sound effects only, and a constant distant sea ambience.
+v1.1 prompt: `retired/2-bath-v1.1.md`. v1.1 (Ananthu): AUDIO spells out no music, sound effects only, and a constant distant sea ambience.
 
 ## v2 plan (Ananthu, 2026-11-07)
 - Duration **8 s** (L71).
@@ -14,64 +14,66 @@ v1.1 (Ananthu): AUDIO spells out no music, sound effects only, and a constant di
 ## Prompt
 ```
 SCENE
-Bright late morning, 1998, the backyard behind a fisherman's house on the Alappad coast, Kerala — straight after Antony has left the kitchen to bathe. One continuous shot at the open-air bathing corner beside the well. Antony, seen only from the shoulders up, takes a quick bucket bath: he pours mugs of well water over his head, wipes the water from his face, pushes his wet hair back and breathes out, awake and refreshed. Nobody speaks.
+Bright late morning, 1998, the backyard behind a fisherman's house on the Alappad coast, Kerala. One continuous shot at the open-air bathing corner. It begins exactly on the attached start frame (@2bathstart): Antony, seen from the waist up, holds a small red plastic mug full of water. He pours it over his head, shivers hard at the cold water, wipes his face, pushes his wet hair back and breathes out, awake and refreshed. Nobody speaks.
 
 ACTIVE REFERENCES
-@backyardwell: the backyard exactly as in the reference — the laterite well with its two tall wooden posts and pulley, the open-air bathing corner with the wet laterite slab and the woven coconut-leaf screen, the faded blue plastic bucket of water and the small red plastic mug, the striped cotton towel on the screen, the white back door of the house, the palms and the sea. 100% matches the reference.
-@antonyhome: Antony, 24-year-old coastal sailor, lean, sun-browned, slim face with light stubble, thick black hair, thin silver chain. 100% matches the reference.
+@2bathstart (start frame): the first frame of this video is exactly this image — Antony from the waist up in front of the woven coconut-leaf screen, the full red mug in his right hand at chest height, hair dry and messy; the white towel with faint blue stripes on the screen behind him; the pale-blue house wall, the white back door and the clothes line at frame-left; palms and the sea at frame-right. 100% matches the reference.
+@antonybath: Antony, 24, slim face, light stubble, thick black hair, thin silver chain, an ordinary slim build. He wears only the faded red cotton thorthu at his waist; no vest, no shirt. 100% matches the reference.
+@backyardwell: the same backyard bathing corner, for the screen, the towel, the house wall, the back door, the palms and the sea. 100% matches the reference.
 
 ON SCREEN
-Antony is dressed for an ordinary village bath: his grey-green checked mundu tied at the waist, below the frame; the thin silver chain at his neck. Only his head, neck and the tops of his shoulders are ever in the frame.
+Antony wears only the faded red cotton thorthu at his waist; its top edge is at the bottom of the frame. Thin silver chain. His skin and hair are dry at the start. The small red plastic mug in his right hand, full of water.
 
-FRAME
-The camera stands at the bathing corner, at his eye level, looking at Antony from the front, a little to his right. He is framed from the shoulders up — never lower — in a medium close-up. Behind him, softly readable: the laterite well with its tall posts and pulley, the white back door of the house, palms, and a glimpse of bright sea between them. Only Antony is in the frame.
+WHAT IS IN FRAME
+Antony from the waist up, alone, centre frame. Behind him: the woven coconut-leaf screen with the striped towel. At frame-left: the pale-blue house wall with its deep blue base band, the white back door and the clothes line. At frame-right: palms and a slice of bright sea. Every frame looks like the film itself, with nothing from the making of it.
 
 FIRST FRAME
-Medium close-up, shoulders up: Antony at the bathing corner, his hair still dry and messy from sleep, eyes on the water in the bucket below the frame; behind him the well, the white back door and the palms in bright sun.
+Exactly the image @2bathstart.
 
 FORMAT MODE
-One continuous shot, 10 seconds. The camera does not cut. The video runs the full 10 seconds.
+One continuous shot, 8 seconds. No cuts. The video runs the full 8 seconds.
 
 OPTICS
-MCU 35°, framed from the shoulders up throughout. Natural depth of field: his face sharp, the well and the house behind him readable and only slightly softer. No lens flare.
+Medium shot 47°, waist up throughout, at his eye level. Natural depth of field: his face sharp, the screen, wall and door behind him readable and only slightly softer. No lens flare.
 
 CAMERA
-Moved by hand like a real feature-film operator, with a faint living breath — never shaky; a very slow push in toward his face over the whole shot. It always stays at shoulder height and above.
+Moved by hand like a real feature-film operator, with a faint living breath — never shaky. A very slow, slight push in over the whole shot; it always keeps him from the waist up.
 
 ACTION
-0.0s to 1.5s — Antony dips the red plastic mug into the blue bucket below the frame and lifts it up, full of water, eyes closing.
-1.5s to 3.5s — He pours the water slowly over the top of his head; it streams through his hair and down his face; he squeezes his eyes shut.
-3.5s to 4.5s — He dips the mug again and lifts it.
-4.5s to 6.5s — He pours the second mug over his head, a sharp breath at the cold water.
-6.5s to 8.5s — He sets the mug down below the frame, wipes the water off his face with both hands, and pushes his wet hair straight back.
-8.5s to 10.0s — He opens his eyes, blinks the drops away and lets out a breath, awake and refreshed; water drips from his chin.
+0.0s to 1.5s — Antony looks down at the full mug in his right hand, takes a breath to brace himself, a small wince of a smile.
+1.5s to 3.0s — He lifts the mug above his head and tips it: the water pours over the top of his head in one thick stream, running through his hair, down his face, neck, shoulders and chest.
+3.0s to 4.6s — The cold hits him: his shoulders jerk up toward his ears, his elbows pull in tight to his sides, his whole upper body gives a fast, hard shiver for about a second, eyes squeezed shut, a sharp breath in through clenched teeth; then he shakes his head hard from side to side twice, flinging a spray of drops off his hair.
+4.6s to 6.0s — He lowers the empty mug to his waist in his right hand, wipes the water off his face with his left palm, then pushes his wet hair straight back with the same hand.
+6.0s to 8.0s — He opens his eyes, blinks the drops away and lets out a long breath, shoulders dropping, awake and refreshed, a small smile; water drips from his chin and runs down his chest. He breathes, still, eyes down and to the side, never at the camera.
 
 PERFORMANCE
-Natural and quick — a young man who is late, getting it done; the cold water wakes him up. No acting for the camera; he never looks into it.
+Natural and quick — a young man who is late, getting it done. The cold water really shocks him: the shiver is big and physical, then he laughs it off with his breath. Never posing; he never looks into the camera.
 
 PHYSICS
-Real water: it pours from the mug in a thick stream, splashes off his head, runs through his hair and down his face in rivulets, and drips from his chin; his hair goes dark and flat with water and then is pushed back; drops catch the sunlight.
+Real water: a thick stream from the mug splashes off his head, his hair goes dark, flat and wet, water runs in rivulets down his face, neck and chest and drips from his chin; the drops he shakes off fly out and sparkle in the sun; his skin glistens wet after the pour. The thorthu stays tied at his waist.
 
 LIGHTING
-Strong late-morning sun through the palms, the soft moving shadows of palm fronds across the scene; his wet face lit softly and evenly; bright sparkle on the water drops.
+Strong late-morning sun through the palms, soft moving frond shadows across the screen; his face lit softly and evenly; bright sparkle on the water drops.
 
 AUDIO
-No music at all — no score, no background music, no song, no humming, no instruments, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. The soundtrack is only natural sound effects and ambience, clearly audible for the whole shot.
-No dialogue.
-Ambience all the way through, under everything: the sea in the distance beyond the palms — the steady, soft roll and wash of waves breaking on the beach — with a light breeze in the palm fronds.
-The mug scooping into the plastic bucket, water pouring and splashing onto the wet stone slab, drips; his sharp breath at the cold water; crows cawing, hens clucking.
+No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds, clearly audible for the whole shot. No dialogue; nobody speaks.
+Ambience all the way through: the sea beyond the palms — the steady, soft wash of waves on the beach — a light breeze in the palm fronds, crows cawing, hens clucking.
+SOUND EFFECTS: 1.0s a small breath in; 1.5s to 3.0s water pouring from the mug and splashing onto the wet stone slab; 3.0s a sharp hissing breath in through his teeth and a short shivery exhale; 3.8s to 4.4s the spray of drops pattering on the leaf screen and the slab; dripping water; 6.2s a long, relieved breath out.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
-- Image: very wide dynamic range — the bright sky and sea and the shaded palms both hold detail in one frame; clean, noise-free shadows; soft, gradual roll-off in the highlights, never clipped white.
+- Image: very wide dynamic range — the bright sky and sea and the shaded screen both hold detail in one frame; clean, noise-free shadows; soft, gradual roll-off in the highlights, never clipped white.
 - Colour: graded like a feature film — accurate, natural colour, rich but true skin tones, warm sunlight against cool shade, slightly lifted blacks, no oversaturation.
-- Lens: a fine vintage-style cinema prime — natural full-frame perspective, gentle fall-off of light toward the frame edges; the background stays readable, only slightly softer than the face, and any out-of-focus highlights are round and smooth; a faint, natural glow around the brightest sky highlights; no lens flare.
+- Lens: a fine vintage-style cinema prime — natural full-frame perspective, gentle fall-off of light toward the frame edges; the background stays readable, only slightly softer than the face; no lens flare.
 - Motion: 24 frames per second with natural motion blur on movement, like a real film camera; water and hands move with that soft cinematic cadence.
 - Texture: very fine, organic film-like grain; no over-sharpening, no digital edge halos, no smooth plastic skin, no glossy or video look.
 
 POSITIVE LOCKS
-One continuous shot at the bathing corner beside the well; Antony framed from the shoulders up only, never lower. Plastic bucket and mug, not steel; the white back door of the house behind. Nobody speaks; he never looks into the camera. Runs the full 10 seconds.
+Starts exactly on @2bathstart. One continuous shot, Antony from the waist up only, alone. He wears only the red cotton thorthu at his waist — no vest, no shirt. Red plastic mug, not steel. He pours the mug over his head, then a big visible shiver and a head shake. Screen and towel behind him, white back door at frame-left. Nobody speaks; he never looks into the camera. Runs the full 8 seconds.
 ```
+
+## Settings
+**Duration 8 s** · 16:9 · start image @2bathstart · no dialogue (dubbing language Malayalam if asked)
 
 ## Generation results
 - v1.1 [failed] (Ananthu, 2026-11-07): Antony bathed in the @antonyhome sheet's vest, and the bath did not follow the mug-from-the-bucket pours (the scoop was below the frame). L73. v2 next: vest off on the screen, wider frame showing bucket and mug, shiver at the cold water.
