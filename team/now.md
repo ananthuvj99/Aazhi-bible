@@ -5,4 +5,4 @@ Format: `- Name: shot — what you are doing`
 
 - Ananthu: Scene 2 Part B — front of the house (next after the approved bath + mirror)
 - Ranjith: SB030 — someone in the water; Antony calls Aashaan (s23-sh03, s23-sh04 ready)
-- Aswanth: s16b-sh00 — SB024 song panel 04, Aashaan's line with a gesture (5 s); s16a-sh01 v3 ready
+- Aswanth: s16b-sh05 — SB024 song panel 05, follow Antony down to the dance (12 s, 480p test); s16a-sh01 approved
