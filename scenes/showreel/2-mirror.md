@@ -73,4 +73,5 @@ One continuous shot: framed on the mirror, his reflection combing, a pan onto hi
 **Duration 12 s** · 16:9 · no start image (attach @backyardmirror + @antonybath + @blackcomb) · no dialogue
 
 ## Generation results
+- v3 [partial] (Ananthu, 2026-11-07): "almost good… kind of cute" — right action, but too fast. L80. v4: 15 s, slower, smiles at his reflection, comb back in the same place.
 - (none yet)
