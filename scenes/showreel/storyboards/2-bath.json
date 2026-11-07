@@ -1,0 +1,12 @@
+{
+  "title": "2-bath v2 · Bucket bath by the well",
+  "subtitle": "Scene 1 to 2 · backyard-c1-bath · 8 s · silent · no emotion tag",
+  "out": "scenes/showreel/storyboards/2-bath-storyboard.png",
+  "panels": [
+    {"shot": "2-bath v2", "image": "scenes/showreel/approved/2-bath-start.png",
+     "title": "Waist up: pour, shiver, push hair back", "time": "8 s",
+     "beats": ["0-1.5 s looks at the full red mug, braces", "1.5-3 s pours it over his head", "3-4.6 s big shiver, sharp breath, shakes his head", "4.6-6 s wipes his face, pushes wet hair back", "6-8 s breathes out, refreshed - hold"],
+     "refs": "@2bathstart (start) · @antonybath (full) · @backyardwell (full)"}
+  ],
+  "footer": "Storyboard only. Never attach this sheet to a generation."
+}
