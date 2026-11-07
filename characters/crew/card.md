@@ -28,7 +28,7 @@ Platform ID: `@crew` · Sheet: `sheet.png`, made by Aswanth (ChatGPT). Eight men
 - Background crew in deck shots (song on deck, voyage). Always write which men are meant: "men 1, 4 and 7 from @crew only"; the featured men come from their own sheets.
 
 ## Never pair with
-- A prompt that lets the model draw all eight AND the four featured sheets: that makes two Sasis, two Babus… Name the men.
+- `@sasi`, `@suresh`, `@raghavan` or `@babu` in the same generation (L74: s16b-sh02 v1 drew Babu twice even with "men 1, 4 and 7 only" written). Use @crew only for shots with none of the featured men; otherwise make own sheets for men 1, 4 and 7.
 - Man 3 is a boy: never give him alcohol, keep him in the background (image QA drift).
 
 ## Voice
