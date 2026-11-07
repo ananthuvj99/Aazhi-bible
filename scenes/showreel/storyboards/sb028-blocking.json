@@ -1,0 +1,138 @@
+{
+ "title": "SB028 · Watching the water — 3D blocking (top of the bow)",
+ "subtitle": "Green = Antony at the bow rail · yellow = the distant light on the horizon, far left · blue = camera",
+ "out": "scenes/showreel/storyboards/sb028-blocking.png",
+ "eye": [
+  1.5,
+  1,
+  8
+ ],
+ "target": [
+  -1,
+  16,
+  0
+ ],
+ "size": [
+  1600,
+  1000
+ ],
+ "fov": 55,
+ "objects": [
+  {
+   "type": "box",
+   "center": [
+    0,
+    6,
+    0
+   ],
+   "size": [
+    6,
+    16,
+    0.2
+   ],
+   "color": "#5b5248"
+  },
+  {
+   "type": "box",
+   "center": [
+    -3,
+    6,
+    0.5
+   ],
+   "size": [
+    0.15,
+    16,
+    0.8
+   ],
+   "color": "#3d4a5c"
+  },
+  {
+   "type": "box",
+   "center": [
+    3,
+    6,
+    0.5
+   ],
+   "size": [
+    0.15,
+    16,
+    0.8
+   ],
+   "color": "#3d4a5c"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    0,
+    13.6,
+    0.1
+   ],
+   "radius": 0.2,
+   "height": 2.6,
+   "color": "#4a3522",
+   "label": "bow"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    -1.1,
+    11.4,
+    0.1
+   ],
+   "radius": 0.18,
+   "height": 0.6,
+   "color": "#4a3522"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    -0.6,
+    11.4,
+    0.1
+   ],
+   "radius": 0.18,
+   "height": 0.6,
+   "color": "#4a3522",
+   "label": "bitts"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    0.8,
+    12.4,
+    0.1
+   ],
+   "color": "#3fa34d",
+   "label": "Antony (turns left to the light)"
+  },
+  {
+   "type": "box",
+   "center": [
+    -9,
+    30,
+    0.5
+   ],
+   "size": [
+    0.6,
+    0.6,
+    0.6
+   ],
+   "color": "#ffcc33",
+   "label": "distant light (horizon, left)"
+  },
+  {
+   "type": "camera",
+   "pos": [
+    0,
+    8.4,
+    1.7
+   ],
+   "look": [
+    0.5,
+    15,
+    1.5
+   ],
+   "label": "camera (same as s21-sh03)"
+  }
+ ]
+}
