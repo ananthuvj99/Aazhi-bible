@@ -195,4 +195,5 @@ One shot at the front door; Antony alone in medium close-up on the threshold, lo
 ```
 
 ## Generation results
+- 2A-1 v2 [approved] (Ananthu, 2026-11-07): "came out really good".
 - v1 [approved] (Ananthu, 2026-10-30): "came out really well" (W2). Bag in the footage is the beige @antonybag (Ananthu, 2026-11-07).
