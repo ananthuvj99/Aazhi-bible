@@ -29,12 +29,12 @@ continuity_score: {harbourc4plate: 89, harbourc5plate: 88}
 ## Hero uru (as drawn in sheet v2, all four panels)
 - Single wooden mast with rigging; weathered blue-grey planked hull streaked with rust and iron fastenings, red-oxide paint below the waterline; high curved bow.
 - A carved wooden deckhouse aft with two railed decks (turned balusters), cargo and coir rope on deck.
-- Panel 15 prints "COCHIN" on the stern: never let that lettering into a prompt or a plate.
+- The stern carries "COCHIN" in white capital letters (Ranjith, 2026-11-07, as in panel 15): in shots that see the stern, write it exactly and say nothing else is written; elsewhere no lettering.
 - Registered 2026-11-06 as `@uru` (`props/uru/prop.png`, from panel 13B). The tracker's name for it was `@Uru2`.
 - `plates/harbour-c2-plate.png` (@harbourc2plate): panel 13B without its label. It looks back along the quay (warehouses left), the opposite way to c1; SB020 v1 used it and the take reversed the geography (L68), so use it only for a deliberate reverse.
 - `plates/harbour-c3-plate.png` (@harbourc3plate): panel 14 (Boarding) **mirrored left-right**, so the uru and water are on the left and the warehouses on the right, matching c1 and the kept s13-sh01 take. End view of SB020 and the boarding view for SB021.
 - `plates/harbour-c4-plate.png` (@harbourc4plate): the harbour from the sea, generated 2026-11-06 (GPT Image 2.6, Higgsfield job af62aa9b-0eda-46aa-805a-845b0574d440) from @harbourc1plate and @uru, angle from Ranjith's watercolour reference. Square on to the quay, hero uru side-on in the centre, bow LEFT, a smaller single-masted boat at each side, canoes along the wall, no people. Continuity score: see `scenes/showreel/image-qa/harbour-c4-plate.md`.
-- `plates/harbour-c5-plate.png` (@harbourc5plate): the uru leaving the harbour, seen from behind in its wake between two low palm shores. Remade 2026-11-07 (GPT Image 2.6, Higgsfield job 6b30cca7-70a5-4c1f-8bff-f81347410442) from panel 15 of sheet v2 and @uru, so the stern carries no "COCHIN" lettering. Image QA 88: `scenes/showreel/image-qa/harbour-c5-plate.md`.
+- `plates/harbour-c5-plate.png` (@harbourc5plate): Ranjith's panel 15 (Departure) of sheet v2, cropped without its label, as drawn: the uru small and far in the centre, sailing away in its V-shaped wake between two low palm shores, **"COCHIN" painted on the stern** (Ranjith's choice, 2026-11-07). 728 × 467. `plates/harbour-c5-plate-v1.png` is the earlier remake without the lettering (not used). Image QA: `scenes/showreel/image-qa/harbour-c5-plate.md`.
 - Rule: the vessel is a Beypore uru (wooden dhow), never a fishing boat (`rules/prompt-rules.md`).
 
 ## When to attach

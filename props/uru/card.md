@@ -19,7 +19,7 @@ Tracker note: the location tracker calls the hero uru `@Uru2`. This is the vesse
 - One tall wooden mast with rope rigging; heavy coir mooring rope from the bow to the quay.
 - Aft: a carved wooden deckhouse with two railed decks (turned balusters), in warm brown wood; coils of coir rope and cargo on deck.
 - Length roughly 25–30 m; the deckhouse top stands well above a man on the quay.
-- No name or lettering anywhere (panel 15 of the sheet prints "COCHIN" on the stern: keep it out).
+- The stern is painted "COCHIN" in white capital letters (Ranjith, 2026-11-07, as in panel 15). Write it exactly in shots that see the stern; no other lettering anywhere on the boat.
 
 ## Where it lives
 - Moored at the far end of the stone quay in the Cochin harbour (`@harbourc1plate` shows it small, bow toward the view; `@harbourc2plate` shows it close from the quay).
