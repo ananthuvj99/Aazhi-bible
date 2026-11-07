@@ -1,5 +1,5 @@
 # Shot 2-bath · Bucket bath by the well, waist up (8 s) — v2.1
-Status: **ready** (QA 96, continuity: no conflicts) · storyboard `storyboards/2-bath-storyboard.png`
+Status: **v2.1 failed (no mug) — v3 in progress** (L79) · storyboard `storyboards/2-bath-storyboard.png`
 References: @antonybath, @backyardwell · no start image · camera backyard-c1-bath (new)
 After 1D-exit (Scene 1). Then Antony dresses in his room (@antony20) → Scene 2 Part A.
 
@@ -77,4 +77,5 @@ One continuous shot, Antony from the waist up only, alone, his face and ordinary
 **Duration 8 s** · 16:9 · no start image (attach @antonybath + @backyardwell) · no dialogue (dubbing language Malayalam if asked)
 
 ## Generation results
+- v2.1 [failed] (Ananthu, 2026-11-07): no mug in Antony's hand, so no pour. L79. Next: prop sheet for the mug, then v3.
 - v1.1 [failed] (Ananthu, 2026-11-07): Antony bathed in the @antonyhome sheet's vest, and the bath did not follow the mug-from-the-bucket pours (the scoop was below the frame). L73. v2 next: vest off on the screen, wider frame showing bucket and mug, shiver at the cold water.
