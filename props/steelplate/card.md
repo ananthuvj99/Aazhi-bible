@@ -21,6 +21,7 @@ Platform ID: `@steelplate` · Image: `prop.webp` (plate from above, plate on its
 
 ## Continuity (song on deck)
 - In the approved master (s16b-sh02 v4) Raghavan holds the plate in his LEFT hand and beats it with his empty RIGHT hand, no spoon. Keep that through the song: attach this sheet and write "use ONLY the plate from this sheet; his right hand is empty and strikes the plate with flat fingers". The spoon on the sheet is for any later shot that wants it.
+- The hold (from the master, `scenes/showreel/approved/s16b-sh02-v4-plate-hold.webp`): upright, gripped by its rim in his LEFT hand, out at his left side at chest height like a hand drum, its face turned toward his body; his RIGHT hand reaches across and slaps its face with flat fingers. Frame wide enough for the whole plate and both hands; never "at the frame edge" (L81). In multi-cut shots the plate is attached for Raghavan's cut only.
 
 ## When to attach
 - Every shot where the plate or spoon is in frame, with `@raghavan`. Write the hands and "the spoon is clearly visible, striking the plate" in ACTION and POSITIVE LOCKS (L64, L79).
