@@ -1,21 +1,22 @@
 {
-  "title": "2-mirror v3 · Mirror, comb, round to the front",
-  "subtitle": "backyard-c2-mirror · 12 s · silent · no start image · @antonybath (red thorthu)",
+  "title": "2-mirror v4 · Combs and smiles, then round to the front",
+  "subtitle": "backyard-c2-mirror · 15 s · silent · @antonybath (red thorthu)",
   "out": "scenes/showreel/storyboards/2-mirror-storyboard.png",
   "panels": [
     {
-      "shot": "2-mirror v3",
+      "shot": "2-mirror v4",
       "image": "locations/backyard/mirror.png",
       "title": "Plate. Framed on the mirror; he walks in from frame-right",
-      "time": "12 s",
+      "time": "15 s",
       "beats": [
-        "0-1.5 s mirror holds on palms and sky",
-        "1.5-3 s walks in from frame-right, looks into the mirror",
-        "3-4 s picks up the black comb from the ledge",
-        "4-7 s in the mirror: three strokes through his wet hair",
-        "7-9 s pan right onto his real face; comb back on the ledge",
-        "9-11 s walks off frame-left along the wall, round the corner",
-        "11-12 s hold on the empty wall and path"
+        "0-1.5 s mirror holds on palms",
+        "1.5-3 s walks in, looks at his reflection",
+        "3-6 s picks up the comb, two slow strokes",
+        "6-7.5 s stops, shy smile",
+        "7.5-9 s two more strokes",
+        "9-10.5 s wider, pleased smile",
+        "10.5-12.5 s pan to his face, checks it, comb back in the same spot",
+        "12.5-15 s walks off round the corner, hold"
       ],
       "refs": "@backyardmirror (full) · @antonybath (full) · @blackcomb (full, ledge then right hand)"
     }
