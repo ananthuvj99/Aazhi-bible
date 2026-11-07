@@ -21,6 +21,9 @@ Tracker note: the location tracker calls the hero uru `@Uru2`. This is the vesse
 - Length roughly 25–30 m; the deckhouse top stands well above a man on the quay.
 - The stern is painted "COCHIN" in white capital letters (Ranjith, 2026-11-07, as in panel 15). Write it exactly in shots that see the stern; no other lettering anywhere on the boat.
 
+## The wheel
+- Steered from a big spoked wooden wheel INSIDE the lower level of the deckhouse, behind the front windows; the helmsman looks out over the deck and bow to the sea (Ranjith, 2026-11-07). A hurricane lantern hangs from the ceiling beam there at night; a brass compass sits on a shelf. Never a wheel on the open deck.
+
 ## Where it lives
 - Moored at the far end of the stone quay in the Cochin harbour (`@harbourc1plate` shows it small, bow toward the view; `@harbourc2plate` shows it close from the quay).
 - Antony walks to it (SB019, SB020), boards it by a gangplank (SB021) and sails on it (SB022 on).
