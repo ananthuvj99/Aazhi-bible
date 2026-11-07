@@ -92,6 +92,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@bathmug` | The red plastic bath mug: faded pinkish-red, round, one D-shaped handle, ~11 cm; empty and full of water | Every shot where the mug is in someone's hand (2-bath: Antony's right hand). Then it is the only mug in frame (L51, L79) | `props/bathmug/prop.png` | Ananthu | 2026-11-07 | approved — on platform |
 | `@blackcomb` | Antony's plain black plastic comb, ~13 cm, wide teeth one end, fine the other | Every shot where the comb is in someone's hand (2-mirror: Antony's right hand). Then it is the only comb in frame (L51, L79) | `props/blackcomb/prop.png` | Ananthu | 2026-11-07 | approved — upload to platform |
 | `@uru` | The hero uru: Beypore wooden dhow, high curved bow, weathered blue-grey hull with rust streaks, red-oxide waterline, one mast, carved two-deck wooden deckhouse aft; no lettering | Every shot where Antony's vessel is on screen (SB019 on); lock its size when it is far away | `props/uru/prop.png` | Ranjith | 2026-11-06 | approved |
+| `@steelplate` | Raghavan's steel plate and spoon, one prop: round worn stainless-steel thali about 30 cm, low rim, two small dents; plain steel table spoon about 18 cm (plate from above and on edge, spoon from above and side) | Every shot with the plate or spoon in frame (song on deck), with @raghavan: plate in his LEFT hand, spoon in his RIGHT; not for the fish-serving plate | `props/steelplate/prop.webp` | Aswanth | 2026-11-07 | approved |
 
 ## Scale sheets
 
