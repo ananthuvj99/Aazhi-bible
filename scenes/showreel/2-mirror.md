@@ -1,6 +1,6 @@
 # Shot 2-mirror · Combing at the outdoor mirror, mirror → face (8 s) — v2
-Status: **ready once @blackcomb is approved and on the platform** (QA 96, continuity: towel fixed to the line) · storyboard `storyboards/2-mirror-storyboard.png`
-References: @backyardmirror, @antonyhome, @blackcomb (proposed) · no start image · camera backyard-c2-mirror (new)
+Status: **ready** (QA 96, continuity: towel fixed to the line) — upload @blackcomb first · storyboard `storyboards/2-mirror-storyboard.png`
+References: @backyardmirror, @antonyhome, @blackcomb · no start image · camera backyard-c2-mirror (new)
 After 2-bath (approved). Then Antony dresses (@antony20) → Scene 2 Part A (approved).
 
 v1.1 (Ananthu): AUDIO spells out no music, sound effects only, and a constant distant sea ambience.
