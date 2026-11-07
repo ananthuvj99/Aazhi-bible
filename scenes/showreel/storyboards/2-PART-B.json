@@ -1,0 +1,45 @@
+{
+  "title": "Scene 2 Part B · Question, promise, untouched plate",
+  "subtitle": "Front of the house · 3 generations × 8 s · Malayalam · no emotion tag",
+  "out": "scenes/showreel/storyboards/2-PART-B-storyboard.png",
+  "panels": [
+    {
+      "shot": "2B-1",
+      "image": "locations/house-exterior/elevations.webp",
+      "title": "MCU Rosamma on the threshold, plate in both hands",
+      "time": "8 s",
+      "beats": [
+        "0-1 s looks out to the yard (left of lens)",
+        "1-5.2 s her question",
+        "5.2-8 s holds, glances at the plate"
+      ],
+      "refs": "@rosamma · @puttuplate · @housefullview · @hallclean (bg)"
+    },
+    {
+      "shot": "2B-2",
+      "image": "locations/villagelane/sheet.png",
+      "title": "MCU Antony at the wall gap, bag on left shoulder",
+      "time": "8 s",
+      "beats": [
+        "0-1.2 s turns back, smile (right of lens)",
+        "1.2-5 s his promise",
+        "5-5.6 s nod",
+        "5.6-8 s walks out through the gap"
+      ],
+      "refs": "@antony20 · @antonybag · @villagelane (bg)"
+    },
+    {
+      "shot": "2B-3",
+      "image": "locations/house-exterior/elevations.webp",
+      "title": "WS the house, Rosamma with the untouched plate",
+      "time": "8 s",
+      "beats": [
+        "0-3 s watches the gap",
+        "3-5 s looks at the plate, small sigh",
+        "5-8 s looks up again, still"
+      ],
+      "refs": "@rosamma · @puttuplate · @housefullview · @houseout"
+    }
+  ],
+  "footer": "Storyboard only. Never attach this sheet to a generation."
+}
