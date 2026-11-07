@@ -17,3 +17,6 @@ Same face, skin tone, build and chain as the reference in every panel. No vest, 
 ```
 
 After it is made: run `aazhi-image-qa` against `@antonyhome`, show Ananthu, save as `characters/antonybath/sheet.png` with a card and an `INDEX.md` row, and upload it to the platform as `@antonybath`.
+
+
+**Done 2026-11-07:** v2 approved and registered (`characters/antonybath/sheet.png`). Ananthu's corrections to v1: ordinary build (no six-pack), same skin tone and proportions as `@antonyhome` (full-length panels), and a red cotton thorthu instead of the mundu.
