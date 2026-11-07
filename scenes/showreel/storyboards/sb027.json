@@ -12,9 +12,9 @@
      "refs": "@urudeckc1platenight (full) · @aashaan · @raghavan · @babu · @sasi (full)"},
     {"shot": "s21-sh02", "time": "8 s", "title": "Aashaan at the wheel inside",
      "image": "locations/uru-deck/plates/urudeck-c3-plate-night.png",
-     "beats": ["Inside the deckhouse from behind his right shoulder, looking out through the windows to the bow.",
-               "0–2 s steering, eyes on the sea; Antony small at the bow through the window.",
-               "2–6 s a quarter turn and back; a glance at the compass, then out to the bow.",
+     "beats": ["Inside the deckhouse, from directly behind and a little above Aashaan, centred on him and the wheel.",
+               "0–2 s both hands on the spokes, facing forward; Antony small at the bow straight ahead.",
+               "2–6 s a quarter turn right and back, hand over hand, body square behind the wheel.",
                "6–8 s settles his grip, hold."],
      "refs": "@urudeckc3platenight (full) · @aashaan (full) · @antony20 (small, at the bow)"},
     {"shot": "s21-sh03", "time": "8 s", "title": "Antony keeps watch forward",
@@ -24,6 +24,11 @@
                "2–6 s rubs his neck, leans on the rail, scans the water left to right.",
                "6–8 s still, eyes on the horizon, hold. Leads into SB028 (a distant light)."],
      "refs": "@urudeckc2platenight (full) · @antony20 (full)"}
+,
+    {"shot": "blocking", "time": "", "title": "3D blocking: who stands where",
+     "image": "scenes/showreel/storyboards/sb027-blocking.png",
+     "beats": ["Deckhouse roof removed and walls cut down. Red Aashaan at the wheel inside; orange sleepers on the deck; green Antony at the bow; blue pyramids are the three cameras."],
+     "refs": "planning only, never attached"}
   ],
   "footer": "Storyboard only (plates shown; people are added by the prompts). Never attach this sheet to a generation."
 }
