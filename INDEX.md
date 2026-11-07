@@ -21,6 +21,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@suresh` | Crewman Suresh (@crew #5), about 30: curly hair, moustache, cream shirt sleeves rolled, green small-check mundu, red thread right wrist | Song on deck: laughing dancer | `characters/suresh/sheet.png` | Aswanth | 2026-11-06 | approved |
 | `@raghavan` | Crewman Raghavan (@crew #6), about 60: wiry, grey hair and moustache, white vest, red-and-white checked towel round the neck, white mundu | Song on deck: beats the steel plate, drinks | `characters/raghavan/sheet.png` | Aswanth | 2026-11-06 | approved |
 | `@babu` | Crewman Babu (@crew #8), about 40: heavy-set, moustache, red-and-white checked head towel, off-white half-sleeve shirt over vest, grey-brown checked lungi | Song on deck: dancer, serves the fried fish | `characters/babu/sheet.png` | Aswanth | 2026-11-06 | approved |
+| `@selvan` | Selvan, about 45: short greying black hair, thick moustache, light-blue/slate tiger-stripe camouflage shirt and cargo trousers, khaki webbing belt with two pouches, glass vial on a black cord, tan canvas boots | SB030–SB035: in the water by the burning vallam, rescued by Antony; in the hold with the sealed letter | `characters/selvan/sheet.jpg` | Ranjith | 2026-11-07 | approved |
 
 ## Locations
 
