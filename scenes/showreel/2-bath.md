@@ -1,5 +1,5 @@
 # Shot 2-bath · Bucket bath by the well, shoulders up (10 s) — v1.1
-Status: **ready** (QA 95)
+Status: **v1.1 failed — v2 in progress** (L73)
 References: @backyardwell, @antonyhome
 After 1D-exit (Scene 1). Then Antony dresses in his room (@antony20) → Scene 2 Part A.
 
@@ -68,4 +68,4 @@ One continuous shot at the bathing corner beside the well; Antony framed from th
 ```
 
 ## Generation results
-- (none yet)
+- v1.1 [failed] (Ananthu, 2026-11-07): Antony bathed in the @antonyhome sheet's vest, and the bath did not follow the mug-from-the-bucket pours (the scoop was below the frame). L73. v2 next: vest off on the screen, wider frame showing bucket and mug, shiver at the cold water.
