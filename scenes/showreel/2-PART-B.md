@@ -1,5 +1,5 @@
 # Scene 2 · Part B — front of house: question, promise, untouched plate — v2 (3 generations × 8 s)
-Status: **ready** (QA 95 / 95 / 96, continuity: no conflicts) — upload @puttuplate first · storyboard `storyboards/2-PART-B-storyboard.png`
+Status: **ready** (QA 95 / 95 / 96, continuity: no conflicts) · storyboard `storyboards/2-PART-B-storyboard.png`
 References: 2B-1 @rosamma, @puttuplate, @housefullview, @hallclean (bg) · 2B-2 @antony20, @antonybag, @villagelane (bg) · 2B-3 @rosamma, @puttuplate, @housefullview, @houseout
 Follows approved 2-PART-A (passage). v1 (17 s, 3 shots in one generation, per-line emotion tags): `retired/2-PART-B-v1.md`.
 
