@@ -19,6 +19,9 @@ Platform ID: `@steelplate` · Image: `prop.webp` (plate from above, plate on its
 ## Who holds it
 - Raghavan (`@raghavan`) in the song on deck (SB024): plate upright in his **LEFT** hand, spoon in his **RIGHT**, striking the plate on the beat. It is the only plate and spoon in frame.
 
+## Continuity (song on deck)
+- In the approved master (s16b-sh02 v4) Raghavan holds the plate in his LEFT hand and beats it with his empty RIGHT hand, no spoon. Keep that through the song: attach this sheet and write "use ONLY the plate from this sheet; his right hand is empty and strikes the plate with flat fingers". The spoon on the sheet is for any later shot that wants it.
+
 ## When to attach
 - Every shot where the plate or spoon is in frame, with `@raghavan`. Write the hands and "the spoon is clearly visible, striking the plate" in ACTION and POSITIVE LOCKS (L64, L79).
 
