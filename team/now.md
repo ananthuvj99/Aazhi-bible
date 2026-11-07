@@ -5,4 +5,4 @@ Format: `- Name: shot — what you are doing`
 
 - Ananthu: 2-mirror — combing at the outdoor mirror (next after the approved bath)
 - Ranjith: SB027 — the night watch (s21-sh01–sh03 ready, night deck plates waiting for approval)
-- Aswanth: s16b-sh01/sh02 — SB024 song on deck: plate beat (6 s) + circle dance (6 s), v1 ready
+- Aswanth: s16b-sh03 — SB024 song: dance POV fast cuts (8 s); s16b-sh02 v4 approved
