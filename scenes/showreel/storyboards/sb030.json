@@ -1,0 +1,42 @@
+{
+ "title": "SB030 · Someone in the water (source scene 23C)",
+ "subtitle": "Emotion Urgency · two shots, 8 s each · continues from s23-sh02 v2 (same bow, same night) · Ranjith, 2026-11-07",
+ "out": "scenes/showreel/storyboards/sb030-storyboard.png",
+ "panels": [
+  {
+   "shot": "s23-sh03",
+   "time": "8 s",
+   "title": "His view: a hand and a torch beside the fire",
+   "image": "props/burningvallam/prop.png",
+   "beats": [
+    "Long lens from the bow toward the burning vallam (centre). 0–2 s it burns; water beside it empty.",
+    "2–5 s a hand in a soaked blue camouflage sleeve rises just LEFT of the hull with a small torch; the beam waves twice.",
+    "5–6 s the torch goes out; the hand sinks. 6–8 s only the fire and the moving water."
+   ],
+   "refs": "ref image: s23-sh02 v2 last frame · @burningvallam (full) · @selvan (hand and sleeve, 2–5 s)"
+  },
+  {
+   "shot": "s23-sh04",
+   "time": "8 s",
+   "title": "Antony shouts to Aashaan (one line)",
+   "image": "locations/uru-deck/plates/urudeck-c2-plate-night.png",
+   "beats": [
+    "Start = s23-sh02 v2 last frame (same bow camera); push in to MCU by 2.5 s as he spins round to the deck.",
+    "3.0–5.2 s he shouts the line, face just LEFT of the lens (Aashaan at the wheel behind camera).",
+    "5.2–8 s silent: breathing hard, he turns back and points at the fire, far LEFT of the stem post."
+   ],
+   "refs": "start: s23-sh02 v2 last frame · @antony20 (full) · @urudeckc2platenight (bg) · @burningvallam (bg, far)"
+  },
+  {
+   "shot": "blocking",
+   "time": "",
+   "title": "3D blocking: who stands where",
+   "image": "scenes/showreel/storyboards/sb030-blocking.png",
+   "beats": [
+    "Antony at the bow rail; the burning vallam far ahead-left with the hand beside it; camera c2 behind him; the deckhouse (Aashaan) further aft, behind the camera."
+   ],
+   "refs": "planning only, never attached"
+  }
+ ],
+ "footer": "Storyboard only. Never attach this sheet to a generation."
+}

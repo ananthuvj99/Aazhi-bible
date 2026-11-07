@@ -1,0 +1,180 @@
+{
+ "title": "SB030 · Someone in the water — 3D blocking (top of the bow)",
+ "subtitle": "Green = Antony · orange = burning vallam · blue = hand in the water · camera c2 (s23-sh04); s23-sh03 is his view toward the fire",
+ "out": "scenes/showreel/storyboards/sb030-blocking.png",
+ "eye": [
+  2,
+  -2,
+  15
+ ],
+ "target": [
+  -3,
+  20,
+  0
+ ],
+ "size": [
+  1600,
+  1000
+ ],
+ "fov": 55,
+ "objects": [
+  {
+   "type": "box",
+   "center": [
+    0,
+    6,
+    0
+   ],
+   "size": [
+    6,
+    16,
+    0.2
+   ],
+   "color": "#5b5248"
+  },
+  {
+   "type": "box",
+   "center": [
+    -3,
+    6,
+    0.5
+   ],
+   "size": [
+    0.15,
+    16,
+    0.8
+   ],
+   "color": "#3d4a5c"
+  },
+  {
+   "type": "box",
+   "center": [
+    3,
+    6,
+    0.5
+   ],
+   "size": [
+    0.15,
+    16,
+    0.8
+   ],
+   "color": "#3d4a5c"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    0,
+    13.6,
+    0.1
+   ],
+   "radius": 0.2,
+   "height": 2.6,
+   "color": "#4a3522",
+   "label": "bow"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    -1.1,
+    11.4,
+    0.1
+   ],
+   "radius": 0.18,
+   "height": 0.6,
+   "color": "#4a3522"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    -0.6,
+    11.4,
+    0.1
+   ],
+   "radius": 0.18,
+   "height": 0.6,
+   "color": "#4a3522",
+   "label": "bitts"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    0.8,
+    12.4,
+    0.1
+   ],
+   "color": "#3fa34d",
+   "label": "Antony"
+  },
+  {
+   "type": "box",
+   "center": [
+    -9,
+    30,
+    0.4
+   ],
+   "size": [
+    2.2,
+    0.8,
+    0.5
+   ],
+   "color": "#ff7a1a",
+   "label": "burning vallam (far, ahead-left)"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    -9,
+    30,
+    0.6
+   ],
+   "radius": 0.5,
+   "height": 3.0,
+   "color": "#5a4a40",
+   "label": ""
+  },
+  {
+   "type": "camera",
+   "pos": [
+    0,
+    8.4,
+    1.7
+   ],
+   "look": [
+    0.5,
+    15,
+    1.5
+   ],
+   "label": "camera c2 (push-in)"
+  },
+  {
+   "type": "box",
+   "center": [
+    -10.5,
+    30,
+    0.3
+   ],
+   "size": [
+    0.4,
+    0.4,
+    0.6
+   ],
+   "color": "#3d7bd9",
+   "label": "hand + torch"
+  },
+  {
+   "type": "box",
+   "center": [
+    0,
+    0,
+    1.2
+   ],
+   "size": [
+    4,
+    3,
+    2.4
+   ],
+   "color": "#7a5a3a",
+   "label": "deckhouse (Aashaan)"
+  }
+ ]
+}
