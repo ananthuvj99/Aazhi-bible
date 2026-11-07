@@ -5,4 +5,4 @@ Format: `- Name: shot — what you are doing`
 
 - Ananthu: Scene 2 Part B — front of the house (next after the approved bath + mirror)
 - Ranjith: SB027 — the night watch (s21-sh01–sh03 ready, night deck plates waiting for approval)
-- Aswanth: s16b-sh03 — SB024 song: dance POV fast cuts (8 s); s16b-sh02 v4 approved
+- Aswanth: s16b-sh04 — SB024 song: the uru alone on the night sea, wide from the water (4 s); s16b-sh03 v6 ready
