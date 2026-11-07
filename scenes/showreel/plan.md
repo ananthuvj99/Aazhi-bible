@@ -8,7 +8,7 @@ Source storyboard: https://aazhi-storyboard.vercel.app/#p=14&lang=ml
 | 3 / s11 | Eight o'clock — Clara's classroom | SB016–017 | Two versions: Ananthu's 3-1…3-6 (ready, v3) and Ranjith's s11-sh00…02 (complete 2026-11-07, see the s11 row) | decision pending: which version |
 | s11 | Clara's classroom (Ranjith's version) | SB016 | Approved: s11-sh00 v2 (Antony crosses the yard), s11-sh01 v4 take (children spot Antony and giggle), s11-sh02 v3 (Clara's line) | complete (Ranjith, 2026-11-07) |
 | 4 | Come back safely — walk to harbour | SB018 | — | not started |
-| s13 | The harbour; reaching the uru; ready to sail; leaving the shore | SB019–022 | Approved: s13-sh00 v1 (harbour from the sea), s13-sh01 v4 (harbour long shot), s13-sh02 v2 (follow to the gangplank), s13-sh03 v1 (boarding), s13-sh04 v2 (Aashaan's line), s13-sh05 v2 (Antony's line), s13-sh06 v2 (departure, COCHIN stern). | complete (Ranjith, 2026-11-07) |
+| s13 | The harbour; reaching the uru; ready to sail; leaving the shore | SB019–022 | Approved: s13-sh00 v1 (harbour from the sea), s13-sh01 v4 (harbour long shot), s13-sh02 v2 (follow to the gangplank), s13-sh03 v1 (boarding), s13-sh04 v2 (Aashaan's line), s13-sh05 v3 (Antony's line), s13-sh06 v2 (departure, COCHIN stern). | complete (Ranjith, 2026-11-07) |
 | SB023 | Aashaan's confidence | SB023 | SB023-SINGLES, three single-line shots | draft, two references missing |
 
 (2026-11-04 note) Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the showreel runs ~75 s — decision pending.
