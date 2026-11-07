@@ -1,5 +1,5 @@
 # Shot 2-mirror · Combs and smiles at the mirror, comb back, walks round to the front (15 s) — v4
-Status: **ready** (QA 96, continuity: no conflicts) · storyboard `storyboards/2-mirror-storyboard.png`
+Status: **APPROVED** (v4, 2026-11-07) · QA 96 · storyboard `storyboards/2-mirror-storyboard.png`
 References: @backyardmirror, @antonybath, @blackcomb · no start image · camera backyard-c2-mirror (new)
 After 2-bath (approved). He walks round to the front of the house in the thorthu, then dresses (@antony20) → Scene 2 Part A (approved).
 
@@ -78,5 +78,6 @@ One continuous shot, slow and unhurried: framed on the mirror, his reflection co
 **Duration 15 s** · 16:9 · no start image (attach @backyardmirror + @antonybath + @blackcomb) · no dialogue
 
 ## Generation results
+- v4 [approved] (Ananthu, 2026-11-07): "came out really well, really good". W16.
 - v3 [partial] (Ananthu, 2026-11-07): "almost good… kind of cute" — right action, but too fast. L80. v4: 15 s, slower, smiles at his reflection, comb back in the same place.
 - (none yet)
