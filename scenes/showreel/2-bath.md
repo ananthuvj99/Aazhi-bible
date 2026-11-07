@@ -56,7 +56,7 @@ PERFORMANCE
 Natural and unforced, like a real man at his everyday bath: eyes closed through the pour, the cold a genuine small shock, the head shake and shiver real but not exaggerated, a light rub of the face, then a relieved breath. Never posing; he never looks into the camera.
 
 PHYSICS
-Real water: it pours from the mug's rim in a steady stream, splashes off the top of his head, turns his hair dark, flat and wet, runs in rivulets down his face, neck and chest and drips from his chin; the drops he shakes off sparkle in the sun;
+Real water: it pours from the mug's rim in a steady stream, splashes off the top of his head, turns his hair dark, flat and wet, runs in rivulets down his face, neck and chest and drips from his chin; the drops he shakes off sparkle in the sun.
 
 LIGHTING
 Strong late-morning sun, high from frame-left over the house — the land side, never from the sea at frame-right; soft frond shadows fall toward frame-right; his face lit softly and evenly; sparkle on the water.
