@@ -1,0 +1,21 @@
+{
+  "title": "2-mirror v2 · Combing at the outdoor mirror",
+  "subtitle": "backyard-c2-mirror · 8 s · silent · no start image",
+  "out": "scenes/showreel/storyboards/2-mirror-storyboard.png",
+  "panels": [
+    {
+      "shot": "2-mirror v2",
+      "image": "locations/backyard/mirror.png",
+      "title": "Plate. Reflection first, then his real face",
+      "time": "8 s",
+      "beats": [
+        "0-1.5 s in the mirror: raises the black comb to his damp hair",
+        "1.5-4 s in the mirror: three strokes back and to one side",
+        "4-6 s view slides left onto his real face; one more stroke",
+        "6-8 s last look, small lift of the eyebrows - hold"
+      ],
+      "refs": "@backyardmirror (full) · @antonyhome (full) · @blackcomb (full, right hand)"
+    }
+  ],
+  "footer": "Storyboard only. Never attach this sheet to a generation."
+}
