@@ -5,6 +5,12 @@ After 1D-exit (Scene 1). Then Antony dresses in his room (@antony20) → Scene 2
 
 v1.1 (Ananthu): AUDIO spells out no music, sound effects only, and a constant distant sea ambience.
 
+## v2 plan (Ananthu, 2026-11-07)
+- Duration **8 s** (L71).
+- Antony stands at the bathing corner; framed from the chest/waist up — his lower body and the bend down to the bucket are never shown.
+- The shot opens with the red plastic mug already full in his hand (just lifted from the bucket below); he pours it over his head, then **shivers** at the cold water (shoulders jerk up, a full-body shudder, sharp breath, shakes the water off his head), wipes his face and pushes his hair back.
+- No vest: a new character look **`@antonybath`** (Antony without the vest, waist up) replaces `@antonyhome` in this shot. Image prompt: `asset-requests/antonybath-sheet-prompt.md`. The prompt is written once the sheet is approved and on the platform.
+
 ## Prompt
 ```
 SCENE
