@@ -62,12 +62,12 @@ POSITIVE LOCKS
 One silent wide shot down the passage: exactly two bedroom doors near the camera, the kitchen doors at the far end. Antony in @antony20 with the large faded beige canvas bag (@antonybag) on his LEFT shoulder, walking out past the camera at screen-right; Rosamma far away with the full plate (@puttuplate). Nobody speaks; eyes off the lens. Every frame looks like the film itself, with nothing from the making of it. Runs the full 8 seconds.
 ```
 
-## 2A-2 · Rosamma walks out to the veranda: "ഡാ, നിക്കെടാ! കഴിച്ചിട്ട് പോടാ." (8 s) — v2.1
+## 2A-2 · Rosamma hurries out to the veranda: "ഡാ, നിക്കെടാ! കഴിച്ചിട്ട് പോടാ." (8 s) — v2.2
 **Duration 8 s** · 16:9 · Malayalam · attach @rosamma, @puttuplate, @housefullview, @hallclean (background only)
-v2.1 (Ananthu, 2026-11-07): v2 take had the wrong positions; now she walks up the passage and says the line on the veranda to Antony in the front yard; no part of him in frame. Continuity: no conflicts; QA 95.
+v2.1 (Ananthu): she walks up the passage onto the veranda; Antony never in frame. v2.2 (Ananthu, 2026-11-07): same words — she hurries out of the kitchen so he won't leave for ten days without eating: breathless, a very short pause with a catch of breath after "ഡാ, നിക്കെടാ!", then "കഴിച്ചിട്ട് പോടാ."; @kitchenclean dropped for length. QA 95.
 ```
 SCENE
-Morning, 1998, inside a fisherman's house on the Alappad coast, Kerala. One shot at the front door: Rosamma, holding the full breakfast plate, walks up the passage, steps out onto the veranda and calls one Malayalam line to her son, who is out in the front yard. Her son is never in the frame. Only Rosamma speaks. She speaks only in Malayalam.
+Morning, 1998, inside a fisherman's house on the Alappad coast, Kerala. One shot at the front door: Rosamma, who will not let him leave for ten days at sea without eating, hurries up the passage with the full plate, steps out onto the veranda and calls one Malayalam line to her son, who is out in the front yard. Her son is never in the frame. Only Rosamma speaks. She speaks only in Malayalam.
 SPOKEN LANGUAGE: Malayalam. Every spoken word is Malayalam — the exact text in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
@@ -75,49 +75,48 @@ ACTIVE REFERENCES
 @puttuplate: the round steel plate of breakfast — two white cylinders of puttu and a small heap of brown fish curry, full; Rosamma holds it in both hands; the only plate in the frame. 100% matches the reference.
 @housefullview: the front of the house — the open blue double front door, its door frame, the pale sky-blue wall, the red-oxide veranda floor. 100% matches the reference.
 @hallclean (background only): the central passage seen through the open front door, which she walks up; the camera stays on the veranda. 100% matches the reference.
-@kitchenclean (background only): the kitchen seen far away through the open double doors at the end of the passage, firelight at the stove; the camera never goes in. 100% matches the reference.
 
 LOCATION
-The veranda, camera on the veranda floor at her eye level, two steps in front of the open front door, looking in at it. Through the door: the passage, the warm glow of the far kitchen doors. Her son is out in the yard behind the camera, to the camera's left; no part of him is ever in the frame. Nobody stands behind her.
+The veranda, camera on the veranda floor at her eye level, two steps in front of the open front door, looking in at it. Through the door: the passage, the warm glow of the far kitchen doors. Her son is out in the yard behind the camera, to the camera's left; no part of him is ever in the frame.
 
 FIRST FRAME
-The open front door from the veranda; inside, down the passage, Rosamma walking toward the door with the full plate in both hands.
+The open front door; down the passage inside, Rosamma hurrying toward it with the full plate.
 
 FORMAT MODE
 One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
 
 OPTICS
-47° while she walks up the passage; once she stops on the threshold she is in a medium close-up, her face filling a third of the frame height; natural depth of field, the passage behind her readable. No lens flare.
+47° while she walks up the passage; once she stops on the threshold she is in a medium close-up, her face filling a third of the frame height. No lens flare.
 
 CAMERA
-Moved by hand like a real feature-film operator, a faint living breath, steady; a slight settle as she arrives, then completely still while she speaks.
+Moved by hand like a real feature-film operator, a faint living breath, steady; still while she speaks.
 
 EYELINE
 Her son is in the yard just to the left of the camera; she looks there, about 20 degrees off the lens, mouth fully visible. She never looks into the camera.
 
 ACTION
-0.0s to 3.0s — Rosamma walks up the passage toward the open front door, the full plate in both hands at her waist, eyes on the yard ahead.
-3.0s to 4.0s — She steps over the threshold onto the veranda and stops in front of the camera, the plate held low, and looks out at her son in the yard just left of the lens.
-4.0s to 6.2s — She says her line in Malayalam to him, head steady.
-6.2s to 8.0s — After the line she waits, lips pressed together, eyebrows raised, the plate held out a little toward the yard. Nobody speaks after the line. Mouth closed.
+0.0s to 3.0s — Rosamma hurries up the passage toward the open front door, quick short steps, the full plate in both hands at her waist, eyes on the yard ahead.
+3.0s to 4.0s — She steps over the threshold onto the veranda and stops in front of the camera, a little out of breath, chest rising, the plate held low, and looks out at her son in the yard just left of the lens.
+4.0s to 6.6s — She says her line in Malayalam to him, head steady, still catching her breath.
+6.6s to 8.0s — After the line she waits, breathing out, lips pressed together, eyebrows raised, the plate held out a little toward the yard. Nobody speaks after the line. Mouth closed.
 
 DIALOGUE RULES
 Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
 While the line is spoken, Rosamma is the only person in the frame.
 
 PERFORMANCE
-Not performed — real life: a mother stopping her son the way mothers do every morning, firm and fond, a little exasperated. Small, natural face.
+Not performed — real life: a mother who rushed out of the kitchen so her son will not go to sea for ten days without eating: breathless, firm and fond, pleading underneath. Small, natural face.
 
 LIGHTING
-Bright morning sun from the camera's right falls softly and evenly on her face as she reaches the threshold; warm firelight glows deep in the passage behind her.
+Bright morning sun from the camera's right falls softly and evenly on her face.
 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
-Spoken language: Malayalam only. Rosamma speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; spoken once.
-4.0s to 6.2s — Rosamma, calling out to her son in the yard, raised to carry, firm and fond: "ഡാ" short, a small beat, then even and falling. About 2.2 seconds.
+Spoken language: Malayalam only. Rosamma speaks the exact Malayalam words in quotes, in everyday Kollam coastal pronunciation, and nothing else. Lip-sync exact; every word on camera; spoken once.
+4.0s to 6.6s — Rosamma, calling out to her son in the yard, raised to carry, a little breathless from hurrying out of the kitchen, firm and fond: a quick breath in; "ഡാ, നിക്കെടാ!" urgent; a very short pause with a catch of breath; then "കഴിച്ചിട്ട് പോടാ." even and falling. About 2.6 seconds.
 "ഡാ, നിക്കെടാ! കഴിച്ചിട്ട് പോടാ."
 After the line, nobody speaks.
-SOUND EFFECTS: 0.0s to 3.0s her quick steps up the passage; crows and hens in the yard; distant waves.
+SOUND EFFECTS: 0.0s to 3.0s her quick steps up the passage; 3.5s her quick breath; crows and hens in the yard; distant waves.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
