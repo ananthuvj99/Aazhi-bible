@@ -1,6 +1,6 @@
 {
  "title": "SB029 · A burning boat — 3D blocking (top of the bow)",
- "subtitle": "Green = Antony at the bow rail · orange = the burning boat, far ahead-left · blue = camera behind his right shoulder",
+ "subtitle": "Green = Antony at the bow rail · orange = the burning vallam, far ahead-left · blue = camera (SB028 spot, slow push-in)",
  "out": "scenes/showreel/storyboards/sb029-blocking.png",
  "eye": [
   2,
@@ -118,7 +118,7 @@
     0.5
    ],
    "color": "#ff7a1a",
-   "label": "burning boat (far, ahead-left)"
+   "label": "burning vallam (far, ahead-left)"
   },
   {
    "type": "cylinder",
@@ -135,16 +135,16 @@
   {
    "type": "camera",
    "pos": [
-    1.6,
-    11.2,
+    0,
+    8.4,
     1.7
    ],
    "look": [
-    -9,
-    30,
-    0.5
+    0.5,
+    15,
+    1.5
    ],
-   "label": "camera c4"
+   "label": "camera c2 (push-in)"
   }
  ]
 }
