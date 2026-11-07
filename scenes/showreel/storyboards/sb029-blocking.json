@@ -1,0 +1,150 @@
+{
+ "title": "SB029 · A burning boat — 3D blocking (top of the bow)",
+ "subtitle": "Green = Antony at the bow rail · orange = the burning boat, far ahead-left · blue = camera behind his right shoulder",
+ "out": "scenes/showreel/storyboards/sb029-blocking.png",
+ "eye": [
+  2,
+  -2,
+  15
+ ],
+ "target": [
+  -3,
+  20,
+  0
+ ],
+ "size": [
+  1600,
+  1000
+ ],
+ "fov": 55,
+ "objects": [
+  {
+   "type": "box",
+   "center": [
+    0,
+    6,
+    0
+   ],
+   "size": [
+    6,
+    16,
+    0.2
+   ],
+   "color": "#5b5248"
+  },
+  {
+   "type": "box",
+   "center": [
+    -3,
+    6,
+    0.5
+   ],
+   "size": [
+    0.15,
+    16,
+    0.8
+   ],
+   "color": "#3d4a5c"
+  },
+  {
+   "type": "box",
+   "center": [
+    3,
+    6,
+    0.5
+   ],
+   "size": [
+    0.15,
+    16,
+    0.8
+   ],
+   "color": "#3d4a5c"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    0,
+    13.6,
+    0.1
+   ],
+   "radius": 0.2,
+   "height": 2.6,
+   "color": "#4a3522",
+   "label": "bow"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    -1.1,
+    11.4,
+    0.1
+   ],
+   "radius": 0.18,
+   "height": 0.6,
+   "color": "#4a3522"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    -0.6,
+    11.4,
+    0.1
+   ],
+   "radius": 0.18,
+   "height": 0.6,
+   "color": "#4a3522",
+   "label": "bitts"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    0.8,
+    12.4,
+    0.1
+   ],
+   "color": "#3fa34d",
+   "label": "Antony"
+  },
+  {
+   "type": "box",
+   "center": [
+    -9,
+    30,
+    0.4
+   ],
+   "size": [
+    2.2,
+    0.8,
+    0.5
+   ],
+   "color": "#ff7a1a",
+   "label": "burning boat (far, ahead-left)"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    -9,
+    30,
+    0.6
+   ],
+   "radius": 0.5,
+   "height": 3.0,
+   "color": "#5a4a40",
+   "label": ""
+  },
+  {
+   "type": "camera",
+   "pos": [
+    1.6,
+    11.2,
+    1.7
+   ],
+   "look": [
+    -9,
+    30,
+    0.5
+   ],
+   "label": "camera c4"
+  }
+ ]
+}

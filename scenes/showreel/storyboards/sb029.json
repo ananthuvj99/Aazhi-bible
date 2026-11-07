@@ -1,0 +1,31 @@
+{
+ "title": "SB029 · A burning boat (source scene 23B)",
+ "subtitle": "Silent · emotion Concern · one shot, 8 s · new angle over Antony's right shoulder · Ranjith, 2026-11-07",
+ "out": "scenes/showreel/storyboards/sb029-storyboard.png",
+ "panels": [
+  {
+   "shot": "s23-sh02",
+   "time": "8 s",
+   "title": "Over his shoulder: a small boat burning, far left",
+   "image": "scenes/showreel/storyboards/sb029-blocking.png",
+   "beats": [
+    "Over Antony's right shoulder (right third), hands on the bow rail; stem post top just left of him.",
+    "The light from SB028 is a small fishing boat burning, ~half a km away in the LEFT third; smoke leans right.",
+    "0–2 s alive quiet beat; 2–5.5 s the fire flares, he straightens, grips the rail, jaw sets.",
+    "5.5–8 s he leans in again, breathing faster. No people seen on the boat, nothing of what happened."
+   ],
+   "refs": "@antony20 (full) · no plate (new angle c4) · no start image"
+  },
+  {
+   "shot": "ref",
+   "time": "",
+   "title": "Previous shot: where the light was (SB028)",
+   "image": "locations/uru-deck/plates/urudeck-c2-plate-night.png",
+   "beats": [
+    "The fire must sit where SB028's light appeared: ahead of the bow, to the LEFT of the stem post; moon on the right."
+   ],
+   "refs": "@urudeckc2platenight not attached here (other angle, L61)"
+  }
+ ],
+ "footer": "Storyboard only. Never attach this sheet to a generation."
+}
