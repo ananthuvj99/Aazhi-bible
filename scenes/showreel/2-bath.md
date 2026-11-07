@@ -1,6 +1,6 @@
-# Shot 2-bath · Bucket bath by the well, waist up (8 s) — v2
-Status: **ready** (QA 98) · storyboard `storyboards/2-bath-storyboard.png`
-References: @2bathstart (START — approved/2-bath-start.png), @antonybath, @backyardwell · camera backyard-c1-bath (new)
+# Shot 2-bath · Bucket bath by the well, waist up (8 s) — v2.1
+Status: **ready** (QA 94) · storyboard `storyboards/2-bath-storyboard.png` (panel image is the unused start frame — framing guide only)
+References: @antonybath, @backyardwell · no start image · camera backyard-c1-bath (new)
 After 1D-exit (Scene 1). Then Antony dresses in his room (@antony20) → Scene 2 Part A.
 
 v1.1 prompt: `retired/2-bath-v1.1.md`. v1.1 (Ananthu): AUDIO spells out no music, sound effects only, and a constant distant sea ambience.
@@ -11,24 +11,25 @@ v1.1 prompt: `retired/2-bath-v1.1.md`. v1.1 (Ananthu): AUDIO spells out no music
 - The shot opens with the red plastic mug already full in his hand (just lifted from the bucket below); he pours it over his head, then **shivers** at the cold water (shoulders jerk up, a full-body shudder, sharp breath, shakes the water off his head), wipes his face and pushes his hair back.
 - No vest: a new character look **`@antonybath`** (Antony without the vest, waist up) replaces `@antonyhome` in this shot. Image prompt: `asset-requests/antonybath-sheet-prompt.md`. The prompt is written once the sheet is approved and on the platform.
 
+v2.1 (Ananthu, 2026-11-07): no start image — Ananthu felt @2bathstart changed his body a little; the first frame is written in words and the body is locked to @antonybath. v2 prompt: `retired/2-bath-v2.md`.
+
 ## Prompt
 ```
 SCENE
-Bright late morning, 1998, the backyard behind a fisherman's house on the Alappad coast, Kerala. One continuous shot at the open-air bathing corner. It begins exactly on the attached start frame (@2bathstart): Antony, seen from the waist up, holds a small red plastic mug full of water. He pours it over his head, shivers hard at the cold water, wipes his face, pushes his wet hair back and breathes out, awake and refreshed. Nobody speaks.
+Bright late morning, 1998, the backyard behind a fisherman's house on the Alappad coast, Kerala. One continuous shot at the open-air bathing corner. Antony, seen from the waist up, holds a small red plastic mug full of water. He pours it over his head, shivers hard at the cold water, wipes his face, pushes his wet hair back and breathes out, awake and refreshed. Nobody speaks.
 
 ACTIVE REFERENCES
-@2bathstart (start frame): the first frame of this video is exactly this image — Antony from the waist up in front of the woven coconut-leaf screen, the full red mug in his right hand at chest height, hair dry and messy; the white towel with faint blue stripes on the screen behind him; the pale-blue house wall, the white back door and the clothes line at frame-left; palms and the sea at frame-right. 100% matches the reference.
-@antonybath: Antony, 24, slim face, light stubble, thick black hair, thin silver chain, an ordinary slim build. He wears only the faded red cotton thorthu at his waist; no vest, no shirt. 100% matches the reference.
-@backyardwell: the same backyard bathing corner, for the screen, the towel, the house wall, the back door, the palms and the sea. 100% matches the reference.
+@antonybath: Antony, 24, slim soft face, light stubble, thick black hair, thin silver chain; his body exactly as on the sheet — an ordinary slim village build, no muscle definition. He wears only the faded red cotton thorthu at his waist; no vest, no shirt. 100% matches the reference.
+@backyardwell: the backyard bathing corner exactly as in the reference — the woven coconut-leaf screen on bamboo poles, the white towel with faint blue stripes hanging on it, the pale-blue house wall with its deep blue base band, the white back door with two steps, the clothes line, the palms and the sea. 100% matches the reference.
 
 ON SCREEN
-Antony wears only the faded red cotton thorthu at his waist; its top edge is at the bottom of the frame. Thin silver chain. His skin and hair are dry at the start. The small red plastic mug in his right hand, full of water.
+Antony wears only the faded red cotton thorthu at his waist; its top edge is at the bottom of the frame. Thin silver chain. His skin and hair are dry at the start, hair thick and messy from sleep. The small red plastic mug in his right hand, full of water.
 
 WHAT IS IN FRAME
-Antony from the waist up, alone, centre frame. Behind him: the woven coconut-leaf screen with the striped towel. At frame-left: the pale-blue house wall with its deep blue base band, the white back door and the clothes line. At frame-right: palms and a slice of bright sea. Every frame looks like the film itself, with nothing from the making of it.
+Antony from the waist up, alone, centre frame, standing in front of the woven coconut-leaf screen with the striped towel on it. At frame-left beyond him: the pale-blue house wall, the white back door and the clothes line. At frame-right: palms and a slice of bright sea. Every frame looks like the film itself, with nothing from the making of it.
 
 FIRST FRAME
-Exactly the image @2bathstart.
+Medium shot at his eye level, waist up: Antony stands centre frame in front of the woven screen, his body turned a little to frame-right, the full red mug in his right hand at chest height, eyes down on it; hair dry and messy; the white back door at frame-left, palms and sea at frame-right, bright sun.
 
 FORMAT MODE
 One continuous shot, 8 seconds. No cuts. The video runs the full 8 seconds.
@@ -69,11 +70,11 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; no over-sharpening, no digital edge halos, no smooth plastic skin, no glossy or video look.
 
 POSITIVE LOCKS
-Starts exactly on @2bathstart. One continuous shot, Antony from the waist up only, alone. He wears only the red cotton thorthu at his waist — no vest, no shirt. Red plastic mug, not steel. He pours the mug over his head, then a big visible shiver and a head shake. Screen and towel behind him, white back door at frame-left. Nobody speaks; he never looks into the camera. Runs the full 8 seconds.
+One continuous shot, Antony from the waist up only, alone, his face and ordinary slim build exactly as on @antonybath. He wears only the red cotton thorthu at his waist — no vest, no shirt. Red plastic mug, not steel. He pours the mug over his head, then a big visible shiver and a head shake. Screen and towel behind him, white back door at frame-left. Nobody speaks; he never looks into the camera. Runs the full 8 seconds.
 ```
 
 ## Settings
-**Duration 8 s** · 16:9 · start image @2bathstart · no dialogue (dubbing language Malayalam if asked)
+**Duration 8 s** · 16:9 · no start image (attach @antonybath + @backyardwell) · no dialogue (dubbing language Malayalam if asked)
 
 ## Generation results
 - v1.1 [failed] (Ananthu, 2026-11-07): Antony bathed in the @antonyhome sheet's vest, and the bath did not follow the mug-from-the-bucket pours (the scoop was below the frame). L73. v2 next: vest off on the screen, wider frame showing bucket and mug, shiver at the cold water.
