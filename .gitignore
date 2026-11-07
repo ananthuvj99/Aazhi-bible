@@ -4,3 +4,5 @@ hub/data.json
 .claude/launch.json
 .claude/settings.local.json
 .DS_Store
+# Copies to upload to the Techjays platform (named by ID); the originals live in the repo
+platform-uploads/
