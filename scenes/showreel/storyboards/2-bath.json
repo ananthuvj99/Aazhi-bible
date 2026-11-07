@@ -1,19 +1,19 @@
 {
-  "title": "2-bath v3 · Bucket bath by the well",
+  "title": "2-bath v3.1 · Bucket bath by the well",
   "subtitle": "backyard-c1-bath · 8 s · silent · no start image · sun from frame-left (land side)",
   "out": "scenes/showreel/storyboards/2-bath-storyboard.png",
   "panels": [
     {
-      "shot": "2-bath v3",
+      "shot": "2-bath v3.1",
       "image": "locations/backyard/well.png",
       "title": "Plate. Antony waist up in front of the screen, door at frame-left",
       "time": "8 s",
       "beats": [
-        "0-1.5 s looks at the full red mug in his right hand",
-        "1.5-3.2 s raises it over his head, pours it onto his head",
-        "3.2-4.6 s natural shiver, sharp breath, one small head shake",
-        "4.6-6 s wipes his face, pushes wet hair back",
-        "6-8 s breathes out, small smile - hold"
+        "0-1.5 s breath, closes his eyes, bows his head, lifts the full mug",
+        "1.5-3 s eyes closed, pours the mug onto his head",
+        "3-4.6 s shakes his head as the water falls, quick shiver",
+        "4.6-6.2 s lowers the mug, lightly rubs his face",
+        "6.2-8 s opens his eyes, breathes out, small smile - hold"
       ],
       "refs": "@antonybath (full) · @bathmug (full, right hand) · @backyardwell (full) · no start image"
     }
