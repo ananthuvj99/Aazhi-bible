@@ -7,7 +7,7 @@ Source storyboard: https://aazhi-storyboard.vercel.app/#p=14&lang=ml
 | 2 | Ten days — mother makes him eat | SB015 | Approved: 2-PART-A. Ready: 2-PART-B (and singles 2-1…2-6 as a fallback) | in progress (Ananthu) |
 | 3 / s11 | Eight o'clock — Clara's classroom | SB016–017 | Two versions: Ananthu's 3-1…3-6 (ready, v3) and Ranjith's s11-sh00…02 (proposals for Ananthu, s11-sh01 v4 take kept) | decision pending: which version |
 | 4 | Come back safely — walk to harbour | SB018 | — | not started |
-| s13 | The harbour; reaching the uru | SB019–020 | s13-sh01 v4 (QA 94), s13-sh02 v1 (QA 93); upload @harbourc1plate, @harbourc2plate, @uru, @antonybag first | ready (Ranjith) |
+| s13 | The harbour; reaching the uru; ready to sail | SB019–021 | Approved: s13-sh01 v4 (harbour long shot), s13-sh02 v2 (follow to the gangplank), s13-sh03 v1 (boarding), s13-sh04 v2 (Aashaan's line). Ready: s13-sh00 (harbour from the sea), s13-sh05 v2 (Antony's line, 8 s) | in progress (Ranjith) |
 | SB023 | Aashaan's confidence | SB023 | SB023-SINGLES, three single-line shots | draft, two references missing |
 
 (2026-11-04 note) Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the showreel runs ~75 s — decision pending.
