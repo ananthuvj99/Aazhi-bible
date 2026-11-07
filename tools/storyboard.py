@@ -35,11 +35,11 @@ def main(path):
     panels = spec["panels"]
     cols = 2 if len(panels) <= 4 else 3
     PW, PH = 760, 428
-    M, CAP = 36, 230
+    M, CAP = 36, 300
     rows = (len(panels) + cols - 1) // cols
     W = M + cols * (PW + M)
     HEAD = 150
-    H = HEAD + rows * (PH + CAP + M) + 70
+    H = HEAD + rows * (PH + CAP + M) + 40
     sheet = Image.new("RGB", (W, H), "#faf8f2")
     d = ImageDraw.Draw(sheet)
     d.text((M, 30), spec["title"], font=font(40, True), fill="#1a1a1a")
