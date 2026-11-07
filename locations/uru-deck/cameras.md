@@ -9,3 +9,4 @@ Camera positions belong to this location and never change number. New spot = nex
 | c1-aft (night) | as c1, at sea at night | AFT: deckhouse with lit windows, wheel seen inside; open sea beyond the RIGHT rail | @urudeckc1platenight | moon high LEFT |
 | c2-bow (night) | as c2, at sea at night | FORWARD: stem post, bitts, open sea | @urudeckc2platenight | moon high RIGHT |
 | c3-helm (night) | Inside the deckhouse, behind the wheel | FORWARD through the front windows: deck, mast, bow, sea | @urudeckc3platenight | through the windows: the moonlit deck and bow (in the plate) |
+| c4-bowleft (night) | Foredeck at the bow, just behind the RIGHT shoulder of someone at the rail, eye height | FORWARD-LEFT over the bow: rail, top of the stem post, open sea | none (written in) | the sea ahead-left; moon off frame RIGHT (rim from the right) |
