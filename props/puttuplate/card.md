@@ -3,7 +3,7 @@ id: "@puttuplate"
 type: prop
 created_by: Ananthu (Higgsfield GPT Image 2.6)
 created: 2026-11-07
-status: approved (Ananthu, 2026-11-07) — upload to platform
+status: approved (Ananthu, 2026-11-07) — on platform
 image: prop.png
 used_in: [2-PART-B]
 continuity_score: 93
