@@ -20,4 +20,5 @@ Platform ID: `@clara20` · Sheet: `sheet.jpg` (front, back, face close-up, props
 - Sheet props (not worn): wooden rosary, small black prayer book, a string of jasmine, a ring — use only if a scene calls for them.
 
 ## Voice / character
+**Platform voice: Aadhira** (Young Malayalam Companion) — see `voices/VOICES.md`.
 Native Kollam coastal Malayalam speaker; clear, warm, composed young female voice. A step more schooled than Antony, finishes her sentences, dry humour, light "ട്ടോ".

@@ -27,4 +27,5 @@ Platform ID: `@babu` · Sheet: `sheet.png` (front, back, face close-up), made by
 - `@crew` unless the prompt says "men 1, 4 and 7 only" (he is man #8 in the line-up).
 
 ## Voice
+**Platform voice: Dera** (Expressive, Smooth, Elegant) — see `voices/VOICES.md`.
 Kollam coastal Malayalam; a big, warm, booming male voice, about 40, always half laughing.

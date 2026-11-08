@@ -19,6 +19,7 @@ Platform ID: `@rosamma` · Sheet: `sheet.png` (front, back, face close-up)
 - Brown leather sandals in the sheet.
 
 ## Voice / character
+**Platform voice: Samitha** (Soft, Clear, Expressive) — see `voices/VOICES.md`.
 Native Kollam coastal Malayalam speaker, warm, firm middle-aged female voice. Irritation with affection underneath; teases her son.
 
 ## Continuity notes

@@ -30,6 +30,7 @@ Platform ID: `@aashaan` · Sheet: `sheet.jpg` (front, back, face close-up). Shee
 - No other look of Aashaan exists yet.
 
 ## Voice
+**Platform voice: Rinoy** (Professional narrator) — see `voices/VOICES.md`.
 Native Kollam coastal Malayalam speaker; a deep, rough, unhurried older male voice.
 
 ## Differences from earlier text (image QA)

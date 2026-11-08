@@ -27,4 +27,5 @@ Platform ID: `@sasi` · Sheet: `sheet.png` (front, back, face close-up), made by
 - `@crew` in a shot where the prompt does not say "men 1, 4 and 7 only" (the line-up also shows Sasi as man #2; avoid two Sasis).
 
 ## Voice
+**Platform voice: Samar** (Angry and intense character) — see `voices/VOICES.md`.
 Kollam coastal Malayalam; a warm, open, slightly rough male voice, about 35; sings loud and free.

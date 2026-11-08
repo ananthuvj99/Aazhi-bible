@@ -27,4 +27,5 @@ Platform ID: `@raghavan` · Sheet: `sheet.png` (front, back, face close-up), mad
 - `@crew` unless the prompt says "men 1, 4 and 7 only" (he is man #6 in the line-up).
 
 ## Voice
+**Platform voice: Nguyen Tue** (Zen master) — see `voices/VOICES.md`.
 Kollam coastal Malayalam; a thin, dry, old male voice, about 60.

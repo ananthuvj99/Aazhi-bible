@@ -29,3 +29,6 @@ Platform ID: `@selvan` · Image: `sheet.jpg` (front, back, face close-up and fou
 ## Rules
 - Never attach with a plain-clothes look of him (none exists yet).
 - Write his uniform colours exactly; the model may otherwise turn it green.
+
+## Voice
+**Platform voice: Angus** (Calm, measured) — see `voices/VOICES.md`.

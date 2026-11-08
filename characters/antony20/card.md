@@ -19,4 +19,5 @@ Use for: once he is dressed — from Scene 2 onward, after an on-screen change o
 - Barefoot in the sheet — footwear for outdoor scenes not yet decided (ask before adding sandals).
 
 ## Voice
+**Platform voice: Mahendran J** (News Bulletin Anchor) — see `voices/VOICES.md`.
 Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice.

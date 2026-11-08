@@ -20,6 +20,7 @@ Use for: every shot inside the house before he dresses to go out.
 - Barefoot. Relaxed, slightly slouched posture.
 
 ## Voice
+**Platform voice: Mahendran J** (News Bulletin Anchor) — see `voices/VOICES.md`.
 Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice.
 
 ## Continuity notes

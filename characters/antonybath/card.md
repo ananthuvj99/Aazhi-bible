@@ -26,4 +26,5 @@ Use for: the bucket bath by the well (2-bath). Never with `@antonyhome` or `@ant
 - Filter-safe wording (L72): describe what he wears ("wears only a red cotton thorthu at the waist; his white vest is off"), never "bare" or "shirtless".
 
 ## Voice
+**Platform voice: Mahendran J** (News Bulletin Anchor) — see `voices/VOICES.md`.
 Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice (same as `@antony20`).
