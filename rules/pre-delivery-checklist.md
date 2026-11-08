@@ -124,3 +124,5 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 109. **Natural groups (L92):** people who gather are split across the space at different distances and in different poses; never 'side by side in a row' unless they are meant to be lined up.
 110. **Children in references (L93):** no reference image shows a child without a shirt; children stay out of adult crowd shots unless needed, then clothed, at a distance, plain wording.
 111. **Listeners keep moving (L94):** every non-speaking person in frame has a relevant small action in every beat (shifting a prop, a glance down and back, a half-step, a sigh); never only 'stands', 'waits' or 'listens'.
+112. **Keep identity markers when trimming (L95):** shorten scene prose, never the 'only one who…' lines, full costumes and props; rule out a principal who looks like a crewman with a marker.
+113. **Human-sized moves (L96):** no 'jumps / leaps / springs up' for ordinary people; write the real move and its size (a small hop, feet close to the deck).
