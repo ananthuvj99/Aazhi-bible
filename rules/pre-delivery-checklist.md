@@ -120,3 +120,5 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 105. **Clear old attachments (L88):** every delivery says 'remove all other attachments on the platform'; only the listed IDs and images are attached.
 106. **Filter words, extended (L89):** besides L72, no 'jerk', 'hard breathing / breathes hard', 'grunt', 'panting', skin-on-skin sounds ('slapping onto skin', 'skin sliding'), 'clamped', 'digging in'; men lying or sleeping together written plainly.
 107. **Door states and ordinary voices (L90):** door/window/gate states carried from the previous shot are written in reference, location, first frame, every beat and locks; family lines are ordinary speech, never 'loud'/'carry'.
+108. **Direction of a follow shot (L91):** state which way the camera looks (forward to the bow / toward the door), what is ahead and what is behind the camera, in the location, camera and locks blocks; the place he leaves is only 'behind the camera'.
+109. **Natural groups (L92):** people who gather are split across the space at different distances and in different poses; never 'side by side in a row' unless they are meant to be lined up.
