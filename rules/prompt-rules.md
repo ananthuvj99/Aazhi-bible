@@ -20,6 +20,13 @@ UPDATED (L33, one emotion per scene): one emotion tag for the whole scene, from 
 
 Consequence: one speaker per shot, and the speaker ALONE in frame while speaking — clean singles, no over-the-shoulder during lines (L34). Speakers are always front-facing in MCU — never profile or side view; place the camera beside whatever the speaker is talking toward (a door, another person) so their eyeline falls just beside the lens. Multi-speaker beats are split into separate shots.
 
+## Camera experiments (Ananthu, 2026-11-08 — can be rolled back)
+Only when the creator chose **Use this camera move** from the `cinematographer` skill:
+- **Moves during dialogue:** the camera may keep moving while someone speaks (an arc stays within 90° per phase, the speaker's face stays readable and the mouth visible). In the lip-sync block, the words "and camera moves" are dropped from "head turns, gestures and camera moves happen only in pauses between lines"; everything else stays verbatim.
+- **Several cuts in one generation:** the cinematographer's plan may use more than one cut per generation, each cut with its own OPTICS/CAMERA line and timing; durations stay 8, 12 or 15 s (L71).
+- Every take made under these is logged with `[camera-exp]` in its generation-results line. If takes fail because of them, log a lesson and restore the old rule (camera still while someone speaks; one set-up per generation).
+When the creator chose **Ignore**, the normal rules above apply unchanged.
+
 ## Timing
 - Hold 2–3 s still at the start and 2–3 s after the last line/action of every shot, for the edit (L14).
 - Set the platform's duration to the prompt's total length.
