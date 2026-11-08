@@ -199,6 +199,7 @@ Starts exactly on @2a3start and keeps that place: Antony on the veranda by the w
 ```
 
 ## Generation results
+- 2A-3 v2.6 [approved] (Ananthu, 2026-11-08): came out good; Rosamma too still at the door (fixed in the edit) — L94.
 - 2A-3 v2.3 [failed] (Ananthu, 2026-11-08): Rosamma came out of the house into the yard; in 2A-2 she stays at the door. Next: clean single on Antony only (his mother off-screen), corrected timing.
 - 2A-3 v2.2 [partial] (Ananthu, 2026-11-08): place right (front of his house), but the line felt artificial and the front door was closed. L90. v2.3: natural voice, a wave goodbye, door wide open, her eyes follow him.
 - 2A-3 v2.1 [failed] (Ananthu, 2026-11-08): Antony was placed in the village road, not in front of his house — `@villagelane` (background only) was copied as the set (L87 again). Next: front of the house, no lane sheet.
