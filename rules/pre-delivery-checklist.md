@@ -127,3 +127,5 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 112. **Keep identity markers when trimming (L95):** shorten scene prose, never the 'only one who…' lines, full costumes and props; rule out a principal who looks like a crewman with a marker.
 113. **Human-sized moves (L96):** no 'jumps / leaps / springs up' for ordinary people; write the real move and its size (a small hop, feet close to the deck).
 114. **Open space for action (L97):** describe the action space as in the approved shot (open, clear, size, nothing crossing it between knee and head height) and restate the formation and who holds what in ACTION and POSITIVE LOCKS.
+115. **Load per generation (L98):** about six references and five or six people per shot; no two men in the same costume type in one frame; a long walk and a group action are separate shots.
+116. **Orientation of fixed structures (L99):** stairs, doors and furniture are described with their direction from the sheet (which way they run, which way a person faces using them).
