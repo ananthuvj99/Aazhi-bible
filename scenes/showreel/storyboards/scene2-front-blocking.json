@@ -1,0 +1,184 @@
+{
+  "title": "Scene 2 · front of the house — blocking",
+  "subtitle": "2A-2 / 2A-3 / 2B: where Rosamma, Antony and each camera stand",
+  "out": "scenes/showreel/storyboards/scene2-front-blocking.png",
+  "eye": [
+    11,
+    16,
+    9
+  ],
+  "target": [
+    0,
+    4,
+    0
+  ],
+  "size": [
+    1600,
+    1000
+  ],
+  "objects": [
+    {
+      "type": "box",
+      "center": [
+        0,
+        -3,
+        1.6
+      ],
+      "size": [
+        12,
+        6,
+        3.2
+      ],
+      "color": "#9fb8c8",
+      "label": "house"
+    },
+    {
+      "type": "box",
+      "center": [
+        0,
+        1.25,
+        0.25
+      ],
+      "size": [
+        10,
+        2.5,
+        0.5
+      ],
+      "color": "#a0522d",
+      "label": "veranda"
+    },
+    {
+      "type": "box",
+      "center": [
+        0,
+        0.05,
+        1.5
+      ],
+      "size": [
+        1.4,
+        0.1,
+        2.2
+      ],
+      "color": "#3b6ea5",
+      "label": "front door"
+    },
+    {
+      "type": "box",
+      "center": [
+        0,
+        2.85,
+        0.12
+      ],
+      "size": [
+        2,
+        0.7,
+        0.25
+      ],
+      "color": "#8a8a8a",
+      "label": "steps"
+    },
+    {
+      "type": "box",
+      "center": [
+        0,
+        7,
+        0.01
+      ],
+      "size": [
+        14,
+        9,
+        0.02
+      ],
+      "color": "#d8c79a",
+      "label": "yard"
+    },
+    {
+      "type": "box",
+      "center": [
+        -4,
+        11.5,
+        0.5
+      ],
+      "size": [
+        6,
+        0.4,
+        1
+      ],
+      "color": "#b5562f",
+      "label": "wall"
+    },
+    {
+      "type": "box",
+      "center": [
+        4,
+        11.5,
+        0.5
+      ],
+      "size": [
+        6,
+        0.4,
+        1
+      ],
+      "color": "#b5562f",
+      "label": "wall"
+    },
+    {
+      "type": "figure",
+      "pos": [
+        0,
+        0.4,
+        0.5
+      ],
+      "color": "#d9534f",
+      "label": "Rosamma (threshold)"
+    },
+    {
+      "type": "figure",
+      "pos": [
+        0,
+        6.5,
+        0
+      ],
+      "color": "#3a7bd5",
+      "label": "Antony (2A-3)"
+    },
+    {
+      "type": "figure",
+      "pos": [
+        0,
+        10.8,
+        0
+      ],
+      "color": "#7aa6e8",
+      "label": "Antony (2B-2, gap)"
+    },
+    {
+      "type": "camera",
+      "pos": [
+        -0.4,
+        2.3,
+        2.0
+      ],
+      "look": [
+        0,
+        -1,
+        1.6
+      ],
+      "label": "2A-2 / 2B-1"
+    },
+    {
+      "type": "camera",
+      "pos": [
+        0.5,
+        2.9,
+        2.0
+      ],
+      "look": [
+        0,
+        7,
+        1.5
+      ],
+      "label": "2A-3"
+    }
+  ]
+}
