@@ -1,6 +1,6 @@
 # Scene 2 · Part B — front of house: her question, his promise — v3 (one wide, 15 s)
-Status: **ready — waiting for the clean start frame** (QA 87, continuity: no conflicts) · Camera: cinematographer — still wide, then slow 2 m push toward Rosamma — **used** [camera-exp]
-References: @2bwidestart (start frame, Ananthu's wide — to register once the unmarked image is in), @rosamma, @puttuplate, @antony20, @antonybag
+Status: **ready** (QA 90, continuity: no conflicts) · Camera: cinematographer — still wide, then slow 2 m push toward Rosamma — **used** [camera-exp]
+References: @2bwidestart (start frame, Ananthu's wide), @rosamma, @puttuplate, @antony20, @antonybag
 Voices: Rosamma = Samitha, Antony = Mahendran J · Settings: **Duration 15 s**, 16:9, Malayalam · remove all other attachments
 Follows approved 2-PART-A (2A-3 v2.6). v2 (three 8 s generations): `retired/2-PART-B-v2.md`.
 
