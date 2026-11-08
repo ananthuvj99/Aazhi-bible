@@ -5,4 +5,4 @@ Format: `- Name: shot — what you are doing`
 
 - Ananthu: Scene 2 Part B — front of the house (next after the approved bath + mirror)
 - Ranjith: SB031 — the decision: crew at the rail, Raghavan grips Antony's wrist (s23-sh05 to sh08 ready)
-- Aswanth: s16b-sh05 v3 + s16b-sh06 — Antony down to the dance, then the watchers join one by one (480p tests)
+- Aswanth: s16b-sh05 v4 — Antony down to the dance + watchers join one by one, one 15 s oner (480p test)
