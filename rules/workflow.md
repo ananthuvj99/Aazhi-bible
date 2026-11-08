@@ -7,6 +7,7 @@ This repo is the team's common memory. Ananthu, Ranjith and Aswanth (and anyone 
 - Read before writing anything: `learnings/INDEX.md` (+ the lesson files that touch this shot), `rules/pre-delivery-checklist.md`, `rules/style-cinema-camera.md`, `continuity/showreel.md`, the shot's file in `scenes/showreel/`, and `INDEX.md` for every ID.
 
 ## 2. Writing a prompt
+- After the breakdown, the `cinematographer` skill suggests a camera move for the scene; the creator picks **Use this camera move** or **Ignore**, and the prompt follows that choice.
 - Build it only from what is on `main` right now. Run the continuity and QA checks before handing it over.
 - Save the prompt as a new version in the shot's file and push it.
 
