@@ -130,63 +130,63 @@ POSITIVE LOCKS
 One shot from the veranda; Rosamma walks up the passage and stops on the threshold, alone in medium close-up with the full plate (@puttuplate) in both hands the whole shot, looking just left of the lens at her son in the yard, never into the camera; face lit, mouth clear. No part of her son is ever in the frame. Only Rosamma speaks; every word is Malayalam. Every frame looks like the film itself, with nothing from the making of it. Runs the full 8 seconds.
 ```
 
-## 2A-3 · Antony answers from in front of his house (8 s) — v2.2
+## 2A-3 · Antony answers from in front of his house (8 s) — v2.3
 **Duration 8 s** · 16:9 · Malayalam · voice: Antony = Mahendran J · attach @antony20, @antonybag, @rosamma, @puttuplate, @housefullview, @houseout · remove all other attachments (L88)
-v2.2 (Ananthu, 2026-11-08): v2.1 put him in the village road (@villagelane copied as the set, L87). Now a side angle in the front yard: Antony at frame-left speaking, the full house front and Rosamma (tense, lips closed, plate in hand) at frame-right. Continuity: one conflict fixed (she stays just outside the door, as in 2A-2). QA 93.
+v2.3 (Ananthu, 2026-11-08): ordinary everyday voice (v2.2 sounded artificial), a wave goodbye, walks away from the house, the front door wide open in every block (L90), Rosamma's eyes follow him. Continuity: one gap fixed (door in every beat); QA 94.
 ```
 SCENE
-Bright morning, 1998, the front yard of a fisherman's house on the Alappad coast, Kerala. One shot: Antony stands in the sandy yard in front of his house, turned toward his mother, who stands on the veranda just outside the open front door holding the full breakfast plate, tense. He answers her with one Malayalam line, then walks off toward the gap in the compound wall. Only Antony speaks. He speaks only in Malayalam.
+Bright morning, 1998, the front yard of a fisherman's house, Alappad coast, Kerala. One shot: Antony stands in the sandy yard in front of his house, turned toward his mother, who stands on the veranda just outside the wide-open front door holding the full breakfast plate, tense. He answers her with one ordinary Malayalam line, waves goodbye and walks away from the house toward the gap in the compound wall; her eyes follow him. Only Antony speaks. He speaks only in Malayalam.
 SPOKEN LANGUAGE: Malayalam. Every spoken word is Malayalam — the exact text in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
-@antony20: Antony, 24, lean, sun-browned, slim face, short black hair combed neat, a little damp; lavender-grey and white striped short-sleeve shirt, grey-green checked mundu, thin silver chain. Speaks only Malayalam; warm, slightly hoarse young male voice. 100% matches the reference.
-@antonybag: his large, soft, faded beige canvas shoulder bag, slouchy and half full, one long canvas strap over his LEFT shoulder, the bag at his left hip. 100% matches the reference.
+@antony20: Antony, 24, lean, sun-browned, slim face, short black hair combed neat, a little damp; lavender-grey and white striped short-sleeve shirt, grey-green checked mundu, thin silver chain. Speaks only Malayalam; warm young male voice. 100% matches the reference.
+@antonybag: his large faded beige canvas shoulder bag, strap over his LEFT shoulder, bag at his left hip. 100% matches the reference.
 @rosamma: Rosamma, his mother, early 50s, cream saree with small blue flowers, mid-blue blouse, gold cross; on the veranda just outside the open front door in the background. She does not speak in this shot. 100% matches the reference.
-@puttuplate: the round steel plate of breakfast, full and untouched, in Rosamma's hands at her waist; the only plate in the frame. 100% matches the reference.
-@housefullview: the front of the house exactly as in the reference — blue walls, hipped tiled roof, four white pillars, the open blue front door, chair at the left, bench at the right, the steps. 100% matches the reference.
-@houseout: the front yard, compound wall and palms around the house. 100% matches the reference.
+@puttuplate: the full steel breakfast plate in Rosamma's hands; the only plate in frame. 100% matches the reference.
+@housefullview: the front of the house exactly as in the reference — blue walls, hipped tiled roof, four white pillars, the blue double front door standing wide open, both leaves back, the dim passage visible inside, chair at the left, bench at the right, the steps. 100% matches the reference.
+@houseout: the yard, compound wall and palms. 100% matches the reference.
 
 LOCATION
-The front yard of Antony's own house. The camera stands in the yard to Antony's right, at his eye level, about two metres from him, looking past him toward the house. Antony stands about five metres from the veranda steps.
+The front yard of Antony's own house; the blue double front door stands wide open behind Rosamma. The camera stands in the yard at Antony's right, eye level, two metres away, looking past him at the house. Antony stands about five metres from the veranda steps.
 
 FIRST FRAME
-Antony at frame-left in a medium close-up, three-quarter view, the beige bag on his left shoulder, looking toward the house at frame-right; behind him at frame-right the house front and Rosamma on the veranda just outside the open front door, tense.
+Antony at frame-left in a medium close-up, three-quarter view, bag on his left shoulder, looking at the house at frame-right; behind him at frame-right the house front and Rosamma on the veranda just outside the wide-open front door, tense.
 
 FORMAT MODE
 One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
 
 OPTICS
-47°: Antony in a medium close-up at frame-left, the house and Rosamma readable behind him; her tense face readable, smaller than his. No lens flare.
+47°: Antony in a medium close-up at frame-left; the house and Rosamma readable behind him, her face smaller than his. No lens flare.
 
 CAMERA
-Moved by hand like a real feature-film operator, a faint living breath; steady while he speaks; from 5.0s it pans gently with him as he walks off at frame-left, the house staying in the background.
+Moved by hand like a real feature-film operator, a faint living breath; steady while he speaks; from 5.0s it pans gently with him, the house staying in the background.
 
 EYELINE
-Antony looks at his mother on the veranda at frame-right, about 35 degrees off the lens, his mouth fully visible. He never looks into the camera.
+Antony looks at his mother at frame-right, about 35 degrees off the lens, mouth fully visible; never into the camera.
 
 ACTION
-0.0s to 1.2s — Antony, in the yard, the beige bag on his left shoulder, faces his mother with an apologetic half-smile. At the open door Rosamma holds the full plate, brow knotted, lips pressed together.
-1.2s to 4.0s — He says his line in Malayalam to her, head steady. Rosamma listens, tense, lips closed.
-4.0s to 5.0s — A small shrug and a smile, his right hand lifted in a little wave. Rosamma tightens her grip on the plate. Nobody speaks after the line.
-5.0s to 8.0s — He turns and walks off across the yard toward the gap in the compound wall, out at frame-left, the bag on his left shoulder, heel to toe, shoulders relaxed. Rosamma's worried eyes follow him.
+0.0s to 1.2s — Antony, in the yard, the beige bag on his left shoulder, faces his mother with an easy half-smile. In front of the wide-open door Rosamma holds the full plate, brow knotted, lips pressed together.
+1.2s to 4.0s — He says his line in Malayalam to her, simply and naturally, head steady. At the open door Rosamma listens, tense, lips closed.
+4.0s to 5.0s — He lifts his right hand and waves goodbye to her, a warm smile. At the open door Rosamma tightens her grip on the plate. Nobody speaks after the line.
+5.0s to 8.0s — He turns and walks away from the house across the yard toward the gap in the compound wall, out at frame-left, the bag on his left shoulder, heel to toe, shoulders relaxed. In front of the open door, Rosamma's eyes and head turn slowly, following him all the way.
 
 DIALOGUE RULES
 Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
 Only Antony's mouth moves; Rosamma's lips stay pressed together the whole shot.
 
 PERFORMANCE
-Antony: light, a little apologetic, a smile in his voice. Rosamma: worried, tense in small real ways; never theatrical.
+Antony: completely natural, the way a son talks to his mother every day, unhurried, a small smile; nothing performed. Rosamma: worried, tense in small real ways.
 
 LIGHTING
-Bright morning sun from behind the camera's right lights Antony's face and the house front; soft shade under the veranda roof on Rosamma.
+Morning sun from behind the camera's right lights Antony and the house front; soft shade on Rosamma under the veranda roof.
 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only. Antony speaks the exact Malayalam words in quotes, and nothing else. Lip-sync exact; every word on camera; spoken once.
-1.2s to 4.0s — Antony, to his mother on the veranda, loud enough to carry, quick and light, a little apologetic, a smile in his voice, even pace. About 2.8 seconds.
+1.2s to 4.0s — Antony, to his mother, in his ordinary everyday voice, the way people really talk at home, relaxed, a small smile in it, even pace; not announced, not acted. About 2.8 seconds.
 "സമയമില്ലമ്മേ, ഞാൻ പുറത്തൂന്ന് കഴിച്ചോളാം."
 After the line, nobody speaks.
-SOUND EFFECTS: crows, distant waves; from 5.0s his steps on the sand.
+SOUND EFFECTS: crows, distant waves; from 5.0s his steps on sand.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
@@ -196,7 +196,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; natural skin; a true film look.
 
 POSITIVE LOCKS
-One shot in the front yard of Antony's own house: the full house front with its four white pillars, open blue door and veranda steps behind him at frame-right; Rosamma on the veranda just outside the open front door with the full plate (@puttuplate), tense, lips closed. Antony at frame-left with the beige bag (@antonybag) on his LEFT shoulder, looking at his mother, never into the camera. Only Antony speaks; every word is Malayalam. Every frame looks like the film itself, with nothing from the making of it. Runs the full 8 seconds.
+One shot in the front yard of Antony's own house: the full house front with its four white pillars, wide-open blue door and veranda steps behind him at frame-right; Rosamma on the veranda just outside the wide-open blue front door with the full plate (@puttuplate), tense, lips closed, her eyes following him as he leaves. Antony at frame-left with the beige bag (@antonybag) on his LEFT shoulder, looking at his mother, never into the camera. Only Antony speaks; every word is Malayalam. Every frame looks like the film itself, with nothing from the making of it. Runs the full 8 seconds.
 ```
 
 ## Generation results
