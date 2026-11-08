@@ -69,3 +69,4 @@ Starts exactly on @2bwidestart; still until 7.5s, then a slow 2 m glide toward t
 ```
 
 ## Generation results
+- v3 [partial] [camera-exp] Ananthu 2026-11-08: house, light and the still-then-push matched; 11 s instead of 15; Antony walked in large from the lower-left as if from behind the camera, not out of his compound (L100); both lines sounded playful, not natural (L101).
