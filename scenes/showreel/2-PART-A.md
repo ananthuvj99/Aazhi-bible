@@ -174,7 +174,7 @@ PERFORMANCE
 Completely natural — the way a son talks to his mother every day, unhurried, a small smile; nothing performed.
 
 LIGHTING
-Bright morning sun from the camera's left falls softly and evenly across his face; the lane behind him sunlit.
+Bright morning sun from the camera's left falls softly and evenly across his face; the yard and wall behind him sunlit.
 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
