@@ -269,6 +269,7 @@ mark{background:rgba(243,201,105,.35);color:inherit;border-radius:3px}
       <div class="glass md" id="docview"></div>
     </div>
   </section>
+  <section class="view" id="v-voices"><div class="filters"><span class="meta">Which platform voice each character uses · from voices/VOICES.md</span></div><div class="gallery" id="voicecards"></div></section>
   <section class="view" id="v-assets">
     <div class="filters"><div class="seg" id="af-group"></div><div class="seg" id="af-who"></div><input class="search" id="af-q" placeholder="Search IDs…"><span class="meta" id="af-count"></span></div>
     <div class="gallery" id="gallery"></div>
@@ -282,7 +283,7 @@ const REPO = "ananthuvj99/Aazhi-bible";
 const PEOPLE = ["Ananthu","Ranjith","Aswanth"];
 const COLOR = {Ananthu:"#5ad8ff",Ranjith:"#f3c969",Aswanth:"#b18cff"};
 const ALIAS = {ananthu:"Ananthu",anandu:"Ananthu",ananthuvj99:"Ananthu",ranjith:"Ranjith",renjith:"Ranjith",ranjit:"Ranjith",aswanth:"Aswanth",ashwanth:"Aswanth",ashwin:"Aswanth"};
-const TABS = [["live","Live"],["team","Team"],["showreel","Showreel"],["gens","Generations"],["learn","Learnings"],["rules","Rules"],["assets","Assets"]];
+const TABS = [["live","Live"],["team","Team"],["showreel","Showreel"],["gens","Generations"],["learn","Learnings"],["rules","Rules"],["assets","Assets"],["voices","Voices"]];
 let D = null, lastSync = 0, online = true;
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -546,7 +547,12 @@ function renderAssets(){const groups=["All",...new Set(D.assets.map(a=>a.group))
 $("#af-q").oninput=e=>{AF.q=e.target.value;renderAssets()};
 function showAssets(p){AF.who=p;tab("assets");renderAssets()}
 
-function renderAll(){renderKpis();renderFeed();renderTeam();renderBoard();renderGens();renderLearn();renderRules();renderAssets()}
+function renderVoices(){const V=D.voices||[];
+  $("#voicecards").innerHTML=V.map(v=>{const a=D.assets.find(x=>v.ids.includes(x.id)&&x.img);const none=/not assigned/i.test(v.voice);
+    return`<div class="glass acard"><div class="img" style="${a?`background-image:url('${esc(a.img)}')`:""}"></div><div class="body"><div class="aid">${esc(v.character)}</div>
+    <div style="font:700 15px Orbitron;margin-top:6px;color:${none?"var(--faint)":"var(--cyan)"}">${esc(v.voice||"—")}</div><div class="meta" style="margin-top:2px">${esc(v.style)}</div>
+    <div class="meta" style="margin-top:6px">${v.ids.map(i=>`<code>${esc(i)}</code>`).join(" ")}</div></div></div>`}).join("")||`<div class="empty">No voices recorded yet.</div>`}
+function renderAll(){renderKpis();renderFeed();renderTeam();renderBoard();renderGens();renderLearn();renderRules();renderAssets();renderVoices()}
 
 /* ---------- data + live sync ---------- */
 async function loadData(){const r=await fetch("data.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error("data.json "+r.status);return r.json()}

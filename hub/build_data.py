@@ -284,6 +284,7 @@ def now_working(all_commits):
 
 
 DOCS = [
+    ("voices/VOICES.md", "Voices"),
     ("CLAUDE.md", "How every session works"),
     ("rules/workflow.md", "Team workflow"),
     ("rules/prompt-rules.md", "Prompt rules"),
@@ -295,12 +296,27 @@ DOCS = [
 ]
 
 
+def voices():
+    """Rows of the table in voices/VOICES.md: character, look IDs, platform voice, style, recorded by."""
+    f = ROOT / "voices/VOICES.md"
+    if not f.exists():
+        return []
+    out = []
+    for _, rows in md_tables(f.read_text()):
+        for r in rows:
+            out.append({"character": r.get("Character", ""), "ids": re.findall(r"@\w+", r.get("Look IDs", "")),
+                        "voice": r.get("Platform voice", "").replace("*", ""), "style": r.get("Voice style (platform label)", ""),
+                        "by": r.get("Recorded by", "")})
+    return out
+
+
 def main():
     cs = commits()
     data = {
         "repo": REPO, "built": int(time.time()), "head": git("rev-parse", "--short", "HEAD").strip(),
         "people": PEOPLE, "commits": cs, "learnings": learnings(), "assets": assets(), "shots": shots(),
         "now": now_working(cs), "scenes": plan_scenes(),
+        "voices": voices(),
         "docs": [{"path": p, "title": t, "text": (ROOT / p).read_text()} for p, t in DOCS if (ROOT / p).exists()],
         "storyboardPanels": len(re.findall(r"^### SB\d+", (ROOT / "storyboard/aazhi-storyboard.md").read_text(), re.M)),
     }
