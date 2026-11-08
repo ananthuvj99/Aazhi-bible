@@ -198,6 +198,7 @@ One shot in the front yard; Antony alone in medium close-up in the middle of the
 ```
 
 ## Generation results
+- 2A-3 v2.1 [failed] (Ananthu, 2026-11-08): Antony was placed in the village road, not in front of his house — `@villagelane` (background only) was copied as the set (L87 again). Next: front of the house, no lane sheet.
 - 2A-2 v2.2 [approved] (Ananthu, 2026-11-08): "came out well" — she hurries out to the veranda, breathless line, Antony never in frame.
 - 2A-2 v2 [failed] (Ananthu, 2026-11-07): positions changed — Rosamma should come out to the veranda, Antony in the yard, not in frame. v2.1 written. 2A-3 to be moved to the yard to match.
 - 2A-1 v2 [approved] (Ananthu, 2026-11-07): "came out really good".
