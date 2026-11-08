@@ -1,0 +1,63 @@
+{
+ "title": "SB031 · The decision (source scene 23D)",
+ "subtitle": "Emotion Resolve · four shots, 8 s each · continues from s23-sh04 (approved) · generate sh05 first, its last frame feeds sh06–08 · Ranjith, 2026-11-08",
+ "out": "scenes/showreel/storyboards/sb031-storyboard.png",
+ "panels": [
+  {
+   "shot": "s23-sh05",
+   "time": "8 s",
+   "title": "Crew wake and gather at the rail",
+   "image": "locations/uru-deck/plates/urudeck-c1-plate-night.png",
+   "beats": [
+    "Same deck view as SB027. 0–2 s Raghavan, Babu, Sasi jerk awake on their mats.",
+    "2–5.5 s they hurry to the RIGHT rail (the boat's left side); Antony runs in from the bow, pointing; Aashaan leans to the window.",
+    "5.5–8 s all stare out toward the bow; nobody moves to help."
+   ],
+   "refs": "@urudeckc1platenight · @raghavan · @babu · @sasi · @aashaan · @antony20 · ref: s21-sh01 last frame"
+  },
+  {
+   "shot": "s23-sh06",
+   "time": "8 s",
+   "title": "Antony: Call Aashaan. Bring a rope.",
+   "image": "props/burningvallam/prop.png",
+   "beats": [
+    "Antony, back to the left rail; behind him ~150 m off the burning vallam and Selvan's head and arm in the water (L86).",
+    "2.5–5 s the order, face just LEFT of the lens (crew aft). 5–8 s silent, grips the rail, ready."
+   ],
+   "refs": "ref: s23-sh05 last frame · @antony20 · @burningvallam (bg) · @selvan (bg, small)"
+  },
+  {
+   "shot": "s23-sh07",
+   "time": "8 s",
+   "title": "Raghavan: Don't go.",
+   "image": "characters/raghavan/sheet.png",
+   "beats": [
+    "Raghavan MCU, deckhouse glow far behind; his hand shoots out low and grips (out of frame).",
+    "3–4 s the line, just RIGHT of the lens. 4–8 s silent; the wrist is pulled free, his hand comes up empty."
+   ],
+   "refs": "ref: s23-sh05 last frame · @raghavan"
+  },
+  {
+   "shot": "s23-sh08",
+   "time": "8 s",
+   "title": "Insert: Antony frees his wrist",
+   "image": "characters/antony20/sheet.jpg",
+   "beats": [
+    "CU: Raghavan's old hand clamped on Antony's RIGHT wrist on the rail top.",
+    "2.5–5 s Antony twists free; 5–8 s the old hand left open, then grips the rail."
+   ],
+   "refs": "ref: s23-sh05 last frame · @antony20 (hand) · @raghavan (hand)"
+  },
+  {
+   "shot": "blocking",
+   "time": "",
+   "title": "3D blocking: who stands where",
+   "image": "scenes/showreel/storyboards/sb031-blocking.png",
+   "beats": [
+    "Crew and Antony at the LEFT rail (boat's port side) forward of the deckhouse; the burning vallam ahead-left; cameras c1 (sh05), c5 (sh06), c6 (sh07)."
+   ],
+   "refs": "planning only, never attached"
+  }
+ ],
+ "footer": "Storyboard only. Never attach this sheet to a generation."
+}

@@ -1,0 +1,199 @@
+{
+ "title": "SB031 \u00b7 The decision \u2014 3D blocking",
+ "subtitle": "Orange = crew at the left rail \u00b7 green = Antony \u00b7 red = Aashaan at the wheel \u00b7 blue = cameras",
+ "out": "scenes/showreel/storyboards/sb031-blocking.png",
+ "eye": [
+  9,
+  -3,
+  13
+ ],
+ "target": [
+  -2,
+  5,
+  0
+ ],
+ "size": [
+  1600,
+  1000
+ ],
+ "fov": 60,
+ "objects": [
+  {
+   "type": "box",
+   "center": [
+    0,
+    0,
+    0
+   ],
+   "size": [
+    6,
+    26,
+    0.2
+   ],
+   "color": "#8a7a64"
+  },
+  {
+   "type": "box",
+   "center": [
+    -3,
+    0,
+    0.5
+   ],
+   "size": [
+    0.15,
+    26,
+    0.8
+   ],
+   "color": "#5d6f86",
+   "label": ""
+  },
+  {
+   "type": "box",
+   "center": [
+    3,
+    0,
+    0.5
+   ],
+   "size": [
+    0.15,
+    26,
+    0.8
+   ],
+   "color": "#5d6f86"
+  },
+  {
+   "type": "box",
+   "center": [
+    0,
+    -9,
+    0.45
+   ],
+   "size": [
+    5,
+    5,
+    0.9
+   ],
+   "color": "#7a5a3a",
+   "label": ""
+  },
+  {
+   "type": "figure",
+   "pos": [
+    0,
+    -9,
+    0.1
+   ],
+   "color": "#d9534f",
+   "label": "Aashaan"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    -2.5,
+    0.5,
+    0.1
+   ],
+   "color": "#f0ad4e",
+   "label": "Babu"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    -2.5,
+    2.5,
+    0.1
+   ],
+   "color": "#f0ad4e",
+   "label": "Sasi"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    -2.5,
+    4.5,
+    0.1
+   ],
+   "color": "#f0ad4e",
+   "label": "Raghavan"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    -2.5,
+    6.5,
+    0.1
+   ],
+   "color": "#3fa34d",
+   "label": "Antony"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    0,
+    12.5,
+    0.1
+   ],
+   "radius": 0.2,
+   "height": 2.6,
+   "color": "#4a3522",
+   "label": "bow"
+  },
+  {
+   "type": "box",
+   "center": [
+    -22,
+    28,
+    0.4
+   ],
+   "size": [
+    2.4,
+    0.8,
+    0.5
+   ],
+   "color": "#ff7a1a",
+   "label": "burning vallam + Selvan"
+  },
+  {
+   "type": "camera",
+   "pos": [
+    0.5,
+    10,
+    1.7
+   ],
+   "look": [
+    0,
+    -9,
+    1.2
+   ],
+   "label": "c1 sh05"
+  },
+  {
+   "type": "camera",
+   "pos": [
+    -0.8,
+    6.0,
+    1.6
+   ],
+   "look": [
+    -6,
+    10,
+    1.5
+   ],
+   "label": "c5 sh06"
+  },
+  {
+   "type": "camera",
+   "pos": [
+    -1.6,
+    8.2,
+    1.6
+   ],
+   "look": [
+    -2.3,
+    4,
+    1.6
+   ],
+   "label": "c6 sh07"
+  }
+ ]
+}
