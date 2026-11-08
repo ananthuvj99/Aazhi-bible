@@ -207,6 +207,9 @@ mark{background:rgba(243,201,105,.35);color:inherit;border-radius:3px}
 .acard .img::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(2,5,12,.85),transparent 55%)}
 .acard .body{padding:10px 12px 12px}
 .acard .aid{font:600 12.5px Orbitron;letter-spacing:.04em;word-break:break-all}
+.acard .voice{display:inline-flex;align-items:center;gap:5px;margin-top:6px;padding:2px 9px;border-radius:999px;font-size:11.5px;color:var(--cyan);background:rgba(90,216,255,.1);border:1px solid rgba(90,216,255,.25)}
+.acard .meta{display:flex;align-items:center;gap:6px}
+.who-dot{width:7px;height:7px;border-radius:50%;display:inline-block}
 /* drawer */
 .drawer{position:fixed;top:0;right:0;height:100%;width:min(620px,100%);z-index:20;transform:translateX(105%);transition:transform .4s cubic-bezier(.2,.8,.2,1);border-radius:0;border-left:1px solid var(--line-hi);display:flex;flex-direction:column;background:rgba(6,12,24,.92)}
 .drawer.on{transform:none}
@@ -269,7 +272,6 @@ mark{background:rgba(243,201,105,.35);color:inherit;border-radius:3px}
       <div class="glass md" id="docview"></div>
     </div>
   </section>
-  <section class="view" id="v-voices"><div class="filters"><span class="meta">Which platform voice each character uses · from voices/VOICES.md</span></div><div class="gallery" id="voicecards"></div></section>
   <section class="view" id="v-assets">
     <div class="filters"><div class="seg" id="af-group"></div><div class="seg" id="af-who"></div><input class="search" id="af-q" placeholder="Search IDs…"><span class="meta" id="af-count"></span></div>
     <div class="gallery" id="gallery"></div>
@@ -283,7 +285,7 @@ const REPO = "ananthuvj99/Aazhi-bible";
 const PEOPLE = ["Ananthu","Ranjith","Aswanth"];
 const COLOR = {Ananthu:"#5ad8ff",Ranjith:"#f3c969",Aswanth:"#b18cff"};
 const ALIAS = {ananthu:"Ananthu",anandu:"Ananthu",ananthuvj99:"Ananthu",ranjith:"Ranjith",renjith:"Ranjith",ranjit:"Ranjith",aswanth:"Aswanth",ashwanth:"Aswanth",ashwin:"Aswanth"};
-const TABS = [["live","Live"],["team","Team"],["showreel","Showreel"],["gens","Generations"],["learn","Learnings"],["rules","Rules"],["assets","Assets"],["voices","Voices"]];
+const TABS = [["live","Live"],["team","Team"],["showreel","Showreel"],["gens","Generations"],["learn","Learnings"],["rules","Rules"],["assets","Assets"]];
 let D = null, lastSync = 0, online = true;
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -535,24 +537,22 @@ function doc(p,drawer){const d=D.docs.find(x=>x.path===p);if(!d)return;const q=$
 $("#rq").oninput=renderRules;
 
 let AF={group:"All",who:"All",q:""};
+const voiceOf=id=>(D.voices||[]).find(v=>v.ids.includes(id)&&!/not assigned/i.test(v.voice));
+const stShort=t=>/retired/i.test(t)?["spare","retired"]:/on platform/i.test(t)?["approved","on platform"]:/upload|register/i.test(t)?["draft","to upload"]:/approved/i.test(t)?["approved","approved"]:/repo only|planning/i.test(t)?["other","planning"]:["other",t.split(/[—;(]/)[0].trim().slice(0,14)];
 function renderAssets(){const groups=["All",...new Set(D.assets.map(a=>a.group))];seg($("#af-group"),groups,"group",AF,renderAssets);seg($("#af-who"),["All",...PEOPLE],"who",AF,renderAssets);
-  const q=AF.q.toLowerCase(),list=D.assets.filter(a=>(AF.group==="All"||a.group===AF.group)&&(AF.who==="All"||a.who===AF.who)&&(!q||(a.id+a.shows).toLowerCase().includes(q)));
+  const q=AF.q.toLowerCase(),list=D.assets.filter(a=>(AF.group==="All"||a.group===AF.group)&&(AF.who==="All"||a.who===AF.who)&&(!q||(a.id+a.shows+((voiceOf(a.id)||{}).voice||"")).toLowerCase().includes(q)));
   $("#af-count").textContent=`${list.length} assets`;
-  $("#gallery").innerHTML=list.map((a,i)=>{const s=/retired/i.test(a.status)?"spare":/approved/i.test(a.status)?"approved":/register|waiting/i.test(a.status)?"draft":"other";
+  $("#gallery").innerHTML=list.map(a=>{const [s,lab]=stShort(a.status),v=voiceOf(a.id);
     return`<div class="glass acard" data-i="${D.assets.indexOf(a)}"><div class="img" style="${a.img?`background-image:url('${esc(a.img)}')`:""}"></div><div class="body"><div class="aid">${esc(a.id)}</div>
-    <div class="meta" style="margin-top:4px"><b style="color:${COLOR[a.who]||"var(--muted)"}">${esc(a.who)}</b><span class="st ${s}">${esc(a.status.split(/[—;(]/)[0].trim().slice(0,22))}</span></div></div></div>`}).join("")||`<div class="empty">Nothing matches.</div>`;
+    ${v?`<div class="voice" title="${esc(v.style)}"><svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg>${esc(v.voice)}</div>`:""}
+    <div class="meta" style="margin-top:6px"><i class="who-dot" style="background:${COLOR[a.who]||"var(--muted)"}"></i>${esc(a.who)}<span class="st ${s}" style="margin-left:auto">${esc(lab)}</span></div></div></div>`}).join("")||`<div class="empty">Nothing matches.</div>`;
   document.querySelectorAll(".acard").forEach(el=>el.onclick=()=>{const a=D.assets[+el.dataset.i];
     openDrawer(`<b style="font-family:Orbitron">${esc(a.id)}</b> <span class="meta">${esc(a.group)}</span>`,`${a.img?`<img src="${esc(a.img)}" alt="">`:""}
-      <p><b>Shows:</b> ${esc(a.shows)}</p><p><b>Attach when:</b> ${esc(a.attach)}</p><p><b>Created by:</b> ${esc(a.who)} · ${esc(a.date)}</p><p><b>Status:</b> ${esc(a.status)}</p><p><code>${esc(a.file)}</code></p>`)})}
+      <p><b>Shows:</b> ${esc(a.shows)}</p><p><b>Attach when:</b> ${esc(a.attach)}</p>${voiceOf(a.id)?`<p><b>Voice:</b> ${esc(voiceOf(a.id).voice)} — ${esc(voiceOf(a.id).style)}</p>`:""}<p><b>Created by:</b> ${esc(a.who)} · ${esc(a.date)}</p><p><b>Status:</b> ${esc(a.status)}</p><p><code>${esc(a.file)}</code></p>`)})}
 $("#af-q").oninput=e=>{AF.q=e.target.value;renderAssets()};
 function showAssets(p){AF.who=p;tab("assets");renderAssets()}
 
-function renderVoices(){const V=D.voices||[];
-  $("#voicecards").innerHTML=V.map(v=>{const a=D.assets.find(x=>v.ids.includes(x.id)&&x.img);const none=/not assigned/i.test(v.voice);
-    return`<div class="glass acard"><div class="img" style="${a?`background-image:url('${esc(a.img)}')`:""}"></div><div class="body"><div class="aid">${esc(v.character)}</div>
-    <div style="font:700 15px Orbitron;margin-top:6px;color:${none?"var(--faint)":"var(--cyan)"}">${esc(v.voice||"—")}</div><div class="meta" style="margin-top:2px">${esc(v.style)}</div>
-    <div class="meta" style="margin-top:6px">${v.ids.map(i=>`<code>${esc(i)}</code>`).join(" ")}</div></div></div>`}).join("")||`<div class="empty">No voices recorded yet.</div>`}
-function renderAll(){renderKpis();renderFeed();renderTeam();renderBoard();renderGens();renderLearn();renderRules();renderAssets();renderVoices()}
+function renderAll(){renderKpis();renderFeed();renderTeam();renderBoard();renderGens();renderLearn();renderRules();renderAssets()}
 
 /* ---------- data + live sync ---------- */
 async function loadData(){const r=await fetch("data.json?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error("data.json "+r.status);return r.json()}
