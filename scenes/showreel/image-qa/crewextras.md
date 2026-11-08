@@ -7,3 +7,6 @@ Compared with: characters/crew/sheet.png (men 1, 3, 4, 7)
 ⚠️ the grey gaps between the men are a slightly different grey from the background (faint panel lines) — harmless for a reference
 ⚠️ man 3 is a boy: background or audience only, never drinking
 ```
+
+## 2026-11-08 — replaced (three men)
+The boy (man 3) was removed after s16b-sh05 v6 was blocked by the content filter (L93). Same cuts of men 1, 4, 7, same grey gaps; score unchanged, 88.

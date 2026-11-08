@@ -29,7 +29,7 @@ Platform ID: `@crew` · Sheet: `sheet.png`, made by Aswanth (ChatGPT). Eight men
 
 ## Never pair with
 - `@sasi`, `@suresh`, `@raghavan` or `@babu` in the same generation (L74: s16b-sh02 v1 drew Babu twice even with "men 1, 4 and 7 only" written). Use @crew only for shots with none of the featured men; otherwise make own sheets for men 1, 4 and 7.
-- Man 3 is a boy: never give him alcohol, keep him in the background (image QA drift).
+- Man 3 is a boy without a shirt: keep him out of generations (L93: the image tripped the content filter); never give him alcohol.
 
 ## Voice
 Background men: non-verbal only (claps, whoops, laughter) unless a shot gives one of them a line.
