@@ -27,5 +27,5 @@ Platform ID: `@suresh` · Sheet: `sheet.png` (front, back, face close-up), made 
 - `@crew` unless the prompt says "men 1, 4 and 7 only" (he is man #5 in the line-up).
 
 ## Voice
-**Platform voice: not assigned yet** — see `voices/VOICES.md`.
+**Platform voice: Mahie Varma** (Motivational and inspiring) — see `voices/VOICES.md`.
 Kollam coastal Malayalam; a light, quick young male voice, about 30; laughs easily.

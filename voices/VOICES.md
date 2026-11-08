@@ -14,7 +14,7 @@ To change a voice or add one: edit this table and the character's `card.md` (Voi
 | Babu | `@babu` | **Dera** | Expressive, Smooth, Elegant | Ananthu (list, 2026-11-08) |
 | Raghavan | `@raghavan` | **Nguyen Tue** | Zen master | Ananthu (list, 2026-11-08) |
 | Sasi | `@sasi` | **Samar** | Angry and intense character | Ananthu (list, 2026-11-08) |
-| Suresh | `@suresh` | *not assigned yet* | — | — |
+| Suresh | `@suresh` | **Mahie Varma** | Motivational and inspiring | Ananthu (2026-11-08) |
 | Crew (background men) | `@crew` | *not assigned* — non-verbal only unless a shot gives one of them a line | — | — |
 
 Note: this list was sent by Ananthu on 2026-11-08; some voices were chosen by Ananthu and some by Ranjith. Add the name of whoever chose a voice in the notes when known.
