@@ -4,5 +4,5 @@ One line per creator. Update yours at the start of each shot and push it; the Me
 Format: `- Name: shot — what you are doing`
 
 - Ananthu: Scene 2 Part B — front of the house (next after the approved bath + mirror)
-- Ranjith: SB030 — someone in the water; Antony calls Aashaan (s23-sh03, s23-sh04 ready)
+- Ranjith: SB031 — the decision: crew at the rail, Raghavan grips Antony's wrist (s23-sh05 to sh08 ready)
 - Aswanth: s16b-sh05 — SB024 song panel 05, follow Antony down to the dance (12 s, 480p test); s16a-sh01 approved
