@@ -123,3 +123,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 108. **Direction of a follow shot (L91):** state which way the camera looks (forward to the bow / toward the door), what is ahead and what is behind the camera, in the location, camera and locks blocks; the place he leaves is only 'behind the camera'.
 109. **Natural groups (L92):** people who gather are split across the space at different distances and in different poses; never 'side by side in a row' unless they are meant to be lined up.
 110. **Children in references (L93):** no reference image shows a child without a shirt; children stay out of adult crowd shots unless needed, then clothed, at a distance, plain wording.
+111. **Listeners keep moving (L94):** every non-speaking person in frame has a relevant small action in every beat (shifting a prop, a glance down and back, a half-step, a sigh); never only 'stands', 'waits' or 'listens'.
