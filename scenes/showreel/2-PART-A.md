@@ -165,7 +165,7 @@ EYELINE
 Antony looks at his mother on the veranda at frame-right, about 35 degrees off the lens, his mouth fully visible. He never looks into the camera.
 
 ACTION
-0.0s to 1.2s — Antony, in the yard, the beige bag on his left shoulder, faces his mother with an apologetic half-smile. At the top of the steps Rosamma holds the full plate, brow knotted, lips pressed together.
+0.0s to 1.2s — Antony, in the yard, the beige bag on his left shoulder, faces his mother with an apologetic half-smile. At the open door Rosamma holds the full plate, brow knotted, lips pressed together.
 1.2s to 4.0s — He says his line in Malayalam to her, head steady. Rosamma listens, tense, lips closed.
 4.0s to 5.0s — A small shrug and a smile, his right hand lifted in a little wave. Rosamma tightens her grip on the plate. Nobody speaks after the line.
 5.0s to 8.0s — He turns and walks off across the yard toward the gap in the compound wall, out at frame-left, the bag on his left shoulder, heel to toe, shoulders relaxed. Rosamma's worried eyes follow him.
