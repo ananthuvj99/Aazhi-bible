@@ -24,3 +24,6 @@ Use for: the bucket bath by the well (2-bath). Never with `@antonyhome` or `@ant
 ## Continuity notes
 - He comes from the kitchen in `@antonyhome` (vest, checked mundu); at the bath he is in the thorthu; at the mirror right after (2-mirror) he is back in the white vest and checked mundu with the striped towel round his neck — he changes off-screen.
 - Filter-safe wording (L72): describe what he wears ("wears only a red cotton thorthu at the waist; his white vest is off"), never "bare" or "shirtless".
+
+## Voice
+Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice (same as `@antony20`).
