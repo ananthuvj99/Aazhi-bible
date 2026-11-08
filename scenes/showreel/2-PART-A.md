@@ -200,6 +200,7 @@ One shot in the front yard of Antony's own house: the full house front with its 
 ```
 
 ## Generation results
+- 2A-3 v2.3 [failed] (Ananthu, 2026-11-08): Rosamma came out of the house into the yard; in 2A-2 she stays at the door. Next: clean single on Antony only (his mother off-screen), corrected timing.
 - 2A-3 v2.2 [partial] (Ananthu, 2026-11-08): place right (front of his house), but the line felt artificial and the front door was closed. L90. v2.3: natural voice, a wave goodbye, door wide open, her eyes follow him.
 - 2A-3 v2.1 [failed] (Ananthu, 2026-11-08): Antony was placed in the village road, not in front of his house — `@villagelane` (background only) was copied as the set (L87 again). Next: front of the house, no lane sheet.
 - 2A-2 v2.2 [approved] (Ananthu, 2026-11-08): "came out well" — she hurries out to the veranda, breathless line, Antony never in frame.
