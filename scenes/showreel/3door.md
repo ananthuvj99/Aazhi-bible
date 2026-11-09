@@ -280,7 +280,7 @@ Dialogue rules: whenever a character speaks, frame them in a medium close-up wit
 In CUT 1 Antony is the only person in the frame; in CUT 2 Clara is the only person in the frame.
 
 PERFORMANCE
-Quick, playful talk between two old friends, kept low so the class does not hear. Antony: slightly annoyed, a small real grumble. Clara: playful, teasing him back with a small smile. Light emotions only: small, real, understated faces and voices, never over-expressive. Each looks at the other just beside the lens; nobody looks into the camera.
+Quick, light talk between two old friends, kept low so the class does not hear. Antony: slightly annoyed, a small real grumble. Clara: playful, teasing him back with a small smile. Light emotions only: small, real, understated faces and voices, never over-expressive. Each looks at the other just beside the lens; nobody looks into the camera.
 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
