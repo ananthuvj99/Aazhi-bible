@@ -138,3 +138,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 123. **Human blocking cameras (L105):** a 3D blocking camera lags the actor, changes distance, lets the framing drift and leads toward the action, with layered handheld motion; never a fixed offset glued to the actor.
 123. **Listener's mouth (L105):** in every beat where one person speaks, the other visible person's mouth is written closed, and their face is turned away or small; a doubled character (L102) twice in a row means a start image with the character already in it.
 124. **Start image really attached (L106):** the delivery tells the creator to upload new images under their exact IDs first, put the start image in the start-image slot and check it is frame one; a location reference is attached too, in case the start image is missed.
+125. **Upload size (W20):** images for the platform go as JPG under 5 MB at full resolution (PNG exports can be 10 MB and fail to upload).
