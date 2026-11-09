@@ -168,7 +168,7 @@ SOUND EFFECTS: a low murmur from the class behind the camera, their footsteps on
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
-- Image: very wide dynamic range — the bright yard light on her face and the shaded room behind her hold detail in one frame; clean, noise-free shadows; soft roll-off in the highlights.
+- Image: very wide dynamic range — the bright yard behind him and the softly lit room hold detail in one frame; clean, noise-free shadows; soft roll-off in the highlights.
 - Colour: graded like a feature film — accurate, natural colour, rich but true skin tones, warm daylight against cool shade, slightly lifted blacks.
 - Motion: 24 frames per second with natural motion blur, like a real film camera.
 - Texture: very fine, organic film-like grain; natural skin; a true film look.
