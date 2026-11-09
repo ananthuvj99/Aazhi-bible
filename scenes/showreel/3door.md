@@ -1,4 +1,4 @@
-# Scene 3 · SB017 opening — Clara pulls Antony out of the class to the mango tree — v2 (5 generations × 8 s)
+# Scene 3 · SB017 opening — Clara pulls Antony out of the class to the mango tree — v2 (6 generations × 8 s)
 Status: **ready** (QA 94 / 91 / 92, continuity: no conflicts) · Camera: A locked wide; B locked MCU on Clara's face for the line; C locked at the mango tree (C6)
 Created by: Ananthu, 2026-11-09 · v1: `retired/3door-v1.md`
 v2 (Ananthu): everything fast — Clara reaches the door by 3 s; her line quick (about 2 s) with the camera on her face; she takes his hand and pulls him out; they go hand in hand to the mango tree in front of the school (@tuitionc6plate).
@@ -8,6 +8,7 @@ v2.1 (Ananthu): 3door-b no longer uses @3teasecloseup (image not good); the plac
 v2.2 (Ananthu): 3door-b uses his last frame of 3door-a as @3dooraend for positions only (blurry screenshot, never generated from); in that frame Antony stands just inside the doorway, so the camera is beside him inside the door and the room behind Clara comes from @tuitionboardclass (background only).
 v2.3 (Ananthu): the dialogue was too playful — now plain; Clara only asks "എന്താ ഇപ്പൊ വന്നേ?"; "വാ, നമുക്ക് അങ്ങോട്ട് നിൽക്കാം" is Antony's line in a new reverse close-up (3door-b2), after which she takes his hand and they go out.
 v2.4 (Ananthu): new 3door-b1 at the same door set-up as the approved b2 — Antony's SB017 line "എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുറുപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ." Edit order: a → b → b1 → b2 → c.
+v2.5 (Ananthu): SB017 has more lines. Clara's reply "നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്." goes at the door too, as 3door-b1b (same set-up as 3door-b, voice Aadhira). Edit order: a → b → b1 → b1b → b2 → c. The other seven SB017 lines (ten days, eight o'clock, the window, her father, the children waiting) play at the mango tree.
 Next: SB017 dialogue at the mango tree (@tuitionc6plate).
 
 ## 3door-a · Clara walks quickly to Antony (8 s, silent)
@@ -176,6 +177,63 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 
 POSITIVE LOCKS
 Inside the classroom at the open green door, camera beside Clara, locked off, close on Antony facing her; positions as in @3dooraend. Antony alone in frame while he says his one line in Malayalam, face to the lens within 30 degrees, eyes on Clara just left of the lens; the beige bag (@antonybag) on his LEFT shoulder. He stays in the doorway the whole shot. Only Antony speaks. Nothing drawn or written on the image. Runs the full 8 seconds.
+```
+
+## 3door-b1b · Clara's reply at the door (8 s) — plays between 3door-b1 and 3door-b2
+```
+SCENE
+Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. One continuous close shot, 8 seconds, at the open green door of the tuition room. Clara stands just inside the door, facing Antony, who stands just beside the camera, out of frame. She answers his complaint with two short questions in Malayalam, plainly, a little amused. Only Clara speaks, only in Malayalam.
+SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO. No English words are spoken.
+
+ACTIVE REFERENCES
+@3dooraend (positions only): use this image only for where the two stand — Clara just inside the green door, facing Antony, who stands in the doorway; the look, sharpness and framing of this shot come from the other references and this text, not from this image.
+@tuitionboardclass (background only): the look of the room behind Clara — pale-yellow walls, barred windows with palms outside, the hipped tile roof's dark rafters, wooden desk-benches with pupils in school uniform. This shot is close on Clara at the door end of the room, not the view from the back. 100% matches the reference.
+@clara20: Clara, about 20, the tuition teacher; black hair in one long thick plait down her back; light sky-blue cotton saree with a thin white border, pallu over her left shoulder, matching blouse; thin gold chain with a small gold cross; thin wooden-bead bangles on her right wrist, gold bangles on her left. 100% matches the reference.
+
+LOCATION
+Inside the tuition room at the open green door, seen from beside Antony, who stands just inside the doorway (as in @3dooraend). Clara stands about an arm's length from him, facing him and the camera. Behind her, softly out of focus: the pale-yellow wall with barred windows and palms outside, the dark rafters of the hipped tile roof, wooden desks with pupils in school uniform bent over their slates, small and blurred. Antony is just beside the camera, on the camera's right, out of frame while she speaks. Their positions are those of @3dooraend: Clara just inside the door, Antony in the doorway facing her.
+
+FORMAT MODE
+One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
+
+OPTICS
+Medium close-up from mid-chest up, 29°, Clara's face filling a third of the frame height; the room behind her in soft blur. No lens flare.
+
+CAMERA
+At Clara's eye level, 1.5 m, about 1.2 m from her, locked off: the frame stays perfectly still for the whole shot.
+
+ACTION
+0.0s to 1.0s — Clara just inside the door, three-quarter to the camera, looks at Antony just to the right of the lens, one eyebrow a little raised at his complaint.
+1.0s to 6.0s — She says her line, head steady, face toward the lens, plain and a little amused, as if the answer is obvious.
+6.0s to 8.0s — She holds the look on him just to the right of the lens, lips together, eyebrows a little raised, waiting for his reply.
+
+DIALOGUE RULES
+Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
+While the line is spoken, Clara is the only person in the frame.
+
+PERFORMANCE
+Plain and natural, everyday: a young woman pointing out the obvious to a friend: the class laughs because he always turns up in the middle of it. Plain, a little amused; not playful, not teasing. Her eyes stay on Antony just to the right of the lens; she never looks into the camera. The pupils behind her stay bent over their work.
+
+LIGHTING
+Bright daylight from the open doorway beside the camera falls softly and evenly on Clara's face; the room behind her a little darker.
+
+AUDIO
+No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
+Spoken language: Malayalam only. Clara speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; spoken once.
+1.0s to 6.0s — Clara, to Antony at the door, softly so the class does not hear: her ordinary everyday voice, plain and a little amused, normal brisk pace; the question rising on "ഇങ്ങോട്ട്", a short pause, then "എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്" plain with a natural falling end. No laugh, no teasing, no sing-song. About 5 seconds.
+"നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്."
+After the line, nobody speaks.
+SOUND EFFECTS: slate pencils scratching behind her, a low murmur from the class, crows outside, a breeze in the palms.
+
+STYLE
+Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
+- Image: very wide dynamic range — the bright yard light on her face and the shaded room behind her hold detail in one frame; clean, noise-free shadows; soft roll-off in the highlights.
+- Colour: graded like a feature film — accurate, natural colour, rich but true skin tones, warm daylight against cool shade, slightly lifted blacks.
+- Motion: 24 frames per second with natural motion blur, like a real film camera.
+- Texture: very fine, organic film-like grain; natural skin; a true film look.
+
+POSITIVE LOCKS
+At the open green door, camera beside Antony, locked off, close on Clara facing him; positions as in @3dooraend. Clara alone in frame; she says her one line in Malayalam, face to the lens within 30 degrees, eyes on Antony just right of the lens, then waits for his reply. Only Clara speaks. Nothing drawn or written on the image. Runs the full 8 seconds.
 ```
 
 ## 3door-b2 · Antony's answer, then they go out hand in hand (8 s)
