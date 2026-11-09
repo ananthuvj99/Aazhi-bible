@@ -12,4 +12,4 @@ Positions belong to this location and keep their numbers (never renumber; a new 
 | c5-yard | Eye level in the school's sandy yard, about 8 m out, three-quarter from the left | The school front | @tuitionc5plate | Three windows and the green door at the right end; laterite walls both sides, electric pole at the left, palms and tiled houses beyond |
 | c6-mango | Eye level in the yard, on the school side of the mango tree | Toward the road and the sea (the school is behind the camera) | @tuitionc6plate | The mango tree and its round seat; the yard wall behind it with the entry on the RIGHT and the road through it; palms with a low beach wall, boats, sea |
 
-**Platform (2026-11-09):** Ananthu deletes the old uploads `tuitionc1plate`, `tuitionc2plate`, `tuitionc3plate` and re-uploads them as `tuitionc4plate`, `tuitionc5plate`, `tuitionc6plate`; prompts use the new IDs.
+**Platform (2026-11-09):** the old uploads `tuitionc1plate`–`tuitionc3plate` were deleted and the plates re-uploaded as `tuitionc4plate`, `tuitionc5plate`, `tuitionc6plate` (done by Ananthu); prompts use the new IDs.
