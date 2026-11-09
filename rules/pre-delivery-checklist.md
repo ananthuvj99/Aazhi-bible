@@ -135,3 +135,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 120. **One of each person (L102):** a character who enters later is written as absent at the start ('the lane is empty') and POSITIVE LOCKS says 'only one <name> in the whole video'.
 121. **Close cut continues the wide (L103):** its background is written from the wide; no other location sheet; ideally a start still made from the wide.
 122. **Sharp wides (L104):** start images for wides are sharp, full resolution; write 'crisp, sharp detail, deep focus', never 'soft haze' on a wide.
+123. **Human blocking cameras (L105):** a 3D blocking camera lags the actor, changes distance, lets the framing drift and leads toward the action, with layered handheld motion; never a fixed offset glued to the actor.
