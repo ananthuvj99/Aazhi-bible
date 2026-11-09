@@ -123,7 +123,7 @@ At the open green door, camera beside Antony, locked off, close on Clara facing 
 ## 3door-b1 · Antony's mock complaint at the door (8 s) — plays between 3door-b and 3door-b2
 ```
 SCENE
-Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. One continuous close shot, 8 seconds, at the open green door of the tuition room. Antony stands just inside the doorway, facing Clara, who stands just beside the camera, out of frame. He answers her with one line in Malayalam, a small mock complaint about the class. Only Antony speaks, only in Malayalam.
+Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. One continuous close shot, 8 seconds, at the open green door of the tuition room. Antony stands just inside the doorway, facing Clara, who stands just beside the camera, out of frame. He answers her with one line in Malayalam, a small, slightly annoyed complaint about the class. Only Antony speaks, only in Malayalam.
 SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
@@ -147,15 +147,15 @@ At Antony's eye level, 1.6 m, about 1.2 m from him, locked off: the frame stays 
 
 ACTION
 0.0s to 0.8s — Antony just inside the doorway, three-quarter to the camera, looks at Clara just to the left of the lens, bag on his left shoulder; a small sideways glance past her toward the class.
-0.8s to 7.0s — He says his line to her, head steady, face toward the lens, his voice low; a small frown, slightly annoyed, his face only lightly expressive.
-7.0s to 8.0s — He holds the look, lips together, still a little annoyed, waiting for her answer.
+0.8s to 5.8s — He says his line to her, head steady, face toward the lens, his voice low; a small frown, slightly annoyed, his face only lightly expressive.
+5.8s to 8.0s — He holds the look, lips together, still a little annoyed, waiting for her answer.
 
 DIALOGUE RULES
 Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
 While the line is spoken, Antony is the only person in the frame.
 
 PERFORMANCE
-Quick, light emotions only: Antony, slightly annoyed, a small real grumble, keeps it low so the class behind her does not hear. Not performed. His eyes stay on Clara just to the left of the lens; he never looks into the camera.
+Quick, light emotions only, never over-expressive: Antony, slightly annoyed, a small real grumble, keeps it low so the class behind her does not hear. Not performed. His eyes stay on Clara just to the left of the lens; he never looks into the camera.
 
 LIGHTING
 Bright daylight through the doorway behind him rims his hair and shoulders; soft even light from the room falls on his face.
@@ -163,7 +163,7 @@ Bright daylight through the doorway behind him rims his hair and shoulders; soft
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only. Antony speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; spoken once.
-0.8s to 7.0s — Antony, to Clara, softly so the class does not hear: quick, slightly annoyed, a small real grumble, fast pace, light and understated; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" light and quick, with a natural falling end on "ട്ടോ". Light emotion only: no shouting, never over-expressive. About 5 seconds.
+0.8s to 5.8s — Antony, to Clara, softly so the class does not hear: quick, slightly annoyed, a small real grumble, fast pace, light and understated; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" light and quick, with a natural falling end on "ട്ടോ". Light emotion only: no shouting, never over-expressive. About 5 seconds.
 "എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുഴിപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ."
 After the line, nobody speaks.
 SOUND EFFECTS: a low murmur from the class behind the camera, slate pencils scratching, crows outside, a breeze in the palms.
@@ -182,7 +182,7 @@ Inside the classroom at the open green door, camera beside Clara, locked off, cl
 ## 3door-b1b · Clara's reply at the door (8 s) — plays between 3door-b1 and 3door-b2
 ```
 SCENE
-Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. One continuous close shot, 8 seconds, at the open green door of the tuition room. Clara stands just inside the door, facing Antony, who stands just beside the camera, out of frame. She answers his complaint with two short questions in Malayalam, plainly, a little amused. Only Clara speaks, only in Malayalam.
+Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. One continuous close shot, 8 seconds, at the open green door of the tuition room. Clara stands just inside the door, facing Antony, who stands just beside the camera, out of frame. She answers his complaint with two short questions in Malayalam, quick and lightly playful. Only Clara speaks, only in Malayalam.
 SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
@@ -204,15 +204,15 @@ At Clara's eye level, 1.5 m, about 1.2 m from her, locked off: the frame stays p
 
 ACTION
 0.0s to 1.0s — Clara just inside the door, three-quarter to the camera, looks at Antony just to the right of the lens, one eyebrow a little raised at his complaint.
-1.0s to 6.0s — She says her line, head steady, face toward the lens, quick and playful, teasing him, as if the answer is obvious.
-6.0s to 8.0s — She holds the look on him just to the right of the lens, lips together, eyebrows a little raised, waiting for his reply.
+1.0s to 4.5s — She says her line, head steady, face toward the lens, quick and playful, teasing him, as if the answer is obvious.
+4.5s to 8.0s — She holds the look on him just to the right of the lens, lips together, eyebrows a little raised, waiting for his reply.
 
 DIALOGUE RULES
 Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
 While the line is spoken, Clara is the only person in the frame.
 
 PERFORMANCE
-Plain and natural, everyday: a young woman pointing out the obvious to a friend: the class laughs because he always turns up in the middle of it. Lightly playful, teasing him back with a small smile; light emotions only, never over-expressive. Her eyes stay on Antony just to the right of the lens; she never looks into the camera. The pupils behind her stay bent over their work.
+Light and natural, everyday: a young woman pointing out the obvious to a friend: the class laughs because he always turns up in the middle of it. Lightly playful, teasing him back with a small smile; light emotions only, never over-expressive. Her eyes stay on Antony just to the right of the lens; she never looks into the camera. The pupils behind her stay bent over their work.
 
 LIGHTING
 Bright daylight from the open doorway beside the camera falls softly and evenly on Clara's face; the room behind her a little darker.
@@ -220,7 +220,7 @@ Bright daylight from the open doorway beside the camera falls softly and evenly 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only. Clara speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; spoken once.
-1.0s to 6.0s — Clara, to Antony at the door, softly so the class does not hear: quick and playful, teasing him back, fast lively pace, a smile in her voice; the question rising on "ഇങ്ങോട്ട്", a short pause, then "എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്" with a natural falling end. A small smile in the voice, light and understated, never over-expressive. About 3.5 seconds.
+1.0s to 4.5s — Clara, to Antony at the door, softly so the class does not hear: quick and playful, teasing him back, fast lively pace, a smile in her voice; the question rising on "ഇങ്ങോട്ട്", a short pause, then "എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്" with a natural falling end. A small smile in the voice, light and understated, never over-expressive. About 3.5 seconds.
 "നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്."
 After the line, nobody speaks.
 SOUND EFFECTS: slate pencils scratching behind her, a low murmur from the class, crows outside, a breeze in the palms.
@@ -415,3 +415,4 @@ Starts exactly on @tuitionc6plate, camera locked off. Only Clara and Antony, ent
 
 ## Generation results
 - 3door-b2 v2.3 [approved] Ananthu 2026-11-09: Antony's answer at the door, then Clara takes his hand and they step out (W21).
+- 3door-b1m v2.8 [failed] [camera-exp] Ananthu 2026-11-09: the merged two-cut take failed (details not given yet); back to the separate b1 and b1b.
