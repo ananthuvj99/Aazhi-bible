@@ -1,6 +1,6 @@
 # Scene 2 · Part B — front of house: her question, his promise — v7 (two cuts, 15 s)
-Status: **ready** (QA 96, continuity: no conflicts) · Camera: CUT 1 still, then a slow 15° turn left following Antony; CUT 2 camera leads Antony down the lane [camera-exp, two cuts]
-References: CUT 1 @2bwidestart2 (start), @rosamma, @puttuplate · both cuts @antony20, @antonybag · CUT 2 @houseexteriorc2plate
+Status: **ready** (QA 94, continuity: no conflicts) · Camera: CUT 1 still, then a slow 15° turn left following Antony; CUT 2 camera leads Antony down the lane [camera-exp, two cuts]
+References: CUT 1 @houseexteriorc1plate (empty location), @2bwidestart2 (positions only), @rosamma, @puttuplate · both cuts @antony20, @antonybag · CUT 2 @houseexteriorc2plate · no start image
 Voices: Rosamma = Samitha, Antony = Mahendran J · Settings: **Duration 15 s**, 16:9, Malayalam · remove all other attachments
 Follows approved 2-PART-A (2A-3 v2.6). v2 (three 8 s generations): `retired/2-PART-B-v2.md`.
 
@@ -14,6 +14,8 @@ v6 (Ananthu, 2026-11-09, after the v5 take): only one Antony, lane empty at the 
 
 v7 (Ananthu, 2026-11-09, after the v6 take): new sharp start @2bwidestart2 with Antony already in the wall gap (L102, L104); Antony turns away to the lane before Rosamma speaks, his back to the camera and mouth closed during her line (L105); CUT 2 follows CUT 1 directly; CUT 2 unchanged (the lane plate held in v6).
 
+v7 update (Ananthu, 2026-11-09): W2 looked illustrated, so @2bwidestart2 was rebuilt from Ananthu's own photographic frame; on Ananthu's call it is attached for POSITIONS only, with a new empty plate @houseexteriorc1plate for the place; no start image.
+
 ## 2B (15 s, two cuts)
 ```
 SCENE
@@ -21,19 +23,20 @@ Clear bright morning, 1998, a fisherman's house on a laterite headland above the
 SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO.
 
 ACTIVE REFERENCES
-@2bwidestart2 (CUT 1 start frame): CUT 1 begins exactly on this image. 100% matches the reference.
+@houseexteriorc1plate (CUT 1 location): the empty place of CUT 1, exactly this view and light. 100% matches the reference.
+@2bwidestart2 (CUT 1, positions only): only for where people stand at the start; faces and clothes come from the character references.
 @rosamma (CUT 1 only): Rosamma, his mother, cream saree with small blue flowers, mid-blue blouse, gold cross. Speaks only Malayalam. 100% matches the reference.
-@puttuplate (CUT 1 only): the full steel breakfast plate in Rosamma's hands; the only plate in frame. 100% matches the reference.
+@puttuplate (CUT 1 only): the full steel plate in Rosamma's hands. 100% matches the reference.
 @antony20 (both cuts): Antony, 24, lavender-grey striped shirt, grey-green checked mundu, thin silver chain. Speaks only Malayalam. 100% matches the reference.
 @antonybag (both cuts): his large faded beige canvas shoulder bag on his LEFT shoulder, at his left hip. 100% matches the reference.
 @houseexteriorc2plate (CUT 2 only): the sloping lane beside his house. 100% matches the reference.
 
 CUT 1 — 0.0s to 7.5s
-LOCATION: exactly the place of @2bwidestart2, facing the front of the house. The lane at frame-left is empty; Antony is in the wall gap, the only Antony.
+LOCATION: exactly the place of @houseexteriorc1plate, facing the front of the house, Rosamma and Antony placed as in @2bwidestart2 from the first frame. The lane at frame-left is empty; Antony is in the wall gap, the only Antony.
 OPTICS: wide 63°, the house, yard and wall in frame; crisp, sharp detail across the whole frame, deep focus, clear air. No lens flare.
 CAMERA: eye level 1.5 m, on the sand about 25 m from the door. 0.0s to 1.0s perfectly still; 1.0s to 7.5s the camera turns slowly in place to the left, 15 degrees in all, following Antony toward the lane, Rosamma at the door staying in frame; it does not travel.
 ACTION:
-0.0s to 1.0s — Exactly the start frame: Rosamma still at the open door with the plate; Antony in the wall gap, calm face.
+0.0s to 1.0s — As in @2bwidestart2: Rosamma still at the open door with the plate; Antony in the wall gap, calm face.
 1.0s to 3.0s — Antony steps out of the gap onto the sand and turns to frame-left toward the head of the sandy lane, now walking away from the camera, his back and left side to it. Rosamma looks down at her plate, then up after him.
 3.0s to 7.0s — Rosamma, at the door with the plate, calls her line after him; only her lips move. Antony keeps walking toward the lane with his back to the camera, his mouth closed.
 7.0s to 7.5s — Antony reaches the head of the lane at frame-left.
@@ -76,7 +79,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: fine organic grain; a true film look.
 
 POSITIVE LOCKS
-Only one Antony in the whole video. CUT 1 starts exactly on @2bwidestart2, Antony in the wall gap, lane empty; while Rosamma speaks Antony's back is to the camera and his mouth is closed; Rosamma stays at the door with the full plate (@puttuplate). CUT 2 is the lane of @houseexteriorc2plate; Antony alone in a medium close-up, looking back to his right as he answers, face readable. Bag (@antonybag) on his LEFT shoulder. Every word Malayalam; plain voices. Nothing drawn on the image. Runs the full 15 seconds.
+Only one Antony in the whole video. CUT 1 is the place of @houseexteriorc1plate with the positions of @2bwidestart2: Antony in the wall gap from the first frame, lane empty; while Rosamma speaks Antony's back is to the camera and his mouth is closed; Rosamma stays at the door with the full plate (@puttuplate). CUT 2 is the lane of @houseexteriorc2plate; Antony alone in a medium close-up, looking back to his right as he answers, face readable. Bag (@antonybag) on his LEFT shoulder. Every word Malayalam; plain voices. Nothing drawn on the image. Runs the full 15 seconds.
 ```
 
 ## Generation results
