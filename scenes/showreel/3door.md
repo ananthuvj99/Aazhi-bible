@@ -229,3 +229,4 @@ Starts exactly on @tuitionc6plate, camera locked off. Only Clara and Antony, ent
 ```
 
 ## Generation results
+- 3door-b2 v2.3 [approved] Ananthu 2026-11-09: Antony's answer at the door, then Clara takes his hand and they step out (W21).
