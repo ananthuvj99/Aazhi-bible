@@ -2,7 +2,7 @@
 Status: **ready** (QA 93, continuity: no conflicts) · Camera: cinematographer — still, then a slow 2 m push up the aisle into the two of them at the door (**used**, adapted to Ananthu's frame) [camera-exp]
 Storyboard: SB017 (source scene 12A), opening beat before the dialogue · emotion "Playful affection" (silent shot, no tag)
 Created by: Ananthu, 2026-11-09 · Camera position: tuition C2-back (Ranjith's)
-References: @3teasestart (start), @clara20, @antony20, @antonybag
+References: @3teasestart (start), @tuitionboardclass (room only, Ranjith's — backup if the start image is missed, L106), @clara20, @antony20, @antonybag
 Follows: Ranjith's s11 (approved). Next: SB017 dialogue, Antony's first line.
 
 ```
@@ -14,6 +14,7 @@ ACTIVE REFERENCES
 @clara20: Clara, about 20, the tuition teacher; black hair in one long thick plait down her back; light sky-blue cotton saree with a thin white border, pallu over her left shoulder, matching blouse; thin gold chain with a small gold cross; thin wooden-bead bangles on her right wrist, gold bangles on her left. 100% matches the reference.
 @antony20: Antony, 24, short black hair, lavender-grey and white striped short-sleeve shirt, grey-green checked mundu, thin silver chain, barefoot. 100% matches the reference.
 @antonybag: his large faded beige canvas shoulder bag, one long strap over his LEFT shoulder, the bag at his left hip. 100% matches the reference.
+@tuitionboardclass (room only): the same classroom from the same spot at the back — walls, hipped roof, windows, board, table, green door, desks and the eight children; where Clara and Antony stand comes from the start frame. 100% matches the reference.
 
 LOCATION
 Exactly the room of @3teasestart: pale-yellow lime-washed walls with damp stains, barred windows on both long walls, a hipped tile roof with dark rafters, the blank chalkboard on the far wall, the bare teacher's table in front of it, the open green door in the right wall near the board with the bright sandy yard beyond. Everything stays where the start frame shows it.
