@@ -136,3 +136,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 121. **Close cut continues the wide (L103):** its background is written from the wide; no other location sheet; ideally a start still made from the wide.
 122. **Sharp wides (L104):** start images for wides are sharp, full resolution; write 'crisp, sharp detail, deep focus', never 'soft haze' on a wide.
 123. **Human blocking cameras (L105):** a 3D blocking camera lags the actor, changes distance, lets the framing drift and leads toward the action, with layered handheld motion; never a fixed offset glued to the actor.
+123. **Listener's mouth (L105):** in every beat where one person speaks, the other visible person's mouth is written closed, and their face is turned away or small; a doubled character (L102) twice in a row means a start image with the character already in it.
