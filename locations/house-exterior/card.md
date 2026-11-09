@@ -13,6 +13,7 @@ Platform IDs:
 - `@housefullview` — elevation sheet: front, back, both sides and roof (`elevations.webp`). Attach for any exterior shot where the house architecture must be exact.
 - `@houseclean` — top-down cutaway, roof removed (`clean.png`). Geography only; do not attach for eye-level exterior shots (L9).
 - `@housemap` — labelled cutaway (`map.png`). Never attach.
+- `@houseexteriorc2plate` — plate from camera C2 (the lane at the west side, looking up to the headland), `plates/houseexterior-c2-plate.png`. See `cameras.md`.
 
 ## Orientation
 - House faces **SOUTH**. Morning sun from the **EAST** (screen-right when looking at the front).

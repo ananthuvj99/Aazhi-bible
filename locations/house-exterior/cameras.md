@@ -6,8 +6,8 @@ Camera positions belong to this location and never change number; a new spot tak
 
 | Camera | Where it stands | Looking toward | Plate ID | What is behind / through doors (IDs, mode) |
 |---|---|---|---|---|
-
-None numbered yet.
+| c1-wide | On the pale sand outside the front wall, about 25 m from the front door, eye level | NORTH at the house front: wall gap, yard, veranda, door; lane and cottages at the LEFT, cliff, beach, boats and church at the RIGHT | none (start frame @2bwidestart) | Whole front in frame; @houseout matches it |
+| c2-lane | On the sloping sandy lane at the house's WEST side, where the compound wall begins, eye level | UP the lane (south-east) toward the headland | @houseexteriorc2plate | LEFT: the wall and the house's west side, veranda pillars at the far end; top of the lane: the cliff and the sea; RIGHT: red earth bank, electric pole |
 
 ## Sight-lines (moved from the old registry; use for reverse angles, L32)
 
