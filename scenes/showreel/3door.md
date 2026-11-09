@@ -240,7 +240,7 @@ At the open green door, camera beside Antony, locked off, close on Clara facing 
 Camera: two locked-off reverse close-ups joined by a hard cut at 7.5 s (camera experiment, Ananthu chose to try it 2026-11-09; risk L109). If it fails, use b1 and b1b.
 ```
 SCENE
-Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. Two separate close shots edited together, 15 seconds, at the open green door of the tuition room: CUT 1 is Antony, CUT 2 is Clara. HARD CUT at 7.5 seconds: the picture changes instantly from one camera position to the other, like a film edit; the camera never travels or turns between them. Antony stands just inside the doorway; Clara stands just inside the room, an arm's length from him, facing him. He makes a small mock complaint about the class; she answers it. Only Antony and Clara speak, one after the other, only in Malayalam.
+Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. Two separate close shots edited together, 15 seconds, at the open green door of the tuition room: CUT 1 is Antony, CUT 2 is Clara. HARD CUT at 7.5 seconds: the picture changes instantly from one camera position to the other, like a film edit; the camera never travels or turns between them. Antony stands just inside the doorway; Clara stands just inside the room, an arm's length from him, facing him. He makes a small, slightly annoyed complaint about the class; she answers it lightly playfully. Only Antony and Clara speak, one after the other, only in Malayalam.
 SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
