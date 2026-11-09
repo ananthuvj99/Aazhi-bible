@@ -21,7 +21,7 @@ Clear bright morning, 1998, a fisherman's house on a laterite headland above the
 SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO.
 
 ACTIVE REFERENCES
-@2bwidestart2 (CUT 1 start frame): CUT 1 begins exactly on this image 100% matches the reference.
+@2bwidestart2 (CUT 1 start frame): CUT 1 begins exactly on this image. 100% matches the reference.
 @rosamma (CUT 1 only): Rosamma, his mother, cream saree with small blue flowers, mid-blue blouse, gold cross. Speaks only Malayalam. 100% matches the reference.
 @puttuplate (CUT 1 only): the full steel breakfast plate in Rosamma's hands; the only plate in frame. 100% matches the reference.
 @antony20 (both cuts): Antony, 24, lavender-grey striped shirt, grey-green checked mundu, thin silver chain. Speaks only Malayalam. 100% matches the reference.
