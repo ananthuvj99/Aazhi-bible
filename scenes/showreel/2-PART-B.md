@@ -1,5 +1,5 @@
 # Scene 2 · Part B — front of house: her question, his promise — v7 (two cuts, 15 s)
-Status: **ready** (QA 94, continuity: no conflicts) · Camera: CUT 1 still, then a slow 15° turn left following Antony; CUT 2 camera leads Antony down the lane [camera-exp, two cuts]
+Status: **approved — v8** (QA 94, continuity: no conflicts) · Camera: CUT 1 still, then a slow 15° turn left following Antony; CUT 2 camera leads Antony down the lane [camera-exp, two cuts]
 References: CUT 1 @houseexteriorc1plate (empty location), @2bwidestart2 (positions only), @rosamma, @puttuplate · both cuts @antony20, @antonybag · CUT 2 @houseexteriorc2plate · no start image
 Voices: Rosamma = Samitha, Antony = Mahendran J · Settings: **Duration 15 s**, 16:9, Malayalam · remove all other attachments
 Follows approved 2-PART-A (2A-3 v2.6). v2 (three 8 s generations): `retired/2-PART-B-v2.md`.
@@ -150,3 +150,4 @@ Starts exactly on @2bwidestartclear. Antony comes from behind the pillar, down t
 - v5 [partial] [camera-exp] Ananthu 2026-11-09: front-door exit and the close answer with his face readable worked; the wide was blurry (L104); a second Antony walked the lane from frame one (L102); the close cut moved to the @villagelane street with pink and blue cottages (L103); the cut came at about 5.5 s.
 - v6 [failed] [camera-exp] Ananthu 2026-11-09: still blurry and hazy; still two Antonys (L102 again: wording alone did not stop it); Antony's lips moved with Rosamma's line (L105). Next: a sharp start frame with Antony already in it.
 - v8 [failed] Ananthu 2026-11-09: the start image was not used (L106): a different blue house and place in every frame; 10 s, 2.4:1, 992×432.
+- v8 [approved] Ananthu 2026-11-09 (second run, start image in the start slot as JPG): one continuous 15 s wide; Antony out from behind the pillar, down the steps, through the gap and up the lane; Rosamma calls from the door, he answers walking; plain natural voices (W20).
