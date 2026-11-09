@@ -423,7 +423,7 @@ Text-only export of the storyboard HTML, made so it can live in the project cont
 
 | Speaker | Final (Manglish) | Malayalam | English |
 |---|---|---|---|
-| ANTONY (ആന്റണി) | enne kannumboll entha ee kunji kurruppughal enghene chirikyunathu ? enik anghot ishtapedunnilatto | എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുറുപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ. | Why do these little rascals laugh whenever they see me? I'm not enjoying it, you know. |
+| ANTONY (ആന്റണി) | enne kannumboll entha ee kunji kuzhippukal enghene chirikyunathu ? enik anghot ishtapedunnilatto | എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുഴിപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ. | Why do these little rascals laugh whenever they see me? I'm not enjoying it, you know. |
 | CLARA (ക്ലാര) | nee claas kazhinjnju vannittunto eppozhenkilum enghotu ? epolum classinte edakkyu | നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്. | Have you ever come here after class? You always interrupt it. |
 | ANTONY (ആന്റണി) | pathu devasam njane oru yathrakkyu pokuva . charakku erakkan | പത്തു ദിവസം ഞാൻ ഒരു യാത്രയ്ക്ക് പോകുവാ. ചരക്കിറക്കാൻ. | I'm going away for ten days. To deliver cargo. |
 | CLARA (ക്ലാര) | Pathu dhivasamo? | പത്തു ദിവസമോ? | Ten days? |
