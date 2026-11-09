@@ -68,3 +68,4 @@ CUT 1 starts exactly on @3teasestart, camera locked off. Antony stays on his spo
 ## Generation results
 - v2 [failed] Ananthu 2026-11-09: blocked by Higgsfield's content filter before rendering (L107).
 - v3 [partial] [camera-exp] Ananthu 2026-11-09: Clara's walk worked; Antony walked into the room to the board; the nearest pupils turned to the lens as the camera pushed in (L108, L66).
+- v4.1 [partial] [camera-exp] Ananthu 2026-11-09: pupils kept writing with their backs to the camera and Antony stayed at the door (fixes held); but no cut — one continuous push to a side two-shot, Clara in profile, no eyebrow raise or hand gesture, no close-up (L109).
