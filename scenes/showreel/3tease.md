@@ -1,5 +1,5 @@
 # Shot 3tease · SB017 opening: Clara sees Antony at the door and silently teases "why are you here?" (12 s, two cuts, silent) — v4.1
-Status: **ready** (QA 93, continuity: Antony anchored to his start-frame spot) · Camera: CUT 1 locked off (the push through the class turned the pupils to the lens, L108); CUT 2 MCU of Clara from the threshold [camera-exp, two cuts]
+Status: **retired** — replaced by `3door.md` (3door-a) (QA 93, continuity: Antony anchored to his start-frame spot) · Camera: CUT 1 locked off (the push through the class turned the pupils to the lens, L108); CUT 2 MCU of Clara from the threshold [camera-exp, two cuts]
 Storyboard: SB017 (source scene 12A), opening beat before the dialogue · emotion "Playful affection" (silent shot, no tag)
 Created by: Ananthu, 2026-11-09 · Camera position: tuition C2-back (Ranjith's)
 References: CUT 1 @3teasestart (start), @tuitionboardclass (room and class), @antony20, @antonybag · both cuts @clara20

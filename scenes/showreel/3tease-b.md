@@ -1,5 +1,5 @@
 # Shot 3tease-b · SB017 opening: Clara's silent "what?" at the door, close-up (8 s, silent) — v1
-Status: **ready** (QA 95, continuity: eyeline matched to the wide)
+Status: **retired** — replaced by `3door.md` (QA 95, continuity: eyeline matched to the wide)
 Storyboard: SB017 (source scene 12A) · emotion "Playful affection" (silent shot, no tag)
 Created by: Ananthu, 2026-11-09 · Camera: just outside the green door, on Antony's side, locked off
 References: @3teasecloseup (start, approved), @clara20
@@ -54,3 +54,4 @@ Starts exactly on @3teasecloseup, camera locked off. Clara alone in frame, mediu
 ```
 
 ## Generation results
+- v1 [failed] Ananthu 2026-11-09: did not come out well; replaced by 3door (Clara's line and the hand-hold exit).
