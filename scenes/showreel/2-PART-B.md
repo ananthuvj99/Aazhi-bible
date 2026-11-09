@@ -1,6 +1,6 @@
-# Scene 2 · Part B — front of house: her question, his promise — v6 (two cuts, 15 s)
-Status: **ready** (QA 94, continuity: exit side fixed) · Camera: CUT 1 still then slow push toward the wall gap; CUT 2 camera leads Antony down the lane [camera-exp, two cuts]
-References: CUT 1 @2bwidestart (start), @rosamma, @puttuplate · both cuts @antony20, @antonybag · CUT 2 @houseexteriorc2plate
+# Scene 2 · Part B — front of house: her question, his promise — v7 (two cuts, 15 s)
+Status: **ready** (QA 96, continuity: no conflicts) · Camera: CUT 1 still, then a slow 15° turn left following Antony; CUT 2 camera leads Antony down the lane [camera-exp, two cuts]
+References: CUT 1 @2bwidestart2 (start), @rosamma, @puttuplate · both cuts @antony20, @antonybag · CUT 2 @houseexteriorc2plate
 Voices: Rosamma = Samitha, Antony = Mahendran J · Settings: **Duration 15 s**, 16:9, Malayalam · remove all other attachments
 Follows approved 2-PART-A (2A-3 v2.6). v2 (three 8 s generations): `retired/2-PART-B-v2.md`.
 
@@ -12,14 +12,16 @@ v5 (Ananthu, 2026-11-09): more camera movement; Antony in frame, close, when he 
 
 v6 (Ananthu, 2026-11-09, after the v5 take): only one Antony, lane empty at the start (L102); CUT 2 on the new lane plate @houseexteriorc2plate instead of @villagelane (L103); 'crisp, sharp, deep focus' on the wide instead of 'soft haze' (L104); Antony leaves CUT 2 on frame-right, the lane side.
 
+v7 (Ananthu, 2026-11-09, after the v6 take): new sharp start @2bwidestart2 with Antony already in the wall gap (L102, L104); Antony turns away to the lane before Rosamma speaks, his back to the camera and mouth closed during her line (L105); CUT 2 follows CUT 1 directly; CUT 2 unchanged (the lane plate held in v6).
+
 ## 2B (15 s, two cuts)
 ```
 SCENE
-Bright morning, 1998, a fisherman's house on a laterite headland above the sea, Alappad coast, Kerala. Two cuts, 15 seconds. CUT 1 (wide): Antony leaves home; Rosamma calls after him. CUT 2 (close, the lane beside the house): walking, he looks back and answers. Only Rosamma and Antony speak, only in Malayalam. Only one Antony in the whole video.
-SPOKEN LANGUAGE: Malayalam. Every spoken word is Malayalam — the exact text in quotes in AUDIO. No English words are spoken.
+Clear bright morning, 1998, a fisherman's house on a laterite headland above the sea, Alappad coast, Kerala. Two cuts, 15 seconds. CUT 1 (wide): Antony leaves the compound; Rosamma calls after him. CUT 2 (close, the lane beside the house): walking, he looks back and answers. CUT 2 follows CUT 1 directly; there is no other shot. Only Rosamma and Antony speak, only in Malayalam. Only one Antony in the whole video.
+SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO.
 
 ACTIVE REFERENCES
-@2bwidestart (CUT 1 start frame): CUT 1 begins exactly on this image. 100% matches the reference.
+@2bwidestart2 (CUT 1 start frame): CUT 1 begins exactly on this image 100% matches the reference.
 @rosamma (CUT 1 only): Rosamma, his mother, cream saree with small blue flowers, mid-blue blouse, gold cross. Speaks only Malayalam. 100% matches the reference.
 @puttuplate (CUT 1 only): the full steel breakfast plate in Rosamma's hands; the only plate in frame. 100% matches the reference.
 @antony20 (both cuts): Antony, 24, lavender-grey striped shirt, grey-green checked mundu, thin silver chain. Speaks only Malayalam. 100% matches the reference.
@@ -27,14 +29,14 @@ ACTIVE REFERENCES
 @houseexteriorc2plate (CUT 2 only): the sloping lane beside his house. 100% matches the reference.
 
 CUT 1 — 0.0s to 7.5s
-LOCATION: exactly the place of @2bwidestart, facing the front of the house. At the start the lane at frame-left is empty; Antony is inside, behind his mother.
-OPTICS: wide 63°, the house, yard and wall in frame; crisp, sharp detail across the whole frame, deep focus; light haze only far off at the hills. No lens flare.
-CAMERA: eye level 1.5 m, on the sand about 25 m from the door. 0.0s to 1.5s perfectly still; 1.5s to 7.5s the camera travels straight forward toward the gap in the wall at 1 km/h, easing in, about 1.7 m in all. Smooth, no pan.
+LOCATION: exactly the place of @2bwidestart2, facing the front of the house. The lane at frame-left is empty; Antony is in the wall gap, the only Antony.
+OPTICS: wide 63°, the house, yard and wall in frame; crisp, sharp detail across the whole frame, deep focus, clear air. No lens flare.
+CAMERA: eye level 1.5 m, on the sand about 25 m from the door. 0.0s to 1.0s perfectly still; 1.0s to 7.5s the camera turns slowly in place to the left, 15 degrees in all, following Antony toward the lane, Rosamma at the door staying in frame; it does not travel.
 ACTION:
-0.0s to 1.5s — Rosamma at the door looks down at her plate. Antony steps out of the doorway past her, bag on his left shoulder; she moves half a step aside.
-1.5s to 3.0s — Antony goes down the red steps in the middle of the house front and walks straight across the red-earth yard toward the gap in the wall. Rosamma lifts her head and watches him.
-3.0s to 7.0s — Rosamma, at the door with the plate, calls her line after him. Antony walks out through the wall gap onto the sand.
-7.0s to 7.5s — Antony turns to frame-left toward the head of the sandy lane.
+0.0s to 1.0s — Exactly the start frame: Rosamma still at the open door with the plate; Antony in the wall gap, calm face.
+1.0s to 3.0s — Antony steps out of the gap onto the sand and turns to frame-left toward the head of the sandy lane, now walking away from the camera, his back and left side to it. Rosamma looks down at her plate, then up after him.
+3.0s to 7.0s — Rosamma, at the door with the plate, calls her line after him; only her lips move. Antony keeps walking toward the lane with his back to the camera, his mouth closed.
+7.0s to 7.5s — Antony reaches the head of the lane at frame-left.
 
 CUT 2 — 7.5s to 15.0s
 LOCATION: exactly the place of @houseexteriorc2plate: behind him the lane climbs to the cliff and the sea; on the left the laterite wall and the blue side of his house.
@@ -54,17 +56,17 @@ PERFORMANCE
 Real and plain: Rosamma worried, serious; Antony calm, no fuss. Nobody looks into the camera.
 
 LIGHTING
-Bright warm morning sun, low from the sea side: frame-right in CUT 1, softly across Antony's face in CUT 2.
+Clear warm morning sun, low from the sea side: frame-right in CUT 1, softly across Antony's face in CUT 2.
 
 AUDIO
 No music, no score, no song, no riser. Only natural sounds.
-Spoken language: Malayalam only, everyday Kollam coastal Malayalam, the way a mother and son really talk. Each speaks the exact quoted words once.
+Everyday Kollam coastal Malayalam, the way a mother and son really talk; each speaks the exact quoted words once.
 3.0s to 7.0s — Rosamma, from the doorway after her son, from the distance: ordinary voice, raised only to reach him, plain and serious; even pace, a natural question on "വരുന്നേ", a short pause, then the rest said firmly with a natural falling end. No laugh, no teasing, no sing-song. About 4 seconds.
 "നീ എന്നാ തിരിച്ചു വരുന്നേ? പത്തു ദിവസം കഴിഞ്ഞാ ഇവിടെ കണ്ടോണം, കേട്ടോ."
 9.0s to 12.5s — Antony, close, walking, back toward the house: ordinary voice, raised for the distance, calm, matter-of-fact; even pace, a short pause after "പേടിക്കണ്ടമ്മേ", a natural falling end on "തിരിച്ചു വരാം". No laugh, no teasing, no sing-song. About 3.5 seconds. Lip-sync exact.
 "പേടിക്കണ്ടമ്മേ, ചരക്കിറക്കി കഴിഞ്ഞാ അപ്പോ തന്നെ തിരിച്ചു വരാം."
 After his line, nobody speaks.
-SOUND EFFECTS: CUT 1 — his steps on the steps, the red earth, then soft on sand; the tap of the steel plate; waves below the cliff; crows; hens. CUT 2 — his steps on the sandy lane, a breeze in the palms, waves below the cliff, a dog barking once far off.
+SOUND EFFECTS: his steps on sand; the tap of the steel plate; waves below the cliff; crows; a breeze in the palms; a dog barking once far off in CUT 2.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
@@ -74,7 +76,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: fine organic grain; a true film look.
 
 POSITIVE LOCKS
-Only one Antony in the whole video. CUT 1 starts exactly on @2bwidestart, lane empty; Rosamma stays at the door with the full plate (@puttuplate). CUT 2 is the lane of @houseexteriorc2plate; Antony alone in a medium close-up, looking back to his right as he answers, face readable. Bag (@antonybag) on his LEFT shoulder. Every word Malayalam; plain voices. Nothing drawn on the image. Runs the full 15 seconds.
+Only one Antony in the whole video. CUT 1 starts exactly on @2bwidestart2, Antony in the wall gap, lane empty; while Rosamma speaks Antony's back is to the camera and his mouth is closed; Rosamma stays at the door with the full plate (@puttuplate). CUT 2 is the lane of @houseexteriorc2plate; Antony alone in a medium close-up, looking back to his right as he answers, face readable. Bag (@antonybag) on his LEFT shoulder. Every word Malayalam; plain voices. Nothing drawn on the image. Runs the full 15 seconds.
 ```
 
 ## Generation results
