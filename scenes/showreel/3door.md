@@ -163,7 +163,7 @@ Bright daylight through the doorway behind him rims his hair and shoulders; soft
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only. Antony speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; spoken once.
-0.8s to 7.0s — Antony, to Clara, softly so the class does not hear: quick and playful, a teasing mock grumble, fast lively pace, a smile in his voice; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" plain, with a natural falling end on "ട്ടോ". A smile in the voice, no full laugh. About 5 seconds.
+0.8s to 7.0s — Antony, to Clara, softly so the class does not hear: quick and playful, a teasing mock grumble, fast lively pace, a smile in his voice; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" light and quick, with a natural falling end on "ട്ടോ". A smile in the voice, no full laugh. About 5 seconds.
 "എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുഴിപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ."
 After the line, nobody speaks.
 SOUND EFFECTS: a low murmur from the class behind the camera, slate pencils scratching, crows outside, a breeze in the palms.
@@ -285,7 +285,7 @@ Quick, playful talk between two old friends, kept low so the class does not hear
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only. Each speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; each line spoken once.
-0.8s to 5.8s — Antony (CUT 1), to Clara, softly: quick and playful, a teasing mock grumble, fast lively pace, a smile in his voice; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" plain, with a natural falling end on "ട്ടോ". A smile in the voice, no full laugh. About 5 seconds.
+0.8s to 5.8s — Antony (CUT 1), to Clara, softly: quick and playful, a teasing mock grumble, fast lively pace, a smile in his voice; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" light and quick, with a natural falling end on "ട്ടോ". A smile in the voice, no full laugh. About 5 seconds.
 "എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുഴിപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ."
 8.5s to 12.0s — Clara (CUT 2), to Antony, softly: quick and playful, teasing him back, fast lively pace, a smile in her voice; the question rising on "ഇങ്ങോട്ട്", a short pause, then "എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്" with a natural falling end. A smile in the voice, no full laugh. About 3.5 seconds.
 "നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്."
