@@ -1,4 +1,4 @@
-# Shot 3tease · SB017 opening: Clara sees Antony at the door and silently teases "why are you here?" (12 s, two cuts, silent) — v4
+# Shot 3tease · SB017 opening: Clara sees Antony at the door and silently teases "why are you here?" (12 s, two cuts, silent) — v4.1
 Status: **ready** (QA 93, continuity: Antony anchored to his start-frame spot) · Camera: CUT 1 locked off (the push through the class turned the pupils to the lens, L108); CUT 2 MCU of Clara from the threshold [camera-exp, two cuts]
 Storyboard: SB017 (source scene 12A), opening beat before the dialogue · emotion "Playful affection" (silent shot, no tag)
 Created by: Ananthu, 2026-11-09 · Camera position: tuition C2-back (Ranjith's)
@@ -11,9 +11,11 @@ v3 (2026-11-09): filter-safe after v2 was blocked (L107): the class written plai
 
 v4 (Ananthu, 2026-11-09, after the v3 take): Antony stays at the door (L108); the pupils work — writing, two whispering — backs to the camera, no smiling (L66, L108); Clara walks to him; CUT 2 close-up of Clara's silent tease, at Ananthu's request.
 
+v4.1 (Ananthu, 2026-11-09): CUT 2 — Clara's silent "what?" (entha): eyebrows up twice, right hand raised palm up with a small wrist turn, lightly surprised; framing widened to mid-chest so the hand is in frame.
+
 ```
 SCENE
-Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. Two cuts, 12 seconds. CUT 1 (wide, from the back of the room, from @3teasestart): Antony stands in the open green doorway and stays there; Clara sees him and walks to the door while the class carries on with its work. CUT 2 (close-up of Clara at the door): without a word, with a teasing tilt of her head, she asks him why he is here. No one speaks. CUT 2 follows CUT 1 directly; there is no other shot.
+Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. Two cuts, 12 seconds. CUT 1 (wide, from the back of the room, from @3teasestart): Antony stands in the open green doorway and stays there; Clara sees him and walks to the door while the class carries on with its work. CUT 2 (close-up of Clara at the door): without a word, with her eyebrows and one hand, she asks him "what is it?", lightly surprised and teasing. No one speaks. CUT 2 follows CUT 1 directly; there is no other shot.
 
 ACTIVE REFERENCES
 @3teasestart (CUT 1 start frame): CUT 1 begins exactly on this image — the classroom from the back of the centre aisle, the eight pupils at their desks with their backs to the camera, Clara bending at the front-right desk, Antony at the open green door in the right wall near the blank chalkboard. 100% matches the reference.
@@ -34,12 +36,12 @@ ACTION:
 
 CUT 2 — 6.5s to 12.0s
 LOCATION: the green doorway seen from just outside, on the threshold where Antony stands; Clara just inside the doorway facing out toward him. Behind her, softly out of focus: the inside of the classroom — the pale-yellow far wall with its barred windows and palms outside, desk-benches with pupils bent over their slates at the left, the edge of the blank chalkboard at the right. Antony is just beside the camera, out of frame.
-OPTICS: medium close-up, 29°, Clara's face filling a third of the frame height; the room behind her in soft blur. No lens flare.
+OPTICS: medium close-up from mid-chest up, 29°, Clara's face and her raised right hand both in frame; the room behind her in soft blur. No lens flare.
 CAMERA: at Clara's eye level, 1.5 m, about 1.2 m from her, just beside Antony's shoulder, locked off: the frame stays perfectly still.
 ACTION:
-6.5s to 8.0s — Clara looks at Antony, her eyes just beside the lens, a half smile held back.
-8.0s to 10.5s — The tease: eyebrows up, a quick sideways tilt and lift of her chin toward him, the silent question "why are you here?". Her mouth stays closed, the smile in her eyes.
-10.5s to 12.0s — She holds the look, waiting for his answer, the half smile widening a little. Mouth closed.
+6.5s to 8.0s — Clara looks at Antony, her eyes just beside the lens, lightly surprised, a half smile held back.
+8.0s to 10.5s — The silent "what is it?": she raises her eyebrows quickly twice, and lifts her right hand to chest height, palm turned up, fingers loosely open, with one small outward turn of the wrist, the everyday Kerala gesture for "what?". Her head tips slightly to one side. Her mouth stays closed, the smile in her eyes.
+10.5s to 12.0s — She holds the look, hand still half raised, waiting for his answer, the half smile widening a little. Mouth closed.
 
 PERFORMANCE
 Playful affection between two young adults who know each other well; light, warm, real. Antony is a little unsure at the door; Clara is amused. The class is busy with its own work and pays them no attention. Nobody speaks; every mouth stays closed. Nobody looks into the camera: the pupils' faces stay toward their slates or each other, the backs of their heads toward the view; Clara's eyes stay on Antony beside the lens.
@@ -60,7 +62,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; natural skin; a true film look.
 
 POSITIVE LOCKS
-CUT 1 starts exactly on @3teasestart, camera locked off. Antony stays on his spot in the green doorway the whole time, the beige bag (@antonybag) on his LEFT shoulder, and never comes into the room. Exactly eight pupils, seated, backs to the camera, writing on their slates or whispering together. Clara walks to the door and stops just inside it, facing Antony. CUT 2: Clara alone in a medium close-up at the doorway, her silent teasing head tilt, her eyes on Antony beside the lens. No one speaks; every mouth closed; no one looks into the camera. Nothing drawn or written on the image. Runs the full 12 seconds.
+CUT 1 starts exactly on @3teasestart, camera locked off. Antony stays on his spot in the green doorway the whole time, the beige bag (@antonybag) on his LEFT shoulder, and never comes into the room. Exactly eight pupils, seated, backs to the camera, writing on their slates or whispering together. Clara walks to the door and stops just inside it, facing Antony. CUT 2: Clara alone in a medium close-up at the doorway, eyebrows up twice and her right hand raised palm up in a silent "what?", her eyes on Antony beside the lens. No one speaks; every mouth closed; no one looks into the camera. Nothing drawn or written on the image. Runs the full 12 seconds.
 ```
 
 ## Generation results
