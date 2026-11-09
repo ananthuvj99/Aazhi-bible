@@ -1,11 +1,11 @@
-# IMAGE QA — 2B-wide-start2.png (@2bwidestart2) · Continuity score 85/100 · Matches with small drift
+# IMAGE QA — 2B-wide-start2.png (@2bwidestart2) · Continuity score 88/100 · Matches with small drift
 
-Made by Ananthu (Higgsfield, GPT Image 2.6) on 2026-11-09 after takes v5 and v6 doubled Antony (L102) and came out hazy (L104): a sharp wide with Antony already in the frame. References: @houseout, @housefullview, @antony20, @antonybag, @rosamma, @puttuplate.
-Compared with: @2bwidestart, @houseout, @housefullview, the character sheets.
+Use: POSITION reference only (where Rosamma and Antony stand at the start of 2B cut 1); faces and look come from the character sheets, the place from @houseexteriorc1plate.
+Made by Ananthu (Higgsfield) on 2026-11-09. Replaces the first W2 version, which looked illustrated (not photoreal). Built from Ananthu's own film frame @2bwidestart: Antony added in the wall gap (GPT Image 2.6), haze lifted, then Antony's figure mirrored by hand so the bag sits on his LEFT shoulder (two models kept putting it on the right), ghosts cleaned (FLUX 3). 2736×1536.
+Compared with: @2bwidestart, @houseout, @housefullview, @antony20, @antonybag, @rosamma, 2A-3.
 
-- ✅ Same view as @2bwidestart: the wall gap in the centre, the sandy lane and cottages at the left, the cliff, boats, surf and white church at the right.
-- ✅ Clear and sharp across the frame; no haze.
-- ✅ Antony in the wall gap walking toward the camera: striped shirt, checked mundu, chain, barefoot, beige bag on his LEFT shoulder. The lane is empty.
-- ✅ Rosamma in the open blue door with the full plate (two puttu and curry).
-- ⚠️ Blue sky and a midday feel, warmer and hazier in Part A; write "warm low morning sun from the sea side" in prompts.
-- ⚠️ Antony smiles broadly; write his face calm.
+- ✅ Photographic, live-action look; warm golden morning, Part A palette; less haze, sharp.
+- ✅ Antony in the wall gap walking toward the camera, bag on his LEFT shoulder; lane empty.
+- ✅ Rosamma alone in the open blue door.
+- ✅ House, wall gap, palms, cliff, boats, church, sea as before.
+- ⚠️ Antony smiles broadly; the plate in Rosamma's hands is too small to read.
