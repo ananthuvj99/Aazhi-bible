@@ -80,3 +80,4 @@ Only one Antony in the whole video. CUT 1 starts exactly on @2bwidestart, lane e
 ## Generation results
 - v3 [partial] [camera-exp] Ananthu 2026-11-08: house, light and the still-then-push matched; 11 s instead of 15; Antony walked in large from the lower-left as if from behind the camera, not out of his compound (L100); both lines sounded playful, not natural (L101).
 - v5 [partial] [camera-exp] Ananthu 2026-11-09: front-door exit and the close answer with his face readable worked; the wide was blurry (L104); a second Antony walked the lane from frame one (L102); the close cut moved to the @villagelane street with pink and blue cottages (L103); the cut came at about 5.5 s.
+- v6 [failed] [camera-exp] Ananthu 2026-11-09: still blurry and hazy; still two Antonys (L102 again: wording alone did not stop it); Antony's lips moved with Rosamma's line (L105). Next: a sharp start frame with Antony already in it.
