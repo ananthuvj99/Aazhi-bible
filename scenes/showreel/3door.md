@@ -2,9 +2,10 @@
 Status: **ready** (QA 94 / 91 / 92, continuity: no conflicts) · Camera: A locked wide; B locked MCU on Clara's face for the line; C locked at the mango tree (C6)
 Created by: Ananthu, 2026-11-09 · v1: `retired/3door-v1.md`
 v2 (Ananthu): everything fast — Clara reaches the door by 3 s; her line quick (about 2 s) with the camera on her face; she takes his hand and pulls him out; they go hand in hand to the mango tree in front of the school (@tuitionc6plate).
-References: 3door-a @3teasestart (start), @tuitionboardclass, @clara20, @antony20, @antonybag · 3door-b @tuitionc5plate (place, close at the door; no start image), @clara20 · 3door-c @tuitionc6plate (start), @clara20, @antony20, @antonybag
+References: 3door-a @3teasestart (start), @tuitionboardclass, @clara20, @antony20, @antonybag · 3door-b @3dooraend (positions only), @tuitionboardclass (background only), @clara20; no start image · 3door-c @tuitionc6plate (start), @clara20, @antony20, @antonybag
 Dialogue (Ananthu): Clara — "എന്താ ഇപ്പൊ വന്നേ? വാ, പുറത്തോട്ട് നിൽക്കാം." · voice Aadhira · tag [playful]
 v2.1 (Ananthu): 3door-b no longer uses @3teasecloseup (image not good); the place comes from @tuitionc5plate, close at the green door, the door leaf on its hinge side (right, seen from outside).
+v2.2 (Ananthu): 3door-b uses his last frame of 3door-a as @3dooraend for positions only (blurry screenshot, never generated from); in that frame Antony stands just inside the doorway, so the camera is beside him inside the door and the room behind Clara comes from @tuitionboardclass (background only).
 Next: SB017 dialogue at the mango tree (@tuitionc6plate).
 
 ## 3door-a · Clara walks quickly to Antony (8 s, silent)
@@ -62,15 +63,16 @@ Starts exactly on @3teasestart, camera locked off. Antony stays on his spot in t
 ## 3door-b · Clara's quick line, then she pulls him out (8 s)
 ```
 SCENE
-Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. One continuous close shot, 8 seconds, at the green door of the tuition centre (@tuitionc5plate). Clara stands in the open green doorway of her class, facing Antony, who stands just beside the camera, out of frame. She says one short line to him quickly in Malayalam, then takes his hand and pulls him out of the doorway with her. Only Clara speaks, only in Malayalam.
+Mid-morning, 1998, a village tuition room at Alappad, Kollam, Kerala. One continuous close shot, 8 seconds, at the open green door of the tuition room. Clara stands just inside the door, facing Antony, who stands just beside the camera, out of frame. She says one short line to him quickly in Malayalam, then takes his hand and pulls him out of the doorway with her. Only Clara speaks, only in Malayalam.
 SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
-@tuitionc5plate (place): the tuition centre from its sandy yard — pale-yellow lime-washed walls with damp stains, green plinth, the open green door at the right end with two stone steps and a small blank board above it. This shot is close in at that door: only the door frame, the green door leaf and the wall beside it show around Clara. 100% matches the reference.
+@3dooraend (positions only): use this image only for where the two stand — Clara just inside the green door, facing Antony, who stands in the doorway; the look, sharpness and framing of this shot come from the other references and this text, not from this image.
+@tuitionboardclass (background only): the look of the room behind Clara — pale-yellow walls, barred windows with palms outside, the hipped tile roof's dark rafters, wooden desk-benches with pupils in school uniform. This shot is close on Clara at the door end of the room, not the view from the back. 100% matches the reference.
 @clara20: Clara, about 20, the tuition teacher; black hair in one long thick plait down her back; light sky-blue cotton saree with a thin white border, pallu over her left shoulder, matching blouse; thin gold chain with a small gold cross; thin wooden-bead bangles on her right wrist, gold bangles on her left. 100% matches the reference.
 
 LOCATION
-The open green doorway of @tuitionc5plate, seen from just outside, on the top step. Clara stands in the doorway; the green door leaf stands open inward at the right of the picture, the green frame and the pale-yellow wall around her. Behind her, through the doorway, softly out of focus and a little darker: the pale-yellow wall with barred windows and palms outside, the dark rafters of the hipped tile roof, wooden desks with pupils in school uniform bent over their slates, small and blurred. Antony is just beside the camera, on the camera's right, out of frame while she speaks.
+Inside the tuition room at the open green door, seen from beside Antony, who stands just inside the doorway (as in @3dooraend). Clara stands about an arm's length from him, facing him and the camera. Behind her, softly out of focus: the pale-yellow wall with barred windows and palms outside, the dark rafters of the hipped tile roof, wooden desks with pupils in school uniform bent over their slates, small and blurred. Antony is just beside the camera, on the camera's right, out of frame while she speaks. Their positions are those of @3dooraend: Clara just inside the door, Antony in the doorway facing her.
 
 FORMAT MODE
 One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
@@ -95,7 +97,7 @@ PERFORMANCE
 Light, warm, teasing and quick: a young woman surprised to see a friend at her class door, hurrying him away before the class notices. Natural. Her eyes stay on Antony just to the right of the lens; she never looks into the camera. The pupils behind her stay bent over their work.
 
 LIGHTING
-Soft daylight from the open doorway falls evenly on Clara's face; the room behind her a little darker.
+Bright daylight from the open doorway beside the camera falls softly and evenly on Clara's face; the room behind her a little darker.
 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
@@ -114,7 +116,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; natural skin; a true film look.
 
 POSITIVE LOCKS
-At the green door of @tuitionc5plate, camera locked off, close on Clara in the doorway. Clara alone in frame while she says her one line quickly in Malayalam, face to the lens within 30 degrees, eyes on Antony just right of the lens; then she takes his hand and leads him out past the camera on the right. Only Clara speaks. Nothing drawn or written on the image. Runs the full 8 seconds.
+At the open green door, camera beside Antony, locked off, close on Clara facing him; positions as in @3dooraend. Clara alone in frame while she says her one line quickly in Malayalam, face to the lens within 30 degrees, eyes on Antony just right of the lens; then she takes his hand and leads him out past the camera on the right. Only Clara speaks. Nothing drawn or written on the image. Runs the full 8 seconds.
 ```
 
 ## 3door-c · Hand in hand to the mango tree (8 s, silent)
