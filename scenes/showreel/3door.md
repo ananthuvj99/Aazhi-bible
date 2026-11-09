@@ -7,8 +7,8 @@ Dialogue (Ananthu, v2.3): Clara — "എന്താ ഇപ്പൊ വന്�
 v2.1 (Ananthu): 3door-b no longer uses @3teasecloseup (image not good); the place comes from @tuitionc5plate, close at the green door, the door leaf on its hinge side (right, seen from outside).
 v2.2 (Ananthu): 3door-b uses his last frame of 3door-a as @3dooraend for positions only (blurry screenshot, never generated from); in that frame Antony stands just inside the doorway, so the camera is beside him inside the door and the room behind Clara comes from @tuitionboardclass (background only).
 v2.3 (Ananthu): the dialogue was too playful — now plain; Clara only asks "എന്താ ഇപ്പൊ വന്നേ?"; "വാ, നമുക്ക് അങ്ങോട്ട് നിൽക്കാം" is Antony's line in a new reverse close-up (3door-b2), after which she takes his hand and they go out.
-v2.4 (Ananthu): new 3door-b1 at the same door set-up as the approved b2 — Antony's SB017 line "എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുറുപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ." Edit order: a → b → b1 → b2 → c.
-v2.5 (Ananthu): SB017 has more lines. Clara's reply "നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്." goes at the door too, as 3door-b1b (same set-up as 3door-b, voice Aadhira). Edit order: a → b → b1 → b1b → b2 → c. v2.6 (Ananthu): trying b1 + b1b merged as one 15 s two-cut generation, 3door-b1m [camera-exp]; if the cut fails (L109), b1 and b1b stay. The other seven SB017 lines (ten days, eight o'clock, the window, her father, the children waiting) play at the mango tree.
+v2.4 (Ananthu): new 3door-b1 at the same door set-up as the approved b2 — Antony's SB017 line "എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുഴിപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ." Edit order: a → b → b1 → b2 → c.
+v2.5 (Ananthu): SB017 has more lines. Clara's reply "നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്." goes at the door too, as 3door-b1b (same set-up as 3door-b, voice Aadhira). Edit order: a → b → b1 → b1b → b2 → c. v2.6 (Ananthu): trying b1 + b1b merged as one 15 s two-cut generation, 3door-b1m [camera-exp]; if the cut fails (L109), b1 and b1b stay. v2.7 (Ananthu): b1/b1b/b1m lines fast and playful (they were slow); the word is കുഞ്ഞിക്കുഴിപ്പുകൾ, not കുഞ്ഞിക്കുറുപ്പുകൾ. The other seven SB017 lines (ten days, eight o'clock, the window, her father, the children waiting) play at the mango tree.
 Next: SB017 dialogue at the mango tree (@tuitionc6plate).
 
 ## 3door-a · Clara walks quickly to Antony (8 s, silent)
@@ -155,7 +155,7 @@ Dialogue rules: whenever a character speaks, frame them in a medium close-up wit
 While the line is spoken, Antony is the only person in the frame.
 
 PERFORMANCE
-Plain and natural, everyday: Antony, half complaining, half amused, keeps it low so the class behind her does not hear. Not performed. His eyes stay on Clara just to the left of the lens; he never looks into the camera.
+Quick and playful: Antony, teasing, half complaining, half amused, keeps it low so the class behind her does not hear. Not performed. His eyes stay on Clara just to the left of the lens; he never looks into the camera.
 
 LIGHTING
 Bright daylight through the doorway behind him rims his hair and shoulders; soft even light from the room falls on his face.
@@ -163,8 +163,8 @@ Bright daylight through the doorway behind him rims his hair and shoulders; soft
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only. Antony speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; spoken once.
-0.8s to 7.0s — Antony, to Clara, softly so the class does not hear: his ordinary everyday voice, a light mock grumble, normal brisk pace; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" plain, with a natural falling end on "ട്ടോ". No laugh, no sing-song. About 6 seconds.
-"എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുറുപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ."
+0.8s to 7.0s — Antony, to Clara, softly so the class does not hear: quick and playful, a teasing mock grumble, fast lively pace, a smile in his voice; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" plain, with a natural falling end on "ട്ടോ". A smile in the voice, no full laugh. About 5 seconds.
+"എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുഴിപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ."
 After the line, nobody speaks.
 SOUND EFFECTS: a low murmur from the class behind the camera, slate pencils scratching, crows outside, a breeze in the palms.
 
@@ -204,7 +204,7 @@ At Clara's eye level, 1.5 m, about 1.2 m from her, locked off: the frame stays p
 
 ACTION
 0.0s to 1.0s — Clara just inside the door, three-quarter to the camera, looks at Antony just to the right of the lens, one eyebrow a little raised at his complaint.
-1.0s to 6.0s — She says her line, head steady, face toward the lens, plain and a little amused, as if the answer is obvious.
+1.0s to 6.0s — She says her line, head steady, face toward the lens, quick and playful, teasing him, as if the answer is obvious.
 6.0s to 8.0s — She holds the look on him just to the right of the lens, lips together, eyebrows a little raised, waiting for his reply.
 
 DIALOGUE RULES
@@ -212,7 +212,7 @@ Dialogue rules: whenever a character speaks, frame them in a medium close-up wit
 While the line is spoken, Clara is the only person in the frame.
 
 PERFORMANCE
-Plain and natural, everyday: a young woman pointing out the obvious to a friend: the class laughs because he always turns up in the middle of it. Plain, a little amused; not playful, not teasing. Her eyes stay on Antony just to the right of the lens; she never looks into the camera. The pupils behind her stay bent over their work.
+Plain and natural, everyday: a young woman pointing out the obvious to a friend: the class laughs because he always turns up in the middle of it. Quick and playful, teasing him back. Her eyes stay on Antony just to the right of the lens; she never looks into the camera. The pupils behind her stay bent over their work.
 
 LIGHTING
 Bright daylight from the open doorway beside the camera falls softly and evenly on Clara's face; the room behind her a little darker.
@@ -220,7 +220,7 @@ Bright daylight from the open doorway beside the camera falls softly and evenly 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only. Clara speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; spoken once.
-1.0s to 6.0s — Clara, to Antony at the door, softly so the class does not hear: her ordinary everyday voice, plain and a little amused, normal brisk pace; the question rising on "ഇങ്ങോട്ട്", a short pause, then "എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്" plain with a natural falling end. No laugh, no teasing, no sing-song. About 5 seconds.
+1.0s to 6.0s — Clara, to Antony at the door, softly so the class does not hear: quick and playful, teasing him back, fast lively pace, a smile in her voice; the question rising on "ഇങ്ങോട്ട്", a short pause, then "എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്" with a natural falling end. A smile in the voice, no full laugh. About 3.5 seconds.
 "നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്."
 After the line, nobody speaks.
 SOUND EFFECTS: slate pencils scratching behind her, a low murmur from the class, crows outside, a breeze in the palms.
@@ -259,8 +259,8 @@ OPTICS: medium close-up from mid-chest up, 29°, Antony's face filling a third o
 CAMERA: at Antony's eye level, 1.6 m, about 1.2 m from him, locked off: the frame stays perfectly still for the whole cut.
 ACTION:
 0.0s to 0.8s — Antony, three-quarter to the camera, looks at Clara just to the left of the lens, bag on his left shoulder; a small sideways glance past her toward the class.
-0.8s to 6.8s — He says his line to her, head steady, face toward the lens, voice low; a mock-serious frown with a smile under it.
-6.8s to 7.5s — He holds the look, lips together, a small smile, waiting for her answer.
+0.8s to 5.8s — He says his line to her, head steady, face toward the lens, voice low; a mock-serious frown with a smile under it.
+5.8s to 7.5s — He holds the look, lips together, a small smile, waiting for her answer.
 LIGHTING: bright daylight through the doorway behind him rims his hair and shoulders; soft even light from the room falls on his face.
 
 HARD CUT at 7.5s.
@@ -271,8 +271,8 @@ OPTICS: medium close-up from mid-chest up, 29°, Clara's face filling a third of
 CAMERA: at Clara's eye level, 1.5 m, about 1.2 m from her, locked off: the frame stays perfectly still for the whole cut.
 ACTION:
 7.5s to 8.5s — Clara, three-quarter to the camera, looks at Antony just to the right of the lens, one eyebrow a little raised at his complaint.
-8.5s to 13.5s — She says her line, head steady, face toward the lens, plain and a little amused, as if the answer is obvious.
-13.5s to 15.0s — She holds the look on him just to the right of the lens, lips together, eyebrows a little raised, waiting for his reply.
+8.5s to 12.0s — She says her line, head steady, face toward the lens, quick and playful, teasing him, as if the answer is obvious.
+12.0s to 15.0s — She holds the look on him just to the right of the lens, lips together, eyebrows a little raised, waiting for his reply.
 LIGHTING: bright daylight from the open doorway beside the camera falls softly and evenly on Clara's face; the room behind her a little darker.
 
 DIALOGUE RULES
@@ -280,14 +280,14 @@ Dialogue rules: whenever a character speaks, frame them in a medium close-up wit
 In CUT 1 Antony is the only person in the frame; in CUT 2 Clara is the only person in the frame.
 
 PERFORMANCE
-Plain and natural, everyday talk between two friends, kept low so the class does not hear. Antony: half complaining, half amused. Clara: plain, a little amused, pointing out the obvious. Not playful, not performed. Each looks at the other just beside the lens; nobody looks into the camera.
+Quick, playful talk between two old friends, kept low so the class does not hear. Antony: teasing, half complaining, half amused. Clara: teasing him back. Small and real, not performed. Each looks at the other just beside the lens; nobody looks into the camera.
 
 AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
 Spoken language: Malayalam only. Each speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; each line spoken once.
-0.8s to 6.8s — Antony (CUT 1), to Clara, softly: his ordinary everyday voice, a light mock grumble, normal brisk pace; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" plain, with a natural falling end on "ട്ടോ". No laugh, no sing-song. About 6 seconds.
-"എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുറുപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ."
-8.5s to 13.5s — Clara (CUT 2), to Antony, softly: her ordinary everyday voice, plain and a little amused, normal brisk pace; the question rising on "ഇങ്ങോട്ട്", a short pause, then "എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്" plain with a natural falling end. No laugh, no teasing, no sing-song. About 5 seconds.
+0.8s to 5.8s — Antony (CUT 1), to Clara, softly: quick and playful, a teasing mock grumble, fast lively pace, a smile in his voice; the question rising on "ചിരിക്കുന്നത്", a short breath, then "എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ" plain, with a natural falling end on "ട്ടോ". A smile in the voice, no full laugh. About 5 seconds.
+"എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുഴിപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ."
+8.5s to 12.0s — Clara (CUT 2), to Antony, softly: quick and playful, teasing him back, fast lively pace, a smile in her voice; the question rising on "ഇങ്ങോട്ട്", a short pause, then "എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്" with a natural falling end. A smile in the voice, no full laugh. About 3.5 seconds.
 "നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്."
 After her line, nobody speaks.
 SOUND EFFECTS: a low murmur from the class, slate pencils scratching, crows outside, a breeze in the palms; the room sound continues unbroken across the cut.
@@ -300,7 +300,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; natural skin; a true film look.
 
 POSITIVE LOCKS
-Two locked-off close shots joined by a HARD CUT at 7.5s; the camera never travels between them. CUT 1: Antony alone in frame just inside the green doorway, the beige bag (@antonybag) on his LEFT shoulder, says his line, eyes just left of the lens. CUT 2: the reverse angle, Clara alone in frame, says her line, eyes just right of the lens. Faces to the lens within 30 degrees; one speaker per cut; every word Malayalam. Nothing drawn or written on the image. Runs the full 15 seconds.
+Two locked-off close shots joined by a HARD CUT at 7.5s; the camera never travels between them. CUT 1: Antony alone in frame just inside the green doorway, the beige bag (@antonybag) on his LEFT shoulder, says his line, eyes just left of the lens. CUT 2: the reverse angle, Clara alone in frame, says her line, eyes just right of the lens. Faces to the lens within 30 degrees; one speaker per cut; both lines quick and playful; every word Malayalam. Nothing drawn or written on the image. Runs the full 15 seconds.
 ```
 
 ## 3door-b2 · Antony's answer, then they go out hand in hand (8 s)
