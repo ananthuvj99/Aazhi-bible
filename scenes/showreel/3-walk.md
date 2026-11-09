@@ -1,7 +1,7 @@
 # Scene 3 · Opening — Antony walks to Clara's tuition centre — v1 (2 generations)
 Status: **ready** (QA 96 / 96, continuity: no conflicts) · Camera: cinematographer — aerial straight-down follow, then tilt-up reveal (**used**); road follow from behind
-References: 3walk-1 @tuitionroadaerialplate (start), @antony20, @antonybag · 3walk-2 @tuitionc1plate (start), @antony20, @antonybag
-Follows 2B v8 (approved): Antony left home up the lane, bag on his LEFT shoulder, warm morning. Next: 3walk-3, front view of Antony arriving at the tuition centre (@tuitionc2plate).
+References: 3walk-1 @tuitionroadaerialplate (start), @antony20, @antonybag · 3walk-2 @tuitionc4plate (start), @antony20, @antonybag
+Follows 2B v8 (approved): Antony left home up the lane, bag on his LEFT shoulder, warm morning. Next: 3walk-3, front view of Antony arriving at the tuition centre (@tuitionc5plate).
 
 v1 (Ananthu, 2026-11-09): aerial of Antony walking along the coast road, then an eye-level shot of him walking along the road toward the tuition centre's yard; no dialogue.
 
@@ -57,15 +57,15 @@ Starts exactly on @tuitionroadaerialplate, looking straight down until 9s. Only 
 ## 3walk-2 · Road, toward the yard (8 s)
 ```
 SCENE
-Clear warm morning, 1998, the coast road of a fishing village on the Alappad coast, Kerala, at eye level. One continuous shot, 8 seconds, that begins exactly on the attached start frame (@tuitionc1plate). Antony walks along the road away from the camera and bears right toward the yard of the tuition centre. No one speaks. Only one person in the whole video.
+Clear warm morning, 1998, the coast road of a fishing village on the Alappad coast, Kerala, at eye level. One continuous shot, 8 seconds, that begins exactly on the attached start frame (@tuitionc4plate). Antony walks along the road away from the camera and bears right toward the yard of the tuition centre. No one speaks. Only one person in the whole video.
 
 ACTIVE REFERENCES
-@tuitionc1plate (start frame): the first frame is exactly this image — the empty unpaved sandy road running ahead between low red laterite walls; coconut palms, boats and the sea on the LEFT; walls and tiled houses on the RIGHT; ahead on the right the tuition centre's sandy yard with the big mango tree and its round laterite seat, and the long low pale-yellow tuition centre with its green plinth and hipped tile roof. 100% matches the reference.
+@tuitionc4plate (start frame): the first frame is exactly this image — the empty unpaved sandy road running ahead between low red laterite walls; coconut palms, boats and the sea on the LEFT; walls and tiled houses on the RIGHT; ahead on the right the tuition centre's sandy yard with the big mango tree and its round laterite seat, and the long low pale-yellow tuition centre with its green plinth and hipped tile roof. 100% matches the reference.
 @antony20: Antony, 24, short black hair, lavender-grey and white striped short-sleeve shirt, grey-green checked mundu, thin silver chain, barefoot. 100% matches the reference.
 @antonybag: his large faded beige canvas shoulder bag, one long strap over his LEFT shoulder, the bag at his left hip. 100% matches the reference.
 
 LOCATION
-Exactly the place of @tuitionc1plate. The tuition centre has three barred windows and the green door at its right end with two stone steps. At the start the road is empty; Antony comes from behind the camera.
+Exactly the place of @tuitionc4plate. The tuition centre has three barred windows and the green door at its right end with two stone steps. At the start the road is empty; Antony comes from behind the camera.
 
 FORMAT MODE
 One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
@@ -100,7 +100,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; a true film look.
 
 POSITIVE LOCKS
-Starts exactly on @tuitionc1plate. Only one person in the whole video: Antony, seen from behind, walking up the road and bearing right toward the gap into the tuition centre's yard, the beige bag (@antonybag) on his LEFT shoulder. Beach and sea on the left, houses on the right. Nothing drawn or written on the image. Runs the full 8 seconds.
+Starts exactly on @tuitionc4plate. Only one person in the whole video: Antony, seen from behind, walking up the road and bearing right toward the gap into the tuition centre's yard, the beige bag (@antonybag) on his LEFT shoulder. Beach and sea on the left, houses on the right. Nothing drawn or written on the image. Runs the full 8 seconds.
 ```
 
 ## Generation results
