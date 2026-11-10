@@ -187,11 +187,10 @@ SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO. No Englis
 
 ACTIVE REFERENCES
 @3dooraend (positions only): use this image only for where the two stand — Clara just inside the green door, facing Antony, who stands in the doorway; the look, sharpness and framing of this shot come from the other references and this text, not from this image.
-@tuitionboardclass (background only): the look of the room behind Clara — pale-yellow walls, barred windows with palms outside, the hipped tile roof's dark rafters, wooden desk-benches with the class at their desks. This shot is close on Clara at the door end of the room, not the view from the back. 100% matches the reference.
 @clara20: Clara, about 20, the tuition teacher; black hair in one long thick plait down her back; light sky-blue cotton saree with a thin white border, pallu over her left shoulder, matching blouse; thin gold chain with a small gold cross; thin wooden-bead bangles on her right wrist, gold bangles on her left. 100% matches the reference.
 
 LOCATION
-Inside the tuition room at the open green door, seen from beside Antony, who stands just inside the doorway (as in @3dooraend). Clara stands about a metre from him, facing him and the camera. Behind her, softly out of focus: the pale-yellow wall with barred windows and palms outside, the dark rafters of the hipped tile roof, the class at their wooden desks, small and blurred. Antony is just beside the camera, on the camera's right, out of frame while she speaks. Their positions are those of @3dooraend: Clara just inside the door, Antony in the doorway facing her.
+Inside the tuition room at the open green door, seen from beside Antony, who stands just inside the doorway (as in @3dooraend). Clara stands about a metre from him, facing him and the camera. Behind her, softly out of focus, only the room's wall: pale-yellow lime-washed plaster with damp stains, one barred window with green palms outside, the dark rafters of the hipped tile roof above. No one else is in the frame; the desks are out of frame. Antony is just beside the camera, on the camera's right, out of frame while she speaks. Their positions are those of @3dooraend: Clara just inside the door, Antony in the doorway facing her.
 
 FORMAT MODE
 One continuous shot, 8 seconds. The camera does not cut. The video runs the full 8 seconds.
@@ -212,7 +211,7 @@ Dialogue rules: whenever a character speaks, frame them in a medium close-up wit
 While the line is spoken, Clara is the only person in the frame.
 
 PERFORMANCE
-Light and natural, everyday: the teacher answers a friend with a simple, obvious point — he always comes during class. Light-hearted and amused, a small smile; light emotions only, never over-expressive. Her eyes stay on Antony just to the right of the lens; she never looks into the camera. The class behind her stays at their work.
+Light and natural, everyday: the teacher answers a friend with a simple, obvious point — he always comes during class. Light-hearted and amused, a small smile; light emotions only, never over-expressive. Her eyes stay on Antony just to the right of the lens; she never looks into the camera.
 
 LIGHTING
 Bright daylight from the open doorway beside the camera falls softly and evenly on Clara's face; the room behind her a little darker.
@@ -223,7 +222,7 @@ Spoken language: Malayalam only. Clara speaks the exact Malayalam words in quote
 1.0s to 4.5s — Clara, to Antony at the door, in a low everyday voice: quick and light-hearted, fast lively pace, warm and amused; the question rising on "ഇങ്ങോട്ട്", a short pause, then "എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്" with a natural falling end. Light and understated, never over-expressive. About 3.5 seconds.
 "നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്."
 After the line, nobody speaks.
-SOUND EFFECTS: slate pencils scratching behind her, a low murmur from the class, crows outside, a breeze in the palms.
+SOUND EFFECTS: slate pencils scratching off screen, a low murmur in the room, crows outside, a breeze in the palms.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
@@ -233,7 +232,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; a true film look.
 
 POSITIVE LOCKS
-At the open green door, camera beside Antony, locked off, close on Clara facing him; positions as in @3dooraend. Clara alone in frame; she says her one line in Malayalam, face to the lens within 30 degrees, eyes on Antony just right of the lens, then waits for his reply. Only Clara speaks. Nothing drawn or written on the image. Runs the full 8 seconds.
+At the open green door, camera beside Antony, locked off, close on Clara facing him; positions as in @3dooraend. Clara alone in frame, only the wall and window behind her; she says her one line in Malayalam, face to the lens within 30 degrees, eyes on Antony just right of the lens, then waits for his reply. Only Clara speaks. Nothing drawn or written on the image. Runs the full 8 seconds.
 ```
 
 ## 3door-b1m · [camera-exp] b1 + b1b merged: two cuts, 15 s — try instead of b1 and b1b
@@ -417,3 +416,4 @@ Starts exactly on @tuitionc6plate, camera locked off. Only Clara and Antony, ent
 - 3door-b2 v2.3 [approved] Ananthu 2026-11-09: Antony's answer at the door, then Clara takes his hand and they step out (W21).
 - 3door-b1m v2.8 [failed] [camera-exp] Ananthu 2026-11-09: the merged two-cut take failed (details not given yet); back to the separate b1 and b1b.
 - 3door-b1b v2.8 [failed] Ananthu 2026-11-09: rejected by the platform's content filter before rendering; v2.9 reworded (no teasing/playful, no pupils described, no skin or arm's-length words) (L112).
+- 3door-b1b v2.9 [failed] Ananthu 2026-11-10: rejected again after rewording; the approved b2 passed with the same words, so the likely trigger is the class in frame behind her. v3.0: @tuitionboardclass removed, only the wall and window behind Clara, no one else in frame (L112 updated).
