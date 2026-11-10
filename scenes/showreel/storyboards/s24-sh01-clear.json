@@ -1,0 +1,155 @@
+{
+ "title": "s24-sh01 \u00b7 Aashaan brings the uru in close",
+ "subtitle": "8 seconds \u00b7 no dialogue \u00b7 inside the deckhouse \u00b7 the fire grows from ~60 m to ~40 m",
+ "out": "scenes/showreel/storyboards/s24-sh01-clear.png",
+ "frame": "scenes/showreel/approved/s21-sh02-start.png",
+ "frame_note": "(same helm view as before)",
+ "frame_tags": [
+  {
+   "text": "Aashaan",
+   "x": 1150,
+   "y": 1100,
+   "color": "#d9534f"
+  },
+  {
+   "text": "one lantern",
+   "x": 650,
+   "y": 230,
+   "color": "#b8860b"
+  },
+  {
+   "text": "fire appears here (~60 m)",
+   "x": 820,
+   "y": 330,
+   "color": "#e2462b"
+  }
+ ],
+ "frame_arrows": [
+  {
+   "from": [
+    1400,
+    1250
+   ],
+   "to": [
+    1000,
+    1250
+   ],
+   "color": "#7a4fd0",
+   "label": "wheel turned hard left",
+   "label_at": [
+    1450,
+    1210
+   ]
+  },
+  {
+   "from": [
+    900,
+    470
+   ],
+   "to": [
+    1350,
+    470
+   ],
+   "color": "#e2462b",
+   "label": "fire slides to the centre, comes closer",
+   "label_at": [
+    1000,
+    520
+   ]
+  }
+ ],
+ "frame_caption": "Camera locked behind Aashaan. Through the windows: the deck, the men small at the left rail, the burning boat growing closer.",
+ "map_people": [
+  {
+   "name": "Aashaan",
+   "x": 140,
+   "y": 360,
+   "color": "#d9534f"
+  },
+  {
+   "name": "crew",
+   "x": 650,
+   "y": 80,
+   "color": "#2e9e5b"
+  }
+ ],
+ "map_arrows": [
+  {
+   "from": [
+    900,
+    260
+   ],
+   "to": [
+    960,
+    120
+   ],
+   "color": "#e2462b"
+  }
+ ],
+ "map_camera": {
+  "x": 170,
+  "y": 400,
+  "label": "camera (locked)"
+ },
+ "map_notes": [
+  "burning boat:",
+  "~60 m \u2192 ~40 m ahead-left",
+  "(the uru turns toward it)"
+ ],
+ "timeline": [
+  {
+   "who": "Aashaan",
+   "color": "#d9534f",
+   "segments": [
+    [
+     0,
+     3,
+     "turns the wheel hard left"
+    ],
+    [
+     3,
+     6,
+     "eases, holds, leans to see"
+    ],
+    [
+     6,
+     8,
+     "steady, glances to men"
+    ]
+   ]
+  },
+  {
+   "who": "Fire",
+   "color": "#e2462b",
+   "segments": [
+    [
+     0,
+     3,
+     "~60 m, slides to centre"
+    ],
+    [
+     3,
+     8,
+     "~40 m, glow grows"
+    ]
+   ]
+  },
+  {
+   "who": "Camera",
+   "color": "#7a4fd0",
+   "segments": [
+    [
+     0,
+     8,
+     "locked behind his shoulder"
+    ]
+   ]
+  }
+ ],
+ "platform": [
+  "Reference image: scenes/showreel/approved/s21-sh02-start.png",
+  "Attach: @urudeckc3platenight \u00b7 @aashaan \u00b7 @burningvallam   (remove everything else)",
+  "Duration 8 s \u00b7 16:9 \u00b7 no dialogue        QA score 91 / 100",
+  "Expressions: Aashaan grim, eyes narrowed on the fire, sweat at the temple; worried glance at 6 s"
+ ]
+}
