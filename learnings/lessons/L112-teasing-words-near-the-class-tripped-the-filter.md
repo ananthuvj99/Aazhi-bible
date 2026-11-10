@@ -17,3 +17,5 @@ Rule (adds to L107):
 1. With children anywhere in frame or in a reference, never use "tease/teasing", "playful/playfully", "flirt", "a smile in her voice", "so the class does not hear", "young woman", "arm's length", or any "skin" word (STYLE: "rich, true tones", not "skin tones"; drop "natural skin").
 2. Write the mood as "light-hearted", "amused", "a small smile"; distances in metres; the children only as "the class at their desks".
 3. If a prompt with children is refused, reword these first; then take out reference images one at a time.
+
+**Update (2026-11-10, Ananthu):** v2.9, reworded without any of those words, was rejected again, while the approved 3door-b2 had passed with "teasing", "softly so the class does not hear" and "skin". The difference: in b2 the class was behind the camera; in b1b the children were in frame behind the woman's close-up and @tuitionboardclass (children) was attached for that background. Rule 4: for a close-up of an adult in the classroom, keep the children out of frame (behind the camera, or only a wall behind the speaker) and leave @tuitionboardclass off; the room sound alone carries the class.
