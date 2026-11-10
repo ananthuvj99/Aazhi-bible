@@ -1,0 +1,133 @@
+{
+ "title": "s24-sh01b \u00b7 The approach",
+ "subtitle": "8 seconds \u00b7 no dialogue \u00b7 same bow camera as SB028/SB029 \u00b7 the fire grows from ~60 m to ~40 m",
+ "out": "scenes/showreel/storyboards/s24-sh01b-clear.png",
+ "frame": "scenes/showreel/approved/s23-sh02-frame-1s.jpg",
+ "frame_note": "(same bow view; earlier the fire was a far point here)",
+ "frame_tags": [
+  {
+   "text": "stem post",
+   "x": 690,
+   "y": 140,
+   "color": "#6b5a40"
+  },
+  {
+   "text": "moon (stays right)",
+   "x": 1050,
+   "y": 120,
+   "color": "#5b7fa8"
+  },
+  {
+   "text": "fire was here, far",
+   "x": 120,
+   "y": 270,
+   "color": "#e2462b"
+  }
+ ],
+ "frame_arrows": [
+  {
+   "from": [
+    220,
+    330
+   ],
+   "to": [
+    420,
+    300
+   ],
+   "color": "#e2462b",
+   "label": "now close: ~60 m \u2192 ~40 m, big and readable",
+   "label_at": [
+    60,
+    420
+   ]
+  }
+ ],
+ "frame_caption": "Minutes later. No people at the bow (the men are aft by the deckhouse). The bow cuts the swell, then slows.",
+ "map_people": [
+  {
+   "name": "men (aft)",
+   "x": 380,
+   "y": 90,
+   "color": "#2e9e5b"
+  }
+ ],
+ "map_arrows": [
+  {
+   "from": [
+    980,
+    250
+   ],
+   "to": [
+    990,
+    60
+   ],
+   "color": "#e2462b"
+  }
+ ],
+ "map_camera": {
+  "x": 760,
+  "y": 260,
+  "label": "camera c2 (bow, locked)"
+ },
+ "map_notes": [
+  "burning boat:",
+  "~60 m \u2192 ~40 m",
+  "LEFT of the stem post"
+ ],
+ "timeline": [
+  {
+   "who": "Uru",
+   "color": "#7a4fd0",
+   "segments": [
+    [
+     0,
+     4,
+     "cuts through the swell"
+    ],
+    [
+     4,
+     6,
+     "slows"
+    ],
+    [
+     6,
+     8,
+     "drifts"
+    ]
+   ]
+  },
+  {
+   "who": "Fire",
+   "color": "#e2462b",
+   "segments": [
+    [
+     0,
+     4,
+     "~60 m, growing"
+    ],
+    [
+     4,
+     8,
+     "~40 m, roaring"
+    ]
+   ]
+  },
+  {
+   "who": "Camera",
+   "color": "#555555",
+   "segments": [
+    [
+     0,
+     8,
+     "locked, rides with the bow"
+    ]
+   ]
+  }
+ ],
+ "platform": [
+  "Reference image: scenes/showreel/approved/s23-sh02-frame-1s.jpg",
+  "Attach: @urudeckc2platenight \u00b7 @burningvallam   (remove everything else)",
+  "Duration 8 s \u00b7 21:9 \u00b7 no dialogue        QA score 91 / 100",
+  "Order: s24-sh01 (turn toward it, far) \u2192 s24-sh01b (approach) \u2192 s24-sh02 (the leap, ~40 m)"
+ ]
+}

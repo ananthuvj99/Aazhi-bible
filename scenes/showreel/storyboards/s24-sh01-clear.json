@@ -1,6 +1,6 @@
 {
  "title": "s24-sh01 \u00b7 Aashaan brings the uru in close",
- "subtitle": "8 seconds \u00b7 no dialogue \u00b7 locked camera inside the wheelhouse \u00b7 fire ~60 m \u2192 ~40 m \u00b7 continues from s23-sh06 (wheel empty)",
+ "subtitle": "8 seconds \u00b7 no dialogue \u00b7 locked camera inside the wheelhouse \u00b7 Aashaan turns the uru toward the far fire (~500 m)",
  "out": "scenes/showreel/storyboards/s24-sh01-clear.png",
  "frame": "scenes/showreel/approved/s24-sh01-start.jpg",
  "frame_note": "(the start image)",
@@ -18,7 +18,7 @@
    "color": "#b8860b"
   },
   {
-   "text": "fire ~60 m",
+   "text": "fire ~500 m (still far)",
    "x": 120,
    "y": 250,
    "color": "#e2462b"
@@ -81,7 +81,7 @@
     330
    ],
    "color": "#e2462b",
-   "label": "2 fire slides toward the centre, closer",
+   "label": "2 far fire slides to the centre (still far)",
    "label_at": [
     60,
     400
@@ -142,7 +142,7 @@
  },
  "map_notes": [
   "burning boat:",
-  "~60 m \u2192 ~40 m ahead-left",
+  "~500 m ahead (still far)",
   "men 3\u20134 m in front of the wheelhouse"
  ],
  "timeline": [
@@ -201,12 +201,12 @@
     [
      0,
      3,
-     "~60 m, slides to centre"
+     "far, slides to centre"
     ],
     [
      3,
      8,
-     "~40 m, glow grows"
+     "dead ahead, still ~500 m"
     ]
    ]
   },
@@ -225,7 +225,7 @@
  "platform": [
   "Start image slot: scenes/showreel/approved/s24-sh01-start.jpg",
   "Attach: @urudeckc3platenight \u00b7 @aashaan \u00b7 @burningvallam   (remove everything else)",
-  "Duration 8 s \u00b7 16:9 \u00b7 no dialogue        QA score 90 / 100",
+  "Duration 8 s \u00b7 21:9 \u00b7 no dialogue        QA score 90 / 100",
   "Expressions: Aashaan grim, eyes narrowed, sweat at the temple; Antony frightened; the three tense from behind",
   "Continuity: wheel empty in s23-sh06; group 3\u20134 m in front of the wheelhouse; fire never beside the uru"
  ]
