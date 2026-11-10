@@ -5,7 +5,7 @@ References: @tuitionc6plate (location, background only, not the start frame — 
 Voices: Clara = Aadhira · Antony = Mahendran J · no emotion tag (everyday talk, W6)
 Dialogue (Ananthu, 2026-11-10, replaces the first lines of SB017's mango-tree part):
 - Clara (playful): "നീ എങ്ങോട്ടാ ഈ സഞ്ചിയൊക്കെ എടുത്ത്? കാശിക്ക് പോവാണോ?"
-- Antony: "ഞാൻ ആശാന്റെ കൂടെ ഒരു യാത്രയ്ക്ക് പോകുവാ."
+- Antony: "ഞാൻ ആശാന്റെ കൂടെ കപ്പലിൽ പോകുവാ."
 - Clara (puzzled): "എങ്ങോട്ടാ?"
 - Antony (smiling at her): "ശ്രീലങ്ക. പത്തു ദിവസം എടുക്കും തിരിച്ചു വരാൻ."
 - Clara (slightly worried): "പത്തു ദിവസമോ?"
@@ -17,6 +17,7 @@ v1.2 (Ananthu, 2026-11-10): the rest of the talk, in two more 15 s generations, 
 v2 (Ananthu, 2026-11-10): 3tree-a v1.1 sounded unnatural and too playful (L115). v2 opens on the two of them, then hard cuts to single close-ups of whoever speaks (fixes lip-sync, L34); delivery written as feelings with a real-conversation voices line. 3tree-b and 3tree-c still use the v1 two-shot style — to be redone the same way once v2 works.
 v2.1 (Ananthu, 2026-11-10): v2 almost worked; added a full ambience bed (sea waves, breeze, crows, distant class laughing, unbroken across cuts) and asked for seamless, flowing replies with no dead air.
 v2.2 (Ananthu, 2026-11-10): "ലങ്ക" → "ശ്രീലങ്ക".
+v2.3 (Ananthu, 2026-11-10): Antony's line → "ഞാൻ ആശാന്റെ കൂടെ കപ്പലിൽ പോകുവാ." (was "ഒരു യാത്രയ്ക്ക്").
 Next: SB018 ("ശ്രദ്ധിച്ചു പോരണം")
 
 ## 3tree-a · v2 — two-shot, then single close-ups: "കാശിക്ക് പോവാണോ?" → "പത്തു ദിവസമോ?" (15 s, six cuts)
@@ -91,7 +92,7 @@ Voices: real, conversational speech, as two friends actually talk sitting under 
 1.7s to 5.1s — Clara (CUT 2): curious, a small smile in her voice, unhurried; "നീ എങ്ങോട്ടാ" plain, a little pause, then "ഈ സഞ്ചിയൊക്കെ എടുത്ത്?", then "കാശിക്ക് പോവാണോ?" lightly, a half-joke, the question rising softly at the end. About 3.3 seconds.
 "നീ എങ്ങോട്ടാ ഈ സഞ്ചിയൊക്കെ എടുത്ത്? കാശിക്ക് പോവാണോ?"
 5.5s to 8.3s — Antony (CUT 3): relaxed and easy, plain, a natural falling end on "പോകുവാ". About 2.7 seconds.
-"ഞാൻ ആശാന്റെ കൂടെ ഒരു യാത്രയ്ക്ക് പോകുവാ."
+"ഞാൻ ആശാന്റെ കൂടെ കപ്പലിൽ പോകുവാ."
 8.6s to 9.4s — Clara (CUT 4): honestly puzzled, quiet, the question rising. About 0.8 seconds.
 "എങ്ങോട്ടാ?"
 9.8s to 13.0s — Antony (CUT 5): gentle and reassuring, a smile in the voice; "ശ്രീലങ്ക" said simply, a short breath, then the rest calm and even, falling softly at the end. About 3 seconds.
