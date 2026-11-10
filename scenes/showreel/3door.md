@@ -9,7 +9,7 @@ v2.2 (Ananthu): 3door-b uses his last frame of 3door-a as @3dooraend for positio
 v2.3 (Ananthu): the dialogue was too playful — now plain; Clara only asks "എന്താ ഇപ്പൊ വന്നേ?"; "വാ, നമുക്ക് അങ്ങോട്ട് നിൽക്കാം" is Antony's line in a new reverse close-up (3door-b2), after which she takes his hand and they go out.
 v2.4 (Ananthu): new 3door-b1 at the same door set-up as the approved b2 — Antony's SB017 line "എന്നെ കാണുമ്പോൾ എന്താ ഈ കുഞ്ഞിക്കുഴിപ്പുകൾ ഇങ്ങനെ ചിരിക്കുന്നത്? എനിക്കങ്ങോട്ട് ഇഷ്ടപ്പെടുന്നില്ലാട്ടോ." Edit order: a → b → b1 → b2 → c.
 v2.5 (Ananthu): SB017 has more lines. Clara's reply "നീ ക്ലാസ് കഴിഞ്ഞ് വന്നിട്ടുണ്ടോ എപ്പോഴെങ്കിലും ഇങ്ങോട്ട്? എപ്പോഴും ക്ലാസിന്റെ ഇടയ്ക്ക്." goes at the door too, as 3door-b1b (same set-up as 3door-b, voice Aadhira). Edit order: a → b → b1 → b1b → b2 → c. v2.6 (Ananthu): trying b1 + b1b merged as one 15 s two-cut generation, 3door-b1m [camera-exp]; if the cut fails (L109), b1 and b1b stay. v2.7 (Ananthu): b1/b1b/b1m lines fast and playful (they were slow); the word is കുഞ്ഞിക്കുഴിപ്പുകൾ, not കുഞ്ഞിക്കുറുപ്പുകൾ. v2.8 (Ananthu): Antony says his line slightly annoyed, Clara replies lightly playful; light emotions only, never over-expressive. The other seven SB017 lines (ten days, eight o'clock, the window, her father, the children waiting) play at the mango tree.
-Next: SB017 dialogue at the mango tree (@tuitionc6plate).
+Next: SB017 dialogue at the mango tree (@tuitionc6plate) — 3tree-a in `3tree.md`; 3door-c now ends with them sitting on the seat (v3.2).
 
 ## 3door-a · Clara walks quickly to Antony (8 s, silent)
 ```
@@ -389,7 +389,7 @@ Eye level 1.5 m, on the school side of the mango tree, locked off: the frame sta
 ACTION
 0.0s to 1.0s — The empty yard and the mango tree. Clara and Antony come quickly into the frame from the lower right, from behind the camera: Clara a step ahead, holding Antony's hand, pulling him along; Antony follows, smiling, bag on his left shoulder.
 1.0s to 5.0s — They walk briskly across the sandy yard, still hand in hand, to the mango tree.
-5.0s to 8.0s — At the round seat Clara lets go of his hand and turns to face him in the shade of the tree, a light, amused look; Antony stops in front of her, smiling. Both stand beside the seat, three-quarter to the camera.
+5.0s to 8.0s — At the round seat Clara lets go of his hand and they sit down side by side on the front edge of the seat in the shade of the tree, Clara on the left, Antony on the right with the bag at his left hip; she looks at him with a light, amused look, he smiles.
 
 PERFORMANCE
 Quick, light and warm: two young adults who know each other well, stepping away from the class for a moment. Light emotions only, never over-expressive. Nobody speaks; mouths closed. Nobody looks into the camera.
@@ -410,7 +410,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; natural skin; a true film look.
 
 POSITIVE LOCKS
-Starts exactly on @tuitionc6plate, camera locked off. Only Clara and Antony, entering from behind the camera on the lower right, hand in hand, walking quickly to the mango tree's round seat. The beige bag (@antonybag) on his LEFT shoulder. The school stays out of frame. No one speaks; no one looks into the camera. Nothing drawn or written on the image. Runs the full 8 seconds.
+Starts exactly on @tuitionc6plate, camera locked off. Only Clara and Antony, entering from behind the camera on the lower right, hand in hand, walking quickly to the mango tree's round seat and sitting down on it side by side, Clara on the left. The beige bag (@antonybag) on his LEFT shoulder. The school stays out of frame. No one speaks; no one looks into the camera. Nothing drawn or written on the image. Runs the full 8 seconds.
 ```
 
 ## Generation results
