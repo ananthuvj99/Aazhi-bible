@@ -1,0 +1,242 @@
+{
+ "title": "s23-sh06c \u00b7 Balan and Suresh reach the rail",
+ "subtitle": "8 seconds \u00b7 no dialogue \u00b7 part 2 of 2 \u00b7 the camera turns back to the men",
+ "out": "scenes/showreel/storyboards/s23-sh06c-clear.png",
+ "frame": "scenes/showreel/approved/s23-sh05-last.jpg",
+ "frame_note": "(where everyone ends up)",
+ "frame_tags": [
+  {
+   "text": "Sasi (back)",
+   "x": 900,
+   "y": 230,
+   "color": "#2e9e5b"
+  },
+  {
+   "text": "Babu (back)",
+   "x": 1060,
+   "y": 200,
+   "color": "#2e9e5b"
+  },
+  {
+   "text": "Raghavan",
+   "x": 1170,
+   "y": 170,
+   "color": "#2e9e5b"
+  },
+  {
+   "text": "Antony",
+   "x": 1340,
+   "y": 230,
+   "color": "#2e9e5b"
+  }
+ ],
+ "frame_arrows": [
+  {
+   "from": [
+    600,
+    120
+   ],
+   "to": [
+    1150,
+    120
+   ],
+   "color": "#7a4fd0",
+   "label": "camera turns back right",
+   "label_at": [
+    700,
+    40
+   ]
+  },
+  {
+   "from": [
+    500,
+    560
+   ],
+   "to": [
+    860,
+    540
+   ],
+   "color": "#e8892b",
+   "label": "Suresh stops behind Sasi",
+   "label_at": [
+    250,
+    590
+   ]
+  },
+  {
+   "from": [
+    500,
+    480
+   ],
+   "to": [
+    1270,
+    440
+   ],
+   "color": "#2f7fd8",
+   "label": "Balan in beside Antony",
+   "label_at": [
+    980,
+    590
+   ]
+  }
+ ],
+ "frame_caption": "End: Suresh behind Sasi, Babu, Raghavan half a step back, Balan, Antony nearest the bow. Six men; Babu and Sasi mostly from behind.",
+ "map_people": [
+  {
+   "name": "Sasi",
+   "x": 430,
+   "y": 80,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Babu",
+   "x": 560,
+   "y": 80,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Raghavan",
+   "x": 680,
+   "y": 110,
+   "color": "#2e9e5b",
+   "dy": 10
+  },
+  {
+   "name": "Balan",
+   "x": 760,
+   "y": 75,
+   "color": "#2f7fd8",
+   "text_color": "#2f7fd8"
+  },
+  {
+   "name": "Antony",
+   "x": 860,
+   "y": 75,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Suresh",
+   "x": 430,
+   "y": 160,
+   "color": "#e8892b",
+   "text_color": "#e8892b"
+  }
+ ],
+ "map_arrows": [
+  {
+   "from": [
+    330,
+    300
+   ],
+   "to": [
+    430,
+    175
+   ],
+   "color": "#e8892b"
+  },
+  {
+   "from": [
+    420,
+    250
+   ],
+   "to": [
+    750,
+    95
+   ],
+   "color": "#2f7fd8"
+  }
+ ],
+ "map_camera": {
+  "x": 600,
+  "y": 380,
+  "label": "camera turns right (stays put)",
+  "turn": "right"
+ },
+ "map_notes": [
+  "burning boat:",
+  "~500 m off, ahead-left",
+  "(beyond the rail, not in view)"
+ ],
+ "timeline": [
+  {
+   "who": "Camera",
+   "color": "#7a4fd0",
+   "segments": [
+    [
+     0,
+     2,
+     "turns right"
+    ],
+    [
+     2,
+     8,
+     "holds on the rail"
+    ]
+   ]
+  },
+  {
+   "who": "Balan",
+   "color": "#2f7fd8",
+   "segments": [
+    [
+     0,
+     2,
+     "walks to rail"
+    ],
+    [
+     2,
+     4.5,
+     "in beside Antony"
+    ],
+    [
+     4.5,
+     8,
+     "stares out"
+    ]
+   ]
+  },
+  {
+   "who": "Suresh",
+   "color": "#e8892b",
+   "segments": [
+    [
+     0,
+     3.5,
+     "follows"
+    ],
+    [
+     3.5,
+     6,
+     "behind Sasi"
+    ],
+    [
+     6,
+     8,
+     "peers out"
+    ]
+   ]
+  },
+  {
+   "who": "The four",
+   "color": "#2e9e5b",
+   "segments": [
+    [
+     2,
+     4.5,
+     "look round, make room"
+    ],
+    [
+     6,
+     8,
+     "afraid, nobody moves"
+    ]
+   ]
+  }
+ ],
+ "platform": [
+  "Start image slot: the LAST FRAME of s23-sh06b",
+  "Attach: @antony20 \u00b7 @raghavan \u00b7 @balan \u00b7 @suresh \u00b7 @babu \u00b7 @sasi   (remove everything else)",
+  "Duration 8 s \u00b7 16:9 \u00b7 no dialogue        QA score 92 / 100",
+  "Next: s23-sh07, Balan grabs Antony's wrist (\"Don't go.\", voice Brad)"
+ ]
+}

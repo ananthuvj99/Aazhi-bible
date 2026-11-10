@@ -1,0 +1,219 @@
+{
+ "title": "s23-sh06b \u00b7 Suresh and Balan come out of the deckhouse",
+ "subtitle": "8 seconds \u00b7 no dialogue \u00b7 part 1 of 2 \u00b7 right after Antony's \"Bring the rope, fast!\"",
+ "out": "scenes/showreel/storyboards/s23-sh06b-clear.png",
+ "frame": "scenes/showreel/approved/s23-sh05-last.jpg",
+ "frame_note": "(nearest approved frame; the camera turns LEFT to the doorway)",
+ "frame_tags": [
+  {
+   "text": "Aashaan (inside)",
+   "x": 370,
+   "y": 300,
+   "color": "#2e9e5b"
+  },
+  {
+   "text": "Sasi (edge)",
+   "x": 930,
+   "y": 250,
+   "color": "#2e9e5b"
+  },
+  {
+   "text": "doorway",
+   "x": 700,
+   "y": 345,
+   "color": "#b8860b"
+  }
+ ],
+ "frame_arrows": [
+  {
+   "from": [
+    1250,
+    120
+   ],
+   "to": [
+    700,
+    120
+   ],
+   "color": "#7a4fd0",
+   "label": "camera turns left to the door",
+   "label_at": [
+    760,
+    40
+   ]
+  },
+  {
+   "from": [
+    845,
+    420
+   ],
+   "to": [
+    1000,
+    560
+   ],
+   "color": "#e8892b",
+   "label": "1 Suresh out, walks right",
+   "label_at": [
+    480,
+    590
+   ]
+  },
+  {
+   "from": [
+    830,
+    400
+   ],
+   "to": [
+    1100,
+    470
+   ],
+   "color": "#2f7fd8",
+   "label": "2 Balan out, overtakes, off right",
+   "label_at": [
+    1010,
+    590
+   ]
+  }
+ ],
+ "frame_caption": "In frame after the turn: the doorway, Suresh, Balan, Aashaan small at the window, Sasi's shoulder at the edge. Only 3\u20134 people.",
+ "map_people": [
+  {
+   "name": "Sasi",
+   "x": 430,
+   "y": 80,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Babu",
+   "x": 560,
+   "y": 80,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Raghavan",
+   "x": 690,
+   "y": 80,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Antony",
+   "x": 820,
+   "y": 75,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Suresh",
+   "x": 330,
+   "y": 300,
+   "color": "#e8892b",
+   "text_color": "#e8892b"
+  },
+  {
+   "name": "Balan",
+   "x": 420,
+   "y": 250,
+   "color": "#2f7fd8",
+   "text_color": "#2f7fd8"
+  }
+ ],
+ "map_arrows": [
+  {
+   "from": [
+    275,
+    360
+   ],
+   "to": [
+    330,
+    300
+   ],
+   "color": "#e8892b"
+  },
+  {
+   "from": [
+    275,
+    350
+   ],
+   "to": [
+    420,
+    250
+   ],
+   "color": "#2f7fd8"
+  }
+ ],
+ "map_camera": {
+  "x": 600,
+  "y": 380,
+  "label": "camera turns left (stays put)",
+  "turn": "left"
+ },
+ "map_notes": [
+  "burning boat:",
+  "~500 m off, ahead-left",
+  "(out of this view)"
+ ],
+ "timeline": [
+  {
+   "who": "Camera",
+   "color": "#7a4fd0",
+   "segments": [
+    [
+     0,
+     2,
+     "turns left"
+    ],
+    [
+     2,
+     8,
+     "holds on the doorway"
+    ]
+   ]
+  },
+  {
+   "who": "Suresh",
+   "color": "#e8892b",
+   "segments": [
+    [
+     2.5,
+     4.5,
+     "out of the door"
+    ],
+    [
+     6,
+     8,
+     "walks off right"
+    ]
+   ]
+  },
+  {
+   "who": "Balan",
+   "color": "#2f7fd8",
+   "segments": [
+    [
+     3.5,
+     6,
+     "out, past Suresh, off right"
+    ]
+   ]
+  },
+  {
+   "who": "Aashaan",
+   "color": "#2e9e5b",
+   "segments": [
+    [
+     0,
+     2,
+     "looks to door"
+    ],
+    [
+     6,
+     8,
+     "leans to window"
+    ]
+   ]
+  }
+ ],
+ "platform": [
+  "Start image slot: the LAST FRAME of s23-sh06 (the take you keep)",
+  "Attach: @urudeckc1platenight \u00b7 @suresh \u00b7 @balan \u00b7 @aashaan \u00b7 @sasi   (remove everything else)",
+  "Duration 8 s \u00b7 16:9 \u00b7 no dialogue        QA score 93 / 100"
+ ]
+}
