@@ -1,27 +1,33 @@
 {
- "title": "s13-sh03c v2 · Up the gangplank: Antony sees the crew at work",
- "subtitle": "8 seconds · no dialogue · one follow shot behind Antony · six men, no Balan · nobody looks at the camera",
+ "title": "s13-sh03c v3 · Up the side gangplank, turn LEFT to the bow",
+ "subtitle": "8 seconds · no dialogue · follow behind Antony · over the SIDE rail, then a 90° turn left · quay beyond the LEFT rail · six men, no Balan",
  "out": "scenes/showreel/storyboards/s13-sh03c-clear.png",
  "frame": "scenes/showreel/approved/s13-sh02-frame.jpg",
- "frame_note": "(FIRST FRAME = this approved s13-sh02 frame; same gangplank, same bag)",
+ "frame_note": "(FIRST FRAME = approved s13-sh02; the bow points back toward the camera)",
  "frame_tags": [
   {
-   "text": "Antony (bag on LEFT shoulder)",
+   "text": "Antony (bag LEFT shoulder only)",
    "x": 700,
    "y": 120,
    "color": "#e8892b"
   },
   {
-   "text": "gangplank (keep this one)",
+   "text": "side gangplank (keep this one)",
    "x": 300,
    "y": 300,
    "color": "#2b6cb0"
   },
   {
-   "text": "deckhouse",
+   "text": "deckhouse (aft)",
    "x": 200,
    "y": 40,
    "color": "#6b5a40"
+  },
+  {
+   "text": "bow is this way (toward camera)",
+   "x": 20,
+   "y": 470,
+   "color": "#d9534f"
   }
  ],
  "frame_arrows": [
@@ -31,8 +37,8 @@
     330
    ],
    "to": [
-    500,
-    230
+    300,
+    215
    ],
    "color": "#e8892b",
    "label": "1-4.5 s up the plank",
@@ -43,99 +49,111 @@
   },
   {
    "from": [
-    500,
-    230
+    300,
+    215
    ],
    "to": [
-    260,
-    210
+    90,
+    420
    ],
-   "color": "#e8892b",
-   "label": "4.5 s onto the deck",
+   "color": "#d9534f",
+   "label": "5.5 s turns LEFT to the bow",
    "label_at": [
-    250,
-    260
+    100,
+    300
    ]
   }
  ],
- "frame_caption": "The camera follows 2 m behind him, at his shoulder, up the plank; it stops at the top and looks forward along the deck.",
+ "frame_caption": "He climbs the SIDE gangplank, steps over the side rail facing across the deck, then turns LEFT to face the bow; the camera pans with him.",
  "map_people": [
   {
-   "name": "Antony (end)",
-   "x": 330,
-   "y": 470,
+   "name": "Antony (steps on)",
+   "x": 300,
+   "y": 70,
    "color": "#e8892b",
    "text_color": "#e8892b",
-   "dx": 95,
-   "dy": -35
+   "dx": 120,
+   "dy": 10
   },
   {
    "name": "Aashaan (sacks)",
-   "x": 440,
-   "y": 300,
+   "x": 450,
+   "y": 250,
    "color": "#d9534f"
   },
   {
    "name": "Raghavan",
    "x": 620,
-   "y": 120,
+   "y": 380,
    "color": "#2e9e5b"
   },
   {
    "name": "Sasi",
    "x": 760,
-   "y": 50,
+   "y": 460,
    "color": "#2e9e5b"
   },
   {
    "name": "Babu",
    "x": 580,
-   "y": 390,
+   "y": 190,
    "color": "#2e9e5b"
   },
   {
    "name": "Suresh (hatch)",
-   "x": 700,
-   "y": 430,
+   "x": 720,
+   "y": 90,
    "color": "#2e9e5b"
   }
  ],
  "map_arrows": [
   {
    "from": [
-    290,
-    520
+    300,
+    -10
    ],
    "to": [
-    330,
-    480
+    300,
+    60
    ],
    "color": "#e8892b"
   },
   {
    "from": [
+    300,
+    80
+   ],
+   "to": [
+    400,
+    80
+   ],
+   "color": "#d9534f"
+  },
+  {
+   "from": [
     580,
-    390
+    190
    ],
    "to": [
     800,
-    360
+    220
    ],
    "color": "#2e9e5b"
   }
  ],
  "map_camera": {
-  "x": 270,
-  "y": 500,
-  "label": "follow cam ends here",
+  "x": 300,
+  "y": 30,
+  "label": "cam pans 90° left with him",
   "turn": 0
  },
  "map_notes": [
-  "deckhouse at the left (aft); bow at the right",
-  "gangplank comes up from the quay at the bottom",
-  "deck between Antony and the mast stays CLEAR (s13-sh04)",
-  "nobody at the bow rope (Antony checks it in s13-sh05)",
-  "Balan not aboard yet"
+  "Quay + gangplank: TOP rail",
+  "(his LEFT when he faces the bow)",
+  "1) over the side rail, facing the far rail",
+  "2) turns LEFT toward the bow",
+  "deck to the mast stays clear",
+  "nobody at the bow rope; no Balan"
  ],
  "duration": 8,
  "timeline": [
@@ -151,17 +169,22 @@
     [
      1,
      4.5,
-     "walks up the gangplank"
+     "up the side gangplank"
     ],
     [
      4.5,
      5.5,
-     "onto deck"
+     "over the side rail"
     ],
     [
      5.5,
+     6.5,
+     "turns LEFT"
+    ],
+    [
+     6.5,
      8,
-     "stands, looks at Aashaan"
+     "faces the bow, looks at Aashaan"
     ]
    ]
   },
@@ -172,12 +195,22 @@
     [
      0,
      4.5,
-     "follows 2 m behind, rising"
+     "follows 2 m behind"
     ],
     [
      4.5,
+     5.5,
+     "stops at rail"
+    ],
+    [
+     5.5,
+     6.5,
+     "pans 90° left"
+    ],
+    [
+     6.5,
      8,
-     "stops, holds over his shoulder"
+     "holds"
     ]
    ]
   },
@@ -187,18 +220,18 @@
    "segments": [
     [
      0,
-     6.5,
+     7,
      "pulls the lashing"
     ],
     [
-     6.5,
-     7.3,
+     7,
+     7.6,
      "glance, nod"
     ],
     [
-     7.3,
+     7.6,
      8,
-     "back to rope"
+     "rope"
     ]
    ]
   },
@@ -208,18 +241,13 @@
    "segments": [
     [
      0,
-     7,
+     7.5,
      "carries sack forward"
     ],
     [
-     7,
-     7.6,
-     "quick look"
-    ],
-    [
-     7.6,
+     7.5,
      8,
-     "walks on"
+     "look"
     ]
    ]
   },
@@ -260,8 +288,9 @@
  "platform": [
   "Reference image: scenes/showreel/approved/s13-sh02-frame.jpg",
   "Attach: @antony20 · @antonybag · @aashaan · @raghavan · @babu · @sasi · @suresh   (remove everything else)",
-  "Duration 8 s · 21:9 · no dialogue        QA score 90 / 100",
-  "Watch for: anyone looking into the lens or posing, a second gangplank, missing bag, a seventh man, Balan"
+  "Duration 8 s · 21:9 · no dialogue        QA score 89 / 100",
+  "Watch for: entering through the stern, walking straight down the deck, open water on both sides, bag across the body, posing"
  ],
- "deckhouse_note": "(empty this morning)"
+ "deckhouse_note": "(empty this morning)",
+ "left_rail_label": "LEFT RAIL = QUAY SIDE (gangplank)"
 }
