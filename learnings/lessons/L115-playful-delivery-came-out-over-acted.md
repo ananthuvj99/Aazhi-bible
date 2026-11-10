@@ -17,3 +17,5 @@ Rule:
 1. Describe what the character feels and thinks ("curious about the bag", "honestly puzzled", "a quiet worry she does not hide well"), not a style word like "playful".
 2. Add a voices line: "real, conversational speech, as two friends actually talk — ordinary volume, natural breaths, words running together, not over-pronounced, not sing-song, not acted."
 3. For a seated talk, show the pair once (a short two-shot), then single close-ups of whoever speaks (one speaker per cut) — this is also the lip-sync fix (L34).
+
+**Update (2026-11-10, 3tree-b v2):** even softer style words — "dry", "a gentle dare", "hiding that she is pleased", "a smile in the voice", "one eyebrow raised" — still read as playful. Keep delivery to plain feelings ("simple and sincere", "a little shy") and add "no teasing in the voice".
