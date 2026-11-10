@@ -10,6 +10,7 @@ Dialogue (Ananthu, 2026-11-10, replaces the first lines of SB017's mango-tree pa
 - Antony (smiling at her): "ലങ്ക. പത്തു ദിവസം എടുക്കും തിരിച്ചു വരാൻ."
 - Clara (slightly worried): "പത്തു ദിവസമോ?"
 Camera experiment [camera-exp]: both in frame while they speak (two-shot, faces three-quarter, only the speaker's lips move) and the camera moves during the lines. Rule exception asked for by Ananthu for this shot; if lip-sync goes to the wrong face, split into single close-ups (L34).
+v1.1 (Ananthu, 2026-11-10): the listener is never frozen — small natural movements while the other speaks (leaf, bag strap, pallu, bangle, foot in the sand, glances at the sea).
 Next: the rest of SB017 (eight o'clock, the window, her father, the children waiting).
 
 ## 3tree-a · Under the mango tree: "കാശിക്ക് പോവാണോ?" → "പത്തു ദിവസമോ?" (15 s)
@@ -37,24 +38,24 @@ CAMERA
 Eye level of the two seated people, 1.1 m, in front of the seat on the school side. 0.0s to 1.0s — perfectly still, about 4 m from them. 1.0s to 13.5s — the camera travels slowly straight toward them at about 0.6 km/h, a smooth, weighted dolly glide with no turn and no shake, easing in, keeping both of them centred, and settles about 2 m from them. 13.5s to 15.0s — perfectly still. Focus stays on their faces.
 
 ACTION
-0.0s to 1.0s — Both sit quietly in the shade; Clara glances at the big bag on his shoulder.
-1.0s to 4.3s — Clara turns to Antony and asks her line, a playful look.
-4.3s to 4.8s — Antony smiles at her.
-4.8s to 7.4s — Antony answers, calm, looking at her.
-7.4s to 7.9s — Clara's brows draw together.
-7.9s to 8.6s — Clara asks, puzzled.
-8.6s to 9.2s — Antony pauses a moment.
-9.2s to 12.2s — Antony answers, looking at her and smiling.
+0.0s to 1.0s — Both sit at ease in the shade. Antony rolls a small dry mango leaf between his fingers; Clara glances at the big bag on his shoulder.
+1.0s to 4.3s — Clara turns to Antony and asks her line, head steady, a playful look. Antony listens: he shifts the bag strap on his left shoulder and looks down at the bag, then back at her, mouth closed.
+4.3s to 4.8s — Antony drops the leaf and smiles at her.
+4.8s to 7.4s — Antony answers, head steady, calm, looking at her. Clara listens, mouth closed: she smooths the edge of her pallu on her lap and turns one of her bangles on her wrist, her eyes on him.
+7.4s to 7.9s — Clara's brows draw together; she tilts her head a little.
+7.9s to 8.6s — Clara asks, puzzled, head steady. Antony glances out toward the sea for a moment, mouth closed.
+8.6s to 9.2s — Antony looks back at her; he rests both hands on the edge of the seat.
+9.2s to 12.2s — Antony answers, head steady, looking at her and smiling. Clara listens, mouth closed: her fingers stop on her bangle, she looks down at the sand for a moment, one foot pushing a little sand aside, then looks up at him.
 12.2s to 12.8s — Clara's smile fades a little.
-12.8s to 13.8s — Clara asks, slightly worried.
-13.8s to 15.0s — They hold each other's look in silence; Antony's small smile, Clara's eyes on him.
+12.8s to 13.8s — Clara asks, slightly worried, head steady. Antony keeps his small smile, mouth closed, his thumb tapping once on the seat edge.
+13.8s to 15.0s — They hold each other's look in silence; a breeze moves the leaves above them; Clara tucks a loose strand of hair behind her ear.
 
 DIALOGUE RULES
 Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns and gestures happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
 In this shot both are in the frame: they speak one at a time; only the person speaking moves their lips; the one listening keeps the mouth closed and listens. Both faces stay three-quarter to the camera, never in profile.
 
 PERFORMANCE
-A peaceful, natural talk between two close friends in the shade: unhurried, warm, small real expressions. Clara: playful at first, then puzzled, then a quiet touch of worry. Antony: calm, easy, smiling. Light emotions only, never over-expressive. They look at each other, never into the camera.
+A peaceful, natural talk between two close friends in the shade: unhurried, warm, small real expressions. Clara: playful at first, then puzzled, then a quiet touch of worry. Antony: calm, easy, smiling. Light emotions only, never over-expressive. Like real people sitting together, neither is ever frozen: the one listening keeps small, natural movements — fingers on a leaf, a bangle or the seat edge, a foot in the sand, a glance at the sea or the leaves above, then back to the other — while the mouth stays closed. The one speaking keeps the head steady and the face toward the lens. They look at each other or around them, never into the camera.
 
 LIGHTING
 Bright mid-morning sun on the yard and the sea behind; soft dappled shade from the mango leaves on them, soft even light on both faces.
@@ -83,7 +84,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; a true film look.
 
 POSITIVE LOCKS
-The mango tree and its round seat exactly as @tuitionc6plate. Clara (frame-left) and Antony (frame-right) seated side by side on the seat, both in frame the whole shot, faces three-quarter to the camera; the beige bag (@antonybag) on his LEFT shoulder, resting on the seat at his left hip. One slow straight move toward them, no cut. They speak one at a time; only the speaker's lips move; every word Malayalam. Nothing drawn or written on the image. Runs the full 15 seconds.
+The mango tree and its round seat exactly as @tuitionc6plate. Clara (frame-left) and Antony (frame-right) seated side by side on the seat, both in frame the whole shot, faces three-quarter to the camera; the beige bag (@antonybag) on his LEFT shoulder, resting on the seat at his left hip. One slow straight move toward them, no cut. They speak one at a time; only the speaker's lips move; the listener keeps small natural hand, foot and eye movements, mouth closed; every word Malayalam. Nothing drawn or written on the image. Runs the full 15 seconds.
 ```
 
 ## Generation results
