@@ -7,7 +7,7 @@ Dialogue (Ananthu, 2026-11-10, replaces the first lines of SB017's mango-tree pa
 - Clara (playful): "നീ എങ്ങോട്ടാ ഈ സഞ്ചിയൊക്കെ എടുത്ത്? കാശിക്ക് പോവാണോ?"
 - Antony: "ഞാൻ ആശാന്റെ കൂടെ ഒരു യാത്രയ്ക്ക് പോകുവാ."
 - Clara (puzzled): "എങ്ങോട്ടാ?"
-- Antony (smiling at her): "ലങ്ക. പത്തു ദിവസം എടുക്കും തിരിച്ചു വരാൻ."
+- Antony (smiling at her): "ശ്രീലങ്ക. പത്തു ദിവസം എടുക്കും തിരിച്ചു വരാൻ."
 - Clara (slightly worried): "പത്തു ദിവസമോ?"
 Camera experiment [camera-exp]: both in frame while they speak (two-shot, faces three-quarter, only the speaker's lips move) and the camera moves during the lines. Rule exception asked for by Ananthu for this shot; if lip-sync goes to the wrong face, split into single close-ups (L34).
 v1.1 (Ananthu, 2026-11-10): the listener is never frozen — small natural movements while the other speaks (leaf, bag strap, pallu, bangle, foot in the sand, glances at the sea).
@@ -16,6 +16,7 @@ v1.2 (Ananthu, 2026-11-10): the rest of the talk, in two more 15 s generations, 
 - 3tree-c — Clara (playful, daring): "തട്ടിക്കോ. എന്നിട്ട് അച്ഛൻ പിടിക്കുമ്പോ അച്ഛനോട് സംസാരിച്ചിരുന്നോ." · Clara (softer, fond, a little reluctant): "നീ എന്നാ പോയിട്ട് വാ. കുട്ടികൾ കാത്തിരിക്കുന്നു, ഞാൻ അങ്ങോട്ട് ചെല്ലട്ടെ." then she stands. Camera: still, then a slow move back and up as she stands.
 v2 (Ananthu, 2026-11-10): 3tree-a v1.1 sounded unnatural and too playful (L115). v2 opens on the two of them, then hard cuts to single close-ups of whoever speaks (fixes lip-sync, L34); delivery written as feelings with a real-conversation voices line. 3tree-b and 3tree-c still use the v1 two-shot style — to be redone the same way once v2 works.
 v2.1 (Ananthu, 2026-11-10): v2 almost worked; added a full ambience bed (sea waves, breeze, crows, distant class laughing, unbroken across cuts) and asked for seamless, flowing replies with no dead air.
+v2.2 (Ananthu, 2026-11-10): "ലങ്ക" → "ശ്രീലങ്ക".
 Next: SB018 ("ശ്രദ്ധിച്ചു പോരണം")
 
 ## 3tree-a · v2 — two-shot, then single close-ups: "കാശിക്ക് പോവാണോ?" → "പത്തു ദിവസമോ?" (15 s, six cuts)
@@ -93,8 +94,8 @@ Voices: real, conversational speech, as two friends actually talk sitting under 
 "ഞാൻ ആശാന്റെ കൂടെ ഒരു യാത്രയ്ക്ക് പോകുവാ."
 8.6s to 9.4s — Clara (CUT 4): honestly puzzled, quiet, the question rising. About 0.8 seconds.
 "എങ്ങോട്ടാ?"
-9.8s to 13.0s — Antony (CUT 5): gentle and reassuring, a smile in the voice; "ലങ്ക" said simply, a short breath, then the rest calm and even, falling softly at the end. About 3 seconds.
-"ലങ്ക. പത്തു ദിവസം എടുക്കും തിരിച്ചു വരാൻ."
+9.8s to 13.0s — Antony (CUT 5): gentle and reassuring, a smile in the voice; "ശ്രീലങ്ക" said simply, a short breath, then the rest calm and even, falling softly at the end. About 3 seconds.
+"ശ്രീലങ്ക. പത്തു ദിവസം എടുക്കും തിരിച്ചു വരാൻ."
 13.3s to 14.5s — Clara (CUT 6): quiet, a little low, a small worry; the question rising gently on "ദിവസമോ". About 1.2 seconds.
 "പത്തു ദിവസമോ?"
 After her line, nobody speaks.
