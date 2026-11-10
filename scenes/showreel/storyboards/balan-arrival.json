@@ -1,0 +1,66 @@
+{
+ "title": "Balan arrives late (new beat before SB022)",
+ "subtitle": "Cochin harbour, mid-morning · light-hearted · four shots, 8 s each · Ranjith, 2026-11-10",
+ "out": "scenes/showreel/storyboards/balan-arrival-storyboard.png",
+ "panels": [
+  {
+   "shot": "s13-sh05b",
+   "time": "8 s",
+   "title": "Balan hurries up the gangplank",
+   "image": "locations/harbour/plates/harbour-c3-plate.png",
+   "beats": [
+    "Same quay view as s13-sh03 (uru LEFT, warehouses RIGHT).",
+    "0–2 s Balan out from between the warehouses, walking quickly, smoothing his hair.",
+    "2–5 s up the gangplank with an easy smile; 5–8 s onto the deck by the deckhouse."
+   ],
+   "refs": "@harbourc3plate · @balan"
+  },
+  {
+   "shot": "s13-sh05c",
+   "time": "8 s",
+   "title": "Aashaan teases him (Rinoy)",
+   "image": "scenes/showreel/approved/s13-sh04-frame.jpg",
+   "beats": [
+    "Same set-up and frame as s13-sh04 (shown).",
+    "He straightens, hands on hips, eyes on Balan just RIGHT of the lens.",
+    "2.5–5.5 s the teasing line; then shakes his head, back to the lashing."
+   ],
+   "refs": "ref: s13-sh04 frame · @aashaan · @urudeckc1plate (bg)"
+  },
+  {
+   "shot": "s13-sh05d",
+   "time": "8 s",
+   "title": "Balan's easy reply (Brad)",
+   "image": "characters/balan/sheet.jpg",
+   "beats": [
+    "Camera beside Aashaan looking forward; quay and warehouses beyond the rail at the LEFT.",
+    "2.5–5 s the reply, eyes on Aashaan just RIGHT of the lens.",
+    "Then a shrug, a silent chuckle, a glance toward the bow."
+   ],
+   "refs": "ref: s13-sh05b last frame · @balan"
+  },
+  {
+   "shot": "s13-sh05e",
+   "time": "8 s",
+   "title": "Antony smiles at the bow",
+   "image": "locations/uru-deck/plates/urudeck-c2-plate.png",
+   "beats": [
+    "Same as s13-sh05 (start from its last frame).",
+    "He hears them, looks back just LEFT of the lens, smiles, shakes his head.",
+    "Back to the rope. Next: s13-sh06, the uru leaves."
+   ],
+   "refs": "start: s13-sh05 last frame · @antony20 · @antonybag · @urudeckc2plate (bg)"
+  },
+  {
+   "shot": "blocking",
+   "time": "",
+   "title": "3D blocking: who stands where",
+   "image": "scenes/showreel/storyboards/balan-arrival-blocking.png",
+   "beats": [
+    "Quay on the uru's left side; gangplank by the deckhouse; Aashaan at the sacks by the mast; Antony at the bow."
+   ],
+   "refs": "planning only, never attached"
+  }
+ ],
+ "footer": "Storyboard only. Never attach this sheet to a generation."
+}
