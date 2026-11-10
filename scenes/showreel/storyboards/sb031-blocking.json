@@ -1,6 +1,6 @@
 {
  "title": "SB031 \u00b7 The decision \u2014 3D blocking",
- "subtitle": "Orange = crew at the left rail \u00b7 green = Antony \u00b7 red = Aashaan \u00b7 blue = cameras (sh06 pushes in from 2.0 m to 1.5 m)",
+ "subtitle": "v3: spread out, not a row \u2014 Raghavan at the rail forward, Babu a step back, Antony at the rail aft, Sasi back by the sacks \u00b7 blue = cameras \u00b7 sh06 push-in camera between Antony and Babu",
  "out": "scenes/showreel/storyboards/sb031-blocking.png",
  "eye": [
   4,
@@ -80,27 +80,27 @@
    "type": "figure",
    "pos": [
     0,
-    -9,
+    -6.4,
     0.1
    ],
    "color": "#d9534f",
-   "label": "Aashaan"
+   "label": "Aashaan (doorway)"
   },
   {
    "type": "figure",
    "pos": [
-    -2.5,
-    0.5,
+    -1.6,
+    5.3,
     0.1
    ],
    "color": "#f0ad4e",
-   "label": "Babu"
+   "label": "Babu (a step back)"
   },
   {
    "type": "figure",
    "pos": [
-    -2.5,
-    2.5,
+    -1.2,
+    1.6,
     0.1
    ],
    "color": "#f0ad4e",
@@ -109,8 +109,8 @@
   {
    "type": "figure",
    "pos": [
-    -2.5,
-    4.5,
+    -2.6,
+    6.2,
     0.1
    ],
    "color": "#f0ad4e",
@@ -119,8 +119,8 @@
   {
    "type": "figure",
    "pos": [
-    -2.5,
-    6.5,
+    -2.6,
+    4.0,
     0.1
    ],
    "color": "#3fa34d",
@@ -171,15 +171,15 @@
    "type": "camera",
    "pos": [
     -1.0,
-    7.6,
+    5.6,
     1.6
    ],
    "look": [
     -2.6,
-    6.5,
+    4.0,
     1.6
    ],
-   "label": "c5 sh06 start (2.0 m)"
+   "label": ""
   },
   {
    "type": "camera",
@@ -198,16 +198,31 @@
   {
    "type": "camera",
    "pos": [
-    -1.5,
-    7.2,
+    -1.4,
+    5.2,
     1.6
    ],
    "look": [
     -2.6,
-    6.5,
+    4.0,
     1.6
    ],
-   "label": "end (1.5 m)"
+   "label": ""
+  },
+  {
+   "type": "box",
+   "center": [
+    -0.6,
+    1.0,
+    0.35
+   ],
+   "size": [
+    1.2,
+    1.6,
+    0.7
+   ],
+   "color": "#9a8a6a",
+   "label": "sacks"
   }
  ]
 }
