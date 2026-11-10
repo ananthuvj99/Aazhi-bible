@@ -19,6 +19,7 @@ v2.1 (Ananthu, 2026-11-10): v2 almost worked; added a full ambience bed (sea wav
 v2.2 (Ananthu, 2026-11-10): "ലങ്ക" → "ശ്രീലങ്ക".
 v2.3 (Ananthu, 2026-11-10): Antony's line → "ഞാൻ ആശാന്റെ കൂടെ കപ്പലിൽ പോകുവാ." (was "ഒരു യാത്രയ്ക്ക്").
 v2.4 (Ananthu, 2026-11-10): v2.3 good except Clara looked elsewhere in her close-ups; every cut now names where the other person sits and locks the eyes on them (L117).
+v2.5 (Ananthu, 2026-11-10): 3tree-a v2.4 approved (W23). 3tree-b rewritten in the same approved style — single close-ups with eyeline lines, natural voices, ambience bed — ending on a silent two-shot; it carries @3treeaend (the approved take's last frame) for continuity.
 Next: SB018 ("ശ്രദ്ധിച്ചു പോരണം")
 
 ## 3tree-a · v2 — two-shot, then single close-ups: "കാശിക്ക് പോവാണോ?" → "പത്തു ദിവസമോ?" (15 s, six cuts)
@@ -124,73 +125,94 @@ POSITIVE LOCKS
 CUT 1: both seated side by side on the round seat under the mango tree, Clara left, Antony right. CUTS 2–6: hard cuts between single close-ups, each showing only the person speaking — Clara always looking straight at Antony (just right of the lens), Antony always looking straight at Clara (just left of it); the beige bag (@antonybag) on his LEFT shoulder. Every cut locked off; the camera never travels between cuts. One speaker per cut; only the speaker's lips move; every word Malayalam. Real, quiet, natural voices and small true feelings, never playful or comic. Nothing drawn or written on the image. Runs the full 15 seconds.
 ```
 
-## 3tree-b · "കടപ്പുറത്തേക്ക് വാ" → "ജനലിൽ തട്ടാം" (15 s)
+## 3tree-b · v2 — "കടപ്പുറത്തേക്ക് വാ" → "ജനലിൽ തട്ടാം" (15 s, four cuts; continues 3tree-a)
+References: @3treeaend (continuity, not the start frame — last frame of the approved 3tree-a, to upload), @tuitionc6plate, @clara20, @antony20, @antonybag · start-image slot empty
 ```
 SCENE
-Mid-morning, 1998, the sandy yard of a village tuition centre at Alappad, Kollam, Kerala. One continuous shot, 15 seconds, continuing straight on from the previous moment: Clara and Antony still sit side by side on the round laterite seat under the big mango tree. He asks her to meet him when he is back; she lightly refuses; he has an answer. Both are in the frame the whole time. Only Antony and Clara speak, one at a time, only in Malayalam.
+Mid-morning, 1998, the sandy yard of a village tuition centre at Alappad, Kollam, Kerala, under a big mango tree. This shot continues the previous one straight on (@3treeaend): Clara has just asked "ten days?", a little worried, and Antony answers. Four short shots edited together, 15 seconds: single close-ups of whoever is speaking, each showing only that one person, then the two of them together. Every change is a HARD CUT: the picture changes instantly, like a film edit; the camera never travels or turns between shots. A quiet, ordinary talk between two close friends. Only Antony and Clara speak, one at a time, only in Malayalam.
 SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
-@tuitionc6plate (location, background only — not the start frame): exactly this place — the big mango tree with its thick trunk and the round raised laterite seat around it, roots and dry leaves on the sandy ground, the low laterite compound wall behind it with the entry on the RIGHT, palms, a low wall along the beach, white boats on the sand and the sea beyond. Seen from the same side as this image. 100% matches the reference.
-@clara20: Clara, about 20, the tuition teacher; black hair in one long thick plait down her back; light sky-blue cotton saree with a thin white border, pallu over her left shoulder, matching blouse; thin gold chain with a small gold cross; thin wooden-bead bangles on her right wrist, gold bangles on her left. 100% matches the reference.
-@antony20: Antony, 24, short black hair, lavender-grey and white striped short-sleeve shirt, grey-green checked mundu, thin silver chain. 100% matches the reference.
-@antonybag: his large faded beige canvas shoulder bag, one long strap over his LEFT shoulder, the bag resting on the seat at his left hip. 100% matches the reference.
+@3treeaend (continuity only — not the start frame): the last frame of the previous shot, attached so this shot continues it exactly: the same two people, the same seat, the same light, clothes, hair, bag and positions, Clara on the left and Antony on the right. Match it; do not start on it.
+@tuitionc6plate (location, all cuts, background only — not the start frame): exactly this place — the big mango tree with its thick trunk and the round raised laterite seat around it, roots and dry leaves on the sandy ground, the low laterite compound wall behind it with the entry on the RIGHT, palms, a low wall along the beach, white boats on the sand and the sea beyond. 100% matches the reference.
+@clara20 (CUT 2, 4): Clara, about 20, the tuition teacher; black hair in one long thick plait down her back; light sky-blue cotton saree with a thin white border, pallu over her left shoulder, matching blouse; thin gold chain with a small gold cross; thin wooden-bead bangles on her right wrist, gold bangles on her left. 100% matches the reference.
+@antony20 (CUT 1, 3, 4): Antony, 24, short black hair, lavender-grey and white striped short-sleeve shirt, grey-green checked mundu, thin silver chain. 100% matches the reference.
+@antonybag (CUT 1, 3, 4): his large faded beige canvas shoulder bag, one long strap over his LEFT shoulder, the bag resting on the seat at his left hip. 100% matches the reference.
 
-LOCATION
-Exactly the place of @tuitionc6plate, in the shade of the mango tree. Clara and Antony sit on the front edge of the round laterite seat, in front of the trunk, side by side about half a metre apart: Clara on the LEFT of the frame, Antony on the RIGHT, the bag on his far side (frame-right). Each sits turned a little toward the other, both faces three-quarter to the camera. Behind them: the trunk, the low laterite wall, palms, the boats and the bright sea. Nobody else in the yard.
+THE STAGING (the same in every cut)
+Clara and Antony sit on the front edge of the round laterite seat, in front of the trunk, side by side about half a metre apart, each turned a little toward the other: Clara on the LEFT (seen from the front), Antony on the RIGHT with the bag on his far side. Dappled shade from the mango leaves; the bright yard, palms and sea behind them. Nobody else in the yard.
 
 FORMAT MODE
-One continuous shot, 15 seconds. The camera does not cut. The video runs the full 15 seconds.
+Four cuts, 15 seconds in all, each a locked-off shot from its own fixed camera position, joined by hard cuts at 4.4s, 8.8s and 12.6s. The video runs the full 15 seconds.
 
-OPTICS
-Medium two-shot from the waist up, 40°, both faces large and readable, the trunk, palms and the sea softly out of focus behind them; at the end a slightly closer two-shot. No lens flare.
+CUT 1 — 0.0s to 4.4s — Antony alone
+OPTICS: medium close-up from mid-chest up, 50°, Antony's face filling a third of the frame height, the bag strap on his left shoulder; the trunk and palms softly out of focus behind him. Only Antony in the frame.
+CAMERA: at his eye level, about 1.2 m from him, placed right beside Clara's head, locked off. Clara sits just off the left edge of the frame.
+EYELINE: Antony looks straight into Clara's eyes, about 15 degrees to the left of the lens, the whole cut, never into the lens.
+ACTION: 0.0s to 0.6s — he sees the worry in her face and softens. 0.6s to 4.0s — he says his line to her, head steady, quietly, meaning it, a small hopeful smile. 4.0s to 4.4s — he waits for her answer, eyes on her, mouth closed.
 
-CAMERA
-Eye level of the two seated people, 1.1 m, about 2 m in front of them on the school side. 0.0s to 1.0s — perfectly still. 1.0s to 12.5s — the camera creeps very slowly straight toward them at about 0.15 km/h, a smooth, weighted dolly glide with no turn and no shake, keeping both of them centred, settling about 1.6 m from them. 12.5s to 15.0s — perfectly still. Focus stays on their faces.
+HARD CUT at 4.4s.
 
-ACTION
-0.0s to 1.0s — Both sit at ease, as at the end of the previous moment; Clara's eyes on Antony, Antony's small smile.
-1.0s to 4.2s — Antony looks straight into Clara's eyes and says his line, head steady, gentle and sure. Clara listens, mouth closed, her fingers still on her bangle, a small smile starting.
-4.2s to 5.0s — Clara holds back her smile and turns her face away from him, toward the left of the frame, chin up a little.
-5.0s to 8.6s — Clara says her line looking away to the left of the lens, head steady, face still three-quarter to the camera, light and playful. Antony listens, mouth closed: he shakes his head a little, smiling, and brushes a dry leaf off the seat beside him.
-8.6s to 9.4s — Antony leans in a little toward her, a mischievous smile.
-9.4s to 12.4s — Antony says his line, head steady, looking at her, playful and sure of himself. Clara listens, mouth closed: she presses her lips together to stop a laugh, her eyes still away from him, her fingers smoothing the pallu on her lap.
-12.4s to 15.0s — Clara turns back to him, eyebrows raised, the laugh in her eyes; Antony smiles broadly at her. A breeze moves the leaves above them.
+CUT 2 — 4.4s to 8.8s — Clara alone
+OPTICS: medium close-up from mid-chest up, 50°, Clara's face filling a third of the frame height; the yard and sea softly out of focus behind her. Only Clara in the frame.
+CAMERA: at her eye level, about 1.2 m from her, placed right beside Antony's head, locked off. Antony sits just off the right edge of the frame, so Clara's head is turned a little to frame-right, toward him.
+EYELINE: Clara looks at Antony, about 15 degrees to the right of the lens. Only at 4.4s to 4.9s, before she speaks, her eyes drop for a moment to her lap to hide a smile; then they come back to his and stay on him while she speaks — never into the lens.
+ACTION: 4.4s to 4.9s — pleased, she hides it: a quick look down, the corner of her mouth holding back a smile. 4.9s to 8.3s — she looks back at him and says her line, head steady, dry and matter-of-fact, the smile only in her eyes. 8.3s to 8.8s — she keeps looking at him, mouth closed, one eyebrow slightly raised.
+
+HARD CUT at 8.8s.
+
+CUT 3 — 8.8s to 12.6s — Antony alone
+OPTICS and CAMERA: exactly as CUT 1. Only Antony in the frame.
+EYELINE: as CUT 1 — Antony looks straight into Clara's eyes, just left of the lens.
+ACTION: 8.8s to 9.2s — a slow smile spreads; he has an answer. 9.2s to 12.1s — he says his line, head steady, calm and sure of himself, a gentle dare in his eyes. 12.1s to 12.6s — he holds her look, mouth closed, still smiling.
+
+HARD CUT at 12.6s.
+
+CUT 4 — 12.6s to 15.0s — the two of them, silent
+OPTICS: medium two-shot, 47°, both seated on the seat, the trunk above them, the sea behind. No lens flare.
+CAMERA: eye level of the seated pair, 1.1 m, about 3 m in front of them, locked off.
+ACTION: Clara shakes her head slowly at him, a small smile she can no longer hide, and looks down at the bangle she turns on her wrist; Antony watches her, smiling, the dry mango leaf back in his fingers. Nobody speaks; both mouths closed.
 
 DIALOGUE RULES
-Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns and gestures happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
-In this shot both are in the frame: they speak one at a time; only the person speaking moves their lips; the one listening keeps the mouth closed and listens. Both faces stay three-quarter to the camera, never in profile.
+Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
+While a line is spoken, the speaker is the only person in the frame.
 
 PERFORMANCE
-A peaceful, warm talk between two close friends, a little playful. Antony: gentle and sure when he asks, then mischievous. Clara: playfully refusing, looking away to hide her smile. Light emotions only, small and real, never over-expressive. Like real people sitting together, neither is ever frozen: the one listening keeps small, natural movements — fingers on a bangle, the pallu or a leaf, a shake of the head, a glance away and back — while the mouth stays closed. The one speaking keeps the head steady and the face toward the lens. Nobody looks into the camera.
+Real people, not actors: an ordinary, quiet talk between two close friends who are comfortable with each other. Nothing is performed or exaggerated. Antony: soft and sincere when he asks her to come, then quietly sure of himself. Clara: pleased but not willing to show it, so she answers dryly, the smile only in her eyes; in the end the smile gives her away. Small, true feelings in the eyes; light emotions only, never over-expressive, never comic. In the close-ups the speaker's eyes are on the other person, just beside the lens — Antony always looking at Clara, Clara looking at Antony while she speaks — never into the lens.
 
 LIGHTING
-Bright mid-morning sun on the yard and the sea behind; soft dappled shade from the mango leaves on them, soft even light on both faces.
+Soft dappled shade from the mango leaves on their faces, soft even light; the bright sunlit yard and sea behind them.
 
 AUDIO
-No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
-Spoken language: Malayalam only. Each speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; each line spoken once, one speaker at a time.
-1.0s to 4.2s — Antony, to Clara, looking into her eyes: his everyday voice, low, warm and gentle, unhurried; a short "ഹാ" with a small breath, then even, a natural falling end on "വാ". About 3 seconds.
+No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds, a rich, living outdoor ambience under the voices.
+Spoken language: Malayalam only. Each speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; each line spoken once.
+Voices: real, conversational speech, as two friends actually talk sitting under a tree — relaxed, at an ordinary speaking volume, natural breaths, words running together the way people really speak, not over-pronounced, not sing-song, not acted. Clara and Antony do not laugh. The talk flows seamlessly: each reply starts naturally, right after the other finishes, the way people answer each other without thinking, with no dead air and no stiff pauses; the voices sit in the same open-air space as the ambience, close and intimate.
+0.6s to 4.0s — Antony (CUT 1): low and sincere, unhurried; a soft "ഹാ", a small breath, then the rest warm and even, the voice dropping gently on "വാ" — a real request, not a joke. About 3.4 seconds.
 "ഹാ, പത്തു ദിവസം കഴിഞ്ഞ് രാത്രി കടപ്പുറത്തേക്ക് വാ."
-5.0s to 8.6s — Clara, looking away: light and playful, a half-hidden smile in her voice, easy pace; "ഞാനെങ്ങുമില്ല" quick and firm, a short pause, then "ഞാൻ ഏഴു മണിക്ക് കിടന്നുറങ്ങും" a little drawn out, as if it is obvious. About 3.5 seconds.
+4.9s to 8.3s — Clara (CUT 2): dry and matter-of-fact, hiding that she is pleased; "ഞാനെങ്ങുമില്ല" short and flat, a small pause, then "ഞാൻ ഏഴു മണിക്ക് കിടന്നുറങ്ങും" easy and plain, as if it settles it. About 3.4 seconds.
 "ഞാനെങ്ങുമില്ല. ഞാൻ ഏഴു മണിക്ക് കിടന്നുറങ്ങും."
-9.4s to 12.4s — Antony: playful and sure of himself, a smile in his voice, natural pace; a small pause after "എന്നാ", a natural falling end on "തട്ടാം". About 3 seconds.
+9.2s to 12.1s — Antony (CUT 3): calm, quietly sure, a smile in the voice; a small pause after "എന്നാ", then even, a natural falling end on "തട്ടാം". About 2.9 seconds.
 "എന്നാ ഞാൻ വീട്ടിലേക്ക് വന്ന് ജനലിൽ തട്ടാം."
-After the last line, nobody speaks.
-SOUND EFFECTS: a breeze in the mango leaves and the palms, distant waves on the beach, crows, the soft rustle of her bangles.
+After his line, nobody speaks.
+SOUND EFFECTS (one continuous ambience bed under the whole 15 seconds, unbroken across every cut, at a natural level beneath the voices):
+- The sea: steady waves rolling in and breaking on the beach beyond the wall, the soft hiss of the water running back over the sand, a gentle rhythm every few seconds.
+- The wind: a warm sea breeze in the mango leaves above them and in the palm fronds, rising and falling softly.
+- Life around: crows calling now and then, a few small birds in the tree, a dry leaf falling on the seat, the faint creak of a boat on the sand.
+- The school: from the tuition room behind, far off and faint, the class chattering and laughing softly now and then, as in any village school — heard only in the distance, never close.
+- Close sounds: the faint click of her bangles as she turns one, the rustle of the leaf in his fingers.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
-- Image: very wide dynamic range — the bright sea and sunlit sand behind them and the dappled shade on their faces hold detail in one frame; clean, noise-free shadows; soft roll-off in the highlights.
+- Image: very wide dynamic range — the bright sea and sunlit sand and the dappled shade on their faces hold detail in one frame; clean, noise-free shadows; soft roll-off in the highlights.
 - Colour: graded like a feature film — accurate, natural colour, rich, true tones, warm daylight against cool shade, slightly lifted blacks.
 - Motion: 24 frames per second with natural motion blur, like a real film camera.
 - Texture: very fine, organic film-like grain; a true film look.
 
 POSITIVE LOCKS
-The mango tree and its round seat exactly as @tuitionc6plate. Clara (frame-left) and Antony (frame-right) seated side by side on the seat, both in frame the whole shot, faces three-quarter to the camera; the beige bag (@antonybag) on his LEFT shoulder, resting on the seat at his left hip. One very slow straight move toward them, no cut. They speak one at a time; only the speaker's lips move; the listener keeps small natural movements, mouth closed; every word Malayalam. Nothing drawn or written on the image. Runs the full 15 seconds.
+Continues @3treeaend exactly: same seat under the mango tree, Clara left, Antony right, same clothes, light and bag. CUTS 1–3: hard cuts between single close-ups, each showing only the person speaking — Antony always looking straight at Clara (just left of the lens), Clara looking at Antony (just right of the lens) while she speaks; the beige bag (@antonybag) on his LEFT shoulder. CUT 4: both together, silent. Every cut locked off; the camera never travels between cuts. One speaker per cut; only the speaker's lips move; every word Malayalam. Real, quiet, natural voices and small true feelings, never playful or comic. Nothing drawn or written on the image. Runs the full 15 seconds.
 ```
 
-## 3tree-c · "അച്ഛനോട് സംസാരിച്ചിരുന്നോ" → she goes back to class (15 s)
+## 3tree-c · "അച്ഛനോട് സംസാരിച്ചിരുന്നോ" → she goes back to class (15 s) — v1 two-shot style, to be redone in the cut style (L115, L117)
 ```
 SCENE
 Mid-morning, 1998, the sandy yard of a village tuition centre at Alappad, Kollam, Kerala. One continuous shot, 15 seconds, continuing straight on from the previous moment: Clara and Antony sit side by side on the round laterite seat under the big mango tree. She answers his joke with one of her own, then says goodbye and stands up to go back to her class. Both are in the frame the whole time. Only Clara speaks, only in Malayalam.
@@ -257,3 +279,4 @@ The mango tree and its round seat exactly as @tuitionc6plate. Clara (frame-left)
 - 3tree-a v1.1 [partial] [camera-exp] Ananthu 2026-11-10: generated; the push-in two-shot worked, but the dialogue sounded unnatural and the playful lines came out over-acted (L115).
 - 3tree-a v2 [partial] [camera-exp] Ananthu 2026-11-10: almost good — the cuts and natural voices worked; needed richer ambient sound (sea, breeze, distant class) and smoother, more seamless replies.
 - 3tree-a v2.3 [partial] [camera-exp] Ananthu 2026-11-10: voices and pronunciation good; Antony looked at Clara, but Clara looked somewhere else while speaking in her close-ups (L117).
+- 3tree-a v2.4 [approved] [camera-exp] Ananthu 2026-11-10: wide two-shot then single close-ups; Clara now looks at Antony; natural voices and ambience worked (W23).
