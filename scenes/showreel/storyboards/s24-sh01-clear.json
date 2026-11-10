@@ -1,100 +1,149 @@
 {
  "title": "s24-sh01 \u00b7 Aashaan brings the uru in close",
- "subtitle": "8 seconds \u00b7 no dialogue \u00b7 inside the deckhouse \u00b7 the fire grows from ~60 m to ~40 m",
+ "subtitle": "8 seconds \u00b7 no dialogue \u00b7 locked camera inside the wheelhouse \u00b7 fire ~60 m \u2192 ~40 m \u00b7 continues from s23-sh06 (wheel empty)",
  "out": "scenes/showreel/storyboards/s24-sh01-clear.png",
  "frame": "scenes/showreel/approved/s24-sh01-start.jpg",
  "frame_note": "(the start image)",
  "frame_tags": [
   {
-   "text": "Aashaan",
-   "x": 1350,
-   "y": 1150,
+   "text": "Aashaan (towel L shoulder)",
+   "x": 880,
+   "y": 610,
    "color": "#d9534f"
   },
   {
    "text": "one lantern",
-   "x": 680,
-   "y": 230,
+   "x": 290,
+   "y": 95,
    "color": "#b8860b"
   },
   {
    "text": "fire ~60 m",
-   "x": 250,
-   "y": 560,
+   "x": 120,
+   "y": 250,
    "color": "#e2462b"
+  },
+  {
+   "text": "Babu",
+   "x": 420,
+   "y": 225,
+   "color": "#2e9e5b"
+  },
+  {
+   "text": "Sasi",
+   "x": 505,
+   "y": 205,
+   "color": "#2e9e5b"
+  },
+  {
+   "text": "Raghavan",
+   "x": 585,
+   "y": 200,
+   "color": "#2e9e5b"
+  },
+  {
+   "text": "Antony (faces us)",
+   "x": 640,
+   "y": 170,
+   "color": "#e8892b"
+  },
+  {
+   "text": "wheel (empty)",
+   "x": 450,
+   "y": 640,
+   "color": "#7a4fd0"
   }
  ],
  "frame_arrows": [
   {
    "from": [
-    1500,
-    1300
+    870,
+    560
    ],
    "to": [
-    1100,
-    1300
+    690,
+    560
    ],
-   "color": "#7a4fd0",
-   "label": "hands on, wheel turned hard left",
+   "color": "#d9534f",
+   "label": "1 steps to the wheel, turns hard left",
    "label_at": [
-    1300,
-    1380
+    860,
+    700
    ]
   },
   {
    "from": [
-    460,
-    660
+    180,
+    330
    ],
    "to": [
-    1000,
-    660
+    330,
+    330
    ],
    "color": "#e2462b",
-   "label": "fire slides toward the centre, closer",
+   "label": "2 fire slides toward the centre, closer",
    "label_at": [
-    520,
-    720
+    60,
+    400
    ]
   }
  ],
- "frame_caption": "Camera locked behind Aashaan. Through the windows: the deck, the men small at the left rail, the burning boat growing closer.",
+ "frame_caption": "Through the windows, 3\u20134 m away: Babu, Sasi, Raghavan from behind; Antony beyond them facing the wheelhouse (as in s23-sh06). Fire through the door at the left.",
  "map_people": [
   {
    "name": "Aashaan",
-   "x": 140,
-   "y": 360,
+   "x": 200,
+   "y": 330,
    "color": "#d9534f"
   },
   {
-   "name": "crew",
-   "x": 650,
-   "y": 80,
+   "name": "Babu",
+   "x": 330,
+   "y": 120,
    "color": "#2e9e5b"
+  },
+  {
+   "name": "Sasi",
+   "x": 360,
+   "y": 90,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Raghavan",
+   "x": 395,
+   "y": 70,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Antony",
+   "x": 450,
+   "y": 60,
+   "color": "#e8892b",
+   "text_color": "#e8892b"
   }
  ],
  "map_arrows": [
   {
    "from": [
-    900,
-    260
+    230,
+    350
    ],
    "to": [
-    960,
-    120
+    200,
+    330
    ],
-   "color": "#e2462b"
+   "color": "#d9534f"
   }
  ],
  "map_camera": {
-  "x": 170,
+  "x": 230,
   "y": 400,
-  "label": "camera (locked)"
+  "label": "camera (locked, behind him)"
  },
  "map_notes": [
   "burning boat:",
   "~60 m \u2192 ~40 m ahead-left",
-  "(the uru turns toward it)"
+  "men 3\u20134 m in front of the wheelhouse"
  ],
  "timeline": [
   {
@@ -104,17 +153,44 @@
     [
      0,
      3,
-     "turns the wheel hard left"
+     "steps to wheel, hard left"
     ],
     [
      3,
      6,
-     "eases, holds, leans to see"
+     "eases, holds, leans"
     ],
     [
      6,
      8,
-     "steady, glances to men"
+     "steady, glance at men"
+    ]
+   ]
+  },
+  {
+   "who": "Antony",
+   "color": "#e8892b",
+   "segments": [
+    [
+     0,
+     6,
+     "frightened, faces the wheelhouse"
+    ],
+    [
+     6,
+     8,
+     "turns to the sea"
+    ]
+   ]
+  },
+  {
+   "who": "Babu\u00b7Sasi\u00b7Raghavan",
+   "color": "#2e9e5b",
+   "segments": [
+    [
+     0,
+     8,
+     "backs to us, heads turning between Antony and the fire"
     ]
    ]
   },
@@ -149,7 +225,8 @@
  "platform": [
   "Start image slot: scenes/showreel/approved/s24-sh01-start.jpg",
   "Attach: @urudeckc3platenight \u00b7 @aashaan \u00b7 @burningvallam   (remove everything else)",
-  "Duration 8 s \u00b7 16:9 \u00b7 no dialogue        QA score 89 / 100 (start image 76)",
-  "Expressions: Aashaan grim, eyes narrowed on the fire, sweat at the temple; worried glance at 6 s"
+  "Duration 8 s \u00b7 16:9 \u00b7 no dialogue        QA score 90 / 100",
+  "Expressions: Aashaan grim, eyes narrowed, sweat at the temple; Antony frightened; the three tense from behind",
+  "Continuity: wheel empty in s23-sh06; group 3\u20134 m in front of the wheelhouse; fire never beside the uru"
  ]
 }
