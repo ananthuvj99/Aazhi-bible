@@ -1,6 +1,6 @@
 {
  "title": "SB031 · The decision (source scene 23D)",
- "subtitle": "Emotion Resolve · s23-sh05 v4 (v2 + staggered waking) · s23-sh06 v3 push-in · Ranjith, 2026-11-10",
+ "subtitle": "Emotion Resolve · next: s23-sh06 v4 · continuity carried from the s23-sh05 last frame · Ranjith, 2026-11-10",
  "out": "scenes/showreel/storyboards/sb031-storyboard.png",
  "panels": [
   {
@@ -17,14 +17,27 @@
    "refs": "@urudeckc1platenight · @raghavan · @babu · @sasi · @aashaan · @antony20 · ref: s21-sh01 last frame (optional)"
   },
   {
-   "shot": "s23-sh06 v3",
+   "shot": "continuity",
+   "time": "",
+   "title": "How continuity is kept into s23-sh06",
+   "image": "scenes/showreel/approved/s23-sh05-last.jpg",
+   "beats": [
+    "Reference image = this last frame of s23-sh05; the prompt's CONTINUITY block lists what carries over (L118):",
+    "Same night, seconds later. Antony: striped shirt, checked mundu, chain, empty hands.",
+    "Order along the left rail: Sasi aft, Antony, then Babu and Raghavan forward (so his eyes go RIGHT).",
+    "Fire ahead-left of the boat with Selvan beside it; lantern light from the deckhouse aft."
+   ],
+   "refs": "planning only; the frame itself goes in the reference slot of s23-sh06"
+  },
+  {
+   "shot": "s23-sh06 v4",
    "time": "8 s",
    "title": "Antony: Call Aashaan. Bring a rope. (push-in)",
    "image": "props/burningvallam/prop.png",
    "beats": [
-    "Antony, back to the left rail; behind him, right of centre, the burning vallam ~150 m off and Selvan's head and arm in the water (L86).",
-    "Camera: straight push-in from 2.0 m to 1.5 m at ~0.25 km/h, through the line, settling at 6 s (camera-exp).",
-    "0–2 s he turns from the sea to Babu and Raghavan; 2.5–5 s the order, just RIGHT of the lens; 5–8 s silent, grips the rail, ready.",
+    "Eyes on Babu and Raghavan just RIGHT of the lens from the first frame (L117); camera beside Babu's head.",
+    "Behind him, right of centre: the burning vallam ~150 m off and Selvan's head and arm (L86).",
+    "Push-in 2.0 m to 1.5 m through the line, settles at 6 s. 2.5–5 s the order; 5–8 s silent, glance at the fire, grips the rail.",
     "Voice: Mahendran J."
    ],
    "refs": "ref: s23-sh05 last frame (JPG) · @antony20 · @burningvallam (bg) · @selvan (bg, small)"
