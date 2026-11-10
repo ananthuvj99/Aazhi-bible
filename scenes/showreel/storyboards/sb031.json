@@ -6,7 +6,7 @@
   {
    "shot": "s23-sh05 v4",
    "time": "8 s",
-   "title": "Crew wake one by one and gather (v2 + staggered)",
+   "title": "Crew wake one by one (v2 + staggered)",
    "image": "scenes/showreel/approved/s23-sh05-last.jpg",
    "beats": [
     "Same as approved v2 (its last frame shown); only the waking is staggered (L113, L114).",
@@ -24,7 +24,7 @@
    "beats": [
     "Antony, back to the left rail; behind him, right of centre, the burning vallam ~150 m off and Selvan's head and arm in the water (L86).",
     "Camera: straight push-in from 2.0 m to 1.5 m at ~0.25 km/h, through the line, settling at 6 s (camera-exp).",
-    "0–2 s he turns from the sea to the crew; 2.5–5 s the order, just LEFT of the lens; 5–8 s silent, grips the rail, ready.",
+    "0–2 s he turns from the sea to Babu and Raghavan; 2.5–5 s the order, just RIGHT of the lens; 5–8 s silent, grips the rail, ready.",
     "Voice: Mahendran J."
    ],
    "refs": "ref: s23-sh05 last frame (JPG) · @antony20 · @burningvallam (bg) · @selvan (bg, small)"
@@ -35,8 +35,9 @@
    "title": "Raghavan: Don't go.",
    "image": "characters/raghavan/sheet.png",
    "beats": [
-    "Raghavan MCU, deckhouse glow far behind; his hand reaches out below the frame and takes hold.",
-    "3–4 s the line, just RIGHT of the lens. 4–8 s silent; the wrist is pulled free, his hand comes up empty."
+    "Camera beside Antony looks FORWARD at Raghavan: foredeck and stem post behind him, rail and far fire glow at the left.",
+    "His hand reaches out below the frame and takes hold. 3–4 s the line, just LEFT of the lens.",
+    "4–8 s silent; the wrist pulls free, his hand comes up empty. Voice: Nguyen Tue."
    ],
    "refs": "ref: s23-sh05 last frame · @raghavan"
   },
