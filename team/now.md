@@ -4,5 +4,5 @@ One line per creator. Update yours at the start of each shot and push it; the Me
 Format: `- Name: shot — what you are doing`
 
 - Ananthu: Scene 3 — SB017 under the mango tree (3tree-a: two-shot talk, Lanka, ten days)
-- Ranjith: Balan's arrival at Cochin harbour (new beat before the uru leaves) — breakdown and dialogue
+- Ranjith: SB032 — the leap (s24-sh01 Aashaan brings the uru in, s24-sh02 Antony goes over)
 - Aswanth: SB024 life on the uru — s16b-sh18 Balan wakes and looks out at the ritual (13 s, three cuts) ready; s16b-sh17 cooking fire, s16b-sh15 v5, s16b-sh16 v2 ready

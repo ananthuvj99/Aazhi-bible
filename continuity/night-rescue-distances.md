@@ -23,7 +23,9 @@ All directions are on the boat: **forward** = toward the bow, **aft** = toward t
 | s23-sh03 (SB030) | about 500 m, long lens (20°) | straight ahead of the lens | boat about 1/3 of frame width (long lens only) | written |
 | s23-sh04 (SB030) | about 500 m | LEFT of the stem post | small far point behind Antony | approved |
 | s23-sh05 / sh06 / sh07 (SB031) | about 500 m, **never closer** | ahead-left; from the left rail looking out: right of frame centre | a tiny orange point on the horizon | sh05 approved; sh06 v6 written |
-| SB032–SB033 (the rescue) | **closes in only on screen**: a shot must show the uru turning toward it; then about 30–50 m for the rescue | ahead-left | new rows to be added when those shots are written | to plan |
+| s24-sh01 (SB032) | **shown closing**: about 60 m → 40 m as Aashaan steers in (the uru kept heading for it since SB030) | ahead-left, through the helm's left and centre windows | a burning boat, clearly readable | written |
+| s24-sh02 (SB032) | about 40 m | off the left side | burning boat beyond the rail, its reflection below | written |
+| SB033 (the rescue) | about 40 m, Antony swims there and back | off the left side | to add when written | to plan |
 
 Selvan in the water is beside the burning hull, so he is readable only in the long-lens view (s23-sh03) or once the uru has closed in on screen.
 
