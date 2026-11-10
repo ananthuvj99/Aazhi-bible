@@ -1,0 +1,112 @@
+{
+ "title": "s13-sh03b · Antony: \"Aashaan, here I am!\"",
+ "subtitle": "8 seconds · one line (Mahendran J) · right after he steps off the gangplank · Cochin, mid-morning",
+ "out": "scenes/showreel/storyboards/s13-sh03b-clear.png",
+ "frame": "scenes/showreel/approved/s13-sh02-frame.jpg",
+ "frame_note": "(the shot before: Antony reaching the gangplank)",
+ "frame_tags": [
+  {
+   "text": "Antony (bag on LEFT shoulder)",
+   "x": 840,
+   "y": 160,
+   "color": "#e8892b"
+  },
+  {
+   "text": "gangplank",
+   "x": 300,
+   "y": 230,
+   "color": "#6b5a40"
+  },
+  {
+   "text": "uru",
+   "x": 150,
+   "y": 60,
+   "color": "#5b7fa8"
+  }
+ ],
+ "frame_arrows": [
+  {
+   "from": [
+    800,
+    300
+   ],
+   "to": [
+    420,
+    160
+   ],
+   "color": "#e8892b",
+   "label": "he goes up and steps onto the deck by the deckhouse",
+   "label_at": [
+    500,
+    420
+   ]
+  }
+ ],
+ "frame_caption": "This shot: MCU of Antony on deck by the deckhouse, quay behind him at the right; he calls to Aashaan (just left of the lens).",
+ "map_people": [
+  {
+   "name": "Antony",
+   "x": 290,
+   "y": 470,
+   "color": "#e8892b",
+   "text_color": "#e8892b"
+  },
+  {
+   "name": "Aashaan",
+   "x": 520,
+   "y": 330,
+   "color": "#d9534f"
+  }
+ ],
+ "map_arrows": [],
+ "map_camera": {
+  "x": 480,
+  "y": 330,
+  "label": "camera beside Aashaan"
+ },
+ "map_notes": [
+  "quay + gangplank:",
+  "on the uru's right side here",
+  "(c1 view: quay beyond the RIGHT rail)"
+ ],
+ "timeline": [
+  {
+   "who": "Antony",
+   "color": "#e8892b",
+   "segments": [
+    [
+     0,
+     2.5,
+     "settles bag, smiles"
+    ],
+    [
+     2.5,
+     4.5,
+     "the line"
+    ],
+    [
+     4.5,
+     8,
+     "waves, steps forward"
+    ]
+   ]
+  },
+  {
+   "who": "Camera",
+   "color": "#7a4fd0",
+   "segments": [
+    [
+     0,
+     8,
+     "locked, MCU"
+    ]
+   ]
+  }
+ ],
+ "platform": [
+  "Reference image: scenes/showreel/approved/s13-sh02-frame.jpg",
+  "Attach: @antony20 · @urudeckc1plate (background)   (remove everything else)",
+  "Duration 8 s · 21:9 · Malayalam · voice Mahendran J        QA score 92 / 100",
+  "Line: ആശാനേ, ഇതാ ഞാൻ വന്നു!  (2.5–4.5 s)"
+ ]
+}

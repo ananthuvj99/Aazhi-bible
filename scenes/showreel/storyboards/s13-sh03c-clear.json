@@ -1,0 +1,219 @@
+{
+ "title": "s13-sh03c · The deck from above: the crew greet Antony",
+ "subtitle": "8 seconds · no dialogue · high in the rigging · six men, no Balan · each reacts at his own time",
+ "out": "scenes/showreel/storyboards/s13-sh03c-clear.png",
+ "frame": "scenes/showreel/approved/s13-sh04-frame.jpg",
+ "frame_note": "(the deck and Aashaan at the sacks; this shot looks down from above)",
+ "frame_tags": [
+  {
+   "text": "Aashaan at the sacks",
+   "x": 760,
+   "y": 120,
+   "color": "#d9534f"
+  },
+  {
+   "text": "mast",
+   "x": 120,
+   "y": 120,
+   "color": "#6b5a40"
+  },
+  {
+   "text": "deckhouse",
+   "x": 500,
+   "y": 60,
+   "color": "#6b5a40"
+  }
+ ],
+ "frame_arrows": [],
+ "frame_caption": "From 6 m up: Aashaan centre; Antony at the right by the deckhouse; Raghavan, Babu, Sasi, Suresh at work around the deck.",
+ "map_people": [
+  {
+   "name": "Aashaan",
+   "x": 520,
+   "y": 300,
+   "color": "#d9534f"
+  },
+  {
+   "name": "Antony",
+   "x": 290,
+   "y": 470,
+   "color": "#e8892b",
+   "text_color": "#e8892b"
+  },
+  {
+   "name": "Raghavan",
+   "x": 600,
+   "y": 150,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Babu",
+   "x": 420,
+   "y": 250,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Sasi",
+   "x": 700,
+   "y": 90,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Suresh",
+   "x": 780,
+   "y": 470,
+   "color": "#2e9e5b"
+  }
+ ],
+ "map_arrows": [
+  {
+   "from": [
+    300,
+    450
+   ],
+   "to": [
+    480,
+    330
+   ],
+   "color": "#e8892b"
+  }
+ ],
+ "map_camera": {
+  "x": 560,
+  "y": 380,
+  "label": "camera 6 m up (mast)"
+ },
+ "map_notes": [
+  "quay + gangplank at the right",
+  "Balan not aboard yet"
+ ],
+ "timeline": [
+  {
+   "who": "Aashaan",
+   "color": "#d9534f",
+   "segments": [
+    [
+     0,
+     2,
+     "straightens"
+    ],
+    [
+     2,
+     5,
+     "looks up, raises a hand"
+    ],
+    [
+     5,
+     8,
+     "beckons Antony"
+    ]
+   ]
+  },
+  {
+   "who": "Babu",
+   "color": "#2e9e5b",
+   "segments": [
+    [
+     0,
+     2.5,
+     "carries a sack"
+    ],
+    [
+     2.5,
+     5,
+     "sets it down, grins"
+    ],
+    [
+     5,
+     8,
+     "back to work"
+    ]
+   ]
+  },
+  {
+   "who": "Sasi",
+   "color": "#2e9e5b",
+   "segments": [
+    [
+     0,
+     3,
+     "tightens a lashing"
+    ],
+    [
+     3,
+     5,
+     "looks up, smiles"
+    ],
+    [
+     5,
+     8,
+     "back to the knot"
+    ]
+   ]
+  },
+  {
+   "who": "Raghavan",
+   "color": "#2e9e5b",
+   "segments": [
+    [
+     0,
+     3.5,
+     "coils rope"
+    ],
+    [
+     3.5,
+     5,
+     "glances, nods"
+    ],
+    [
+     5,
+     8,
+     "coils on"
+    ]
+   ]
+  },
+  {
+   "who": "Suresh",
+   "color": "#2e9e5b",
+   "segments": [
+    [
+     0,
+     4,
+     "mooring rope"
+    ],
+    [
+     4,
+     5.5,
+     "turns, waves"
+    ],
+    [
+     5.5,
+     8,
+     "back to rope"
+    ]
+   ]
+  },
+  {
+   "who": "Antony",
+   "color": "#e8892b",
+   "segments": [
+    [
+     0,
+     5,
+     "by the deckhouse, smiling"
+    ],
+    [
+     5,
+     8,
+     "walks to Aashaan"
+    ]
+   ]
+  }
+ ],
+ "platform": [
+  "Reference image: scenes/showreel/approved/s13-sh04-frame.jpg",
+  "Attach: @aashaan · @antony20 · @raghavan · @babu · @sasi · @suresh   (remove everything else)",
+  "Duration 8 s · 21:9 · no dialogue        QA score 88 / 100",
+  "Watch for: men in a row or moving together, a seventh man, Balan"
+ ]
+}
