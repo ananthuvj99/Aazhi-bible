@@ -1,6 +1,6 @@
 {
  "title": "SB031 · The decision (source scene 23D)",
- "subtitle": "Emotion Resolve · s23-sh05 v4 approved · next: s23-sh06 v5, sh07 v3, sh08 · continuity from the s23-sh05 v4 last frame · Ranjith, 2026-11-10",
+ "subtitle": "Emotion Resolve · s23-sh06 v6 after the v5 failure (L119) · Ranjith, 2026-11-10",
  "out": "scenes/showreel/storyboards/sb031-storyboard.png",
  "panels": [
   {
@@ -17,28 +17,28 @@
   {
    "shot": "continuity",
    "time": "",
-   "title": "How continuity is kept (CONTINUITY block, L118)",
+   "title": "Continuity check (L118, L119)",
    "image": "scenes/showreel/approved/s23-sh05-last.jpg",
    "beats": [
-    "Same night, seconds later; same clothes, chain, empty hands.",
-    "Left rail, forward to aft: Antony, Raghavan, Babu, Sasi; Aashaan at the wheel (so no 'call Aashaan').",
-    "Fire ahead-left of the boat, ~150 m, Selvan beside it; lantern light from aft.",
-    "sh06: Antony looks LEFT of lens to Raghavan and Babu. sh07: camera looks AFT at Raghavan, eyeline RIGHT."
+    "Previous frames: s23-sh01 and sh02 (fire a tiny far light, left horizon), s23-sh05 (men at the left rail).",
+    "Fire never closer than the horizon (~500 m) until a shot shows the uru closing in.",
+    "Antony nearest the bow; Raghavan, Babu, Sasi aft; Aashaan at the wheel.",
+    "Raghavan and Babu attached and placed, so no invented men; no lantern on the rail."
    ],
    "refs": "planning only; the frame itself goes in the reference slot of s23-sh06"
   },
   {
-   "shot": "s23-sh06 v5",
+   "shot": "s23-sh06 v6",
    "time": "8 s",
-   "title": "Antony: \"Bring a rope!\" (push-in)",
+   "title": "Antony: \"Bring a rope!\" (over Raghavan's shoulder)",
    "image": "scenes/showreel/storyboards/sb031-3d-sh06.png",
    "beats": [
-    "3D camera view: from beside Raghavan's head, Antony with the rail and the fire behind him.",
-    "0–3 s he lowers his pointing arm, eyes on Raghavan and Babu just LEFT of the lens.",
-    "3.0–4.2 s \"Bring a rope!\"; 4.2–8 s silent, glance at the fire, grips the rail. Push-in 2.0→1.5 m.",
-    "Voice: Mahendran J."
+    "3D camera view at real distances: Raghavan's back soft at left, Babu's head far left, Antony sharp at centre-right.",
+    "The fire stays a tiny point on the horizon ~500 m off, right of centre (as in s23-sh01/02/05).",
+    "3.0–4.2 s \"Bring a rope!\"; 4.2–8 s silent, nobody moves, he grips the rail. Push-in 2.0 to 1.5 m.",
+    "Exactly three men; only Antony's face. Voice: Mahendran J."
    ],
-   "refs": "ref: s23-sh05 last frame · @antony20 · @burningvallam (bg) · @selvan (bg, small)"
+   "refs": "ref: s23-sh05 last frame · @antony20 · @raghavan (back) · @babu (back) · @burningvallam (tiny, far)"
   },
   {
    "shot": "s23-sh07 v3",

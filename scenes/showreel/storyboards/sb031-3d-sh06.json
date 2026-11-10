@@ -1,8 +1,22 @@
 {
+ "title": "s23-sh06 v6 \u00b7 camera view at real distances (3D)",
+ "subtitle": "Over Raghavan's right shoulder (soft, left) to Antony at the rail; the burning vallam 500 m off is a tiny point right of centre",
+ "out": "scenes/showreel/storyboards/sb031-3d-sh06.png",
  "size": [
   1600,
-  1000
+  900
  ],
+ "eye": [
+  -1.2,
+  4.6,
+  1.65
+ ],
+ "target": [
+  -2.9,
+  6.9,
+  1.55
+ ],
+ "fov": 34,
  "objects": [
   {
    "type": "box",
@@ -58,18 +72,7 @@
     4,
     2.6
    ],
-   "color": "#6b4a2e",
-   "label": "deckhouse (glowing)"
-  },
-  {
-   "type": "figure",
-   "pos": [
-    0,
-    -8.6,
-    0.1
-   ],
-   "color": "#d9534f",
-   "label": "Aashaan (wheel)"
+   "color": "#6b4a2e"
   },
   {
    "type": "figure",
@@ -84,8 +87,8 @@
   {
    "type": "figure",
    "pos": [
-    -2.3,
-    5.4,
+    -2.2,
+    5.2,
     0.1
    ],
    "color": "#f0ad4e",
@@ -94,8 +97,8 @@
   {
    "type": "figure",
    "pos": [
-    -1.6,
-    4.5,
+    -1.5,
+    4.4,
     0.1
    ],
    "color": "#f0ad4e",
@@ -104,65 +107,41 @@
   {
    "type": "figure",
    "pos": [
-    -1.1,
-    3.5,
+    -1.0,
+    3.4,
     0.1
    ],
    "color": "#f0ad4e",
    "label": "Sasi"
   },
   {
-   "type": "cylinder",
+   "type": "box",
    "center": [
-    0,
-    12.5,
-    0.1
+    -250,
+    433,
+    0.5
    ],
-   "radius": 0.2,
-   "height": 2.6,
-   "color": "#4a3522",
-   "label": "bow"
-  },
-  {
-   "type": "cylinder",
-   "center": [
-    0,
+   "size": [
+    7,
     2,
-    0.1
+    1.2
    ],
-   "radius": 0.25,
-   "height": 8,
-   "color": "#5a4430",
-   "label": "mast"
+   "color": "#ff7a1a",
+   "label": "fire ~500 m"
   },
   {
    "type": "box",
    "center": [
-    -26,
-    30,
-    0.4
+    -250,
+    433,
+    3
    ],
    "size": [
-    3,
-    1,
-    0.6
+    1.5,
+    1.5,
+    4
    ],
-   "color": "#ff7a1a",
-   "label": "burning vallam + Selvan"
+   "color": "#5a4a40"
   }
- ],
- "title": "s23-sh06 \u00b7 camera view (3D)",
- "subtitle": "From beside Raghavan's head, looking at Antony with the rail and the fire behind him; Raghavan and Babu just off the left edge",
- "out": "scenes/showreel/storyboards/sb031-3d-sh06.png",
- "eye": [
-  -1.3,
-  5.2,
-  1.6
- ],
- "target": [
-  -2.9,
-  6.9,
-  1.45
- ],
- "fov": 40
+ ]
 }
