@@ -15,6 +15,7 @@ v1.2 (Ananthu, 2026-11-10): the rest of the talk, in two more 15 s generations, 
 - 3tree-b — Antony (looking into her eyes, warm): "ഹാ, പത്തു ദിവസം കഴിഞ്ഞ് രാത്രി കടപ്പുറത്തേക്ക് വാ." · Clara (playful, looking away): "ഞാനെങ്ങുമില്ല. ഞാൻ ഏഴു മണിക്ക് കിടന്നുറങ്ങും." · Antony (mischievous): "എന്നാ ഞാൻ വീട്ടിലേക്ക് വന്ന് ജനലിൽ തട്ടാം." Camera: very slow creep in.
 - 3tree-c — Clara (playful, daring): "തട്ടിക്കോ. എന്നിട്ട് അച്ഛൻ പിടിക്കുമ്പോ അച്ഛനോട് സംസാരിച്ചിരുന്നോ." · Clara (softer, fond, a little reluctant): "നീ എന്നാ പോയിട്ട് വാ. കുട്ടികൾ കാത്തിരിക്കുന്നു, ഞാൻ അങ്ങോട്ട് ചെല്ലട്ടെ." then she stands. Camera: still, then a slow move back and up as she stands.
 v2 (Ananthu, 2026-11-10): 3tree-a v1.1 sounded unnatural and too playful (L115). v2 opens on the two of them, then hard cuts to single close-ups of whoever speaks (fixes lip-sync, L34); delivery written as feelings with a real-conversation voices line. 3tree-b and 3tree-c still use the v1 two-shot style — to be redone the same way once v2 works.
+v2.1 (Ananthu, 2026-11-10): v2 almost worked; added a full ambience bed (sea waves, breeze, crows, distant class laughing, unbroken across cuts) and asked for seamless, flowing replies with no dead air.
 Next: SB018 ("ശ്രദ്ധിച്ചു പോരണം")
 
 ## 3tree-a · v2 — two-shot, then single close-ups: "കാശിക്ക് പോവാണോ?" → "പത്തു ദിവസമോ?" (15 s, six cuts)
@@ -83,9 +84,9 @@ LIGHTING
 Soft dappled shade from the mango leaves on their faces, soft even light; the bright sunlit yard and sea behind them.
 
 AUDIO
-No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds.
+No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds, a rich, living outdoor ambience under the voices.
 Spoken language: Malayalam only. Each speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; each line spoken once.
-Voices: real, conversational speech, as two friends actually talk sitting under a tree — relaxed, at an ordinary speaking volume, natural breaths, words running together the way people really speak, not over-pronounced, not sing-song, not acted. No laughing.
+Voices: real, conversational speech, as two friends actually talk sitting under a tree — relaxed, at an ordinary speaking volume, natural breaths, words running together the way people really speak, not over-pronounced, not sing-song, not acted. No laughing. The talk flows seamlessly: each reply starts naturally, right after the other finishes, the way people answer each other without thinking, with no dead air and no stiff pauses; the voices sit in the same open-air space as the ambience, close and intimate.
 1.7s to 5.1s — Clara (CUT 2): curious, a small smile in her voice, unhurried; "നീ എങ്ങോട്ടാ" plain, a little pause, then "ഈ സഞ്ചിയൊക്കെ എടുത്ത്?", then "കാശിക്ക് പോവാണോ?" lightly, a half-joke, the question rising softly at the end. About 3.3 seconds.
 "നീ എങ്ങോട്ടാ ഈ സഞ്ചിയൊക്കെ എടുത്ത്? കാശിക്ക് പോവാണോ?"
 5.5s to 8.3s — Antony (CUT 3): relaxed and easy, plain, a natural falling end on "പോകുവാ". About 2.7 seconds.
@@ -97,7 +98,12 @@ Voices: real, conversational speech, as two friends actually talk sitting under 
 13.3s to 14.5s — Clara (CUT 6): quiet, a little low, a small worry; the question rising gently on "ദിവസമോ". About 1.2 seconds.
 "പത്തു ദിവസമോ?"
 After her line, nobody speaks.
-SOUND EFFECTS: a breeze in the mango leaves and the palms, distant waves on the beach, crows, the faint click of her bangles; the yard sound continues unbroken across the cuts.
+SOUND EFFECTS (one continuous ambience bed under the whole 15 seconds, unbroken across every cut, at a natural level beneath the voices):
+- The sea: steady waves rolling in and breaking on the beach beyond the wall, the soft hiss of the water running back over the sand, a gentle rhythm every few seconds.
+- The wind: a warm sea breeze in the mango leaves above them and in the palm fronds, rising and falling softly.
+- Life around: crows calling now and then, a few small birds in the tree, a dry leaf falling on the seat, the faint creak of a boat on the sand.
+- The school: from the tuition room behind, far off and faint, the class chattering and laughing softly now and then, as in any village school — heard only in the distance, never close.
+- Close sounds: the faint click of her bangles, the rustle of the leaf in his fingers.
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
@@ -241,3 +247,4 @@ The mango tree and its round seat exactly as @tuitionc6plate. Clara (frame-left)
 
 ## Generation results
 - 3tree-a v1.1 [partial] [camera-exp] Ananthu 2026-11-10: generated; the push-in two-shot worked, but the dialogue sounded unnatural and the playful lines came out over-acted (L115).
+- 3tree-a v2 [partial] [camera-exp] Ananthu 2026-11-10: almost good — the cuts and natural voices worked; needed richer ambient sound (sea, breeze, distant class) and smoother, more seamless replies.
