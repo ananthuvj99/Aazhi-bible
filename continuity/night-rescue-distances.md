@@ -58,3 +58,6 @@ Selvan in the water is beside the burning hull, so he is readable only in the lo
 | s23-sh07 | c6 (beside Antony) | (−2.0, 6.6, 1.6) | aft at Balan, deckhouse 12 m behind him |
 
 The 3D blocking files for this sequence use these coordinates: `scenes/showreel/storyboards/sb031-*.json`.
+
+## Update 2026-11-10 (Ranjith, from the s23-sh06 frames)
+The group stands about **3–4 m in front of the deckhouse front**, at its left side, not 10–15 m forward: in `approved/s23-sh06-frame2.jpg` the deckhouse windows (empty wheel) are right behind Babu, Sasi and Raghavan. From the helm (c3) they are seen through the front windows with their backs to the camera, Antony beyond them facing the wheelhouse. Use this for every later shot of this group.
