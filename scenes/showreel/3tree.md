@@ -21,6 +21,7 @@ v2.3 (Ananthu, 2026-11-10): Antony's line → "ഞാൻ ആശാന്റെ �
 v2.4 (Ananthu, 2026-11-10): v2.3 good except Clara looked elsewhere in her close-ups; every cut now names where the other person sits and locks the eyes on them (L117).
 v2.5 (Ananthu, 2026-11-10): 3tree-a v2.4 approved (W23). 3tree-b rewritten in the same approved style — single close-ups with eyeline lines, natural voices, ambience bed — ending on a silent two-shot; it carries @3treeaend (the approved take's last frame) for continuity.
 v2.6 (Ananthu, 2026-11-10): 3tree-b v2 good but the lines a little playful — v2.1 plain and sincere (Antony simple, Clara a little shy), no teasing words. 3tree-c v2 carries the last two lines (her father, her goodbye) in the same style, ending with Clara walking back to class. Story gap G6 (the window promise is never paid off) is in `storyboard/story-gaps.md`.
+v2.7 (Ananthu, 2026-11-10): 3tree-b v2.1 — the first two lines are kept; the take is cut after Clara's "ഏഴു മണിക്ക് കിടന്നുറങ്ങും". 3tree-c v3 starts from Antony's line, now "എന്നാൽ ഞാൻ രാത്രി വന്ന് ജനലിൽ തട്ടാം." (Ananthu's wording), then Clara's two lines and her exit; continuity from two frames of 3tree-b (@3treebantony, @3treebclara).
 Next: SB018 ("ശ്രദ്ധിച്ചു പോരണം")
 
 ## 3tree-a · v2 — two-shot, then single close-ups: "കാശിക്ക് പോവാണോ?" → "പത്തു ദിവസമോ?" (15 s, six cuts)
@@ -213,60 +214,54 @@ POSITIVE LOCKS
 Continues @3treeaend exactly: same seat under the mango tree, Clara left, Antony right, same clothes, light and bag. CUTS 1–3: hard cuts between single close-ups, each showing only the person speaking — Antony always looking straight at Clara (just left of the lens), Clara looking at Antony (just right of the lens) while she speaks; the beige bag (@antonybag) on his LEFT shoulder. CUT 4: both together, silent. Every cut locked off; the camera never travels between cuts. One speaker per cut; only the speaker's lips move; every word Malayalam. Real, quiet, plain voices and small true feelings — sincere, a little shy, never playful, never teasing, never comic. Nothing drawn or written on the image. Runs the full 15 seconds.
 ```
 
-## 3tree-c · v2 — "അച്ഛനോട് സംസാരിച്ചിരുന്നോ" → "ഞാൻ അങ്ങോട്ട് ചെല്ലട്ടെ", she goes back (15 s, four cuts; continues 3tree-b)
-References: @3treebend (continuity, not the start frame — last frame of the approved 3tree-b, to upload), @tuitionc6plate, @clara20, @antony20, @antonybag · start-image slot empty
+## 3tree-c · v3 — "ജനലിൽ തട്ടാം" → "ഞാൻ അങ്ങോട്ട് ചെല്ലട്ടെ", she goes back (15 s, three cuts; continues 3tree-b from its second line)
+References: @3treebantony, @3treebclara (continuity frames from 3tree-b v2.1, to upload; not the start frame), @tuitionc6plate, @clara20, @antony20, @antonybag · start-image slot empty
 ```
 SCENE
-Mid-morning, 1998, the sandy yard of a village tuition centre at Alappad, Kollam, Kerala, under a big mango tree. This shot continues the previous one straight on (@3treebend): Antony has just said he will come and knock on her window. Clara answers, then says goodbye and goes back to her class. Four short shots edited together, 15 seconds: single close-ups, each showing only that one person, then the two of them together. Every change is a HARD CUT: the picture changes instantly, like a film edit; the camera never travels or turns between shots. A quiet, ordinary moment between two close friends. Only Clara speaks, only in Malayalam.
+Mid-morning, 1998, the sandy yard of a village tuition centre at Alappad, Kollam, Kerala, under a big mango tree. This shot continues the previous one straight on (@3treebantony, @3treebclara): Clara has just said she goes to sleep at seven. Antony answers; Clara answers him, then says goodbye and goes back to her class. Three short shots edited together, 15 seconds: a close-up of Antony, a close-up of Clara, then the two of them together. Every change is a HARD CUT: the picture changes instantly, like a film edit; the camera never travels or turns between shots. A quiet, ordinary moment between two close friends. Only Antony and Clara speak, one at a time, only in Malayalam.
 SPOKEN LANGUAGE: Malayalam only — the exact text in quotes in AUDIO. No English words are spoken.
 
 ACTIVE REFERENCES
-@3treebend (continuity only — not the start frame): the last frame of the previous shot (3tree-b), attached so this shot continues it exactly: the same two people, the same seat, the same light, clothes, hair, bag and positions, Clara on the left and Antony on the right. Match it; do not start on it.
+@3treebantony (continuity only — not the start frame): a frame of Antony from the previous shot — match his face, hair, shirt, chain, bag, the light on him and the background behind him in his close-ups exactly.
+@3treebclara (continuity only — not the start frame): a frame of Clara from the previous shot — match her face, hair, saree, jewellery, the light on her and the background behind her in her close-ups exactly.
 @tuitionc6plate (location, all cuts, background only — not the start frame): exactly this place — the big mango tree with its thick trunk and the round raised laterite seat around it, roots and dry leaves on the sandy ground, the low laterite compound wall behind it with the entry on the RIGHT, palms, a low wall along the beach, white boats on the sand and the sea beyond. 100% matches the reference.
-@clara20 (CUT 1, 3, 4): Clara, about 20, the tuition teacher; black hair in one long thick plait down her back; light sky-blue cotton saree with a thin white border, pallu over her left shoulder, matching blouse; thin gold chain with a small gold cross; thin wooden-bead bangles on her right wrist, gold bangles on her left. 100% matches the reference.
-@antony20 (CUT 2, 4): Antony, 24, short black hair, lavender-grey and white striped short-sleeve shirt, grey-green checked mundu, thin silver chain. 100% matches the reference.
-@antonybag (CUT 2, 4): his large faded beige canvas shoulder bag, one long strap over his LEFT shoulder, the bag resting on the seat at his left hip. 100% matches the reference.
+@clara20 (CUT 2, 3): Clara, about 20, the tuition teacher; black hair in one long thick plait down her back; light sky-blue cotton saree with a thin white border, pallu over her left shoulder, matching blouse; thin gold chain with a small gold cross; thin wooden-bead bangles on her right wrist, gold bangles on her left. 100% matches the reference.
+@antony20 (CUT 1, 3): Antony, 24, short black hair, lavender-grey and white striped short-sleeve shirt, grey-green checked mundu, thin silver chain. 100% matches the reference.
+@antonybag (CUT 1, 3): his large faded beige canvas shoulder bag, one long strap over his LEFT shoulder, the bag resting on the seat at his left hip. 100% matches the reference.
 
 THE STAGING (at the start, the same in every cut)
 Clara and Antony sit on the front edge of the round laterite seat, in front of the trunk, side by side about half a metre apart, each turned a little toward the other: Clara on the LEFT (seen from the front), Antony on the RIGHT with the bag on his far side. Dappled shade from the mango leaves; the bright yard, palms and sea behind them. Nobody else in the yard.
 
 FORMAT MODE
-Four cuts, 15 seconds in all, each a locked-off shot from its own fixed camera position, joined by hard cuts at 4.8s, 6.4s and 11.4s. The video runs the full 15 seconds.
+Three cuts, 15 seconds in all, each a locked-off shot from its own fixed camera position, joined by hard cuts at 3.7s and 12.4s. The video runs the full 15 seconds.
 
-CUT 1 — 0.0s to 4.8s — Clara alone
-OPTICS: medium close-up from mid-chest up, 50°, Clara's face filling a third of the frame height; the yard and sea softly out of focus behind her. Only Clara in the frame.
-CAMERA: at her eye level, about 1.2 m from her, placed right beside Antony's head, locked off. Antony sits just off the right edge of the frame, so Clara's head is turned a little to frame-right, toward him.
-EYELINE: Clara looks straight into Antony's eyes, about 15 degrees to the right of the lens, the whole cut — never away, never into the lens.
-ACTION: 0.0s to 0.5s — she looks at him, calm. 0.5s to 4.5s — she says her line to him, head steady, simply, in her ordinary voice, a faint smile. 4.5s to 4.8s — she keeps looking at him, mouth closed.
-
-HARD CUT at 4.8s.
-
-CUT 2 — 4.8s to 6.4s — Antony alone, silent
-OPTICS: medium close-up from mid-chest up, 50°, Antony's face filling a third of the frame height, the bag strap on his left shoulder; the trunk and palms softly out of focus behind him. Only Antony in the frame.
+CUT 1 — 0.0s to 3.7s — Antony alone
+OPTICS: medium close-up from mid-chest up, 50°, Antony's face filling a third of the frame height, the bag strap on his left shoulder; the trunk and palms softly out of focus behind him, exactly as in @3treebantony. Only Antony in the frame.
 CAMERA: at his eye level, about 1.2 m from him, placed right beside Clara's head, locked off. Clara sits just off the left edge of the frame.
-EYELINE: Antony looks at Clara, just left of the lens.
-ACTION: he looks down for a moment with a quiet smile, then back at her. His mouth stays closed; he says nothing.
+EYELINE: Antony looks straight into Clara's eyes, about 15 degrees to the left of the lens, the whole cut, never into the lens.
+ACTION: 0.0s to 0.4s — he looks at her a moment. 0.4s to 3.3s — he says his line, head steady, simply and calmly, as a plain fact; a faint smile in his eyes only. 3.3s to 3.7s — he holds her look, mouth closed.
 
-HARD CUT at 6.4s.
+HARD CUT at 3.7s.
 
-CUT 3 — 6.4s to 11.4s — Clara alone
-OPTICS and CAMERA: exactly as CUT 1. Only Clara in the frame.
-EYELINE: as CUT 1 — Clara looks straight into Antony's eyes, just right of the lens, except one short glance past the camera toward the school at 6.4s to 6.8s.
-ACTION: 6.4s to 6.8s — she glances once past the camera toward the school, then back to him; her face softens. 6.8s to 11.0s — she says her line to him, head steady, softly, warm and a little reluctant to go. 11.0s to 11.4s — she holds his look, mouth closed.
+CUT 2 — 3.7s to 12.4s — Clara alone
+OPTICS: medium close-up from mid-chest up, 50°, Clara's face filling a third of the frame height; the yard and sea softly out of focus behind her, exactly as in @3treebclara. Only Clara in the frame.
+CAMERA: at her eye level, about 1.2 m from her, placed right beside Antony's head, locked off. Antony sits just off the right edge of the frame, so Clara's head is turned a little to frame-right, toward him.
+EYELINE: Clara looks straight into Antony's eyes, about 15 degrees to the right of the lens, while she speaks — never into the lens. Only at 8.0s to 8.4s, between her two lines, she glances once past the camera toward the school, then back to him.
+ACTION: 3.7s to 3.9s — she looks at him, calm. 3.9s to 7.9s — she says her first line to him, head steady, simply, a faint smile. 7.9s to 8.4s — a short pause: she glances past the camera toward the school, and her face softens. 8.4s to 12.1s — she looks back at him and says her second line, head steady, softly, warm and a little reluctant to go. 12.1s to 12.4s — she holds his look, mouth closed.
 
-HARD CUT at 11.4s.
+HARD CUT at 12.4s.
 
-CUT 4 — 11.4s to 15.0s — the two of them, silent
+CUT 3 — 12.4s to 15.0s — the two of them, silent
 OPTICS: medium-wide two-shot, 47°, the seat, the trunk and the sea behind. No lens flare.
 CAMERA: eye level of the seated pair, 1.1 m, about 4 m in front of them, locked off.
-ACTION: 11.4s to 12.6s — Clara stands up from the seat and settles the pallu on her left shoulder; Antony stays seated, looking up at her. 12.6s to 15.0s — she gives him one last small look and walks back toward the school, which is behind the camera: she comes toward the camera and goes out of the frame on the lower right; Antony watches her go, the leaf in his fingers. Nobody speaks.
+ACTION: 12.4s to 13.4s — Clara stands up from the seat and settles the pallu on her left shoulder; Antony stays seated, looking up at her. 13.4s to 15.0s — she gives him one last small look and walks back toward the school, which is behind the camera: she comes toward the camera and goes out of the frame on the lower right; Antony watches her go. Nobody speaks.
 
 DIALOGUE RULES
 Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
 While a line is spoken, the speaker is the only person in the frame.
 
 PERFORMANCE
-Real people, not actors: an ordinary, quiet goodbye between two close friends. Clara: simple and calm, a faint smile; then softer, she doesn't really want to go. Antony: quiet, watching her. No teasing, no jokes in the voice, no big smiles. Small, true feelings in the eyes; light emotions only, never over-expressive, never playful, never comic. In the close-ups each looks at the other just beside the lens, never into it.
+Real people, not actors: an ordinary, quiet goodbye between two close friends. Antony: simple and calm. Clara: simple, a faint smile; then softer, she doesn't really want to go. No teasing, no jokes in the voice, no big smiles. Small, true feelings in the eyes; light emotions only, never over-expressive, never playful, never comic. In the close-ups each looks at the other just beside the lens, never into it.
 
 LIGHTING
 Soft dappled shade from the mango leaves on their faces, soft even light; the bright sunlit yard and sea behind them.
@@ -275,9 +270,11 @@ AUDIO
 No music at all — no score, no background music, no song, no humming, and no cinematic sound design: no riser, no whoosh, no swell, no transition sound. Only natural, real-world sounds, a rich, living outdoor ambience under the voices.
 Spoken language: Malayalam only. Each speaks the exact Malayalam words in quotes, in everyday Kollam coastal Malayalam pronunciation, and nothing else. Lip-sync exact; every word on camera; each line spoken once.
 Voices: real, conversational speech, as two friends actually talk sitting under a tree — relaxed, at an ordinary speaking volume, natural breaths, words running together the way people really speak, not over-pronounced, not sing-song, not acted. Clara and Antony do not laugh. The talk flows seamlessly: each reply starts naturally, right after the other finishes, the way people answer each other without thinking, with no dead air and no stiff pauses; the voices sit in the same open-air space as the ambience, close and intimate.
-0.5s to 4.5s — Clara (CUT 1): her ordinary voice, calm and simple, a faint smile in it but no teasing; "തട്ടിക്കോ" short and easy, a small pause, then the rest even and natural, a gentle falling end on "സംസാരിച്ചിരുന്നോ". About 4 seconds.
+0.4s to 3.3s — Antony (CUT 1): calm and plain, his ordinary voice, said simply; a small pause after "എന്നാൽ", then even, a natural falling end on "തട്ടാം". No teasing in the voice. About 2.9 seconds.
+"എന്നാൽ ഞാൻ രാത്രി വന്ന് ജനലിൽ തട്ടാം."
+3.9s to 7.9s — Clara (CUT 2): her ordinary voice, calm and simple, a faint smile in it but no teasing; "തട്ടിക്കോ" short and easy, a small pause, then the rest even and natural, a gentle falling end on "സംസാരിച്ചിരുന്നോ". About 4 seconds.
 "തട്ടിക്കോ. എന്നിട്ട് അച്ഛൻ പിടിക്കുമ്പോ അച്ഛനോട് സംസാരിച്ചിരുന്നോ."
-6.8s to 11.0s — Clara (CUT 3): soft and warm, unhurried, a little reluctant; "നീ എന്നാ പോയിട്ട് വാ" gentle, a small pause, then "കുട്ടികൾ കാത്തിരിക്കുന്നു, ഞാൻ അങ്ങോട്ട് ചെല്ലട്ടെ" quiet and plain, falling softly at the end. About 4.2 seconds.
+8.4s to 12.1s — Clara (CUT 2): soft and warm, unhurried, a little reluctant; "നീ എന്നാ പോയിട്ട് വാ" gentle, a small pause, then "കുട്ടികൾ കാത്തിരിക്കുന്നു, ഞാൻ അങ്ങോട്ട് ചെല്ലട്ടെ" quiet and plain, falling softly at the end. About 3.7 seconds.
 "നീ എന്നാ പോയിട്ട് വാ. കുട്ടികൾ കാത്തിരിക്കുന്നു, ഞാൻ അങ്ങോട്ട് ചെല്ലട്ടെ."
 After her line, nobody speaks.
 SOUND EFFECTS (one continuous ambience bed under the whole 15 seconds, unbroken across every cut, at a natural level beneath the voices):
@@ -295,7 +292,7 @@ Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame di
 - Texture: very fine, organic film-like grain; a true film look.
 
 POSITIVE LOCKS
-Continues @3treebend exactly: same seat under the mango tree, Clara left, Antony right, same clothes, light and bag. CUT 1 and CUT 3: Clara alone in close-up, looking straight at Antony (just right of the lens) while she speaks. CUT 2: Antony alone, silent, mouth closed. CUT 4: both together; Clara stands and walks back toward the school, out of the frame on the lower right (the way they came in); Antony stays seated. The beige bag (@antonybag) on his LEFT shoulder. Every cut locked off; the camera never travels between cuts. Only Clara speaks; every word Malayalam. Real, quiet, plain voices and small true feelings, never playful, never teasing, never comic. Nothing drawn or written on the image. Runs the full 15 seconds.
+Continues the previous shot exactly (@3treebantony, @3treebclara): same seat under the mango tree, Clara left, Antony right, same faces, clothes, light and bag. CUT 1: Antony alone in close-up, looking straight at Clara (just left of the lens). CUT 2: Clara alone in close-up, looking straight at Antony (just right of the lens) while she speaks. CUT 3: both together; Clara stands and walks back toward the school, out of the frame on the lower right; Antony stays seated. The beige bag (@antonybag) on his LEFT shoulder. Every cut locked off; the camera never travels between cuts. One speaker per cut; only the speaker's lips move; every word Malayalam. Real, quiet, plain voices and small true feelings, never playful, never teasing, never comic. Nothing drawn or written on the image. Runs the full 15 seconds.
 ```
 
 ## Generation results
@@ -304,3 +301,4 @@ Continues @3treebend exactly: same seat under the mango tree, Clara left, Antony
 - 3tree-a v2.3 [partial] [camera-exp] Ananthu 2026-11-10: voices and pronunciation good; Antony looked at Clara, but Clara looked somewhere else while speaking in her close-ups (L117).
 - 3tree-a v2.4 [approved] [camera-exp] Ananthu 2026-11-10: wide two-shot then single close-ups; Clara now looks at Antony; natural voices and ambience worked (W23).
 - 3tree-b v2 [partial] [camera-exp] Ananthu 2026-11-10: picture and cuts good; the lines still a little playful (L115) — v2.1 plain and sincere.
+- 3tree-b v2.1 [partial] [camera-exp] Ananthu 2026-11-10: the first two lines (Antony's beach line, Clara's 'I sleep at seven') are good and kept; the window line is redone in 3tree-c v3.
