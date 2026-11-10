@@ -72,7 +72,7 @@ def main(path):
     d.text((mx + mw / 2 - 120, my + 5), "LEFT RAIL (sea side)", font=F(22, True), fill="white")
     d.rectangle([mx + 20, my + mh - 200, mx + 260, my + mh - 20], fill="#7a5233")
     d.text((mx + 45, my + mh - 130), "DECKHOUSE", font=F(26, True), fill="white")
-    d.text((mx + 40, my + mh - 95), "(Aashaan at the wheel)", font=F(20), fill="white")
+    d.text((mx + 40, my + mh - 95), J.get("deckhouse_note", "(Aashaan at the wheel)"), font=F(20), fill="white")
     d.rectangle([mx + 250, my + mh - 170, mx + 270, my + mh - 120], fill="#ffd23f")
     d.text((mx + 280, my + mh - 175), "door", font=F(22, True), fill="#7a5a00")
     d.text((mx + mw - 120, my + mh / 2 - 15), "BOW →", font=F(28, True), fill=INK)
