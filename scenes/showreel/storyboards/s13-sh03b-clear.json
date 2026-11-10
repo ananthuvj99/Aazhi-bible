@@ -1,9 +1,9 @@
 {
- "title": "s13-sh03b · Antony: \"Aashaan, here I am!\"",
- "subtitle": "8 seconds · one line (Mahendran J) · right after he steps off the gangplank · Cochin, mid-morning",
+ "title": "s13-sh03b v2 · Antony calls to Aashaan: \"Aashaane, njan ethitto!\"",
+ "subtitle": "8 seconds · one line (Mahendran J) · right after he comes over the side rail and turns to the bow · Cochin, mid-morning",
  "out": "scenes/showreel/storyboards/s13-sh03b-clear.png",
  "frame": "scenes/showreel/approved/s13-sh02-frame.jpg",
- "frame_note": "(the shot before: Antony reaching the gangplank)",
+ "frame_note": "(the shot before s13-sh03c: the side gangplank he comes up)",
  "frame_tags": [
   {
    "text": "Antony (bag on LEFT shoulder)",
@@ -42,32 +42,41 @@
    ]
   }
  ],
- "frame_caption": "This shot: MCU of Antony on deck by the deckhouse, quay behind him at the right; he calls to Aashaan (just left of the lens).",
+ "frame_caption": "MCU of Antony by the deckhouse, facing the camera; quay-side rail, gangplank top and quay behind him at the RIGHT.",
  "map_people": [
   {
    "name": "Antony",
-   "x": 290,
-   "y": 470,
+   "x": 310,
+   "y": 90,
    "color": "#e8892b",
    "text_color": "#e8892b"
   },
   {
-   "name": "Aashaan",
-   "x": 520,
-   "y": 330,
-   "color": "#d9534f"
+   "name": "Aashaan (mast)",
+   "x": 470,
+   "y": 260,
+   "color": "#d9534f",
+   "dy": 10
+  },
+  {
+   "name": "crew (heard only)",
+   "x": 780,
+   "y": 380,
+   "color": "#2e9e5b"
   }
  ],
  "map_arrows": [],
  "map_camera": {
-  "x": 480,
-  "y": 330,
-  "label": "camera beside Aashaan"
+  "x": 440,
+  "y": 200,
+  "label": "camera beside Aashaan, looks aft",
+  "turn": 0
  },
  "map_notes": [
-  "quay + gangplank:",
-  "on the uru's right side here",
-  "(c1 view: quay beyond the RIGHT rail)"
+  "quay + gangplank: TOP rail on this map",
+  "looking aft from Aashaan, it is",
+  "beyond the RIGHT rail behind Antony",
+  "crew forward of the mast, out of frame"
  ],
  "timeline": [
   {
@@ -104,9 +113,11 @@
   }
  ],
  "platform": [
-  "Reference image: scenes/showreel/approved/s13-sh02-frame.jpg",
+  "Reference image: s13-sh03c v3 last frame if approved, else approved/s13-sh02-frame.jpg",
   "Attach: @antony20 · @urudeckc1plate (background)   (remove everything else)",
   "Duration 8 s · 21:9 · Malayalam · voice Mahendran J        QA score 92 / 100",
-  "Line: ആശാനേ, ഞാൻ എത്തിട്ടോ!  (2.5–4.5 s)"
- ]
+  "Line (2.5–4.5 s): \"Aashaane, njan ethitto!\" (copy the Malayalam script from the prompt)"
+ ],
+ "left_rail_label": "LEFT RAIL = QUAY SIDE (gangplank)",
+ "deckhouse_note": "(empty this morning)"
 }
