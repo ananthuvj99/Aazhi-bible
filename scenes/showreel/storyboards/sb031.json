@@ -1,20 +1,20 @@
 {
  "title": "SB031 · The decision (source scene 23D)",
- "subtitle": "Emotion Resolve · s23-sh05 v3 retake (L92, L113) · s23-sh06 v3 push-in · Ranjith, 2026-11-10",
+ "subtitle": "Emotion Resolve · s23-sh05 v4 (v2 + staggered waking) · s23-sh06 v3 push-in · Ranjith, 2026-11-10",
  "out": "scenes/showreel/storyboards/sb031-storyboard.png",
  "panels": [
   {
-   "shot": "s23-sh05 v3",
+   "shot": "s23-sh05 v4",
    "time": "8 s",
-   "title": "Crew wake and gather (retake: staggered, spread out)",
+   "title": "Crew wake one by one and gather (v2 + staggered)",
    "image": "scenes/showreel/approved/s23-sh05-last.jpg",
    "beats": [
-    "v2 (approved) ended in a row, shown here. v3 retake (L92, L113):",
-    "0–2 s Raghavan wakes first (0.3 s), Babu at 1.0 s, Sasi last (1.6 s); Aashaan turns at 0.6 s.",
-    "2–5.5 s Raghavan to the rail first; Antony runs in at 2.6 s, two steps aft; Babu stops a step short; Aashaan to the doorway at 3.5 s; Sasi comes slowly at 4.0 s.",
-    "End: Raghavan leaning on the rail, Babu behind him, Antony at the rail aft, Sasi well back by the sacks."
+    "Same as approved v2 (its last frame shown); only the waking is staggered (L113, L114).",
+    "Wake: Raghavan 0.3 s, Babu 1.0 s, Sasi 1.6 s (half asleep); Aashaan turns his head inside.",
+    "Up: Raghavan 2.0 s to the rail first, Babu 2.8 s slower, Sasi last at 3.6 s; Antony runs in from the bow; Aashaan leans to the window.",
+    "5.5–8 s all at the right rail staring toward the bow; nobody moves to help."
    ],
-   "refs": "@urudeckc1platenight · @raghavan · @babu · @sasi · @aashaan · @antony20 · ref: s21-sh01 last frame"
+   "refs": "@urudeckc1platenight · @raghavan · @babu · @sasi · @aashaan · @antony20 · ref: s21-sh01 last frame (optional)"
   },
   {
    "shot": "s23-sh06 v3",

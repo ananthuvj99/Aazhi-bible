@@ -1,6 +1,6 @@
 {
  "title": "SB031 \u00b7 The decision \u2014 3D blocking",
- "subtitle": "v3: spread out, not a row \u2014 Raghavan at the rail forward, Babu a step back, Antony at the rail aft, Sasi back by the sacks \u00b7 blue = cameras \u00b7 sh06 push-in camera between Antony and Babu",
+ "subtitle": "v4 end positions (as v2): Sasi, Antony, Babu, Raghavan at the left rail \u00b7 Aashaan at the wheel \u00b7 sh06 push-in camera beside Antony",
  "out": "scenes/showreel/storyboards/sb031-blocking.png",
  "eye": [
   4,
@@ -80,27 +80,27 @@
    "type": "figure",
    "pos": [
     0,
-    -6.4,
+    -9,
     0.1
    ],
    "color": "#d9534f",
-   "label": "Aashaan (doorway)"
+   "label": "Aashaan (wheel)"
   },
   {
    "type": "figure",
    "pos": [
-    -1.6,
-    5.3,
+    -2.4,
+    4.6,
     0.1
    ],
    "color": "#f0ad4e",
-   "label": "Babu (a step back)"
+   "label": "Babu"
   },
   {
    "type": "figure",
    "pos": [
-    -1.2,
-    1.6,
+    -2.5,
+    2.4,
     0.1
    ],
    "color": "#f0ad4e",
@@ -110,7 +110,7 @@
    "type": "figure",
    "pos": [
     -2.6,
-    6.2,
+    5.6,
     0.1
    ],
    "color": "#f0ad4e",
@@ -120,7 +120,7 @@
    "type": "figure",
    "pos": [
     -2.6,
-    4.0,
+    3.4,
     0.1
    ],
    "color": "#3fa34d",
@@ -212,7 +212,7 @@
   {
    "type": "box",
    "center": [
-    -0.6,
+    1.2,
     1.0,
     0.35
    ],
