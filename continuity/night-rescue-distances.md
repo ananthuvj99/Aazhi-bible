@@ -11,7 +11,7 @@ All directions are on the boat: **forward** = toward the bow, **aft** = toward t
 | Beam (deck width) | about 6 m | blocking |
 | Rail height above the deck | about 0.9 m, dark wood, turned posts | `@urudeckc2platenight`, s23-sh05 frame |
 | Deck above the water | about 2–2.5 m at the rail amidships | blocking estimate (rescue shots: the rope must reach the water) |
-| Deckhouse | aft, front face about 9 m aft of amidships, two decks, wheel inside behind the front windows | `@urudeckc1platenight`, s23-sh05 frame |
+| Deckhouse | aft, front face about 9 m aft of amidships, two decks, wheel inside behind the front windows; a ladder down to the hold just inside the door (s23-sh06b) | `@urudeckc1platenight`, s23-sh05 frame |
 | Mast | about 2 m forward of amidships, on the centreline | s23-sh05 frame (left edge of the c1 view) |
 | Bow stem post | about 12.5 m forward of amidships | `@urudeckc2platenight` |
 
@@ -35,7 +35,8 @@ Selvan in the water is beside the burning hull, so he is readable only in the lo
 | Babu | beside/aft of Raghavan, about 1 m (−1.5, 4.4) | checked head towel |
 | Sasi | aft of Babu, about 1 m (−1.0, 3.4) | out of frame in the close shots |
 | Aashaan | at the wheel inside the deckhouse (0, −8.6) | not on deck until a shot shows him coming out |
-| Suresh | asleep below in the hold | first seen in SB032–SB033 coming up the hatch |
+| Suresh | asleep below; comes up the ladder inside the deckhouse and out of its door (s23-sh06b), then to the rail aft of Sasi | cream shirt, green check mundu |
+| Balan | asleep below; comes up after Suresh (s23-sh06b), pushes past to stand close beside Antony, just aft of him (s23-sh07) | light-blue shirt, two pens, white mundu |
 
 ## Light and sky (fixed for the night)
 | Looking | Moon | Lantern | Fire glow |
@@ -51,6 +52,7 @@ Selvan in the water is beside the burning hull, so he is readable only in the lo
 | s23-sh01/02/04 | c2-bow | (0, 8.4, 1.7) | forward over the bow |
 | s23-sh05 | c1-aft | (0, 9, 1.7) | aft at the deckhouse |
 | s23-sh06 | c5-portrail | (−1.2, 4.6, 1.65), pushes in 0.5 m | Antony over Raghavan's right shoulder; the fire beyond |
-| s23-sh07 | c6-raghavan | (−2.0, 6.6, 1.6) | aft at Raghavan |
+| s23-sh06b | c1-aft, tighter | (0, 9, 1.7) | aft at the deckhouse door |
+| s23-sh07 | c6 (beside Antony) | (−2.0, 6.6, 1.6) | aft at Balan, deckhouse 12 m behind him |
 
 The 3D blocking files for this sequence use these coordinates: `scenes/showreel/storyboards/sb031-*.json`.
