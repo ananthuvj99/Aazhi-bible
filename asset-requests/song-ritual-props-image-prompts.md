@@ -1,3 +1,5 @@
+**Not needed for now (Aswanth, 2026-11-10): the prayer events are done without props. Kept in case the prop shots come back.**
+
 # Prop requests — the ritual props for the prayer on deck (SB024, s16b-sh12 to sh14)
 Asked by Aswanth, 2026-11-10. Needed because each prop carries the whole action of its shot (L79). One sheet per prop, so a shot never draws the other two (L27). Make each image, register it on the platform under the ID shown, then add its folder, `card.md` and INDEX row.
 

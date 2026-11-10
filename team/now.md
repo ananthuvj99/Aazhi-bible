@@ -5,4 +5,4 @@ Format: `- Name: shot — what you are doing`
 
 - Ananthu: Scene 3 — SB017 under the mango tree (3tree-a: two-shot talk, Lanka, ten days)
 - Ranjith: SB031 — s23-sh05 approved; s23-sh06 Antony's order (push-in) ready
-- Aswanth: SB024 prayer on deck — new ritual events s16b-sh11 to sh14 (hand on the mast ready; coconut, bow lamp, sea water wait for prop sheets); s16b-sh10 v2 ready
+- Aswanth: SB024 prayer on deck — s16b-sh11 v2 (hands on the mast, seated in the ring) ready; s16b-sh10 v2 ready; more no-prop ring events being planned
