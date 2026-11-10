@@ -153,22 +153,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 137. **CONTINUITY block (L118):** right after ACTIVE REFERENCES, a short CONTINUITY block carried over from the previous approved frame: time, each person's clothes/hair/props/hands, relative positions, the key element, light direction, anything changed on purpose; the delivery repeats it as 'How continuity is kept'.
 136. **No vague far-away person (L117):** close shots name only the people near the camera; a far background person is written only when the frame shows the deck under his feet; the locks say every person is on the deck, inside the rails, with only sea and sky beyond the bulwarks.
 138. **Continuity check before sending (L119):** the shot file has a Continuity check table (element · previous approved frames · this shot) for every person, the key prop's distance and size, light and props; everyone who may appear is attached and placed; nobody is named without being attached or stated out of frame; distances unchanged unless shown changing, checked in a 3D camera view at real distances; head count locked.
-139. **Edge people move; practical light in frame; background from the earlier take (L---
-id: L120
-type: lesson
-category: characters
-shot: s16b-sh15-v4
-author: Aswanth
-date: 2026-11-10
----
-
-**L120 — Men at the frame edges froze, and a lantern written as 'out of frame' was drawn on the deck** (s16b-sh15 v4, partial)
-
-Symptom: Babu and Suresh, seated at the two edges of a close shot, sat like statues while the man in the middle acted. A lantern stood on the planks in front of him, though in the earlier takes it hangs from the mast. His background (bow centred close behind him, boat looking small) did not match the 360 take of the same ring.
-
-Cause: the side men were described only by a state ('eyes closed, serene, soft, keeping the beat') with no timed action of their own, so they got none (as L94 for listeners). The light was written as 'on the mast, behind the camera, out of frame'; the model still needed to show where the warm light came from and put a lantern in view, on the floor. The background was written as 'toward the bow' with no distances.
-
-Rule: 1. Every person in frame, even soft at the edge, gets his own timed movement in the ACTION beats (when he leans, pats, sways, glances). 2. A practical light that lights the faces is shown in frame where the earlier takes show it (here: hanging from the mast at the upper left), with 'one lantern only; the planks are bare'. 3. When a shot repeats a view already seen in a take, describe the background from that take's frame (what is behind him, on which side, how far in metres) and give the deck's width.
-
-Checklist line: item 139 in `rules/pre-delivery-checklist.md`.
-):** every person in frame has his own timed movement in the ACTION beats; the lantern that lights the faces is shown where earlier takes show it, 'one lantern only, planks bare'; a repeated view describes what is behind the actor, on which side and how many metres away, and the deck's width.
+139. **Edge people move; practical light in frame; background from the earlier take (L120):** every person in frame has his own timed movement in the ACTION beats; the lantern that lights the faces is shown where earlier takes show it, with one lantern only and the planks bare; a repeated view describes what is behind the actor, on which side and how many metres away, and the deck width.
