@@ -2,59 +2,59 @@
  "title": "s24-sh01 \u00b7 Aashaan brings the uru in close",
  "subtitle": "8 seconds \u00b7 no dialogue \u00b7 inside the deckhouse \u00b7 the fire grows from ~60 m to ~40 m",
  "out": "scenes/showreel/storyboards/s24-sh01-clear.png",
- "frame": "scenes/showreel/approved/s21-sh02-start.png",
- "frame_note": "(same helm view as before)",
+ "frame": "scenes/showreel/approved/s24-sh01-start.jpg",
+ "frame_note": "(the start image)",
  "frame_tags": [
   {
    "text": "Aashaan",
-   "x": 1150,
-   "y": 1100,
+   "x": 1350,
+   "y": 1150,
    "color": "#d9534f"
   },
   {
    "text": "one lantern",
-   "x": 650,
+   "x": 680,
    "y": 230,
    "color": "#b8860b"
   },
   {
-   "text": "fire appears here (~60 m)",
-   "x": 820,
-   "y": 330,
+   "text": "fire ~60 m",
+   "x": 250,
+   "y": 560,
    "color": "#e2462b"
   }
  ],
  "frame_arrows": [
   {
    "from": [
-    1400,
-    1250
+    1500,
+    1300
    ],
    "to": [
-    1000,
-    1250
+    1100,
+    1300
    ],
    "color": "#7a4fd0",
-   "label": "wheel turned hard left",
+   "label": "hands on, wheel turned hard left",
    "label_at": [
-    1450,
-    1210
+    1300,
+    1380
    ]
   },
   {
    "from": [
-    900,
-    470
+    460,
+    660
    ],
    "to": [
-    1350,
-    470
+    1000,
+    660
    ],
    "color": "#e2462b",
-   "label": "fire slides to the centre, comes closer",
+   "label": "fire slides toward the centre, closer",
    "label_at": [
-    1000,
-    520
+    520,
+    720
    ]
   }
  ],
@@ -147,9 +147,9 @@
   }
  ],
  "platform": [
-  "Reference image: scenes/showreel/approved/s21-sh02-start.png",
+  "Start image slot: scenes/showreel/approved/s24-sh01-start.jpg",
   "Attach: @urudeckc3platenight \u00b7 @aashaan \u00b7 @burningvallam   (remove everything else)",
-  "Duration 8 s \u00b7 16:9 \u00b7 no dialogue        QA score 91 / 100",
+  "Duration 8 s \u00b7 16:9 \u00b7 no dialogue        QA score 89 / 100 (start image 76)",
   "Expressions: Aashaan grim, eyes narrowed on the fire, sweat at the temple; worried glance at 6 s"
  ]
 }
