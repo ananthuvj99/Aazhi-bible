@@ -69,3 +69,6 @@ Every shot is filmed as if on a Sony Venice 2. Every prompt names it once, in ST
 
 ## Continuity block (Ranjith, 2026-11-10, L118)
 Every prompt has a `CONTINUITY (carried over from the previous shot, the reference image)` block right after ACTIVE REFERENCES: time, clothes/hair/props/hands of each person, relative positions, the key element, light direction, deliberate changes; all taken from the previous approved frame or the ledger.
+
+## Continuity check before every prompt (Ranjith, 2026-11-10, L119)
+Compare with the previous approved frames first and fill the shot file's Continuity check table; attach everyone who may appear (with their place in the frame), keep distances and sizes from the earlier shots (checked in a 3D camera view at real distances), and lock the head count.
