@@ -389,10 +389,10 @@ Eye level 1.5 m, on the school side of the mango tree, locked off: the frame sta
 ACTION
 0.0s to 1.0s — The empty yard and the mango tree. Clara and Antony come quickly into the frame from the lower right, from behind the camera: Clara a step ahead, holding Antony's hand, pulling him along; Antony follows, smiling, bag on his left shoulder.
 1.0s to 5.0s — They walk briskly across the sandy yard, still hand in hand, to the mango tree.
-5.0s to 8.0s — At the round seat Clara lets go of his hand and turns to face him in the shade of the tree, a playful look; Antony stops in front of her, smiling, slightly out of breath. Both stand beside the seat, three-quarter to the camera.
+5.0s to 8.0s — At the round seat Clara lets go of his hand and turns to face him in the shade of the tree, a light, amused look; Antony stops in front of her, smiling. Both stand beside the seat, three-quarter to the camera.
 
 PERFORMANCE
-Quick, light and warm: two young adults who know each other well, slipping away from the class for a moment. Nobody speaks; mouths closed. Nobody looks into the camera.
+Quick, light and warm: two young adults who know each other well, stepping away from the class for a moment. Light emotions only, never over-expressive. Nobody speaks; mouths closed. Nobody looks into the camera.
 
 LIGHTING
 Bright mid-morning sun in the yard, dappled shade under the mango tree; soft light on their faces in the shade.
@@ -404,7 +404,7 @@ SOUND EFFECTS: their quick footsteps on the sand and dry leaves, the rustle of h
 
 STYLE
 Photoreal 1998 Kerala period feature film, shot on a Sony Venice 2 full-frame digital cinema camera, like a modern theatrical release:
-- Image: very wide dynamic range — the bright yard through the door and the shaded room hold detail in one frame; clean, noise-free shadows; soft roll-off in the highlights.
+- Image: very wide dynamic range — the bright sunlit yard and the dappled shade under the mango tree hold detail in one frame; clean, noise-free shadows; soft roll-off in the highlights.
 - Colour: graded like a feature film — accurate, natural colour, rich but true skin tones, warm daylight against cool shade, slightly lifted blacks.
 - Motion: 24 frames per second with natural motion blur, like a real film camera.
 - Texture: very fine, organic film-like grain; natural skin; a true film look.
@@ -419,3 +419,4 @@ Starts exactly on @tuitionc6plate, camera locked off. Only Clara and Antony, ent
 - 3door-b1b v2.8 [failed] Ananthu 2026-11-09: rejected by the platform's content filter before rendering; v2.9 reworded (no teasing/playful, no pupils described, no skin or arm's-length words) (L112).
 - 3door-b1b v2.9 [failed] Ananthu 2026-11-10: rejected again after rewording; the approved b2 passed with the same words, so the likely trigger is the class in frame behind her. v3.0: @tuitionboardclass removed, only the wall and window behind Clara, no one else in frame (L112 updated).
 - 3door-b1b v3.0 [failed] Ananthu 2026-11-10: rejected a third time. v3.1 rebuilt on the structure of Ranjith's passed Clara close-up (s11-sh02 v3): @clara20 + @tuitionboardclass (wall and chalkboard edge only), no @3dooraend, Clara alone near the door.
+- 3door-b1b v3.1 [approved] Ananthu 2026-11-10: Clara's reply passed and approved — built on Ranjith's s11-sh02 structure, @clara20 + @tuitionboardclass (wall and chalkboard edge only), no @3dooraend (W22).
