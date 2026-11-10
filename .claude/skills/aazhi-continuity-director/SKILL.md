@@ -44,6 +44,8 @@ Also flag **gaps** — anything the new prompt leaves unstated that the model wi
 
 If two earlier sources disagree with each other, do not choose silently — flag it and ask.
 
+**Story gaps (forward continuity).** Check `storyboard/story-gaps.md` for open gaps on this scene's panels, and read ahead in the storyboard: if a later panel depends on someone being here, seeing something, or a prop being shown (e.g. Balan must be aboard and see the rescue because he later reports it), and this prompt leaves it out, report it as `[STORY GAP] later panel → what it needs here → smallest fix`. Adding the beat changes the action or cast, so it goes to the creator as a question, never a silent fix.
+
 ## Step 3 — Senior director's notes
 
 Read the prompt as a director, not as a checker. Cover, briefly and concretely:

@@ -19,6 +19,16 @@ In Claude Code the repo is the current folder; pull main first.
 4. The scene's panels in `storyboard/aazhi-storyboard.md` (search by panel ID such as SB014, or by ref), then the scene's ledger in `continuity/` and the approved frames of the previous shot in `scenes/<scene>/<shot>/approved/`.
 5. Run `git fetch --all --prune` and `bash tools/pending.sh` to see assets and lessons on the other creators' branches that are not merged yet. If something the scene needs exists there, say who made it and that it is waiting for approval, and apply their unmerged lessons too.
 
+## Step 1b — Story check (every scene, every creator)
+
+The storyboard has gaps: things a later panel relies on that no earlier panel shows (example: Balan later says "we saw it" and uses Antony's rescue of Selvan against him, but no panel put Balan on the uru or showed him watching). Catch them while the scene is being made, when a small beat still costs nothing.
+
+1. Open `storyboard/story-gaps.md` and list every open gap whose panels include this scene. Say each one to the creator with its suggested fix.
+2. Read the scene's panels against the panels that come after them: who must be present here, who must see or hear what, which prop must be shown, because a later panel depends on it. Search the storyboard for each character's name and each key prop to find those later panels.
+3. Also check the other way: does this scene use a fact (a person, a promise, a letter, a place) that no earlier panel set up?
+4. For every new gap, propose the smallest on-screen fix (a person in the background, a glance, an insert of a prop) and add it to `storyboard/story-gaps.md` as `open`, in its own commit (`<Name>: story: …`). When a scene adds the beat, mark the gap `fixed in <shot>`.
+5. Never change the story silently: adding a beat changes the action or cast, so ask the creator first (Approval in `CLAUDE.md`).
+
 ## Step 2 — Split the scene into shots
 
 One camera set-up per shot, 5–8 seconds each. For each shot pick a camera position from the location's `cameras.md` (for example `antonyroom-c2-side`). Keep every camera for one action on the same side of the line of action. If a needed position does not exist yet, propose the next number for that location (never renumber).
@@ -61,6 +71,9 @@ BREAKDOWN — <scene>  ·  <location>  ·  <time of day>  ·  emotion: [tag]
 | Shot | Camera | Attach (ID · mode) | Start frame | Watch for |
 |---|---|---|---|---|
 | s01-sh01 | antonyroom-c1-top | @antonyroomc1plate (full) · @antonyhome (full) | — | L20 bedding |
+
+STORY GAPS (from storyboard/story-gaps.md and this check)
+- G1 · SB030–SB036 · Balan is never shown aboard or watching the rescue → fix: Balan at the rail in the background, watching
 
 REUSED FROM OTHER CREATORS
 - @claramother — made by Ranjith, approved
