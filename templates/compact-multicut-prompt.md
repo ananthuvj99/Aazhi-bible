@@ -40,4 +40,6 @@ POSITIVE LOCKS
 Exactly <N-1> cuts, at <times>. Exactly <count> people, each once, each a different face: <who, where>. <key objects and counts>. <light, background>. Runs the full <N> seconds.
 ```
 
+Uru deck shots: `@urubowplate` (background only) is always in the references, the locks and the Attach line (L131).
+
 Delivery: "People in this shot" (name: ID, role), the Attach line (remove every other attachment, L88), duration and aspect. Fallback if the planner refuses: trim, then drop the background-only plate.
