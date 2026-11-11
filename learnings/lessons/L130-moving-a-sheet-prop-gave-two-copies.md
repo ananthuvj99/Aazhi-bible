@@ -16,3 +16,5 @@ Cause: the sheet image wins for what a character wears (L41). Text that moves a 
 Rule: a prop that the character sheet shows (spectacles, towel, chain, pens) stays exactly where the sheet has it, and the action starts from there ("draws his spectacles out of the neckline of his vest"); then lock the count ("one pair only; none on the table"). If the story needs it elsewhere, change the sheet or make a new look, not the text.
 
 Checklist line: item 150 in `rules/pre-delivery-checklist.md`.
+
+Addition (Aswanth, 2026-11-11): say the count out loud everywhere the prop appears: "his ONE and only pair of spectacles" in the reference line, "his one pair" in the action beat, "now the same pair is on his face; his neckline and pocket are empty" after he uses it, "no other spectacles anywhere in the room" in the set, and "ONLY ONE pair in the whole shot" in the locks.
