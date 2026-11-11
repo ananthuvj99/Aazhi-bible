@@ -42,7 +42,9 @@ Selvan in the water is beside the burning hull, so he is readable only in the lo
 | Balan | asleep below; comes up after Suresh (s23-sh06b), pushes past to stand close beside Antony, just aft of him (s23-sh07) | light-blue shirt, two pens, white mundu |
 
 ## Light and sky (fixed for the night)
-Moon shape (L139, Ranjith 2026-11-11): a thin crescent lying almost flat, its lit edge along the bottom and both horns pointing up; the same shape and tilt in every shot. Earlier prompts said "half moon": from now on write the crescent this way.
+**Full-moon night (Ranjith, 2026-11-11): supersedes the half moon and the crescent note of L139 for this sequence.** Look reference: `continuity/night-fullmoon-look/` (frames from Ranjith's reference video). Write in every LIGHTING block:
+"A clear full-moon night: a bright, perfectly round full moon; deep navy-blue sky and a deep blue sea with a silver moon path glittering on the water; cool silver-blue moonlight across the deck so wood, ropes, faces and clothes are clearly readable, soft moon shadows; the only warm light is the small orange lantern glow (deckhouse windows and door, or a lantern on the deck). Not black, not grey: blue, readable and calm."
+The moon keeps the same side as before in each view (table below), now full and round.
 
 | Looking | Moon | Lantern | Fire glow |
 |---|---|---|---|
