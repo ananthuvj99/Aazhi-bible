@@ -44,14 +44,20 @@ Selvan in the water is beside the burning hull, so he is readable only in the lo
 ## Light and sky (fixed for the night)
 **Full-moon night (Ranjith, 2026-11-11): supersedes the half moon and the crescent note of L139 for this sequence.** Look reference: `continuity/night-fullmoon-look/` (frames from Ranjith's reference video). Write in every LIGHTING block:
 "A clear full-moon night: a bright, perfectly round full moon; deep navy-blue sky and a deep blue sea with a silver moon path glittering on the water; cool silver-blue moonlight across the deck so wood, ropes, faces and clothes are clearly readable, soft moon shadows; the only warm light is the small orange lantern glow (deckhouse windows and door, or a lantern on the deck). Not black, not grey: blue, readable and calm."
-The moon keeps the same side as before in each view (table below), now full and round.
+**Where the moon is (one place in the sky for the whole night, L142):** the full moon stands high, AHEAD of the uru and to the RIGHT (starboard) of the bow, about 35 degrees above the sea. Every view takes its moon from that one place:
+- looking forward (bow c2, helm c3): moon in the sky, upper RIGHT, with its silver path on the water at the right;
+- looking aft (c1, c6): the moon is BEHIND the camera, out of frame: no moon in the sky and no moon path; its light falls from behind the camera onto the deckhouse front, shadows fall away toward the deckhouse;
+- looking out over the left rail (c5, to port): the moon is behind the camera and to the right, out of frame; the sea there has no moon path;
+- looking out over the right rail (to starboard): the moon is in the sky ahead-left of that view.
+The LIGHTING line above says "a silver moon path glittering on the water" only when the camera looks forward; for aft and port views write "the full moon behind the camera, out of frame; no moon in the sky; its light from behind the camera".
 
 | Looking | Moon | Lantern | Fire glow |
 |---|---|---|---|
-| forward from the bow (c2) | half moon high on the RIGHT, its path on the water at the right | far behind the camera | far left on the horizon |
-| aft from the main deck (c1) | half moon high on the LEFT | deckhouse windows and door, centre | beyond the right-hand (left-side) rail, faint |
-| out over the left rail (c5) | behind the camera, out of frame | from aft, off frame left | right of centre on the horizon |
-| aft along the left rail (c6) | out of frame | deckhouse glow far behind the person | faint, from the rail side |
+| forward from the bow (c2) | full moon high on the RIGHT, its path on the water at the right | far behind the camera | far left on the horizon |
+| aft from the main deck (c1) | behind the camera, out of frame; no moon, no moon path | deckhouse windows and door, centre | beyond the right-hand (left-side) rail, faint |
+| out over the left rail (c5) | behind the camera and to the right, out of frame | from aft, off frame left | right of centre on the horizon |
+| aft along the left rail (c6) | behind the camera, out of frame | deckhouse glow far behind the person | faint, from the rail side |
+| forward through the wheelhouse windows (c3) | full moon high on the RIGHT, its path on the water | the lantern inside, warm | ahead-left on the horizon |
 
 ## Cameras used (see `locations/uru-deck/cameras.md`)
 | Shot | Camera | Position (x, y, height) | Looking at |
