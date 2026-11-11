@@ -27,3 +27,20 @@ Drift to write away in prompts: gentle swell; keep the moon sides; weathered woo
 @urudeckc2platenight v2 · 89/100 · Matches with small drift
 ✅ Same bow layout; more natural texture; moon high RIGHT with its path; graded to match
 ⚠️ Very dark foreground; say "faint moonlight on the planks" in prompts
+
+## Full moon (2026-11-11, Ranjith): GPT Image 2.6 relights of the night plates, look from Ranjith's reference video (`continuity/night-fullmoon-look/`)
+Moon place for the whole night: high, ahead and right of the bow (L142, night sheet).
+
+@urudeckc1platefullmoon · 92/100 · Matches
+✅ Same deckhouse, windows, lantern glow, mast, sacks and bedding as @urudeckc1platenight; blue full-moon light, everything readable
+✅ Moon behind the camera (no moon, no moon path), as the moon's one place requires; first version showed a moon and was remade (L142)
+
+@urudeckc2platefullmoon · 94/100 · Matches
+✅ Same stem post, rail, bitts and rope; round full moon high RIGHT with its path; deck readable
+
+@urudeckc3platefullmoon · 90/100 · Matches
+✅ Same wheel, lantern, compass shelf; the moon moved from the left window to the right one to match the forward view (the half-moon plate had it on the left)
+
+@s21sh02startfullmoon · 90/100 · Matches
+✅ Same Aashaan from behind, both hands on the spokes, towel on his left shoulder; Antony small at the bow; moon high RIGHT through the windows
+⚠️ The wheel stays the larger size Ranjith kept earlier

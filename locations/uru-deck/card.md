@@ -8,7 +8,7 @@ status: approved
 image: plates/urudeck-c1-plate.png
 topview: none yet
 used_in: [s13-sh04, s13-sh05, s21-sh01, s21-sh02, s21-sh03]
-continuity_score: {urudeckc1plate: 90, urudeckc2plate: 88, urudeckc1platenight: 88, urudeckc2platenight: 89, urudeckc3platenight: 87}
+continuity_score: {urudeckc1plate: 90, urudeckc2plate: 88, urudeckc1platenight: 88, urudeckc2platenight: 89, urudeckc3platenight: 87, urudeckc1platefullmoon: 92, urudeckc2platefullmoon: 94, urudeckc3platefullmoon: 90}
 ---
 
 # The uru's deck
@@ -36,3 +36,4 @@ The uru lies with the quay on one side: looking aft (c1) the quay is RIGHT; look
 
 ## Not yet made
 - Ananthu's SB023 places Aashaan at a wheel at the stern with the stern rail and wake behind him; with the wheel inside the deckhouse (above), SB023 should put him inside at the wheel with the front windows and the sea ahead (tell Ananthu).
+- Full moon (Ranjith, 2026-11-11): `plates/urudeck-c1-plate-fullmoon.png` (@urudeckc1platefullmoon, moon behind the camera), `plates/urudeck-c2-plate-fullmoon.png` (@urudeckc2platefullmoon, full moon high RIGHT), `plates/urudeck-c3-plate-fullmoon.png` (@urudeckc3platefullmoon, full moon high RIGHT through the windows). The half-moon night plates are retired. Moon place: night sheet, L142.
