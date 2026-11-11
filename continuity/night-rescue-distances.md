@@ -42,6 +42,8 @@ Selvan in the water is beside the burning hull, so he is readable only in the lo
 | Balan | asleep below; comes up after Suresh (s23-sh06b), pushes past to stand close beside Antony, just aft of him (s23-sh07) | light-blue shirt, two pens, white mundu |
 
 ## Light and sky (fixed for the night)
+Moon shape (L139, Ranjith 2026-11-11): a thin crescent lying almost flat, its lit edge along the bottom and both horns pointing up; the same shape and tilt in every shot. Earlier prompts said "half moon": from now on write the crescent this way.
+
 | Looking | Moon | Lantern | Fire glow |
 |---|---|---|---|
 | forward from the bow (c2) | half moon high on the RIGHT, its path on the water at the right | far behind the camera | far left on the horizon |
