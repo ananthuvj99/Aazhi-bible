@@ -42,3 +42,4 @@ The uru lies with the quay on one side: looking aft (c1) the quay is RIGHT; look
 - `@urudeckc3platefullmoon2` (inside the deckhouse behind the wheel) does not look practical: the spoked wheel looks like it is set on a block of wood, not like a real ship's wheel fixed to a working helm. The INDEX row is marked NEEDS REMAKE.
 - Aswanth is making a new inside view of the helm room and will register it on his account; the new plate, its file and its ID will be added here and in `INDEX.md` when it is ready.
 - Until then, do not start new helm shots from this plate. Shots already made with it are not affected by this note.
+- Update 2026-11-12: Aswanth's new helm-room plate is registered on his account as `@wheelhouse` (used in s16b-sh25). The image file will be added to `plates/` when he shares it; teammates on other accounts need to upload it to their own account.
