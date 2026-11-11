@@ -2,23 +2,29 @@
  "left_rail_label": "LEFT RAIL (port)",
  "deckhouse_note": "(Aashaan at the wheel)",
  "duration": 8,
- "title": "s21-sh03 v3 · SB027 The night watch: Antony keeps watch (full moon)",
+ "title": "s21-sh03 v4 · SB027 The night watch: Antony keeps watch (our bow: @urubowplate)",
  "subtitle": "8 s · silent · bow, looking FORWARD · full moon high RIGHT with its path · Antony alone",
  "out": "scenes/showreel/storyboards/s21-sh03-clear.png",
- "frame": "locations/uru-deck/plates/urudeck-c2-plate-fullmoon.png",
- "frame_note": "(plate @urudeckc2platefullmoon)",
+ "frame": "locations/uru-deck/plates/urubow-plate.png",
+ "frame_note": "(plate @urubowplate, Aswanth's bow)",
  "frame_tags": [
   {
    "text": "Antony stands here, back 3/4 to camera",
-   "x": 560,
+   "x": 1300,
    "y": 330,
    "color": "#e8892b"
   },
   {
-   "text": "full moon + path",
-   "x": 900,
-   "y": 80,
+   "text": "moon high right, just off frame",
+   "x": 1450,
+   "y": 40,
    "color": "#c9a227"
+  },
+  {
+   "text": "lantern at the mast foot",
+   "x": 620,
+   "y": 560,
+   "color": "#d9534f"
   }
  ],
  "frame_arrows": [],
@@ -71,8 +77,8 @@
   }
  ],
  "platform": [
-  "Attach: @urudeckc2platefullmoon · @antony20   (remove everything else)",
+  "Attach: @urubowplate · @antony20   (remove everything else)",
   "Duration 8 s · 21:9 · no dialogue · full-moon night",
-  "Watch for: half moon, near-black deck, Antony frozen"
+  "Watch for: a tall stem post with turned rails (old bow), near-black deck, Antony frozen"
  ]
 }
