@@ -1,0 +1,113 @@
+{
+ "left_rail_label": "LEFT RAIL (port)",
+ "deckhouse_note": "(Aashaan at the wheel)",
+ "duration": 8,
+ "title": "s21-sh02 v5 · SB027 The night watch: Aashaan at the wheel (full moon)",
+ "subtitle": "8 s · silent · from directly behind Aashaan · full moon in the RIGHT window · Antony small at the bow",
+ "out": "scenes/showreel/storyboards/s21-sh02-clear.png",
+ "frame": "scenes/showreel/approved/s21-sh02-start-fullmoon.png",
+ "frame_note": "(START image @s21sh02startfullmoon)",
+ "frame_tags": [
+  {
+   "text": "Aashaan, back to camera",
+   "x": 560,
+   "y": 560,
+   "color": "#d9534f"
+  },
+  {
+   "text": "Antony at the bow",
+   "x": 560,
+   "y": 180,
+   "color": "#e8892b"
+  },
+  {
+   "text": "full moon",
+   "x": 920,
+   "y": 150,
+   "color": "#c9a227"
+  }
+ ],
+ "frame_arrows": [],
+ "frame_caption": "Starts exactly on the start image; he eases the wheel a quarter turn and back, never turns round.",
+ "map_people": [
+  {
+   "name": "Aashaan",
+   "x": 150,
+   "y": 330,
+   "color": "#d9534f",
+   "text_color": "#ffffff"
+  },
+  {
+   "name": "Antony (bow)",
+   "x": 930,
+   "y": 300,
+   "color": "#e8892b"
+  },
+  {
+   "name": "MOON (ahead-right)",
+   "x": 980,
+   "y": 500,
+   "color": "#c9a227"
+  }
+ ],
+ "map_arrows": [],
+ "map_camera": {
+  "x": 150,
+  "y": 280,
+  "label": "c3, behind Aashaan, looks forward",
+  "turn": 0
+ },
+ "map_notes": [
+  "looking forward: moon in the RIGHT window",
+  "with its silver path on the sea"
+ ],
+ "timeline": [
+  {
+   "who": "Aashaan",
+   "color": "#d9534f",
+   "segments": [
+    [
+     0,
+     2,
+     "holds the wheel"
+    ],
+    [
+     2,
+     6,
+     "quarter turn and back"
+    ],
+    [
+     6,
+     8,
+     "steady"
+    ]
+   ]
+  },
+  {
+   "who": "Antony",
+   "color": "#e8892b",
+   "segments": [
+    [
+     0,
+     2,
+     "at the rail"
+    ],
+    [
+     2,
+     6,
+     "shifts weight"
+    ],
+    [
+     6,
+     8,
+     "watching"
+    ]
+   ]
+  }
+ ],
+ "platform": [
+  "Start image: @s21sh02startfullmoon · Attach: @aashaan · @antony20   (remove everything else)",
+  "Duration 8 s · 21:9 · no dialogue · full-moon night",
+  "Watch for: Aashaan turning round, face seen, moon on the left"
+ ]
+}

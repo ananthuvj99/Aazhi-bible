@@ -1,0 +1,126 @@
+{
+ "left_rail_label": "LEFT RAIL (port)",
+ "deckhouse_note": "(Aashaan at the wheel)",
+ "duration": 8,
+ "title": "s21-sh01 v3 · SB027 The night watch: the sleeping deck (full moon)",
+ "subtitle": "8 s · silent · looking AFT from the main deck · moon BEHIND the camera · three sleepers, Aashaan at the wheel inside",
+ "out": "scenes/showreel/storyboards/s21-sh01-clear.png",
+ "frame": "locations/uru-deck/plates/urudeck-c1-plate-fullmoon.png",
+ "frame_note": "(plate @urudeckc1platefullmoon: no moon in this view)",
+ "frame_tags": [
+  {
+   "text": "Aashaan at the wheel (inside)",
+   "x": 540,
+   "y": 120,
+   "color": "#d9534f"
+  },
+  {
+   "text": "Raghavan / Babu / Sasi asleep on the mats",
+   "x": 560,
+   "y": 420,
+   "color": "#2e9e5b"
+  },
+  {
+   "text": "moonlight from behind the camera",
+   "x": 20,
+   "y": 20,
+   "color": "#2b6cb0"
+  }
+ ],
+ "frame_arrows": [],
+ "frame_caption": "Locked wide looking aft; blue full-moon light falls from behind the camera onto the deckhouse front and the sleepers.",
+ "map_people": [
+  {
+   "name": "Aashaan (wheel)",
+   "x": 150,
+   "y": 330,
+   "color": "#d9534f",
+   "text_color": "#ffffff"
+  },
+  {
+   "name": "Raghavan",
+   "x": 330,
+   "y": 330,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Babu",
+   "x": 360,
+   "y": 420,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "Sasi (by sacks)",
+   "x": 330,
+   "y": 170,
+   "color": "#2e9e5b"
+  },
+  {
+   "name": "MOON (ahead-right)",
+   "x": 980,
+   "y": 500,
+   "color": "#c9a227"
+  }
+ ],
+ "map_arrows": [],
+ "map_camera": {
+  "x": 600,
+  "y": 260,
+  "label": "c1, looks aft",
+  "turn": 0
+ },
+ "map_notes": [
+  "moon ahead-right of the bow:",
+  "behind this camera, never in frame",
+  "Antony at the bow (off frame)"
+ ],
+ "timeline": [
+  {
+   "who": "Sleepers",
+   "color": "#2e9e5b",
+   "segments": [
+    [
+     0,
+     2,
+     "breathing"
+    ],
+    [
+     2,
+     6,
+     "Babu turns over"
+    ],
+    [
+     6,
+     8,
+     "sleep on"
+    ]
+   ]
+  },
+  {
+   "who": "Aashaan",
+   "color": "#d9534f",
+   "segments": [
+    [
+     0,
+     2,
+     "steady"
+    ],
+    [
+     2,
+     6,
+     "eases the wheel"
+    ],
+    [
+     6,
+     8,
+     "settles"
+    ]
+   ]
+  }
+ ],
+ "platform": [
+  "Attach: @urudeckc1platefullmoon · @aashaan · @raghavan · @babu · @sasi   (remove everything else)",
+  "Duration 8 s · 21:9 · no dialogue · full-moon night",
+  "Watch for: a moon in the sky (must not be), black shadows, a wheel on the open deck"
+ ]
+}

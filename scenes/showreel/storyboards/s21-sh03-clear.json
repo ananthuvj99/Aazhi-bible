@@ -1,0 +1,78 @@
+{
+ "left_rail_label": "LEFT RAIL (port)",
+ "deckhouse_note": "(Aashaan at the wheel)",
+ "duration": 8,
+ "title": "s21-sh03 v3 · SB027 The night watch: Antony keeps watch (full moon)",
+ "subtitle": "8 s · silent · bow, looking FORWARD · full moon high RIGHT with its path · Antony alone",
+ "out": "scenes/showreel/storyboards/s21-sh03-clear.png",
+ "frame": "locations/uru-deck/plates/urudeck-c2-plate-fullmoon.png",
+ "frame_note": "(plate @urudeckc2platefullmoon)",
+ "frame_tags": [
+  {
+   "text": "Antony stands here, back 3/4 to camera",
+   "x": 560,
+   "y": 330,
+   "color": "#e8892b"
+  },
+  {
+   "text": "full moon + path",
+   "x": 900,
+   "y": 80,
+   "color": "#c9a227"
+  }
+ ],
+ "frame_arrows": [],
+ "frame_caption": "Locked, gentle swell; Antony breathes, sways, rubs his neck, scans the sea left to right.",
+ "map_people": [
+  {
+   "name": "Antony",
+   "x": 900,
+   "y": 300,
+   "color": "#e8892b"
+  },
+  {
+   "name": "MOON (ahead-right)",
+   "x": 980,
+   "y": 500,
+   "color": "#c9a227"
+  }
+ ],
+ "map_arrows": [],
+ "map_camera": {
+  "x": 780,
+  "y": 260,
+  "label": "c2, looks forward",
+  "turn": 0
+ },
+ "map_notes": [
+  "moon ahead-right, in frame upper right"
+ ],
+ "timeline": [
+  {
+   "who": "Antony",
+   "color": "#e8892b",
+   "segments": [
+    [
+     0,
+     2,
+     "breathing, swaying"
+    ],
+    [
+     2,
+     6,
+     "rubs neck, leans, scans"
+    ],
+    [
+     6,
+     8,
+     "straightens"
+    ]
+   ]
+  }
+ ],
+ "platform": [
+  "Attach: @urudeckc2platefullmoon · @antony20   (remove everything else)",
+  "Duration 8 s · 21:9 · no dialogue · full-moon night",
+  "Watch for: half moon, near-black deck, Antony frozen"
+ ]
+}
