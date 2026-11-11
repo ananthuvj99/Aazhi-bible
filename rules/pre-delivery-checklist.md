@@ -172,3 +172,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 155. **Which side of the door (L135):** a character who has left a room speaks from outside: write "outside, beyond the door, the room behind the door frame", attach the outside plate, lock "never steps back inside".
 156. **Emotion you can hear (L136):** an emotional line has normal volume plus audible signs (a catch, a breath, a pitch move); never stack "soft, gentle, quiet"; the intent line names the feeling.
 157. **How the bag is carried (L137):** walking with the bag is written as strap on the LEFT shoulder, bag at the left hip, left hand on the strap, right arm free; lock "never held in front, never in both hands, never across the body".
+158. **A moored boat rocks (L138):** PHYSICS line with a slow few-degree rock, 15 cm rise and fall, mast sway, ropes slacking and tightening, the gangplank shifting; "moored in place", never "still".
