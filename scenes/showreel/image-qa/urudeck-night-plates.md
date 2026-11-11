@@ -44,3 +44,12 @@ Moon place for the whole night: high, ahead and right of the bow (L142, night sh
 @s21sh02startfullmoon · 90/100 · Matches
 ✅ Same Aashaan from behind, both hands on the spokes, towel on his left shoulder; Antony small at the bow; moon high RIGHT through the windows
 ⚠️ The wheel stays the larger size Ranjith kept earlier
+
+## Bow fix (2026-11-11, Ranjith, L143): the wheelhouse views show Aswanth's bow
+@urudeckc3platefullmoon2 · 90/100 · Matches
+✅ Interior unchanged; through the windows the bow of @urubowplate and the four-view (blue triangular bow deck, pointed stem, bitts in pairs, rope coils, lantern at the mast foot); full moon high RIGHT
+
+@s21sh02startfullmoon2 · 88/100 · Matches
+✅ Same Aashaan from behind, both hands on the spokes, towel on his left shoulder; our bow through the windows
+⚠️ Antony now stands at the right-hand bulwark beside the moon path, a little right of where he was
+
