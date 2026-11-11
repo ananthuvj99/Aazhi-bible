@@ -37,3 +37,8 @@ The uru lies with the quay on one side: looking aft (c1) the quay is RIGHT; look
 ## Not yet made
 - Ananthu's SB023 places Aashaan at a wheel at the stern with the stern rail and wake behind him; with the wheel inside the deckhouse (above), SB023 should put him inside at the wheel with the front windows and the sea ahead (tell Ananthu).
 - Full moon (Ranjith, 2026-11-11): `plates/urudeck-c1-plate-fullmoon.png` (@urudeckc1platefullmoon, moon behind the camera), `plates/urudeck-c2-plate-fullmoon.png` (@urudeckc2platefullmoon, full moon high RIGHT), `plates/urudeck-c3-plate-fullmoon.png` (@urudeckc3platefullmoon, full moon high RIGHT through the windows). The half-moon night plates are retired. Moon place: night sheet, L142.
+
+## Issue raised: the helm plate (Aswanth, 2026-11-12) — please read, Ranjith and Ananthu
+- `@urudeckc3platefullmoon2` (inside the deckhouse behind the wheel) does not look practical: the spoked wheel looks like it is set on a block of wood, not like a real ship's wheel fixed to a working helm. The INDEX row is marked NEEDS REMAKE.
+- Aswanth is making a new inside view of the helm room and will register it on his account; the new plate, its file and its ID will be added here and in `INDEX.md` when it is ready.
+- Until then, do not start new helm shots from this plate. Shots already made with it are not affected by this note.
