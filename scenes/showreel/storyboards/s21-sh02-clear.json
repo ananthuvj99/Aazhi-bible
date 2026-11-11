@@ -2,11 +2,11 @@
  "left_rail_label": "LEFT RAIL (port)",
  "deckhouse_note": "(Aashaan at the wheel)",
  "duration": 8,
- "title": "s21-sh02 v5 · SB027 The night watch: Aashaan at the wheel (full moon)",
+ "title": "s21-sh02 v6 · SB027 The night watch: Aashaan at the wheel (full moon, our bow)",
  "subtitle": "8 s · silent · from directly behind Aashaan · full moon in the RIGHT window · Antony small at the bow",
  "out": "scenes/showreel/storyboards/s21-sh02-clear.png",
- "frame": "scenes/showreel/approved/s21-sh02-start-fullmoon.png",
- "frame_note": "(START image @s21sh02startfullmoon)",
+ "frame": "scenes/showreel/approved/s21-sh02-start-fullmoon2.png",
+ "frame_note": "(START image @s21sh02startfullmoon2)",
  "frame_tags": [
   {
    "text": "Aashaan, back to camera",
@@ -15,15 +15,21 @@
    "color": "#d9534f"
   },
   {
-   "text": "Antony at the bow",
-   "x": 560,
-   "y": 180,
+   "text": "Antony at the right bulwark",
+   "x": 820,
+   "y": 330,
    "color": "#e8892b"
   },
   {
+   "text": "our blue bow (@urubowplate)",
+   "x": 560,
+   "y": 180,
+   "color": "#2b6cb0"
+  },
+  {
    "text": "full moon",
-   "x": 920,
-   "y": 150,
+   "x": 980,
+   "y": 120,
    "color": "#c9a227"
   }
  ],
@@ -106,8 +112,8 @@
   }
  ],
  "platform": [
-  "Start image: @s21sh02startfullmoon · Attach: @aashaan · @antony20   (remove everything else)",
+  "Start image: @s21sh02startfullmoon2 · Attach: @aashaan · @antony20   (remove everything else)",
   "Duration 8 s · 21:9 · no dialogue · full-moon night",
-  "Watch for: Aashaan turning round, face seen, moon on the left"
+  "Watch for: Aashaan turning round, a carved stem post or turned rails at the bow, moon on the left"
  ]
 }
