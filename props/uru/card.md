@@ -30,3 +30,6 @@ Tracker note: the location tracker calls the hero uru `@Uru2`. This is the vesse
 
 ## When to attach
 - Every shot where this uru is on screen. When it is small in the distance, lock its size in the prompt ("small, at the far end of the quay") so it is not pulled closer.
+
+## Four-view sheet (2026-11-11)
+`props/uru/fourview.png`: side, stern (COCHIN on the transom), bow and top views of the uru, the sheet uploaded on the platform as @uru (Ranjith shared it on 2026-11-11). It shows the real bow: a pointed, blue-planked bow with plain low bulwarks, four bitts and rope coils on the foredeck, the mast forward of amidships and the deckhouse with its ladder aft. Every bow view must match it and @urubowplate (L143).
