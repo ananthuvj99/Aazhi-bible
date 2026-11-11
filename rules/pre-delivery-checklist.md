@@ -173,3 +173,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 156. **Emotion you can hear (L136):** an emotional line has normal volume plus audible signs (a catch, a breath, a pitch move); never stack "soft, gentle, quiet"; the intent line names the feeling.
 157. **How the bag is carried (L137):** walking with the bag is written as strap on the LEFT shoulder, bag at the left hip, left hand on the strap, right arm free; lock "never held in front, never in both hands, never across the body".
 158. **A moored boat rocks (L138):** PHYSICS line with a slow few-degree rock, 15 cm rise and fall, mast sway, ropes slacking and tightening, the gangplank shifting; "moored in place", never "still".
+159. **Moon shape (L139):** a crescent is written as lying almost flat, lit edge along the bottom, horns up, with its side and height; the same in every shot of the night; never compared to an object.
