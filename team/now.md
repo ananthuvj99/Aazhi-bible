@@ -5,4 +5,4 @@ Format: `- Name: shot — what you are doing`
 
 - Ananthu: Scene 3 — SB017 under the mango tree (3tree-a: two-shot talk, Lanka, ten days)
 - Ranjith: Cochin boarding: s13-sh03b Antony 'here I am', s13-sh03c deck from above; SB032 ready
-- Aswanth: SB024 life on the uru — s16b-sh20 v2 (seabird flight) and s16b-sh21 Aashaan prays and writes a letter (18 s) ready
+- Aswanth: SB024 life on the uru — s16b-sh21 v2 Aashaan prays and writes; s16b-sh22 Balan smokes a bidi at the stern (5 s) ready
