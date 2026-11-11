@@ -175,3 +175,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 158. **A moored boat rocks (L138):** PHYSICS line with a slow few-degree rock, 15 cm rise and fall, mast sway, ropes slacking and tightening, the gangplank shifting; "moored in place", never "still".
 159. **Moon shape (L139):** a crescent is written as lying almost flat, lit edge along the bottom, horns up, with its side and height; the same in every shot of the night; never compared to an object.
 160. **Poses chain across cuts (L140):** start pose = the last pose of the shot before; a sit/stand or a move to the rail is a 1.5–2 s on-screen beat with weight, or is covered by a planned cutaway.
+161. **Emergency scenes sound and move urgent (L141):** timed danger sounds (fire, cracking timber, splashing, off-screen shouts, running feet); music only as Ranjith asks, named exactly; every person moves with urgency.
