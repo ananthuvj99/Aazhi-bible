@@ -40,6 +40,7 @@ Look at the image as the audience will, and ask what logically **must** be there
 - **What the moment needs:** everything the dialogue or action refers to is there and readable. If Clara says "look at the board and write", the board has sums on it (L134); if a man is "at the wheel", he is visible at the wheel; if the crew are asleep on the deck, someone looking at that deck sees them (L145).
 - **What must not be there:** the moon in an aft view, a person who is below or not yet aboard, a second copy of anyone, people inside a room they are outside of, an object from a later shot.
 - **Inside and outside, front and back:** who is in which room, on which side of a door, rail or window; screen sides match the previous shot.
+- **New angles (L146):** if this image is a new angle, reverse or next start frame of a set already shown, a measured map exists (`*-sightlines.json`) and `tools/sightlines.py` was run for this camera; every person matches its table (hidden people absent, backs as backs, sides as mapped). No map yet: make one before scoring.
 - **Head count and identity:** count the people; each one is a different, named person from his own sheet. Two people merged into one, or one missing, is a ❌ (L145).
 - **Real, not illustrated:** wood grain, skin, cloth and light read as a photograph from a film; a toy-like, painted or CG look is a ❌ for any plate or start frame (L122).
 

@@ -16,3 +16,8 @@ Ranjith asked on 2026-11-12 for every plate to be checked against its references
 | — | rejected: Kling helm | Aashaan, bow | **❌ one sleeper only, lying inside the wheelhouse** | photographic | 52 | Reject |
 
 Next fixes: #1 and #2 need a photographic remake in the look of #7 (real wood, real light) before SB028+ use them.
+
+## s21-sh02 start, built from the measured map (L146, 2026-11-12)
+Map: `scenes/showreel/storyboards/s21-sh01-sh02-sightlines.json` → `tools/sightlines.py` table: from the wheel, Aashaan back; Raghavan HIDDEN by the wheelhouse wall; Babu VISIBLE, back of the head; Sasi HIDDEN by the sacks; Antony VISIBLE, back.
+Candidate 7b (Nano Banana, from 7 with Sasi's head removed): matches the table person by person: Babu's back through the door at the left, nobody behind the sacks, no Raghavan, Antony's back at the right-hand bulwark; moon in the right-hand window; photographic. **Score 91 · Matches.** Logic gaps: none found.
+
