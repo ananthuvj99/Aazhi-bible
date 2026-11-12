@@ -28,7 +28,8 @@ Format: `NOW: <who is where>; <what is in their hands>; <each face, in a few wor
 | s21-sh04 take end | Antony standing mid-deck near the LEFT rail by the mast and sacks; Babu at the rail a step ahead of him; Sasi getting up; Raghavan (towel on his head in the take, L149) and Aashaan just out of the deckhouse door; the wheel empty; fire ~500 m ahead-left. |
 | s23-sh03 v4 | Antony at the left rail staring out (POV, nobody in frame); the others behind him just woken; fire ~500 m; a hand with a torch rises and sinks beside it. |
 | s23-sh04 v3 | Antony at the left rail, spins to shout down the deck to Aashaan by the door; Babu a step ahead out of frame; urgent, wide eyes; fire ~500 m. |
-| s23-sh05 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
+| s23-sh05 v6 | Antony at the left rail nearest the bow, pointing; Raghavan (towel at his neck), Babu, Sasi crowd in beside him; Aashaan looks, then goes back to the wheel; fire ~500 m. End, aft view left to right: Sasi, Babu, Raghavan, Antony. |
+| s23-sh06 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
 
 ## Master list of people (copy only those in frame into the People line)
 - Antony: grey-beige short-sleeve shirt with thin vertical stripes, green-grey checked mundu, barefoot (as in Aswanth's uru shots, `approved/s16a-sh01-last.webp`; Ranjith, 2026-11-12).
