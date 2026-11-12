@@ -9,3 +9,6 @@ Source: one frame of the approved s21-sh04 take (9.6 s, aft view), cropped to 21
 | K3 | Babu at the rail nearest the camera, Antony a step aft pointing out; Raghavan up; Sasi rising; Aashaan out of the door, wheel empty | first version had Antony nearest the camera: swapped to match the approved take and s23-sh03 to sh05 (Babu nearer the bow); wrist thread removed; Antony's arm rests near Babu's shoulder rather than pointing clearly (the prompt asks for the point) | 87 |
 
 Cross-plate: same framing, mast at the left, sacks left foreground, deckhouse five windows and the door on the right in all three. Head count 4, 5, 5. Eyelines in K3 toward the right of the frame (the fire is behind the camera to the right). Pass.
+
+## s23-sh06b end (@s23sh06bend), Ranjith 2026-11-12
+Edited from the approved s23-sh02c frame. Aashaan back at the wheel, Suresh (green mundu, red thread allowed) and Balan (blue shirt, black shoes) at the door, Raghavan towel at neck, no moon. Try 1: framing drifted wider (fail). Try 3: Antony vanished, six men (fail). Kept try 2: framing matches the start frame; Antony at the rail partly hidden behind Babu (allowed: he is clearly seen in the start image). Score 85.
