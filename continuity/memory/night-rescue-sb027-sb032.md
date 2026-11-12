@@ -13,7 +13,7 @@ Rules (see `rules/prompt-rules.md`, "Memory block"):
 MEMORY (the same night in every shot; nothing changes unless this block says so)
 Place: 1998, open sea off Kerala, aboard our wooden cargo uru: blue-grey hull, carved two-deck deckhouse aft with the wheel inside, one mast with a lantern at its foot, our bow as on @urubowplate (blue triangular bow deck, pointed stem, red-brown bitts, rope coils).
 Light: clear full-moon night; the moon high, ahead and RIGHT of the bow (forward views: top right with its silver path; aft views: behind the camera, never in the sky). Blue and readable, never black; warm light only from the lanterns.
-People: Antony: lavender-grey striped shirt, grey-green checked mundu, barefoot. Aashaan: cream shirt over white vest, towel on LEFT shoulder, white mundu. Raghavan: thin, grey, white vest, checked towel round his neck. Babu: heavy-set, checked towel on his head, checked lungi. Sasi: long curly hair, full beard. Suresh: cream shirt, sleeves rolled, green check mundu. Balan: light-blue shirt, two pens, white mundu. One of each, never a copy or a stranger.
+People: Antony: grey-beige short-sleeve shirt with thin vertical stripes, green-grey checked mundu, barefoot. Aashaan: cream shirt over white vest, towel on LEFT shoulder, white mundu. Raghavan: thin, grey, white vest, checked towel round his neck. Babu: heavy-set, checked towel on his head, checked lungi. Sasi: long curly hair, full beard. Suresh: cream shirt, sleeves rolled, green check mundu. Balan: light-blue shirt, two pens, white mundu. One of each, never a copy or a stranger.
 Fire: one burning vallam ahead-LEFT, about 500 m away until a shot shows it closer.
 ```
 
@@ -28,7 +28,7 @@ Format: `NOW: <who is where>; <what is in their hands>; <each face, in a few wor
 | s23-sh01 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
 
 ## Master list of people (copy only those in frame into the People line)
-- Antony: lavender-grey striped shirt, grey-green checked mundu, barefoot.
+- Antony: grey-beige short-sleeve shirt with thin vertical stripes, green-grey checked mundu, barefoot (as in Aswanth's uru shots, `approved/s16a-sh01-last.webp`; Ranjith, 2026-11-12).
 - Aashaan: about 60, grey hair combed back, grey moustache, cream shirt over white vest, white towel on his LEFT shoulder, white mundu.
 - Raghavan: about 60, thin, grey hair and moustache, white sleeveless vest, red-and-white checked towel round his NECK, white mundu.
 - Babu: about 40, heavy-set, black moustache, red-and-white checked towel tied on his HEAD, off-white shirt, grey-brown checked LUNGI.
