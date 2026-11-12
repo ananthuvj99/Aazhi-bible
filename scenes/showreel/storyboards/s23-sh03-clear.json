@@ -2,8 +2,8 @@
  "title": "s23-sh03 v3 · SB030a A hand and a torch by the burning vallam",
  "subtitle": "8 s · silent · Antony's POV from the LEFT rail · very long lens (about 4°) · the fire about 500 m ahead-left · no moon in view",
  "out": "scenes/showreel/storyboards/s23-sh03-clear.png",
- "frame": "props/burningvallam/prop.png",
- "frame_note": "(@burningvallam: seen through a very long lens, a third of the frame wide)",
+ "frame": "props/burningvallam/prop-nomoon.png",
+ "frame_note": "(@burningvallamnomoon: seen through a very long lens, a third of the frame wide)",
  "frame_tags": [
   {
    "text": "the hand + torch rises here (2–5 s)",
@@ -127,7 +127,7 @@
  ],
  "platform": [
   "Reference image: last frame of the s21-sh04 take (required)",
-  "Attach: @burningvallam · @selvan (hand and sleeve)   (remove everything else)",
+  "Attach: @burningvallamnomoon · @selvan (hand and sleeve)   (remove everything else)",
   "Duration 8 s · 21:9 · no dialogue        QA 90 / 100",
   "Watch for: the boat coming close, a face in the water, a second boat, a moon in the sky"
  ]

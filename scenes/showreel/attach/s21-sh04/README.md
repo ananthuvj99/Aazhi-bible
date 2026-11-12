@@ -12,7 +12,7 @@ Upload or attach these nine, in this order. The number is only for sorting; the 
 | 06 | 06-raghavan.png | `@raghavan` | full |
 | 07 | 07-babu.png | `@babu` | full |
 | 08 | 08-sasi.png | `@sasi` | full |
-| 09 | 09-burningvallam.png | `@burningvallam` | background only, far |
+| 09 | 09-burningvallamnomoon.png | `@burningvallamnomoon` | background only, far |
 
 Remove every other attachment first (L88). Prompt: `scenes/showreel/s21-sh04.md`.
 Note: the @antony20 sheet may show a lavender-grey shirt; the prompt asks for the grey-beige striped shirt of Aswanth's uru shots.
