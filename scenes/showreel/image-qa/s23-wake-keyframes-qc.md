@@ -23,3 +23,4 @@ Edited from @s23backlast. Both rolled mats in place (L151), Antony and Babu unch
 ## s23-sh06c (Ranjith 2026-11-12)
 - @s23sh06cstart: first version had a plain wooden bow (not @urubowplate) and Balan's shirt reading brown under the lantern: both fixed. Moon upper right with its path (forward view, L142), fire far left, mats, mast and sacks on the right (starboard). Score 88.
 - @s23sh06cend: Balan left, Antony right, fire between their heads, 500 m and readable; no hand near the camera (L150). Score 88.
+- @s23sh06cstart re-edit (2026-11-12): Suresh removed, because the approved s23-sh06b take never shows him (Ranjith). Nothing else changed.
