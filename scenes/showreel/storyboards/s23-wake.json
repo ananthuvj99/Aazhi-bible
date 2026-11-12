@@ -1,0 +1,51 @@
+{
+ "title": "Crew wake, Aashaan comes out · s23-sh02b + s23-sh02c",
+ "subtitle": "Two 8 s shots, one locked aft camera, keyframes edited from the approved take · Ranjith, 2026-11-12",
+ "out": "scenes/showreel/storyboards/s23-wake-storyboard.png",
+ "panels": [
+  {
+   "shot": "before",
+   "time": "",
+   "title": "Bow: Antony points at the fire",
+   "image": "scenes/showreel/evidence/s23-sh02-bow/last.jpg",
+   "beats": [
+    "Your bow take ends with Antony at the bow pointing left at the burning vallam, 500 m off.",
+    "He runs aft along the left rail (behind the camera in the next view)."
+   ],
+   "refs": "cut"
+  },
+  {
+   "shot": "s23-sh02b",
+   "time": "8 s",
+   "title": "K1 start: all asleep, Aashaan at the wheel",
+   "image": "scenes/showreel/approved/s23-wake-keyframes/k1.png",
+   "beats": [
+    "0–1.5 s still beat. 1.5–3 s Antony runs in from behind the camera on the right, crouches by Babu.",
+    "3 s Babu jerks up; 4.5 s Raghavan sits up (towel at neck); 6 s Sasi lifts his head; Aashaan turns at the wheel."
+   ],
+   "refs": "start @s23wakek1 · end @s23wakek2 · 5 sheets"
+  },
+  {
+   "shot": "s23-sh02b → c",
+   "time": "",
+   "title": "K2: woken",
+   "image": "scenes/showreel/approved/s23-wake-keyframes/k2.png",
+   "beats": [
+    "End of s23-sh02b = start of s23-sh02c. No moon in the aft sky (L142)."
+   ],
+   "refs": "@s23wakek2"
+  },
+  {
+   "shot": "s23-sh02c",
+   "time": "8 s",
+   "title": "K3 end: up; Aashaan out of the door",
+   "image": "scenes/showreel/approved/s23-wake-keyframes/k3.png",
+   "beats": [
+    "0–2 s Antony points out; Babu to the rail nearest the camera. 2–4 s Raghavan up. 4–5.5 s Aashaan steps out, wheel empty.",
+    "5.5–8 s Sasi up. Faces to the right (fire behind the camera). Next: s23-sh03 v5, s23-sh04 v3."
+   ],
+   "refs": "start @s23wakek2 · end @s23wakek3 · 5 sheets"
+  }
+ ],
+ "footer": "Storyboard only. Never attach this sheet to a generation."
+}
