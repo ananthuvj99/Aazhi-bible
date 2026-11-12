@@ -412,7 +412,7 @@ door_leaf("Door_kit_R", (0.6, Y1 - T / 2 - 0.03), 0.6, -100, 2.1, M["door"])
 # ---------------------------------------------------------------- kitchen walls (doors west and east, window north)
 D_KW = (6.2, 7.1, 0, 2.1)
 D_KE = (6.2, 7.1, 0, 2.1)
-W_KN = (0.2, 1.8, 0.95, 2.25)
+W_KN = (0.2, 1.8, 1.1, 2.35)     # sill well above the blue band, as on the sheet
 # small barred side windows toward the rear, no shutters (side elevations of @housefullview), set high so the
 # kitchen sheet's doors, vessel shelf (west) and dried fish (east) stay where they are
 W_KSW = (7.65, 8.25, 1.75, 2.35)
@@ -422,7 +422,20 @@ wall("Wall_kit_east", "y", KX1, Y1, KY1 + T / 2, [D_KE, W_KSE], inner_sign=-1)
 window("Win_kit_side_west", "y", KX0, W_KSW[0], W_KSW[1], W_KSW[2], W_KSW[3], shutters=False)
 window("Win_kit_side_east", "y", KX1, W_KSE[0], W_KSE[1], W_KSE[2], W_KSE[3], shutters=False)
 wall("Wall_kit_north", "x", KY1, KX0 - T / 2, KX1 + T / 2, [W_KN], inner_sign=-1)
-window("Win_kit_north", "x", KY1, W_KN[0], W_KN[1], W_KN[2], W_KN[3], out_sign=-1)   # shutters open inward, as on the sheet
+window("Win_kit_north", "x", KY1, W_KN[0], W_KN[1], W_KN[2], W_KN[3], shutters=False)
+# as on @kitchenclean: a DOUBLE window (two barred panes and a centre mullion) in a white surround, with FOUR white
+# shutters (two a side) folded back flat against the inside wall
+_wy = KY1 - T / 2
+_wm = (W_KN[0] + W_KN[1]) / 2
+box("Win_kit_north_mullion", _wm - 0.04, _wy - 0.05, FL + W_KN[2], _wm + 0.04, _wy + 0.05, FL + W_KN[3], M["bars"])
+for _nm, (_x0, _z0, _x1, _z1) in (("l", (W_KN[0] - 0.12, W_KN[2] - 0.12, W_KN[0], W_KN[3] + 0.12)),
+                                  ("r", (W_KN[1], W_KN[2] - 0.12, W_KN[1] + 0.12, W_KN[3] + 0.12)),
+                                  ("b", (W_KN[0] - 0.12, W_KN[2] - 0.12, W_KN[1] + 0.12, W_KN[2])),
+                                  ("t", (W_KN[0] - 0.12, W_KN[3], W_KN[1] + 0.12, W_KN[3] + 0.12))):
+    box(f"Win_kit_north_surround_{_nm}", _x0, _wy - 0.03, FL + _z0, _x1, _wy - 0.005, FL + _z1, M["trim"])
+_lw = (W_KN[1] - W_KN[0]) / 4
+for _k, _a in enumerate((W_KN[0] - 0.13 - 2 * _lw, W_KN[0] - 0.13 - _lw, W_KN[1] + 0.13, W_KN[1] + 0.13 + _lw)):
+    box(f"Win_kit_north_shutter{_k}", _a + 0.01, _wy - 0.07, FL + W_KN[2], _a + _lw - 0.01, _wy - 0.03, FL + W_KN[3], M["shutter"])
 door_leaf("Door_kit_west", (KX0 + T / 2 + 0.04, 6.2), 0.9, -90, 2.1, M["door"])   # open, flat against the wall
 door_leaf("Door_kit_east", (KX1 - T / 2 - 0.04, 6.2), 0.9, -90, 2.1, M["door"])
 
@@ -500,7 +513,16 @@ for k, x in enumerate((KX0 + 0.75, KX0 + 1.55)):
     box(f"Aduppu_fire{k}", x - 0.15, KY1 - 1.0, FL + 0.32, x + 0.15, KY1 - 0.9, FL + 0.5, M["fire"])
 sph("Clay_pot", (KX0 + 0.75, KY1 - 0.55, FL + 0.95), 0.18, M["clay"])
 cyl("Steel_pot", (KX0 + 1.55, KY1 - 0.55, FL + 0.92), 0.17, 0.25, M["steel"])
-box("Soot_stain", KX0 + 0.3, KY1 - T / 2 - 0.02, FL + 0.8, KX0 + 2.0, KY1 - T / 2 - 0.01, FL + WH, M["soot"])
+cyl("Pan", (KX0 + 1.9, KY1 - 0.75, FL + 0.84), 0.14, 0.06, M["soot"])                 # small black pan, right end of the stove
+boxc("Plate_leaning", (KX0 + 0.45, KY1 - 0.3, FL + 1.0), (0.4, 0.04, 0.4), M["brown"])   # round tray leaning on the wall, left end
+# the soot is a PLUME, as on @kitchenclean: as wide as the stove at the bottom, narrowing as it climbs to the roof
+_sy = KY1 - T / 2 - 0.012
+_sc = KX0 + 1.15
+_rows = [(0.80, 0.85), (1.30, 0.70), (1.90, 0.45), (2.50, 0.32), (WH, 0.25)]   # (height above floor, half width)
+_v = []
+for _z, _hw in _rows:
+    _v += [(_sc - _hw, _sy, FL + _z), (_sc + _hw, _sy, FL + _z)]
+mesh("Soot_plume", _v, [(2 * i, 2 * i + 1, 2 * i + 3, 2 * i + 2) for i in range(len(_rows) - 1)], M["soot"])
 bpy.ops.object.light_add(type="POINT", location=(KX0 + 1.1, KY1 - 1.1, FL + 0.6))
 put(bpy.context.object).data.energy = 15
 bpy.context.object.data.color = (1.0, 0.55, 0.2)

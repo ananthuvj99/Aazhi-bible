@@ -25,6 +25,13 @@ Made by Ananthu with Claude, 2026-11-12. A planning and blocking model, not a pl
 - Outside: rear clothesline, stone platform with a clay pot and two cans, firewood; low laterite compound wall with the open gap on line with the steps; red-earth yard, sand in front and on the west lane; the cliff and beach to the east; six coconut palms.
 - Morning sun from the east.
 
+## Kitchen checked against `@kitchenclean` (2026-11-12)
+Fixed to match the sheet: the north window is now a double window (two barred panes and a centre mullion) in a white surround, with four white shutters folded back flat on the inside wall, its sill above the blue band; the soot is a plume that narrows as it climbs to the roof (it was a black box); a small black pan and a round tray leaning on the wall were added to the aduppu.
+Still different from the sheet (left as the house plans have them):
+- **Proportion:** the sheet reads as a nearly square room; the plans make the kitchen 7.8 m wide and 3.6 m deep across the back of the house.
+- **View from the north window:** the sheet shows the open sea with boats; in the model the north window looks out over the yard toward the bay, the hills and the church, because the sea is east of the house (`@houseout`).
+- **Small barred side windows** high on the west and east walls come from the side elevations; the sheet does not show them.
+
 ## Open conflicts kept as the interior sheets show them
 - Kitchen doors: the rear elevation shows a centre back door; the kitchen sheet and the cutaway show doors in the west and east walls only (L10). The model follows the kitchen sheet.
 - Clock time: the Scene 1 ledger says 7:45; the latest clock frames are at 9:20. The model shows 9:20; change the two `Clock_*_0920` hands if the ledger stays at 7:45.
