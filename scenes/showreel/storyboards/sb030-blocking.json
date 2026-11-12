@@ -1,15 +1,15 @@
 {
- "title": "SB030 · Someone in the water — 3D blocking (top of the bow)",
- "subtitle": "Green = Antony · orange = burning vallam · blue = hand in the water · camera c2 (s23-sh04); s23-sh03 is his view toward the fire",
+ "title": "SB030 · Someone in the water — 3D blocking (main deck, from the s21-sh04 take)",
+ "subtitle": "Green = Antony · grey = crew · white = Aashaan · orange = burning vallam (far, not to scale) · camera = s23-sh04",
  "out": "scenes/showreel/storyboards/sb030-blocking.png",
  "eye": [
-  2,
-  -2,
-  15
+  9,
+  -14,
+  14
  ],
  "target": [
-  -3,
-  20,
+  -1,
+  2,
   0
  ],
  "size": [
@@ -22,12 +22,12 @@
    "type": "box",
    "center": [
     0,
-    6,
+    1,
     0
    ],
    "size": [
     6,
-    16,
+    20,
     0.2
    ],
    "color": "#5b5248"
@@ -36,12 +36,27 @@
    "type": "box",
    "center": [
     -3,
-    6,
+    1,
     0.5
    ],
    "size": [
     0.15,
-    16,
+    20,
+    0.8
+   ],
+   "color": "#3d4a5c",
+   "label": "left rail (port, toward the fire)"
+  },
+  {
+   "type": "box",
+   "center": [
+    3,
+    1,
+    0.5
+   ],
+   "size": [
+    0.15,
+    20,
     0.8
    ],
    "color": "#3d4a5c"
@@ -49,67 +64,114 @@
   {
    "type": "box",
    "center": [
-    3,
-    6,
-    0.5
+    0,
+    -8.5,
+    1.3
    ],
    "size": [
-    0.15,
-    16,
-    0.8
+    5,
+    3,
+    2.6
    ],
-   "color": "#3d4a5c"
+   "color": "#7a5a3a",
+   "label": "deckhouse (door at the left)"
   },
   {
    "type": "cylinder",
    "center": [
     0,
-    13.6,
-    0.1
-   ],
-   "radius": 0.2,
-   "height": 2.6,
-   "color": "#4a3522",
-   "label": "bow"
-  },
-  {
-   "type": "cylinder",
-   "center": [
-    -1.1,
-    11.4,
+    2,
     0.1
    ],
    "radius": 0.18,
-   "height": 0.6,
-   "color": "#4a3522"
+   "height": 6,
+   "color": "#6b6b6b",
+   "label": "mast + lantern"
   },
   {
-   "type": "cylinder",
+   "type": "box",
    "center": [
-    -0.6,
-    11.4,
-    0.1
+    1.7,
+    3.4,
+    0.5
    ],
-   "radius": 0.18,
-   "height": 0.6,
-   "color": "#4a3522",
-   "label": "bitts"
+   "size": [
+    1.4,
+    1.8,
+    1.0
+   ],
+   "color": "#9a8f7a",
+   "label": "sacks"
   },
   {
    "type": "figure",
    "pos": [
-    0.8,
-    12.4,
+    -1.7,
+    -1.0,
     0.1
    ],
    "color": "#3fa34d",
    "label": "Antony"
   },
   {
+   "type": "figure",
+   "pos": [
+    -2.4,
+    0.6,
+    0.1
+   ],
+   "color": "#9aa3ad",
+   "label": "Babu"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    -0.6,
+    -2.6,
+    0.1
+   ],
+   "color": "#9aa3ad",
+   "label": "Sasi"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    -0.9,
+    -5.6,
+    0.1
+   ],
+   "color": "#9aa3ad",
+   "label": "Raghavan"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    -1.6,
+    -6.2,
+    0.1
+   ],
+   "color": "#f2f2f2",
+   "label": "Aashaan"
+  },
+  {
+   "type": "camera",
+   "pos": [
+    -2.1,
+    -2.6,
+    1.2
+   ],
+   "look": [
+    -1.5,
+    -0.6,
+    1.5
+   ],
+   "label": "s23-sh04 camera"
+  },
+  {
    "type": "box",
    "center": [
-    -9,
-    30,
+    -14,
+    16,
     0.4
    ],
    "size": [
@@ -118,63 +180,7 @@
     0.5
    ],
    "color": "#ff7a1a",
-   "label": "burning vallam (far, ahead-left)"
-  },
-  {
-   "type": "cylinder",
-   "center": [
-    -9,
-    30,
-    0.6
-   ],
-   "radius": 0.5,
-   "height": 3.0,
-   "color": "#5a4a40",
-   "label": ""
-  },
-  {
-   "type": "camera",
-   "pos": [
-    0,
-    8.4,
-    1.7
-   ],
-   "look": [
-    0.5,
-    15,
-    1.5
-   ],
-   "label": "camera c2 (push-in)"
-  },
-  {
-   "type": "box",
-   "center": [
-    -10.5,
-    30,
-    0.3
-   ],
-   "size": [
-    0.4,
-    0.4,
-    0.6
-   ],
-   "color": "#3d7bd9",
-   "label": "hand + torch"
-  },
-  {
-   "type": "box",
-   "center": [
-    0,
-    0,
-    1.2
-   ],
-   "size": [
-    4,
-    3,
-    2.4
-   ],
-   "color": "#7a5a3a",
-   "label": "deckhouse (Aashaan)"
+   "label": "burning vallam (~500 m, ahead-left)"
   }
  ]
 }

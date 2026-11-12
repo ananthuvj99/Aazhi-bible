@@ -1,31 +1,42 @@
 {
  "title": "SB030 · Someone in the water (source scene 23C)",
- "subtitle": "Emotion Urgency · two shots, 8 s each · continues from s23-sh02 v2 (same bow, same night) · Ranjith, 2026-11-07",
+ "subtitle": "Emotion Urgency · two shots, 8 s each · continues from the approved s21-sh04 take (13.6 s) · Ranjith, 2026-11-12",
  "out": "scenes/showreel/storyboards/sb030-storyboard.png",
  "panels": [
+  {
+   "shot": "s21-sh04 end",
+   "time": "",
+   "title": "Where everyone is (last frame of the take)",
+   "image": "scenes/showreel/approved/s21-sh04-last.jpg",
+   "beats": [
+    "Aft view. Antony stands mid-deck near the LEFT rail by the mast and sacks; Babu at the rail a step ahead of him.",
+    "Sasi getting up; Raghavan and Aashaan just out of the deckhouse door; the wheel empty."
+   ],
+   "refs": "@s21sh04last = reference image for both shots"
+  },
   {
    "shot": "s23-sh03",
    "time": "8 s",
    "title": "His view: a hand and a torch beside the fire",
-   "image": "props/burningvallam/prop.png",
+   "image": "props/burningvallam/prop-nomoon.png",
    "beats": [
-    "Long lens from the bow toward the burning vallam (centre). 0–2 s it burns; water beside it empty.",
+    "Very long lens (about 4°) from the left rail toward the burning vallam, ~500 m. 0–2 s it burns; the water beside it empty.",
     "2–5 s a hand in a soaked blue camouflage sleeve rises just LEFT of the hull with a small torch; the beam waves twice.",
-    "5–6 s the torch goes out; the hand sinks. 6–8 s only the fire and the moving water."
+    "5–6 s the torch goes out; the hand sinks. 6–8 s only the fire and the moving water. Silent."
    ],
-   "refs": "ref image: s23-sh02 v2 last frame · @burningvallam (full) · @selvan (hand and sleeve, 2–5 s)"
+   "refs": "ref image @s21sh04last · @burningvallamnomoon (full) · @selvan (hand and sleeve, 2–5 s)"
   },
   {
    "shot": "s23-sh04",
    "time": "8 s",
    "title": "Antony shouts to Aashaan (one line)",
-   "image": "locations/uru-deck/plates/urudeck-c2-plate-night.png",
+   "image": "scenes/showreel/approved/s21-sh04-last.jpg",
    "beats": [
-    "Start = s23-sh02 v2 last frame (same bow camera); push in to MCU by 2.5 s as he spins round to the deck.",
-    "3.0–5.2 s he shouts the line, face just LEFT of the lens (Aashaan at the wheel behind camera).",
-    "5.2–8 s silent: breathing hard, he turns back and points at the fire, far LEFT of the stem post."
+    "Low camera just aft of Antony on the port side, looking forward-right; mast, sacks, moon upper right soft behind him; Babu kept out of frame.",
+    "0–2.5 s he spins from the rail toward the deckhouse; push-in to MCU. 3.0–5.2 s his line to Aashaan (Malayalam) eyes just right of the lens.",
+    "5.2–8 s silent: he points over the rail to the left; the fire tiny at the left edge. Voice Mahendran J."
    ],
-   "refs": "start: s23-sh02 v2 last frame · @antony20 (full) · @urudeckc2platenight (bg) · @burningvallam (bg, far)"
+   "refs": "ref image @s21sh04last · @antony20 (full) · @burningvallamnomoon (bg, far)"
   },
   {
    "shot": "blocking",
@@ -33,7 +44,7 @@
    "title": "3D blocking: who stands where",
    "image": "scenes/showreel/storyboards/sb030-blocking.png",
    "beats": [
-    "Antony at the bow rail; the burning vallam far ahead-left with the hand beside it; camera c2 behind him; the deckhouse (Aashaan) further aft, behind the camera."
+    "From the take's last frame. Camera for s23-sh04 just aft of Antony on the port side; Aashaan by the door is the one he shouts to; the fire far ahead-left."
    ],
    "refs": "planning only, never attached"
   }
