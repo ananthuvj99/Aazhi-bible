@@ -2,7 +2,7 @@
 
 | # | File | Platform ID | How |
 |---|---|---|---|
-| 01 | 01-REF-s23wakek3.png | `@s23wakek3` | **reference image** (or the last frame of your s23-sh02c take) |
+| 01 | 01-REF-s23sh02clast.jpg | `@s23sh02clast` | **reference image** (last frame of the s23-sh02c take) |
 | 02 | 02-antony20.jpg | `@antony20` | full (seen from behind) |
 | 03 | 03-babu.png | `@babu` | full (seen from behind) |
 | 04 | 04-burningvallamnomoon.png | `@burningvallamnomoon` | background only, 500 m |
