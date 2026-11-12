@@ -142,5 +142,73 @@ POSITIVE LOCKS
 One unbroken take: bedroom → out of his door → LEFT into the passage → kitchen doorway; camera path as @1donercamera. One clock, on the bedroom's front wall, at twenty past nine. Antony in the white vest and checked mundu, barefoot, moving loosely and naturally. His mother only at the end, from behind, at the stove. Nobody speaks; nobody looks into the camera. Nothing written on the image. Runs the full 14 seconds.
 ```
 
+## v4 prompt (2026-11-12, Ananthu) — v3 plus the new clock sheet
+Ananthu asked to attach `@clock0920sheet` as well. This goes against L51 (a clock sheet with the room sheet drew a second clock), so the sheet is scoped to the bedroom (0.0–6.6 s), described as the room's own clock replacing it, and every other wall is named clock-free (L23).
+Attach: @1donercamera (reference video), @antonyhome, @antonyroom (background), @coversheet, @clock0920sheet (0.0–6.6 s), @hallclean (background), @kitchenclean (background), @rosamma (background, from behind). 14 s, 21:9, no dialogue.
+
+```
+SCENE
+Bright late morning, 1998, a fisherman's house on the Alappad coast, Kerala. ONE UNBROKEN TAKE that never cuts: Antony in his bedroom, out of his door, up the central passage, to the kitchen doorway. Caught out by his mother's teasing from the kitchen, he scratches his head, tugs his mundu knot and goes to face her. Nobody speaks.
+
+ACTIVE REFERENCES
+@1donercamera (reference video — SPACE AND CAMERA MOVE ONLY): an empty grey model of this house, no people; follow its camera path and timing. Its flat grey shapes are layout only; the look comes from the images below. Antony and his mother come from their references.
+@antonyhome: Antony, 24, lean, sun-browned, light stubble, thick black hair messy from sleep, white sleeveless cotton vest, checked mundu, thin silver chain, barefoot. 100% matches the reference.
+@antonyroom (background, 0.0s–6.6s): his bedroom exactly as in the reference — pale blue walls, deep blue base band, red-oxide floor, the cot with the faded blue checked bedsheet, the barred front window, the barred side window above the cot, the shelf, the hooks with a navy and a white cloth, the grey trunk, and its one wall clock on the front wall. 100% matches the reference.
+@coversheet (0.0s–5.0s): the faded rose-pink cover sheet, crumpled at the foot of the cot. 100% matches the reference.
+@clock0920sheet (0.0s–6.6s): THE SAME one clock that hangs on the front wall in @antonyroom — its look and its time: dark brown wooden case, cream dial, black numerals. It replaces that clock; it is never a second clock. 100% matches the reference.
+@hallclean (background, 5.5s–14.0s): the central passage, the blue double doors to the kitchen at its far end standing wide open. 100% matches the reference.
+@kitchenclean (background, 8.0s–14.0s): the kitchen through the open doors — the wood-fire aduppu in the back-left corner with its soot plume, the double barred window with white shutters. 100% matches the reference.
+@rosamma (background only, 11.5s–14.0s, from behind): his mother at the stove, back to us, cream saree with small blue flowers, mid-blue blouse, grey hair in a bun. 100% matches the reference.
+
+THE CLOCK
+Exactly one clock in the house, @clock0920sheet, high on the bedroom's front wall beside the front window. It reads TWENTY PAST NINE: the short hour hand a third of the way from the 9 toward the 10, the long minute hand on the 4; it stays at that time. The back wall, the side walls, the passage and the kitchen have no clock.
+
+FIRST FRAME
+Inside the bedroom, from its back corner by the trunk, looking toward the front wall: Antony stands in the middle of the room, three-quarter to the camera, listening toward his door off frame left; behind him the barred front window with sun outside and, high beside it, @clock0920sheet at twenty past nine; the side window and the cot along the right.
+
+FORMAT MODE
+One continuous shot, 14 seconds, no cuts. The video runs the full 14 seconds.
+
+OPTICS
+Wide 75°, natural perspective, deep focus: the clock face and window bars readable. Clean optics, no flare.
+
+CAMERA
+Follows @1donercamera: one smooth, weighted glide at shoulder height, easing into every turn and settling at the end — never shaky, never snapping.
+0.0s–3.8s — nearly still in the bedroom's back corner, creeping forward a few centimetres.
+3.8s–5.5s — pans LEFT as he goes to his door and starts after him.
+5.5s–7.8s — passes through the middle of his doorway and turns LEFT up the passage.
+7.8s–11.5s — glides up the passage; he walks a little ahead of it, drifting in the frame, the open kitchen doors ahead.
+11.5s–14.0s — eases to a stop at the kitchen doorway, his right shoulder in the foreground right, the aduppu and his mother at the back-left.
+
+ACTION
+0.0s–1.0s — He listens toward the door, breathing, weight shifting; a guilty half-smile: she's got him.
+1.0s–3.0s — He scratches the back of his head with one hand, then both, loosely, messing his hair, shaking his head at himself.
+3.0s–3.8s — Drops his hands, gives the mundu knot one easy tug.
+3.8s–5.5s — Walks quickly to his door: heel to toe, weight rolling foot to foot, relaxed shoulders, arms swinging freely, the mundu swinging at his shins.
+5.5s–7.8s — Steps through the door into the passage and turns LEFT, toward the kitchen.
+7.8s–11.5s — Up the passage barefoot with the same loose walk; at 8.5s he runs a hand through his hair, a sheepish half-smile.
+11.5s–14.0s — Stops at the right side of the kitchen doorway, leans a shoulder on the frame, rubs the back of his neck, turning a little toward his mother; she stands at the stove with her back to us, stirring a pot with a long wooden ladle, steam rising. Neither speaks.
+
+PERFORMANCE
+Natural and lightly comic: a grown son caught out by his mother, guilty, amused, sheepish. A loose, everyday human body: relaxed shoulders, unhurried hands, small weight shifts. Mouths closed. He never looks into the camera.
+
+PHYSICS
+Dust drifts in the sunbeams; steam and wood smoke rise from the stove.
+
+LIGHTING
+Strong late-morning sun. Bedroom: sun through the barred front window behind him. Passage: daylight from the open front door behind, warmer light from the kitchen ahead. Kitchen: daylight and the orange glow of the fire.
+
+AUDIO
+No music at all — no score, no song, no humming, no riser, whoosh or transition sound. Only natural sounds at a steady level.
+No dialogue and no voices.
+SOUND EFFECTS: the clock's tick; his bare footsteps; growing kitchen sounds — fire crackling, a ladle on a steel pot, steam hissing; crows outside.
+
+STYLE
+Photoreal 1998 Kerala period feature film. Shot on a Sony Venice 2 full-frame digital cinema camera: very wide dynamic range holding the bright windows and the shaded passage in one frame; clean, low-noise shadows; soft highlight roll-off; accurate, natural colour with rich, true skin tones; gentle filmic contrast; fine, organic texture; no over-sharpening, no video look.
+
+POSITIVE LOCKS
+One unbroken take: bedroom → out of his door → LEFT into the passage → kitchen doorway; camera path as @1donercamera. One clock, @clock0920sheet, on the bedroom's front wall, at twenty past nine. Antony in the white vest and checked mundu, barefoot, moving loosely and naturally. His mother only at the end, from behind, at the stove. Nobody speaks; nobody looks into the camera. No captions or titles. Runs the full 14 seconds.
+```
+
 ## Generation results
 - v2 [failed] made with the grey-box figures as the reference video (@1donerblocking): the right path and camera, but Antony's movement came out robotic (copied from the blocky figure) and the clock showed the wrong time. Fix in v3: camera-only reference video with no people, the L65 walk mechanics, and a stronger clock lock.
