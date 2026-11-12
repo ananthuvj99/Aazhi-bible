@@ -21,3 +21,23 @@ Made with `tools/sightlines.py` (L146).
 | Babu (on his side, near the port rail) | VISIBLE | whole body | BACK of the head |
 | Sasi (curled, bow side of the sacks) | HIDDEN | by lashed sacks (1.0 m high) |  |
 | Antony (at the bow) | VISIBLE | head, body only | BACK of the head |
+
+## Camera: high behind the deckhouse (8 m up)
+
+| Person | Seen? | What part | Face, back or side |
+|---|---|---|---|
+| Aashaan (at the wheel) | HIDDEN | by deckhouse roof and upper gallery (blocks the wheel) |  |
+| Raghavan (on his back) | HIDDEN | by deckhouse roof and upper gallery (blocks the wheel) |  |
+| Babu (on his side, near the port rail) | VISIBLE | whole body | BACK of the head |
+| Sasi (curled, bow side of the sacks) | VISIBLE | feet only | BACK of the head |
+| Antony (at the bow) | VISIBLE | whole body | BACK of the head |
+
+## Camera: high behind the deckhouse (11 m up)
+
+| Person | Seen? | What part | Face, back or side |
+|---|---|---|---|
+| Aashaan (at the wheel) | HIDDEN | by deckhouse roof and upper gallery (blocks the wheel) |  |
+| Raghavan (on his back) | VISIBLE | whole body | FACE |
+| Babu (on his side, near the port rail) | VISIBLE | whole body | BACK of the head |
+| Sasi (curled, bow side of the sacks) | VISIBLE | feet only | BACK of the head |
+| Antony (at the bow) | VISIBLE | whole body | BACK of the head |
