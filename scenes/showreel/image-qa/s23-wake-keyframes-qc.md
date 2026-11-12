@@ -27,3 +27,4 @@ Edited from @s23backlast. Both rolled mats in place (L151), Antony and Babu unch
 
 ## s23-sh06 (Ranjith 2026-11-12)
 - @s23sh06antony: Antony alone in MCU, grey-beige stripes, face lit from the front, the burning boat small and far at the right (500 m), no moon in frame, nobody else. Score 86. **Wrong call:** the rail was raw slatted planks, not the solid grey bolted bulwark of the approved takes; passed as minor and copied into the take (L152). Re-edited with @s23backlast as the rail reference: now the solid grey bulwark with bolt heads.
+- @s23sh06antony re-made (2026-11-12, after Ranjith's choice): brown flat top rail as in @s23sh06clast; Balan in profile at the left edge, mouth closed; Antony shouting, face fully visible; fire far right. Score 88.
