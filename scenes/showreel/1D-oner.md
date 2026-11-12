@@ -81,7 +81,7 @@ Attach: @1donercamera (reference video, space and camera move only: `scenes/show
 
 ```
 SCENE
-Bright late morning, 1998, a fisherman's house on the Alappad coast, Kerala. ONE UNBROKEN TAKE that never cuts: Antony in his bedroom, out of his door, up the central passage, to the kitchen doorway. Caught out by her teasing, he scratches his head, tugs his mundu knot and goes to face her. Nobody speaks.
+Bright late morning, 1998, a fisherman's house on the Alappad coast, Kerala. ONE UNBROKEN TAKE that never cuts: Antony in his bedroom, out of his door, up the central passage, to the kitchen doorway. Caught out by his mother's teasing from the kitchen, he scratches his head, tugs his mundu knot and goes to face her. Nobody speaks.
 
 ACTIVE REFERENCES
 @1donercamera (reference video — SPACE AND CAMERA MOVE ONLY): an empty grey model of this house with no people in it; the camera's path and timing through the bedroom, out of the door, up the passage to the kitchen doorway. Follow its camera path and timing. Its flat grey shapes are layout only; the look comes from the images below. Antony and his mother come from their references.
