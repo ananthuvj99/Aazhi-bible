@@ -15,3 +15,7 @@ Edited from the approved s23-sh02c frame. Aashaan back at the wheel, Suresh (gre
 
 ## s23-sh06b v8 end (@s23sh06bend replaced), Ranjith 2026-11-12
 Edited from @s23backlast. Both rolled mats in place (L151), Antony and Babu unchanged and visible, Suresh and Balan at the door with shocked faces, no moon, framing matches. Aashaan is not in frame: logical, he walked forward past the camera (aft view). A try that put him back in frame made him oversized, dropped Balan and covered the front mat (fail). Score 88.
+
+## s23-sh06b v9 (Ranjith 2026-11-12)
+- @s23sh06bhigh: high view behind Antony and Babu; mast, sacks, Sasi, Raghavan (towel at neck), both mats, Aashaan at the door, no moon. First version added a deck hatch grate (L151): removed. Score 88.
+- @s23sh06bbalan: Balan MCU, pens left pocket, acne marks, face about 20° off the lens, lantern-lit door behind, nobody else. Score 87.
