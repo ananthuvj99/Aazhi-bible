@@ -19,3 +19,7 @@ Edited from @s23backlast. Both rolled mats in place (L151), Antony and Babu unch
 ## s23-sh06b v9 (Ranjith 2026-11-12)
 - @s23sh06bhigh: high view behind Antony and Babu; mast, sacks, Sasi, Raghavan (towel at neck), both mats, Aashaan at the door, no moon. First version added a deck hatch grate (L151): removed. Score 88.
 - @s23sh06bbalan: Balan MCU, pens left pocket, acne marks, face about 20° off the lens, lantern-lit door behind, nobody else. Score 87.
+
+## s23-sh06c (Ranjith 2026-11-12)
+- @s23sh06cstart: first version had a plain wooden bow (not @urubowplate) and Balan's shirt reading brown under the lantern: both fixed. Moon upper right with its path (forward view, L142), fire far left, mats, mast and sacks on the right (starboard). Score 88.
+- @s23sh06cend: Balan left, Antony right, fire between their heads, 500 m and readable; no hand near the camera (L150). Score 88.
