@@ -28,6 +28,9 @@ PX0, PX1 = -1.0, 1.0         # central passage
 KX0, KX1 = -3.9, 3.9         # kitchen (a little narrower than the main block, as on the cutaway)
 KY1 = 8.6                    # kitchen back (north) wall
 VY0 = -2.6                   # veranda front edge
+WX = -5.7                    # the WEST compound wall, close beside the house (c2 plate)
+LX1, LX0 = WX - 0.2, WX - 3.4   # the lane: about 3 m wide, just outside that wall
+LANE_GRADE = 0.025           # the lane falls gently, about 2.5 cm per metre, toward the back (wall chest-high from the lane, c2 plate)
 
 bpy.ops.wm.read_factory_settings(use_empty=True)
 sc = bpy.context.scene
@@ -86,6 +89,8 @@ M = dict(
     glass=mat("bright outside", "#f2efe4", 0.5, 1.5),
     earth=mat("packed red earth", "#aa6b45"),
     sand=mat("pale sand", "#d8c4a4"),
+    lane=mat("lane sand", "#c9a882"),
+    pole=mat("electric pole", "#6a5a48"),
     laterite=mat("laterite blocks", "#7a3f28", pattern="brick", hex2="#8c4a30", scale=3),
     cot=mat("cot wood", "#9c7448"),
     bluecheck=mat("blue checked sheet", "#7f90b2", pattern="checker", hex2="#c5cfe0", scale=40),
@@ -244,10 +249,45 @@ def door_leaf(name, hinge, length, angle_deg, h, m, thick=0.05):
 
 # ================================================================ ground, plinth, floors
 CUR[0] = "Ground"
-box("Yard_red_earth", -9.0, -8.0, -0.05, 9.0, 12.0, 0.0, M["earth"])
+box("Yard_red_earth", WX, -8.0, -0.05, 9.0, 12.0, 0.0, M["earth"])
 box("Sand_front", -30, -30, -0.06, 30, -8.0, -0.01, M["sand"])
-box("Sand_west_lane", -30, -8.0, -0.06, -9.0, 30, -0.01, M["sand"])
-box("Headland_north", -9.0, 12.0, -0.06, 14.0, 30, -0.01, M["earth"])
+# ---- the lane along the WEST side (@houseexteriorc2plate, @houseexteriorc1plate): sandy, just outside the close
+# west compound wall, sloping DOWN toward the back (north) and on past the neighbours' cottages; level with the front
+# sand at the front corner. A red earth bank rises on its far (west) side with palms and a wooden electric pole.
+def mesh(name, verts, faces, m):
+    me = bpy.data.meshes.new(name)
+    me.from_pydata(verts, [], faces)
+    me.update()
+    o = bpy.data.objects.new(name, me)
+    col(CUR[0]).objects.link(o)
+    o.data.materials.append(m)
+    return o
+
+def lane_z(y):
+    return 0.0 if y <= -8.0 else -(y + 8.0) * LANE_GRADE
+
+ys = [-8.0 + k * 2.0 for k in range(21)]                     # y -8 .. 32
+lv, lf = [], []
+for i, y in enumerate(ys):
+    z = lane_z(y)
+    lv += [(LX0, y, z - 0.01), (LX1, y, z - 0.01)]
+    if i:
+        a = 2 * (i - 1)
+        lf.append((a, a + 1, a + 3, a + 2))
+mesh("Lane_sand", lv, lf, M["lane"])
+# the bank: from the lane's west edge up and out to the west, 1.4 m above the lane, then flat
+bv, bf = [], []
+for i, y in enumerate(ys):
+    z = lane_z(y)
+    bv += [(LX0, y, z - 0.01), (LX0 - 2.0, y, z + 2.0), (-40.0, y, z + 2.0)]
+    if i:
+        a = 3 * (i - 1)
+        bf += [(a, a + 3, a + 4, a + 1), (a + 1, a + 4, a + 5, a + 2)]
+mesh("Lane_bank_red_earth", bv, bf, M["earth"])
+box("West_ground_front", -40, -30, -0.06, LX0, -8.0, -0.01, M["sand"])
+# under the close west compound wall: its foot follows the lane down (the wall face grows as the lane falls)
+box("Lane_kerb_under_wall", LX1, -8.0, -3.4, WX - 0.15, 32, 0.0, M["laterite"])
+box("Headland_north", WX, 12.0, -0.06, 14.0, 30, -0.01, M["earth"])
 box("Headland_east", 9.0, -8.0, -0.06, 14.0, 12.0, -0.01, M["earth"])
 # the cliff drops to the sea on the EAST side
 box("Cliff_face", 14.0, -30, -9.0, 15.5, 30, -0.02, M["cliff"])
@@ -485,11 +525,11 @@ for k, (x, m_) in enumerate(((-3.0, M["white"]), (-2.4, M["navy"]), (2.4, M["whi
 # low laterite compound wall across the front with an open gap on line with the steps, and down both sides
 def lwall(name, a, b):
     box(name, min(a[0], b[0]) - 0.15, min(a[1], b[1]) - 0.15, 0, max(a[0], b[0]) + 0.15, max(a[1], b[1]) + 0.15, 0.9, M["laterite"])
-lwall("Compound_front_west", (-8.5, -8.0), (-1.3, -8.0))
+lwall("Compound_front_west", (WX, -8.0), (-1.3, -8.0))
 lwall("Compound_front_east", (1.3, -8.0), (8.5, -8.0))
-lwall("Compound_west", (-8.5, -8.0), (-8.5, 11.0))
+lwall("Compound_west", (WX, -8.0), (WX, 11.0))
 lwall("Compound_east", (8.5, -8.0), (8.5, 11.0))
-lwall("Compound_back", (-8.5, 11.0), (8.5, 11.0))
+lwall("Compound_back", (WX, 11.0), (8.5, 11.0))
 for x in (-1.3, 1.3):
     box(f"Gap_post{x}", x - 0.25, -8.25, 0, x + 0.25, -7.75, 1.1, M["laterite"])
 
@@ -501,10 +541,23 @@ def palm(name, x, y, h, lean=(0, 0)):
         a = math.radians(k * 40)
         tip = top + Vector((math.cos(a) * 3.0, math.sin(a) * 3.0, -1.2))
         beam(f"{name}_frond{k}", top, tip, 0.5, 0.05, M["frond"])
-for k, (x, y, h, l) in enumerate(((-7.0, -6.5, 11, (-1.0, 0.3)), (6.0, -6.0, 12, (1.4, 0.6)), (7.2, -5.2, 12.5, (1.8, 0.2)),
-                                  (-7.5, 4.0, 10, (-0.8, 0)), (7.3, 6.5, 11, (0.6, 0.5)), (-5.5, 10.0, 12, (0, 1)))):
+for k, (x, y, h, l) in enumerate(((-6.6, -9.5, 11, (-1.0, 0.3)), (6.0, -6.0, 12, (1.4, 0.6)), (7.2, -5.2, 12.5, (1.8, 0.2)),
+                                  (-11.5, 4.0, 10, (-0.8, 0)), (7.3, 6.5, 11, (0.6, 0.5)), (-11.0, 12.0, 12, (0, 1)))):
     palm(f"Palm{k}", x, y, h, l)
-for k, (x, y) in enumerate(((-6.0, -7.3), (6.5, -7.4), (-8.0, 0.0), (8.0, 9.5))):
+# wooden electric pole on the bank, shrubs along the foot of the wall, neighbours' tiled cottages down the lane
+# at the foot of the bank, at the lane's edge (c2 plate); base sunk a little into the slope
+cyl("Electric_pole", (LX0 - 0.3, 3.0, lane_z(3.0) + 0.1 + 4.5), 0.12, 9.0, M["pole"])
+box("Pole_crossarm", LX0 - 1.0, 2.95, lane_z(3.0) + 0.1 + 8.6, LX0 + 0.4, 3.05, lane_z(3.0) + 0.1 + 8.7, M["pole"])
+for k, y in enumerate((-4.0, 0.5, 5.0, 8.5)):
+    sph(f"Lane_weed{k}", (LX1 - 0.15, y, lane_z(y) + 0.1), 0.25, M["green"], scale=(1, 2, 0.5))
+def cottage(name, x, y, w=4.0, d=5.0):
+    z = lane_z(y) + 2.0
+    box(f"{name}_walls", x - w / 2, y - d / 2, z, x + w / 2, y + d / 2, z + 2.6, M["wall"])
+    box(f"{name}_band", x - w / 2 - 0.01, y - d / 2 - 0.01, z, x + w / 2 + 0.01, y + d / 2 + 0.01, z + 0.7, M["band"])
+    hip_roof(f"{name}_roof", x - w / 2 - 0.4, x + w / 2 + 0.4, y - d / 2 - 0.4, y + d / 2 + 0.4, z + 2.6, 28)
+for k, (x, y) in enumerate(((-14.0, 14.0), (-15.0, 22.0), (-13.5, 29.0))):
+    cottage(f"Cottage{k}", x, y)
+for k, (x, y) in enumerate(((-6.0 + 0.0, -7.3), (6.5, -7.4), (8.0, 9.5))):
     sph(f"Shrub{k}", (x, y, 0.3), 0.6, M["green"], scale=(1.3, 1, 0.7))
 
 # ================================================================ light, world, cameras
@@ -557,6 +610,7 @@ VIEWS = [
     ("10-veranda-from-the-steps", cam("CAM_veranda", (-0.3, -3.6, FL + 1.4), (0.0, 0.0, FL + 1.2), 75), False),
     ("11-antony-room-C2-from-the-door", cam("CAM_ant_C2", (-1.25, 2.5, E), (-4.5, 2.5, FL + 1.25), 88), False),
     ("13-exterior-west-side", cam("CAM_ext_west", (-17.0, 3.5, 2.0), (0.0, 3.5, 2.0), 60), False),
+    ("14-lane-c2-up-toward-the-headland", cam("CAM_lane_c2", (LX1 - 1.4, 15.5, lane_z(15.5) + 1.5), (WX - 0.9, -14.0, 0.9), 58), False),
     ("12-kitchen-west-wall", cam("CAM_kit_west", (3.2, 6.6, E), (KX0, 6.7, FL + 1.3), 80), False),
 ]
 
