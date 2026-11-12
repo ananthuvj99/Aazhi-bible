@@ -218,11 +218,12 @@ cam.data.angle = math.radians(60)
 cam.data.clip_start = 0.05
 link(cam)
 sc.camera = cam
-cam.data.angle = math.radians(70)
+cam.data.angle = math.radians(75)
 # keyed positions to 6.5 s, then a weighted follow over his right shoulder, then an eased stop in the doorway
-# opens from the room's south-east corner (the @antonyroomc3plate view): the cot, window and shelf behind him,
-# his door just off frame right; it pans right as he comes to the door and follows him through it
-CK = [(0.0, (-1.35, 0.3), None), (3.8, (-1.35, 0.3), None), (5.5, (-1.8, 0.45), None), (6.5, (-1.3, 0.95), None)]
+# opens from the room's north-east corner, by the trunk, looking toward the front wall: Antony in the middle, the barred
+# front window and the one wall clock (front wall, near the west corner) behind him, the cot along the right of the frame;
+# his door is off frame LEFT, so it pans left as he goes to the door, and follows him through it
+CK = [(0.0, (-1.45, 4.55), None), (3.8, (-1.45, 4.55), None), (5.5, (-2.15, 2.3), None), (6.5, (-1.75, 1.0), None)]
 def ck_at(t):
     for (t0, p0, _), (t1, p1, _) in zip(CK, CK[1:]):
         if t0 <= t <= t1:
@@ -238,7 +239,7 @@ for f in frames:
     a = HEAD[f]
     if t <= 6.5:
         cpos = ck_at(t)
-        want_look = (a - Vector((0, 0, 0.55))) if t < 3.8 else (a if t < 6.0 else Vector((-0.1, 1.9, FL + 1.5)).lerp(a, 0.5))
+        want_look = (a.lerp(Vector((-3.2, 0.1, FL + 1.6)), 0.35) - Vector((0, 0, 0.4))) if t < 3.8 else (a if t < 6.0 else Vector((-0.1, 1.9, FL + 1.5)).lerp(a, 0.5))
         look = look.lerp(want_look, 0.35 if t < 3.8 else 0.18)        # holds him, then pans right with him
     elif t <= 11.5:
         heading = (pos_at(min(DUR, t + 0.4)) - pos_at(t))

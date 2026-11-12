@@ -11,8 +11,8 @@ Made by Ananthu with Claude, 2026-11-12, on the Blender house (`locations/house-
 ## Beats
 | Time | Antony | Camera |
 |---|---|---|
-| 0.0–3.8 s | In the middle of his room, the cot beside him; hears her, scratches his head with both hands, tugs the mundu knot | Still, from the room's south-east corner (the @antonyroomc3plate view), 70°, holding him with the cot, window, shelf and trunk |
-| 3.8–6.5 s | Walks quickly to his door, steps into the passage and turns LEFT (north) | Pans right with him and follows him through the door |
+| 0.0–3.8 s | In the middle of his room, the cot beside him; hears her, scratches his head with both hands, tugs the mundu knot | Still, from the room's north-east corner by the trunk, 75°, looking toward the front wall: him in the middle, the barred front window and the one wall clock (front wall, near the west corner) behind him, the side window and the cot along the right |
+| 3.8–6.5 s | Walks quickly to his door, steps into the passage and turns LEFT (north) | Pans LEFT with him (his door is off frame left) and follows him through the door |
 | 6.5–11.5 s | Up the passage toward the open kitchen doors, a hand through his hair | Follows a beat behind, over his right shoulder |
 | 11.5–14.0 s | Stops against the RIGHT side of the kitchen doorway, rubs the back of his neck, turns a little toward his mother | Eases to a stop close behind his right shoulder, looking past him to Rosamma at the stove (back to us, stirring) |
 
