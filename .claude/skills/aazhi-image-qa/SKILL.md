@@ -49,6 +49,9 @@ Look at the image as the audience will, and ask what logically **must** be there
 
 Report the gaps in a `Logic gaps:` line (or "none found"). Any open gap on a story element means **Fix first**, whatever the score.
 
+## Step 2c — No "minor" findings (Ranjith, 2026-11-12, L152)
+Every mismatch found in Step 2 or 2b is fixed (edit or regenerate) before the image is shown for approval. Never label a finding "minor" and pass the image: a rail, surface, prop, costume detail or light that differs from the approved takes is a fail until fixed. Close-ups that show any part of the set are made with an approved frame of that set attached. If a fix still fails after a few tries, say so plainly and ask.
+
 ## Step 3 — Score
 
 | Area | Points | How |
