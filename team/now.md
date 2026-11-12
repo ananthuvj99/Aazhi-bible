@@ -5,4 +5,4 @@ Format: `- Name: shot — what you are doing`
 
 - Ananthu: Scene 3 — SB017 under the mango tree (3tree-a: two-shot talk, Lanka, ten days)
 - Ranjith: Cochin boarding: s13-sh03b Antony 'here I am', s13-sh03c deck from above; SB032 ready
-- Aswanth: song finishing — s16b-sh31 v2 dolphin night-to-morning; s16b-sh32 arrival at the Sri Lankan cargo wharf (6 s) ready
+- Aswanth: song finishing — s16b-sh33 unloading at the Sri Lankan cargo landing (20 s, five cuts, new port sheet) ready
