@@ -2,7 +2,7 @@
 
 | # | File | Platform ID | How |
 |---|---|---|---|
-| 01 | 01-REF-s21sh04last.jpg | `@s21sh04last` | **reference image** (last frame of the s21-sh04 take) |
+| 01 | 01-REF-s23sh03last.jpg | `@s23sh03last` | **reference image** (last frame of the s23-sh03 take) |
 | 02 | 02-antony20.jpg | `@antony20` | full · voice **Mahendran J** |
 | 03 | 03-burningvallamnomoon.png | `@burningvallamnomoon` | background only, far |
 
