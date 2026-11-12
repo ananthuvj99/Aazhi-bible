@@ -29,6 +29,11 @@ KX0, KX1 = -3.9, 3.9         # kitchen (a little narrower than the main block, a
 KY1 = 8.6                    # kitchen back (north) wall
 VY0 = -2.6                   # veranda front edge
 WX = -5.7                    # the WEST compound wall, close beside the house (c2 plate)
+EWX = 5.9                    # the EAST compound wall, about 1.2 m beyond the veranda (c1 plate: the compound is ~house width + 1 m a side)
+FWY = -10.0                  # the FRONT compound wall, about 7.5 m in front of the veranda edge (measured on the c1 plate)
+def cliff_x(y):
+    """The headland's cliff edge east of the house: close behind the house, cutting away wider toward the front."""
+    return 7.2 if y >= 10.0 else 7.2 + (10.0 - y) * 0.27
 LX1, LX0 = WX - 0.2, WX - 3.4   # the lane: about 3 m wide, just outside that wall
 LANE_GRADE = 0.025           # the lane falls gently, about 2.5 cm per metre, toward the back (wall chest-high from the lane, c2 plate)
 
@@ -249,8 +254,8 @@ def door_leaf(name, hinge, length, angle_deg, h, m, thick=0.05):
 
 # ================================================================ ground, plinth, floors
 CUR[0] = "Ground"
-box("Yard_red_earth", WX, -8.0, -0.05, 9.0, 12.0, 0.0, M["earth"])
-box("Sand_front", -30, -30, -0.06, 30, -8.0, -0.01, M["sand"])
+box("Yard_red_earth", WX, FWY, -0.05, EWX, 12.0, 0.0, M["earth"])
+box("Sand_front", -40, -40, -0.06, EWX - 1.0, FWY, -0.01, M["sand"])
 # ---- the lane along the WEST side (@houseexteriorc2plate, @houseexteriorc1plate): sandy, just outside the close
 # west compound wall, sloping DOWN toward the back (north) and on past the neighbours' cottages; level with the front
 # sand at the front corner. A red earth bank rises on its far (west) side with palms and a wooden electric pole.
@@ -264,9 +269,9 @@ def mesh(name, verts, faces, m):
     return o
 
 def lane_z(y):
-    return 0.0 if y <= -8.0 else -(y + 8.0) * LANE_GRADE
+    return 0.0 if y <= FWY else -(y - FWY) * LANE_GRADE
 
-ys = [-8.0 + k * 2.0 for k in range(21)]                     # y -8 .. 32
+ys = [FWY + k * 2.0 for k in range(22)]                      # from the front wall to y 32
 lv, lf = [], []
 for i, y in enumerate(ys):
     z = lane_z(y)
@@ -284,15 +289,57 @@ for i, y in enumerate(ys):
         a = 3 * (i - 1)
         bf += [(a, a + 3, a + 4, a + 1), (a + 1, a + 4, a + 5, a + 2)]
 mesh("Lane_bank_red_earth", bv, bf, M["earth"])
-box("West_ground_front", -40, -30, -0.06, LX0, -8.0, -0.01, M["sand"])
+# the top of the bank is green (the village side is overgrown, c1 plate)
+box("Lane_bank_green_top", -40, FWY, lane_z(32.0) + 1.95, LX0 - 2.0, 32, 2.05, M["green"])
 # under the close west compound wall: its foot follows the lane down (the wall face grows as the lane falls)
-box("Lane_kerb_under_wall", LX1, -8.0, -3.4, WX - 0.15, 32, 0.0, M["laterite"])
-box("Headland_north", WX, 12.0, -0.06, 14.0, 30, -0.01, M["earth"])
-box("Headland_east", 9.0, -8.0, -0.06, 14.0, 12.0, -0.01, M["earth"])
-# the cliff drops to the sea on the EAST side
-box("Cliff_face", 14.0, -30, -9.0, 15.5, 30, -0.02, M["cliff"])
-box("Beach", 15.5, -30, -9.2, 45, 30, -9.0, M["sand"])
-box("Sea", 30, -200, -9.4, 300, 200, -9.3, M["sea"])
+box("Lane_kerb_under_wall", LX1, FWY, -3.4, WX - 0.15, 32, 0.0, M["laterite"])
+# ---- the headland east of the house and the cliff (@houseout, c1 plate): red laterite ground from the east wall
+# (and in front of the compound on the right) out to the cliff edge, which cuts back diagonally; the cliff drops
+# about 10 m to the beach; boats on the sand, the white church on the shore, green hills beyond.
+CY = [-40.0 + k * 4.0 for k in range(21)]                       # y -40 .. 40
+hv, hf, cv, cf = [], [], [], []
+for i, y in enumerate(CY):
+    ex = cliff_x(y)
+    x_in = EWX if y >= FWY else EWX - 1.0
+    hv += [(x_in, y, -0.02), (ex, y, -0.35)]
+    cv += [(ex, y, -0.35), (ex + 1.2, y, -4.0), (ex + 2.6, y, -10.0)]
+    if i:
+        a, b = 2 * (i - 1), 3 * (i - 1)
+        hf.append((a, a + 2, a + 3, a + 1))
+        cf += [(b, b + 3, b + 4, b + 1), (b + 1, b + 4, b + 5, b + 2)]
+mesh("Headland_red_laterite", hv, hf, M["earth"])
+mesh("Cliff_face", cv, cf, M["cliff"])
+box("Headland_north", WX, 12.0, -0.06, 7.2, 40, -0.01, M["earth"])
+bv2, bf2 = [], []
+for i, y in enumerate(CY):
+    ex = cliff_x(y) + 2.6
+    bv2 += [(ex, y, -10.0), (ex + 22.0, y, -10.2)]
+    if i:
+        a = 2 * (i - 1)
+        bf2.append((a, a + 2, a + 3, a + 1))
+mesh("Beach_sand", bv2, bf2, M["sand"])
+# the bay's beach curving away north-east toward the church, where the boats are pulled up
+bpy.ops.mesh.primitive_cylinder_add(vertices=40, radius=1, depth=0.2, location=(58, 160, -10.05))
+o = bpy.context.object; o.name = "Bay_beach_curve"; o.scale = (28, 110, 1); o.data.materials.append(M["sand"]); put(o)
+for k in range(10):
+    bpy.ops.mesh.primitive_uv_sphere_add(segments=12, ring_count=6, radius=1, location=(38 + k * 2.2, 70 + k * 14, -9.8), rotation=(0, 0, math.radians(30 + k * 5)))
+    o = bpy.context.object; o.name = f"Bay_boat{k}"; o.scale = (3.5, 0.7, 0.35); o.data.materials.append(M["brown"]); put(o)
+for k in range(9):                                                   # wooden fishing boats pulled up on the beach
+    y = -14 + k * 5.5
+    bx = cliff_x(y) + 9 + (k % 3) * 2.5
+    bpy.ops.mesh.primitive_uv_sphere_add(segments=12, ring_count=6, radius=1, location=(bx, y, -9.75), rotation=(0, 0, math.radians(70 + k * 4)))
+    o = bpy.context.object; o.name = f"Boat{k}"; o.scale = (3.5, 0.7, 0.35); o.data.materials.append(M["brown"]); put(o)
+# the white church with a tall spire, on the shore beyond the headland to the north-east
+box("Church_nave", 62, 222, -10, 72, 240, -1, M["trim"])          # far along the shore, about 250 m off
+box("Church_tower", 65, 218, -10, 69, 222, 12, M["trim"])
+bpy.ops.mesh.primitive_cone_add(vertices=8, radius1=2.4, depth=10, location=(67, 220, 17))
+o = bpy.context.object; o.name = "Church_spire"; o.data.materials.append(M["trim"]); put(o)
+# green hills beyond the bay and behind the village
+# only beyond the bay, far to the north-east and east (the village side, left, is a palm grove)
+for k, (x, y, r, h) in enumerate(((210, 330, 110, 34), (320, 200, 90, 28), (120, 420, 120, 30))):
+    bpy.ops.mesh.primitive_uv_sphere_add(segments=16, ring_count=8, radius=1, location=(x, y, -10))
+    o = bpy.context.object; o.name = f"Hill{k}"; o.scale = (r, r * 0.7, h); o.data.materials.append(M["frond"]); put(o)
+box("Sea", 10, -300, -10.6, 400, 300, -10.5, M["sea"])
 
 CUR[0] = "House"
 # plinth under the whole house and veranda (blue), red-oxide floors on top
@@ -525,13 +572,13 @@ for k, (x, m_) in enumerate(((-3.0, M["white"]), (-2.4, M["navy"]), (2.4, M["whi
 # low laterite compound wall across the front with an open gap on line with the steps, and down both sides
 def lwall(name, a, b):
     box(name, min(a[0], b[0]) - 0.15, min(a[1], b[1]) - 0.15, 0, max(a[0], b[0]) + 0.15, max(a[1], b[1]) + 0.15, 0.9, M["laterite"])
-lwall("Compound_front_west", (WX, -8.0), (-1.3, -8.0))
-lwall("Compound_front_east", (1.3, -8.0), (8.5, -8.0))
-lwall("Compound_west", (WX, -8.0), (WX, 11.0))
-lwall("Compound_east", (8.5, -8.0), (8.5, 11.0))
-lwall("Compound_back", (WX, 11.0), (8.5, 11.0))
-for x in (-1.3, 1.3):
-    box(f"Gap_post{x}", x - 0.25, -8.25, 0, x + 0.25, -7.75, 1.1, M["laterite"])
+lwall("Compound_front_west", (WX, FWY), (-1.1, FWY))       # the open gap (2.2 m) is on line with the steps
+lwall("Compound_front_east", (1.1, FWY), (EWX, FWY))
+lwall("Compound_west", (WX, FWY), (WX, 11.0))
+lwall("Compound_east", (EWX, FWY), (EWX, 11.0))
+lwall("Compound_back", (WX, 11.0), (EWX, 11.0))
+for x in (-1.1, 1.1):
+    box(f"Gap_post{x}", x - 0.25 * (1 if x > 0 else -1) - 0.25, FWY - 0.25, 0, x + 0.25 * (1 if x > 0 else -1) + 0.25, FWY + 0.25, 1.1, M["laterite"])
 
 # coconut palms around the house, two framing the front
 def palm(name, x, y, h, lean=(0, 0)):
@@ -541,8 +588,21 @@ def palm(name, x, y, h, lean=(0, 0)):
         a = math.radians(k * 40)
         tip = top + Vector((math.cos(a) * 3.0, math.sin(a) * 3.0, -1.2))
         beam(f"{name}_frond{k}", top, tip, 0.5, 0.05, M["frond"])
-for k, (x, y, h, l) in enumerate(((-6.6, -9.5, 11, (-1.0, 0.3)), (6.0, -6.0, 12, (1.4, 0.6)), (7.2, -5.2, 12.5, (1.8, 0.2)),
-                                  (-11.5, 4.0, 10, (-0.8, 0)), (7.3, 6.5, 11, (0.6, 0.5)), (-11.0, 12.0, 12, (0, 1)))):
+PALMS = (
+    # inside the compound (@houseout, c1 plate)
+    (-5.0, -8.9, 11.5, (-0.5, 0.3)),     # by the front-west wall corner
+    (-5.2, -2.6, 12.5, (-0.7, 0.0)),     # beside the west corner of the veranda
+    (4.9, -4.6, 12.0, (1.8, 0.4)),       # the pair at the front-east corner, leaning out toward the cliff
+    (5.4, -3.6, 13.0, (2.4, 0.2)),
+    # outside: on the lane bank to the west, the front-west sand, behind the house
+    (-11.5, 4.0, 10.0, (-0.8, 0.0)), (-11.0, 12.0, 12.0, (0.0, 1.0)), (-9.5, -12.5, 11.0, (-1.0, -0.3)),
+    (-13.0, -5.0, 12.5, (-0.6, 0.4)), (-2.5, 15.0, 12.0, (0.3, 0.8)), (3.0, 16.5, 11.0, (0.6, 0.5)),
+    # the palm grove behind the village on the left (west and north-west)
+    (-16.0, 8.0, 13.0, (0.4, 0.2)), (-19.0, 18.0, 12.0, (-0.5, 0.6)), (-23.0, 6.0, 14.0, (0.3, -0.4)),
+    (-21.0, 28.0, 13.0, (0.6, 0.3)), (-27.0, 16.0, 12.5, (-0.4, 0.5)), (-9.0, 22.0, 13.5, (0.2, 0.7)),
+    (-14.0, 34.0, 12.0, (0.5, 0.4)), (-30.0, 30.0, 13.0, (0.3, 0.3)), (0.0, 26.0, 12.0, (0.4, 0.6)),
+)
+for k, (x, y, h, l) in enumerate(PALMS):
     palm(f"Palm{k}", x, y, h, l)
 # wooden electric pole on the bank, shrubs along the foot of the wall, neighbours' tiled cottages down the lane
 # at the foot of the bank, at the lane's edge (c2 plate); base sunk a little into the slope
@@ -557,7 +617,7 @@ def cottage(name, x, y, w=4.0, d=5.0):
     hip_roof(f"{name}_roof", x - w / 2 - 0.4, x + w / 2 + 0.4, y - d / 2 - 0.4, y + d / 2 + 0.4, z + 2.6, 28)
 for k, (x, y) in enumerate(((-14.0, 14.0), (-15.0, 22.0), (-13.5, 29.0))):
     cottage(f"Cottage{k}", x, y)
-for k, (x, y) in enumerate(((-6.0 + 0.0, -7.3), (6.5, -7.4), (8.0, 9.5))):
+for k, (x, y) in enumerate(((-5.1, FWY + 0.7), (5.3, FWY + 0.7), (5.3, 8.5))):
     sph(f"Shrub{k}", (x, y, 0.3), 0.6, M["green"], scale=(1.3, 1, 0.7))
 
 # ================================================================ light, world, cameras
@@ -598,7 +658,7 @@ def cam(name, pos, look, fov, ortho=None):
 E = FL + 1.6   # eye height on the floors
 VIEWS = [
     # name, camera, hide roof?, resolution
-    ("01-exterior-front-wide", cam("CAM_ext_front", (0.5, -20.0, 2.2), (0.0, 1.0, 2.4), 62), False),
+    ("01-exterior-front-wide", cam("CAM_ext_front", (0.3, -30.0, 3.5), (0.0, 0.0, 0.6), 55), False),
     ("02-exterior-three-quarter", cam("CAM_ext_34", (13.0, -14.0, 7.0), (0.0, 2.0, 1.5), 50), False),
     ("03-cutaway-top", cam("CAM_top", (0.0, 3.0, 40.0), None, 0, ortho=22), True),
     ("04-cutaway-isometric", cam("CAM_iso", (0.0, -14.0, 17.0), (0.0, 3.5, 0.0), 48), True),
