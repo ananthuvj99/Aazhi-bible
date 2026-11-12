@@ -15,8 +15,8 @@
   ]
  },
  "Sasi": [
-  1.9,
-  5.0
+  1.7,
+  4.6
  ],
  "Antony": [
   2.2,
@@ -30,5 +30,7 @@
   -2.1,
   -1.6
  ],
- "deckhouse_front": -7.0
+ "deckhouse_front": -7.0,
+ "Sasi_pose": "curled tight against the bow face of the sacks, within the width of the stack, head toward the centre line, knees drawn up; hidden from every camera aft of the sacks (K2, K3, K4), seen from the bow side (K5–K7)",
+ "landmarks": "Check every keyframe against these: the deckhouse (aft), the one mast with its lantern (2 m forward of amidships), the sacks (just forward of the mast, starboard), the bow stem, and the moon (high ahead-right). Each person's place and head direction is read off these."
 }

@@ -17,5 +17,6 @@ Rule:
 1. For each sequence, keep one master layout in metres (`continuity/memory/<shot>-master-layout.json`): mast, props, every person, the deckhouse front, the stem.
 2. For every keyframe camera, render a grey-box guide from that layout with `tools/blocking3d.py` (only what is in front of the camera), and attach it to the image generation as a layout reference: "everything stands exactly where the grey-box layout puts it; do not copy labels".
 3. Cross-plate QC measures distances against the layout. A person or prop out of place by more than about a metre is a ❌.
+4. Read every frame against the fixed landmarks (deckhouse, mast with its lantern, sacks, bow stem, moon). From each landmark, work out where each person lies and which way his head points, and check that the reverse view agrees. If a person is barely seen from one angle (Sasi's legs past the sacks in K2), it reads as a different pose: hide him fully or show him clearly (Ranjith, 2026-11-12).
 
 Checklist line: in `rules/pre-delivery-checklist.md`.
