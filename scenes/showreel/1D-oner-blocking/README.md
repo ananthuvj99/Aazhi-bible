@@ -18,3 +18,15 @@ Made by Ananthu with Claude, 2026-11-12, on the Blender house (`locations/house-
 
 Characters: Antony in the home look (@antonyhome: white vest, checked mundu, silver chain, messy hair); Rosamma (cream saree, mid-blue blouse, grey bun, a long wooden ladle).
 In this scene the kitchen double doors stand wide open, flat against the passage's end wall, so the doorway is clear.
+
+## v2: camera only, no people (2026-11-12)
+The first generation from the v1 blocking came out robotic: the model copied the grey-box figure's stiff arm and walk motion. It also showed the wrong clock time. v2 has **no people at all**, only the house and the camera, so the reference video carries the space and the camera move and nothing else. Antony's acting comes from the prompt text and @antonyhome.
+- `1d-oner-camera-v2.mp4` — 14 s, 1280×548, 24 fps, motion blur. `1d-oner-camera-v2.blend`, `build_1d_camera.py`.
+- The camera runs one smooth curve, using keyed positions and a keyed look-at point with eased (Bezier) curves. It has no follow-lag and no float, and keeps the same beats as v1:
+  - **0–3.8 s:** a barely-there creep from the NE corner with the clock, the front window, the side window and the cot in frame.
+  - **3.8–5.5 s:** turns LEFT toward his door.
+  - **5.5–7.8 s:** through the door at its centre, turning left up the passage.
+  - **7.8–11.5 s:** glides up the passage toward the open kitchen doors.
+  - **11.5–14 s:** settles at the doorway with the aduppu at back-left.
+- Stills: `v2-still-*.png` (0.5, 4.8, 6.6, 9, 13.5 s).
+- The house model's kitchen was corrected against `@kitchenclean` before this render: double north window with four shutters, a soot plume, and a pan and tray on the aduppu. See `locations/house-3d/README.md`.
