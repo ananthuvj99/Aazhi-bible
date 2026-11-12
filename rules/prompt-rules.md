@@ -72,3 +72,7 @@ Every prompt has a `CONTINUITY (carried over from the previous shot, the referen
 
 ## Continuity check before every prompt (Ranjith, 2026-11-10, L119)
 Compare with the previous approved frames first and fill the shot file's Continuity check table; attach everyone who may appear (with their place in the frame), keep distances and sizes from the earlier shots (checked in a 3D camera view at real distances), and lock the head count.
+
+## Memory block (Ranjith, 2026-11-12)
+The model remembers nothing between generations, so each sequence keeps one MEMORY block in `continuity/memory/<sequence>.md`: the place, the light (sun or moon and where it is), the plates and the bow, every person's clothes, and the key props with their distances. It goes into every prompt of that sequence, word for word, right after SCENE, followed by one `NOW:` line for the shot: where each person is, what is in their hands, how each face looks. Character reference lines then stay short ("Raghavan, as in MEMORY"). Change the block only when a shot shows the change, update the file first, and every later prompt carries it.
+
