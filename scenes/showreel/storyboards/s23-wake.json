@@ -1,5 +1,5 @@
 {
- "title": "Crew wake, Aashaan comes out · s23-sh02b + s23-sh02c",
+ "title": "Crew wake, Aashaan out and back, Suresh and Balan come up",
  "subtitle": "Two 8 s shots, one locked aft camera, keyframes edited from the approved take · Ranjith, 2026-11-12",
  "out": "scenes/showreel/storyboards/s23-wake-storyboard.png",
  "panels": [
@@ -45,6 +45,17 @@
     "5.5–8 s Sasi up. Faces to the right (fire behind the camera). Next: s23-sh03 v5, s23-sh04 v3."
    ],
    "refs": "start @s23wakek2 · end @s23wakek3 · 5 sheets"
+  },
+  {
+   "shot": "s23-sh06b",
+   "time": "8 s",
+   "title": "Aashaan back to the wheel; Suresh and Balan come up",
+   "image": "scenes/showreel/approved/s23-wake-keyframes/s23-sh06b-end.png",
+   "beats": [
+    "Start = s23-sh02c last frame. 0–2.5 s Raghavan, Sasi reach the rail; Aashaan goes back in. 2.5–3.5 s Aashaan at the wheel.",
+    "3.5–5.5 s Suresh steps out, sleepy; 5.5–8 s Balan behind him, alert. Silent."
+   ],
+   "refs": "start @s23sh02clast · end @s23sh06bend · 7 sheets"
   }
  ],
  "footer": "Storyboard only. Never attach this sheet to a generation."
