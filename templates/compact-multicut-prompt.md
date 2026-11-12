@@ -24,6 +24,9 @@ Cut 1 (<time>) — <camera in words: hand-held, height, distance>. <action with 
 Cut 2 (<time>) — <close-up of the key hands/object>.
 Cut 3 (<time>) — <reaction close-up>.
 
+REAL-WORLD PHYSICS
+<for each moving thing in frame: how it really moves, its weight, cause and effect, speed, what it leaves behind (wake, dust, ripples); "nothing moves by itself; every movement has a cause" (Aswanth's standing rule)>
+
 PERFORMANCE
 <the emotion in plain words; no two people move at the same moment or in the same way; eyes never on the lens; real skin, five fingers>.
 
