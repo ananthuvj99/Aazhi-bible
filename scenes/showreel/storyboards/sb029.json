@@ -1,20 +1,19 @@
 {
  "title": "SB029 · A burning boat (source scene 23B)",
- "subtitle": "Silent · emotion Concern · one shot, 8 s · same bow view as SB028, slow push-in (v2, L84) · Ranjith, 2026-11-07",
+ "subtitle": "Emotion Concern · one shot, 8 s · follows s23-sh01 v3 (from the approved full-moon bow take) · Ranjith, 2026-11-12",
  "out": "scenes/showreel/storyboards/sb029-storyboard.png",
  "panels": [
   {
    "shot": "s23-sh02 v2",
    "time": "8 s",
    "title": "The light becomes a burning vallam, far left",
-   "image": "locations/uru-deck/plates/urudeck-c2-plate-night.png",
+   "image": "scenes/showreel/approved/s21-sh03-last-fullmoon.jpg",
    "beats": [
-    "Start = last frame of approved s23-sh01: same bow view, Antony at the rail right of the stem post, leaning left.",
-    "0–2 s the tiny light on the far-left horizon grows into small flames; slow push-in begins (~1 m).",
-    "2–5.5 s a long, low vallam (no raised ends, no sail) burning, smoke leaning right; he straightens, grips the rail.",
-    "5.5–8 s he leans in again, breathing faster. Deep night; no people seen on the boat."
+    "Start = last frame of the s23-sh01 v3 take: Antony leaning on the rail right of the stem, looking left.",
+    "0–5.5 s the flicker on the horizon LEFT of the stem becomes a fishing boat on fire, 500 m off: small but clearly a boat; slow 1 m push-in.",
+    "Antony straightens, narrows his eyes, leans in; worried, profile partly seen. Silent."
    ],
-   "refs": "start image: s23-sh01 last frame · @urudeckc2platenight (full) · @antony20 (full) · @burningvallam (full, far)"
+   "refs": "start: s23-sh01 v3 last frame · @urubowplate · @antony20 · @burningvallamnomoon (bg, 500 m)"
   },
   {
    "shot": "blocking",
