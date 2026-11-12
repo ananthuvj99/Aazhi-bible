@@ -51,6 +51,10 @@ Flag anything the prompt adds that could change the result: new props, new dialo
 
 Run the repo checklist (`rules/pre-delivery-checklist.md`) and the lessons and wins in `learnings/INDEX.md`, from every creator. At minimum check: start positions (characters begin where the dialogue happens), single location per dialogue shot, references tied to shots and only for things on screen or framing the shot, reverse-angle backgrounds named, nothing off-screen named (word scan, including hidden words like "o'clock"), no English paraphrase of any line, Malayalam lock in five places, one speaker per cut in MCU with face to lens, exactly one valid scene emotion, lines fit their time slots and never cross a cut, holds at start and end, full duration stated, footwear and wardrobe locked, light direction per cut, STYLE names the Sony Venice 2 once with its look line and no other equipment name appears (checklist 74).
 
+## Step 4b — Logic gap finder (Ranjith, 2026-11-12)
+
+Read the prompt as the scene will play and list what logically must be in frame and what cannot be. Examples: a line that points at something ("look at the board", "someone in the water") needs that thing written and visible; people the previous shot placed in this view must be in this prompt, attached and placed; one sun or moon, placed by the continuity sheet, and never named in a view that faces away from it (L142, L145); nobody who is below, not aboard yet or in another room. Each gap found is a Must-fix.
+
 ## Step 5 — Score
 
 Score out of 100:

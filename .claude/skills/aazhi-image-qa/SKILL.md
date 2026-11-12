@@ -32,6 +32,19 @@ For each recurring element, mark ✅ match · ⚠️ close but different · ❌ 
 - **Clean plate rules:** no lettering, signs, flags or labels (L40); no people unless the plate is meant to carry them (L60); no grid, panel titles or watermark; not a labelled map (L9).
 - **Photoreal and usable:** photoreal film look (not painterly or CG), sharp enough to read the key elements, framing that matches the intended camera (L53).
 
+## Step 2b — Logic gap finder (Ranjith, 2026-11-12; every image, every time)
+
+Look at the image as the audience will, and ask what logically **must** be there and what logically **cannot** be there, given the story, the shots around it and the real world. Write each finding as a gap. A logic gap on a story element is a ❌, however well the image matches its references.
+
+- **Sky and physics:** one sun or moon per scene, in the place the continuity sheet gives (L142). A view that looks away from it has no sun or moon in the sky; a view toward it shows it with its path or glare. The phase and shape are right for the story and the place (a full moon is round; near the equator a crescent lies on its back, L139). Shadows fall away from the light; reflections are on the light's side; there is a lantern flame where lantern light falls.
+- **What the moment needs:** everything the dialogue or action refers to is there and readable. If Clara says "look at the board and write", the board has sums on it (L134); if a man is "at the wheel", he is visible at the wheel; if the crew are asleep on the deck, someone looking at that deck sees them (L145).
+- **What must not be there:** the moon in an aft view, a person who is below or not yet aboard, a second copy of anyone, people inside a room they are outside of, an object from a later shot.
+- **Inside and outside, front and back:** who is in which room, on which side of a door, rail or window; screen sides match the previous shot.
+- **Head count and identity:** count the people; each one is a different, named person from his own sheet. Two people merged into one, or one missing, is a ❌ (L145).
+- **Real, not illustrated:** wood grain, skin, cloth and light read as a photograph from a film; a toy-like, painted or CG look is a ❌ for any plate or start frame (L122).
+
+Report the gaps in a `Logic gaps:` line (or "none found"). Any open gap on a story element means **Fix first**, whatever the score.
+
 ## Step 3 — Score
 
 | Area | Points | How |
@@ -42,6 +55,7 @@ For each recurring element, mark ✅ match · ⚠️ close but different · ❌ 
 | Scale | 10 | sizes consistent with the references |
 | Clean-plate rules | 10 | deduct 5 per lettering/flag/label, 5 per unwanted person or grid |
 | Photoreal and usable | 10 | photoreal, resolution, framing |
+| Logic gaps (Step 2b) | cap | any open gap on a story element caps the score at 79 (Fix first) |
 
 Verdict: **90–100 Matches** (save) · **80–89 Matches with small drift** (save; note the drift in the card and write it away in prompts) · **65–79 Fix first** (recut, edit or regenerate before saving) · **below 65 Reject**.
 
@@ -51,6 +65,7 @@ Verdict: **90–100 Matches** (save) · **80–89 Matches with small drift** (sa
 IMAGE QA — <file / proposed ID>  ·  Continuity score NN/100  ·  <verdict>
 Compared with: @… , @… , <kept frame>, cameras.md <camera>
 ✅ … · ⚠️ … — what differs · ❌ … — what differs
+Logic gaps: … (or "none found")
 Drift to write away in prompts: …
 Fix: … (only if below 80)
 ```
