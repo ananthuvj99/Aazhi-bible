@@ -66,6 +66,26 @@
     "10.5–11.7 s his line in Malayalam, anguished (voice Brad); 12.5–15 s silent, staring at the rail."
    ],
    "refs": "@s23sh06bbalan"
+  },
+  {
+   "shot": "s23-sh06c",
+   "time": "10 s",
+   "title": "Follow Balan from the door",
+   "image": "scenes/showreel/approved/s23-wake-keyframes/s23-sh06c-start.png",
+   "beats": [
+    "0–2 s Balan frozen in the doorway. 2–7 s follow him forward round the mats; Suresh stops by the sacks."
+   ],
+   "refs": "start @s23sh06cstart · @urubowplate · @burningvallamnomoon"
+  },
+  {
+   "shot": "s23-sh06c end",
+   "time": "",
+   "title": "Balan beside Antony at the rail",
+   "image": "scenes/showreel/approved/s23-wake-keyframes/s23-sh06c-end.png",
+   "beats": [
+    "7–8.5 s he squeezes in beside Antony. 8.5–10 s hold: the fire between their heads, 500 m."
+   ],
+   "refs": "@s23sh06cend"
   }
  ],
  "footer": "Storyboard only. Never attach this sheet to a generation."
