@@ -301,8 +301,14 @@ door_leaf("Door_kit_R", (0.6, Y1 - T / 2 - 0.03), 0.6, -100, 2.1, M["door"])
 D_KW = (6.2, 7.1, 0, 2.1)
 D_KE = (6.2, 7.1, 0, 2.1)
 W_KN = (0.2, 1.8, 0.95, 2.25)
-wall("Wall_kit_west", "y", KX0, Y1, KY1 + T / 2, [D_KW], inner_sign=1)
-wall("Wall_kit_east", "y", KX1, Y1, KY1 + T / 2, [D_KE], inner_sign=-1)
+# small barred side windows toward the rear, no shutters (side elevations of @housefullview), set high so the
+# kitchen sheet's doors, vessel shelf (west) and dried fish (east) stay where they are
+W_KSW = (7.65, 8.25, 1.75, 2.35)
+W_KSE = (7.65, 8.25, 1.75, 2.35)
+wall("Wall_kit_west", "y", KX0, Y1, KY1 + T / 2, [D_KW, W_KSW], inner_sign=1)
+wall("Wall_kit_east", "y", KX1, Y1, KY1 + T / 2, [D_KE, W_KSE], inner_sign=-1)
+window("Win_kit_side_west", "y", KX0, W_KSW[0], W_KSW[1], W_KSW[2], W_KSW[3], shutters=False)
+window("Win_kit_side_east", "y", KX1, W_KSE[0], W_KSE[1], W_KSE[2], W_KSE[3], shutters=False)
 wall("Wall_kit_north", "x", KY1, KX0 - T / 2, KX1 + T / 2, [W_KN], inner_sign=-1)
 window("Win_kit_north", "x", KY1, W_KN[0], W_KN[1], W_KN[2], W_KN[3], out_sign=-1)   # shutters open inward, as on the sheet
 door_leaf("Door_kit_west", (KX0 + T / 2 + 0.04, 6.2), 0.9, -90, 2.1, M["door"])   # open, flat against the wall
@@ -550,6 +556,7 @@ VIEWS = [
     ("09-kitchen-from-south-entry", cam("CAM_kitchen", (0.4, 5.25, E), (-0.8, 8.6, FL + 1.1), 88), False),
     ("10-veranda-from-the-steps", cam("CAM_veranda", (-0.3, -3.6, FL + 1.4), (0.0, 0.0, FL + 1.2), 75), False),
     ("11-antony-room-C2-from-the-door", cam("CAM_ant_C2", (-1.25, 2.5, E), (-4.5, 2.5, FL + 1.25), 88), False),
+    ("13-exterior-west-side", cam("CAM_ext_west", (-17.0, 3.5, 2.0), (0.0, 3.5, 2.0), 60), False),
     ("12-kitchen-west-wall", cam("CAM_kit_west", (3.2, 6.6, E), (KX0, 6.7, FL + 1.3), 80), False),
 ]
 
