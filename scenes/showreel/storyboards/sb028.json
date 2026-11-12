@@ -1,20 +1,19 @@
 {
  "title": "SB028 · Watching the water (source scene 23A)",
- "subtitle": "Silent · emotion Alertness · one shot, 8 s · same bow view as s21-sh03 · Ranjith, 2026-11-07",
+ "subtitle": "Emotion Alertness · one shot, 8 s · starts from the approved full-moon bow take (@s21sh03last) · Ranjith, 2026-11-12",
  "out": "scenes/showreel/storyboards/sb028-storyboard.png",
  "panels": [
   {
    "shot": "s23-sh01",
    "time": "8 s",
    "title": "Antony notices a distant light",
-   "image": "locations/uru-deck/plates/urudeck-c2-plate-night.png",
+   "image": "scenes/showreel/approved/s21-sh03-last-fullmoon.jpg",
    "beats": [
-    "Same bow view as s21-sh03; Antony at the rail right of the stem post, back three-quarters to us.",
-    "0–2 s quiet beat (alive): looking ahead; at 1.5 s a tiny warm light flickers on the far-left horizon.",
-    "2–5.5 s his head turns left, both hands on the rail, leans in, narrows his eyes; profile partly seen.",
-    "5.5–8 s alert beat: leaning, eyes on the light, breathing faster, swaying with the deck."
+    "Start = last frame of the approved bow take: Antony from behind right of the stem, right hand on the rope coil; full moon upper right.",
+    "1.5 s a small orange light flickers up far off on the horizon LEFT of the stem (the vallam, 500 m).",
+    "2–5.5 s he turns his head left, both hands on the rail, leans in; partial profile in moonlight. 5.5–8 s tense, alert. Silent."
    ],
-   "refs": "@urudeckc2platenight (full) · @antony20 (full) · start image: last frame of s21-sh03 if kept"
+   "refs": "start @s21sh03last · @urubowplate (full) · @antony20 (full)"
   },
   {
    "shot": "blocking",
