@@ -269,7 +269,23 @@ def mesh(name, verts, faces, m):
     return o
 
 def lane_z(y):
-    return 0.0 if y <= FWY else -(y - FWY) * LANE_GRADE
+    """Gentle beside the house (c2 plate), then falling faster past the back of the compound toward the village (c1 plate)."""
+    if y <= FWY:
+        return 0.0
+    if y <= 11.0:
+        return -(y - FWY) * LANE_GRADE
+    return -(11.0 - FWY) * LANE_GRADE - (y - 11.0) * 0.09
+
+# west of the lane: a low bank (c2 plate), then the ground falls away to the village below the yard (c1 plate)
+BANK = [(0.0, 0.0), (-2.0, 0.8), (-6.0, -1.2), (-12.0, -2.4), (-40.0, -3.0)]   # (x offset from the lane edge, height above the lane)
+def ground_z(x, y):
+    if x >= LX0:
+        return lane_z(y) if x <= LX1 else 0.0
+    d = x - LX0
+    for (x0, z0), (x1, z1) in zip(BANK, BANK[1:]):
+        if x1 <= d <= x0:
+            return lane_z(y) + z0 + (z1 - z0) * (d - x0) / (x1 - x0)
+    return lane_z(y) + BANK[-1][1]
 
 ys = [FWY + k * 2.0 for k in range(22)]                      # from the front wall to y 32
 lv, lf = [], []
@@ -280,19 +296,28 @@ for i, y in enumerate(ys):
         a = 2 * (i - 1)
         lf.append((a, a + 1, a + 3, a + 2))
 mesh("Lane_sand", lv, lf, M["lane"])
-# the bank: from the lane's west edge up and out to the west, 1.4 m above the lane, then flat
-bv, bf = [], []
-for i, y in enumerate(ys):
-    z = lane_z(y)
-    bv += [(LX0, y, z - 0.01), (LX0 - 2.0, y, z + 2.0), (-40.0, y, z + 2.0)]
-    if i:
-        a = 3 * (i - 1)
-        bf += [(a, a + 3, a + 4, a + 1), (a + 1, a + 4, a + 5, a + 2)]
-mesh("Lane_bank_red_earth", bv, bf, M["earth"])
-# the top of the bank is green (the village side is overgrown, c1 plate)
-box("Lane_bank_green_top", -40, FWY, lane_z(32.0) + 1.95, LX0 - 2.0, 32, 2.05, M["green"])
+# the bank and the falling ground beyond it: bare red earth on the slope, green on the village side
+for part, (pa, pb), m_ in (("slope", (0, 2), M["earth"]), ("village", (1, 5), M["green"])):
+    pts = BANK[pa:pb]
+    bv, bf = [], []
+    n = len(pts)
+    for i, y in enumerate(ys):
+        z = lane_z(y)
+        bv += [(LX0 + dx, y, z + dz - 0.01) for dx, dz in pts]
+        if i:
+            a = n * (i - 1)
+            bf += [(a + j, a + n + j, a + n + j + 1, a + j + 1) for j in range(n - 1)]
+    mesh(f"Lane_bank_{part}", bv, bf, m_)
 # under the close west compound wall: its foot follows the lane down (the wall face grows as the lane falls)
-box("Lane_kerb_under_wall", LX1, FWY, -3.4, WX - 0.15, 32, 0.0, M["laterite"])
+box("Lane_kerb_under_wall", LX1, FWY, -3.4, WX - 0.15, 11.3, 0.0, M["laterite"])
+# past the back of the compound the headland edge beside the falling lane is a red earth slope
+lv2, lf2 = [], []
+for i, y in enumerate([y for y in ys if y >= 11.0]):
+    lv2 += [(LX1, y, lane_z(y)), (WX + 0.4, y, 0.0)]
+    if i:
+        a = 2 * (i - 1)
+        lf2.append((a, a + 2, a + 3, a + 1))
+mesh("Lane_east_slope", lv2, lf2, M["earth"])
 # ---- the headland east of the house and the cliff (@houseout, c1 plate): red laterite ground from the east wall
 # (and in front of the compound on the right) out to the cliff edge, which cuts back diagonally; the cliff drops
 # about 10 m to the beach; boats on the sand, the white church on the shore, green hills beyond.
@@ -309,7 +334,7 @@ for i, y in enumerate(CY):
         cf += [(b, b + 3, b + 4, b + 1), (b + 1, b + 4, b + 5, b + 2)]
 mesh("Headland_red_laterite", hv, hf, M["earth"])
 mesh("Cliff_face", cv, cf, M["cliff"])
-box("Headland_north", WX, 12.0, -0.06, 7.2, 40, -0.01, M["earth"])
+box("Headland_north", WX + 0.3, 11.0, -0.06, 7.2, 40, -0.01, M["earth"])
 bv2, bf2 = [], []
 for i, y in enumerate(CY):
     ex = cliff_x(y) + 2.6
@@ -582,8 +607,9 @@ for x in (-1.1, 1.1):
 
 # coconut palms around the house, two framing the front
 def palm(name, x, y, h, lean=(0, 0)):
-    top = Vector((x + lean[0], y + lean[1], h))
-    beam(f"{name}_trunk", (x, y, 0), top, 0.32, 0.32, M["palmtrunk"])
+    gz = ground_z(x, y) if x < WX else 0.0
+    top = Vector((x + lean[0], y + lean[1], gz + h))
+    beam(f"{name}_trunk", (x, y, gz), top, 0.32, 0.32, M["palmtrunk"])
     for k in range(9):
         a = math.radians(k * 40)
         tip = top + Vector((math.cos(a) * 3.0, math.sin(a) * 3.0, -1.2))
@@ -611,11 +637,11 @@ box("Pole_crossarm", LX0 - 1.0, 2.95, lane_z(3.0) + 0.1 + 8.6, LX0 + 0.4, 3.05, 
 for k, y in enumerate((-4.0, 0.5, 5.0, 8.5)):
     sph(f"Lane_weed{k}", (LX1 - 0.15, y, lane_z(y) + 0.1), 0.25, M["green"], scale=(1, 2, 0.5))
 def cottage(name, x, y, w=4.0, d=5.0):
-    z = lane_z(y) + 2.0
+    z = ground_z(x, y)
     box(f"{name}_walls", x - w / 2, y - d / 2, z, x + w / 2, y + d / 2, z + 2.6, M["wall"])
     box(f"{name}_band", x - w / 2 - 0.01, y - d / 2 - 0.01, z, x + w / 2 + 0.01, y + d / 2 + 0.01, z + 0.7, M["band"])
     hip_roof(f"{name}_roof", x - w / 2 - 0.4, x + w / 2 + 0.4, y - d / 2 - 0.4, y + d / 2 + 0.4, z + 2.6, 28)
-for k, (x, y) in enumerate(((-14.0, 14.0), (-15.0, 22.0), (-13.5, 29.0))):
+for k, (x, y) in enumerate(((-15.5, 13.0), (-17.0, 21.0), (-15.0, 29.0), (-21.0, 6.0))):
     cottage(f"Cottage{k}", x, y)
 for k, (x, y) in enumerate(((-5.1, FWY + 0.7), (5.3, FWY + 0.7), (5.3, 8.5))):
     sph(f"Shrub{k}", (x, y, 0.3), 0.6, M["green"], scale=(1.3, 1, 0.7))
@@ -670,7 +696,7 @@ VIEWS = [
     ("10-veranda-from-the-steps", cam("CAM_veranda", (-0.3, -3.6, FL + 1.4), (0.0, 0.0, FL + 1.2), 75), False),
     ("11-antony-room-C2-from-the-door", cam("CAM_ant_C2", (-1.25, 2.5, E), (-4.5, 2.5, FL + 1.25), 88), False),
     ("13-exterior-west-side", cam("CAM_ext_west", (-17.0, 3.5, 2.0), (0.0, 3.5, 2.0), 60), False),
-    ("14-lane-c2-up-toward-the-headland", cam("CAM_lane_c2", (LX1 - 1.4, 15.5, lane_z(15.5) + 1.5), (WX - 0.9, -14.0, 0.9), 58), False),
+    ("14-lane-c2-up-toward-the-headland", cam("CAM_lane_c2", (LX1 - 1.4, 10.5, lane_z(10.5) + 1.6), (WX - 0.9, -14.0, 0.9), 58), False),
     ("12-kitchen-west-wall", cam("CAM_kit_west", (3.2, 6.6, E), (KX0, 6.7, FL + 1.3), 80), False),
 ]
 
