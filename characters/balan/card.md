@@ -25,5 +25,6 @@ Platform ID: `@balan` · Image: `sheet.jpg` (front, back, face close-up; given b
 Platform voice **Brad** (`voices/VOICES.md`). Kollam coastal Malayalam; friendly, easy, a little too smooth.
 
 ## Rules
+- Every prompt with Balan carries a natural-face block: real unretouched skin, pores, his acne marks, sweat sheen, matte, never polished (Aswanth, 2026-11-12, L145).
 - Write the pens in his left chest pocket and the black shoes every time; the model may otherwise drop them.
 - Never pair with a different look of him (none exists yet).
