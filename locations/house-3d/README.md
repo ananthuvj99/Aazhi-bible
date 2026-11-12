@@ -6,8 +6,9 @@ Made by Ananthu with Claude, 2026-11-12. A planning and blocking model, not a pl
 - `house.blend` — open in Blender. Collections: Ground, House, Antony_room, Passage, Kitchen, Roof, Outside, Cameras.
 - `build_house.py` — rebuilds the whole file and the renders:
   `/Applications/Blender.app/Contents/MacOS/Blender -b -P build_house.py -- "<this folder>"`
-- `renders/` — ten views (21:9 2206×946; top views square):
-  01 front wide from the sand · 02 three-quarter from the south-east · 03 cutaway top · 04 cutaway isometric · 05 Antony's room from the south-east corner (C3) · 06 Antony's room from the passage through his door (C4) · 07 Antony's room straight down (C1, west wall at the top as on `@antonyroomc1plate`) · 08 the passage from the front door · 09 the kitchen from the south entry · 10 the veranda from the steps.
+- `renders/` — twelve views (21:9 2206×946; top views square):
+  01 front wide from the sand · 02 three-quarter from the south-east · 03 cutaway top · 04 cutaway isometric · 05 Antony's room from the south-east corner (C3) · 06 Antony's room from the passage through his door (C4) · 07 Antony's room straight down (C1, west wall at the top as on `@antonyroomc1plate`) · 08 the passage from the front door · 09 the kitchen from the south entry · 10 the veranda from the steps · 11 Antony's room from just inside his door (C2) · 12 the kitchen's west wall.
+- Colours are measured from the reference sheets (walls, base band, red-oxide floor, doors, cot, blue checked sheet with a check pattern, rose-pink sheet, trunk, aduppu, soot, clay, roof tiles and laterite with a block pattern), so each element reads as itself.
 
 ## Built from
 `house-exterior/card.md`, `elevations.webp` (@housefullview), `environment.webp` (@houseout), `map.png` (@housemap), `house-layout-block.txt`; `antony-room/card.md`, `antonyroom.webp`; `kitchen/card.md`, `map.png`; `hall/card.md`. Rosamma's room is a shell only (door and windows), as asked.
