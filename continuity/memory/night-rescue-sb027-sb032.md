@@ -5,7 +5,7 @@ Kept by Ranjith (2026-11-12). The video model remembers nothing between generati
 Rules (see `rules/prompt-rules.md`, "Memory block"):
 - Copy the block below unchanged into every prompt, right after SCENE. Never paraphrase it.
 - Change it only when a shot shows the change (a person comes up from below, the fire comes closer). Then update this file first, in the same commit as the shot, and the change carries into every later prompt.
-- Character reference lines then stay short ("Raghavan, as in MEMORY. 100% matches the reference."), so the block costs no extra length.
+- (L145) The People line lists only the people in THIS shot, copied from the master list below; everyone else goes in NOW as "below / out of view". Each person in frame still keeps a full reference line with what tells him apart. In a view facing away from the moon, the Light line says only "the full moon is behind the camera".
 
 ## The block (copy from here)
 
@@ -26,3 +26,12 @@ Format: `NOW: <who is where>; <what is in their hands>; <each face, in a few wor
 | s21-sh02 | Aashaan at the wheel, both hands on the spokes, calm, steady; Antony small at the bow, relaxed; the others asleep; no fire yet. |
 | s21-sh03 | Antony alone at the bow bulwark, tired but awake, at ease; the others asleep or at the wheel; no fire yet. |
 | s23-sh01 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
+
+## Master list of people (copy only those in frame into the People line)
+- Antony: lavender-grey striped shirt, grey-green checked mundu, barefoot.
+- Aashaan: about 60, grey hair combed back, grey moustache, cream shirt over white vest, white towel on his LEFT shoulder, white mundu.
+- Raghavan: about 60, thin, grey hair and moustache, white sleeveless vest, red-and-white checked towel round his NECK, white mundu.
+- Babu: about 40, heavy-set, black moustache, red-and-white checked towel tied on his HEAD, off-white shirt, grey-brown checked LUNGI.
+- Sasi: about 35, long black curly hair, full black beard, off-white shirt, white mundu.
+- Suresh: curly hair, moustache, stained cream shirt, sleeves rolled, green check mundu.
+- Balan: about 35, oiled hair, thin moustache, light-blue full-sleeve shirt, two pens in the left pocket, white mundu, black shoes.
