@@ -32,5 +32,6 @@ Rule:
 4. Check every take frame by frame with `python tools/takeqc.py <video> <prefix> 1` before writing the next prompt.
 5. "No spoken words and no voices; every mouth stays closed" is never trimmed from a silent shot.
 6. In a hold, the camera rides with the boat, so the boat stays still in the frame.
+7. Every keyframe's eyelines point at their cause: who looks at what, in the direction the map gives. K4 first showed Antony astonished while looking back over his right shoulder, away from the fire on the left; Ranjith caught it.
 
 Checklist line: in `rules/pre-delivery-checklist.md`.
