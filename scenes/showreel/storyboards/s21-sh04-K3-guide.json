@@ -1,0 +1,144 @@
+{
+ "title": "K3/K4 guide: bow camera just aft of the mast",
+ "subtitle": "master layout: mast y=2, sacks y=3.4, Sasi y=5.0, Antony y=9.0 (metres toward the bow)",
+ "out": "scenes/showreel/storyboards/s21-sh04-K3-guide.png",
+ "size": [
+  1584,
+  672
+ ],
+ "eye": [
+  1.0,
+  0.6,
+  1.7
+ ],
+ "target": [
+  1.4,
+  13,
+  1.0
+ ],
+ "fov": 60,
+ "objects": [
+  {
+   "type": "box",
+   "center": [
+    0,
+    6.9,
+    0
+   ],
+   "size": [
+    6,
+    12.2,
+    0.2
+   ],
+   "color": "#8a7a64"
+  },
+  {
+   "type": "box",
+   "center": [
+    -3,
+    6.9,
+    0.5
+   ],
+   "size": [
+    0.15,
+    12.2,
+    0.9
+   ],
+   "color": "#5d6f86",
+   "label": "LEFT rail"
+  },
+  {
+   "type": "box",
+   "center": [
+    3,
+    6.9,
+    0.5
+   ],
+   "size": [
+    0.15,
+    12.2,
+    0.9
+   ],
+   "color": "#5d6f86",
+   "label": "RIGHT rail"
+  },
+  {
+   "type": "box",
+   "center": [
+    0,
+    12.5,
+    1.0
+   ],
+   "size": [
+    1.0,
+    1.0,
+    2.0
+   ],
+   "color": "#3d5a80",
+   "label": "bow stem"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    0,
+    2,
+    0
+   ],
+   "radius": 0.25,
+   "height": 8,
+   "color": "#7a5a3a",
+   "label": "MAST"
+  },
+  {
+   "type": "box",
+   "center": [
+    0.35,
+    2,
+    0.15
+   ],
+   "size": [
+    0.25,
+    0.25,
+    0.3
+   ],
+   "color": "#ffcc33",
+   "label": "lantern"
+  },
+  {
+   "type": "box",
+   "center": [
+    1.7,
+    3.4,
+    0.5
+   ],
+   "size": [
+    1.4,
+    1.8,
+    1.0
+   ],
+   "color": "#b9a37a",
+   "label": "SACKS (1 m high)"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    1.9,
+    5.0,
+    0.2
+   ],
+   "color": "#2e9e5b",
+   "label": "SASI asleep (bow side of sacks)",
+   "lying": true
+  },
+  {
+   "type": "figure",
+   "pos": [
+    2.2,
+    9.0,
+    0.2
+   ],
+   "color": "#e8892b",
+   "label": "ANTONY (4 m beyond Sasi)"
+  }
+ ]
+}
