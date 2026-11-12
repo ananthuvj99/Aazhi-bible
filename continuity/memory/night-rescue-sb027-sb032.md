@@ -29,7 +29,12 @@ Format: `NOW: <who is where>; <what is in their hands>; <each face, in a few wor
 | s23-sh03 v4 | Antony at the left rail staring out (POV, nobody in frame); the others behind him just woken; fire ~500 m; a hand with a torch rises and sinks beside it. |
 | s23-sh04 v3 | Antony at the left rail, spins to shout down the deck to Aashaan by the door; Babu a step ahead out of frame; urgent, wide eyes; fire ~500 m. |
 | s23-sh05 v6 | Antony at the left rail nearest the bow, pointing; Raghavan (towel at his neck), Babu, Sasi crowd in beside him; Aashaan looks, then goes back to the wheel; fire ~500 m. End, aft view left to right: Sasi, Babu, Raghavan, Antony. |
-| s23-sh06 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
+| s23-sh02b/c, s23-sh03 v5, s23-sh04 v3 (approved takes) | Crew woken; Babu at the left rail nearest the bow, Antony a step aft of him; torch light seen; Antony shouts to Aashaan. |
+| @s23backlast (latest aft take) | Babu and Antony at the left rail; Raghavan mid-deck; Sasi crouched by the sacks; Aashaan walking forward from the open door; TWO rolled mats on the deck (L151); wheel empty. |
+| s23-sh06b v9 (approved) | Aashaan walks forward out of view; Balan comes out of the door and says "എന്താ അവിടെ?" alone in MCU; Suresh NOT seen (still below). |
+| s23-sh06c v5 (approved) | Balan follows forward to the left rail and stands shoulder to shoulder with Antony (Balan on Antony's aft side); Suresh comes up at 4 s and stops by Sasi at the sacks; the rail here is a plain flat BROWN wooden top rail. |
+| s23-sh06 v11 | Antony at the rail, Balan close beside him (in frame, profile, mouth closed); Antony shouts "കയർ കൊണ്ടുവാ വേഗം!" to the men by the sacks (Raghavan, Sasi, Suresh); Babu further along the rail; Aashaan forward at the rail; fire 500 m. |
+| s23-sh07 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
 
 ## Master list of people (copy only those in frame into the People line)
 - Antony: grey-beige short-sleeve shirt with thin vertical stripes, green-grey checked mundu, barefoot (as in Aswanth's uru shots, `approved/s16a-sh01-last.webp`; Ranjith, 2026-11-12).
