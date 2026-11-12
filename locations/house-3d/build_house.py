@@ -33,57 +33,83 @@ bpy.ops.wm.read_factory_settings(use_empty=True)
 sc = bpy.context.scene
 
 # ---------------------------------------------------------------- materials
-def mat(name, rgb, rough=0.85, emit=0.0):
+def lin(hexstr):
+    """sRGB hex from the reference sheets -> linear RGB for Blender."""
+    h = hexstr.lstrip("#")
+    c = [int(h[i:i + 2], 16) / 255 for i in (0, 2, 4)]
+    return tuple(v / 12.92 if v <= 0.04045 else ((v + 0.055) / 1.055) ** 2.4 for v in c)
+
+def mat(name, hexstr, rough=0.85, emit=0.0, pattern=None, hex2=None, scale=8.0):
+    """pattern: None, 'checker' (two colours) or 'brick' (blocks with darker mortar)."""
+    rgb = lin(hexstr)
     m = bpy.data.materials.new(name)
     m.use_nodes = True
-    b = m.node_tree.nodes["Principled BSDF"]
+    nt = m.node_tree
+    b = nt.nodes["Principled BSDF"]
     b.inputs["Base Color"].default_value = (*rgb, 1)
     b.inputs["Roughness"].default_value = rough
+    if pattern:
+        coord = nt.nodes.new("ShaderNodeTexCoord")
+        if pattern == "checker":
+            t = nt.nodes.new("ShaderNodeTexChecker")
+            t.inputs["Color1"].default_value = (*rgb, 1)
+            t.inputs["Color2"].default_value = (*lin(hex2), 1)
+        else:
+            t = nt.nodes.new("ShaderNodeTexBrick")
+            t.inputs["Color1"].default_value = (*rgb, 1)
+            t.inputs["Color2"].default_value = (*lin(hex2 or hexstr), 1)
+            t.inputs["Mortar"].default_value = tuple(v * 0.45 for v in rgb) + (1,)
+            t.inputs["Mortar Size"].default_value = 0.03
+        t.inputs["Scale"].default_value = scale
+        nt.links.new(coord.outputs["Object"], t.inputs["Vector"])
+        nt.links.new(t.outputs["Color"], b.inputs["Base Color"])
     if emit:
         b.inputs["Emission Color"].default_value = (*rgb, 1)
         b.inputs["Emission Strength"].default_value = emit
     m.diffuse_color = (*rgb, 1)
     return m
 
+# Colours measured from the reference sheets (antonyroom.webp, kitchen map.png, elevations.webp, environment.webp)
 M = dict(
-    wall=mat("pale sky-blue wall", (0.55, 0.72, 0.90)),
-    band=mat("deep blue base band", (0.03, 0.18, 0.62)),
-    trim=mat("white trim", (0.90, 0.90, 0.88)),
-    floor=mat("red-oxide floor", (0.50, 0.12, 0.06), 0.5),
-    plinth=mat("blue plinth", (0.04, 0.20, 0.60)),
-    door=mat("blue door", (0.05, 0.20, 0.55)),
-    brown=mat("brown wood", (0.30, 0.17, 0.08)),
-    rafter=mat("dark rafter", (0.22, 0.13, 0.07)),
-    tile=mat("terracotta tiles", (0.62, 0.22, 0.10)),
-    pillar=mat("white pillar", (0.93, 0.93, 0.91)),
-    bars=mat("blue iron bars", (0.05, 0.18, 0.50), 0.4),
-    shutter=mat("white shutter", (0.88, 0.88, 0.86)),
-    glass=mat("bright outside", (0.95, 0.95, 0.90), 0.5, 1.5),
-    earth=mat("packed red earth", (0.45, 0.20, 0.10)),
-    sand=mat("pale sand", (0.82, 0.72, 0.56)),
-    laterite=mat("laterite blocks", (0.40, 0.20, 0.12)),
-    cot=mat("cot wood", (0.55, 0.38, 0.20)),
-    bluecheck=mat("blue checked sheet", (0.45, 0.55, 0.72)),
-    rosesheet=mat("rose-pink cover sheet", (0.85, 0.55, 0.60)),
-    trunk=mat("grey metal trunk", (0.48, 0.50, 0.50), 0.5),
-    steel=mat("steel", (0.75, 0.75, 0.78), 0.3),
-    navy=mat("navy cloth", (0.08, 0.10, 0.30)),
-    white=mat("white cloth", (0.92, 0.92, 0.90)),
-    clockcase=mat("clock case", (0.18, 0.10, 0.06)),
-    dial=mat("cream dial", (0.92, 0.88, 0.75)),
-    mud=mat("mud stove", (0.55, 0.42, 0.30)),
-    soot=mat("soot", (0.05, 0.05, 0.05)),
-    clay=mat("clay pot", (0.62, 0.30, 0.15)),
-    fire=mat("fire", (1.0, 0.45, 0.10), 0.5, 2.5),
-    stone=mat("grinding stone", (0.40, 0.40, 0.38)),
-    coir=mat("coir", (0.60, 0.45, 0.25)),
-    fish=mat("dried fish", (0.45, 0.35, 0.22)),
-    picture=mat("holy picture", (0.70, 0.30, 0.25)),
-    palmtrunk=mat("palm trunk", (0.40, 0.33, 0.25)),
-    frond=mat("palm frond", (0.20, 0.38, 0.12)),
-    sea=mat("sea", (0.25, 0.50, 0.58), 0.2),
-    cliff=mat("laterite cliff", (0.50, 0.24, 0.12)),
-    green=mat("shrub", (0.18, 0.35, 0.12)),
+    wall=mat("pale sky-blue wall", "#bccfe6"),
+    band=mat("deep blue base band", "#0c5aa8"),
+    trim=mat("white trim", "#eef1f2"),
+    floor=mat("red-oxide floor", "#a24a3c", 0.45),
+    plinth=mat("blue plinth", "#0a72c4"),
+    door=mat("blue door", "#2f63a5"),
+    brown=mat("brown wood", "#6b4a2c"),
+    rafter=mat("dark rafter", "#644733"),
+    tile=mat("terracotta tiles", "#9a4a32", pattern="brick", hex2="#8a3f2a", scale=14),
+    pillar=mat("white pillar", "#e8eef2"),
+    bars=mat("blue iron bars", "#2f63a5", 0.4),
+    shutter=mat("white shutter", "#e3e3df"),
+    glass=mat("bright outside", "#f2efe4", 0.5, 1.5),
+    earth=mat("packed red earth", "#aa6b45"),
+    sand=mat("pale sand", "#d8c4a4"),
+    laterite=mat("laterite blocks", "#7a3f28", pattern="brick", hex2="#8c4a30", scale=3),
+    cot=mat("cot wood", "#9c7448"),
+    bluecheck=mat("blue checked sheet", "#7f90b2", pattern="checker", hex2="#c5cfe0", scale=40),
+    rosesheet=mat("rose-pink cover sheet", "#d99aa6"),
+    trunk=mat("grey metal trunk", "#8a8a86", 0.5),
+    steel=mat("steel", "#c8ccd0", 0.3),
+    navy=mat("navy cloth", "#17152c"),
+    white=mat("white cloth", "#ecebe6"),
+    clockcase=mat("clock case", "#3a2418"),
+    dial=mat("cream dial", "#e9dfc0"),
+    mud=mat("mud stove", "#8b6a4c"),
+    soot=mat("soot", "#2a221c"),
+    clay=mat("clay pot", "#8a3f22"),
+    fire=mat("fire", "#ff8a2a", 0.5, 2.5),
+    stone=mat("grinding stone", "#7a6b5c"),
+    coir=mat("coir", "#a07446"),
+    fish=mat("dried fish", "#6b3a22"),
+    picture=mat("holy picture", "#b04a3a"),
+    palmtrunk=mat("palm trunk", "#7a6a50"),
+    frond=mat("palm frond", "#3e6a2a"),
+    sea=mat("sea", "#5a9aa6", 0.2),
+    cliff=mat("laterite cliff", "#6a3420"),
+    green=mat("shrub", "#3d5f2a"),
+    platform=mat("aduppu platform", "#8c3f2c"),
 )
 
 COLS = {}
@@ -322,6 +348,8 @@ sy = Y1 - T / 2
 box("Shelf", -3.6, sy - 0.25, FL + 1.55, -2.4, sy, FL + 1.59, M["brown"])
 for k in range(7):
     box(f"Book{k}", -3.55 + k * 0.06, sy - 0.2, FL + 1.59, -3.5 + k * 0.06, sy - 0.04, FL + 1.82 - (k % 3) * 0.03, M["picture" if k % 2 else "navy"])
+for bx in (-3.5, -2.5):
+    beam(f"Shelf_bracket{bx}", (bx, sy - 0.02, FL + 1.3), (bx, sy - 0.22, FL + 1.55), 0.04, 0.04, M["brown"])
 cyl("Tumbler", (-2.75, sy - 0.12, FL + 1.66), 0.04, 0.13, M["steel"])
 box("Carved_figure", -2.55, sy - 0.14, FL + 1.59, -2.47, sy - 0.08, FL + 1.75, M["brown"])
 box("Hook_rail", X0 + 0.15, sy - 0.05, FL + 1.85, X0 + 0.65, sy, FL + 1.9, M["brown"])
@@ -348,7 +376,7 @@ cyl("Round_stool", (0.6, 2.2, FL + 0.18), 0.17, 0.36, M["brown"])
 # ================================================================ kitchen (full width at the back)
 CUR[0] = "Kitchen"
 # aduppu: raised mud stove on a red-oxide platform in the NORTH-WEST corner, soot above it
-box("Aduppu_platform", KX0 + 0.1, KY1 - 1.2, FL, KX0 + 2.2, KY1 - 0.1, FL + 0.3, M["floor"])
+box("Aduppu_platform", KX0 + 0.1, KY1 - 1.2, FL, KX0 + 2.2, KY1 - 0.1, FL + 0.3, M["platform"])
 box("Aduppu_mud", KX0 + 0.3, KY1 - 0.95, FL + 0.3, KX0 + 2.0, KY1 - 0.15, FL + 0.8, M["mud"])
 for k, x in enumerate((KX0 + 0.75, KX0 + 1.55)):
     box(f"Aduppu_fire{k}", x - 0.15, KY1 - 1.0, FL + 0.32, x + 0.15, KY1 - 0.9, FL + 0.5, M["fire"])
@@ -521,6 +549,8 @@ VIEWS = [
     ("08-passage-from-front-door", cam("CAM_passage", (0.0, -0.6, E), (0.0, 8.0, FL + 1.2), 60), False),
     ("09-kitchen-from-south-entry", cam("CAM_kitchen", (0.4, 5.25, E), (-0.8, 8.6, FL + 1.1), 88), False),
     ("10-veranda-from-the-steps", cam("CAM_veranda", (-0.3, -3.6, FL + 1.4), (0.0, 0.0, FL + 1.2), 75), False),
+    ("11-antony-room-C2-from-the-door", cam("CAM_ant_C2", (-1.25, 2.5, E), (-4.5, 2.5, FL + 1.25), 88), False),
+    ("12-kitchen-west-wall", cam("CAM_kit_west", (3.2, 6.6, E), (KX0, 6.7, FL + 1.3), 80), False),
 ]
 
 r = sc.render
