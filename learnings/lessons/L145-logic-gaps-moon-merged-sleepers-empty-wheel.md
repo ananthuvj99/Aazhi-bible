@@ -26,5 +26,6 @@ Rule:
 2. Each person in frame keeps a full reference line: his own look, clothes and the detail that tells him apart from the others. MEMORY's People line lists only the people in this shot; anyone else goes in the NOW line as "below, out of view".
 3. When a set's plate is empty but people must be in it (someone at the wheel, sleepers on the deck), make a start frame with every person placed, from their own sheets, and count heads in it before any video.
 4. Every plate and start frame passes the logic gap finder (image QA Step 2b, prompt QA Step 4b): what the moment needs (people seen from this spot, the board with sums), what cannot be there (the moon in an aft view, merged or extra people), inside or outside, and a real photographic look.
+5. A reverse view of the same people shows them from the other side (Ranjith, 2026-11-12). The second helm start frame showed all three sleepers facing the wheel, but they had been lying facing the bow. From the wheel, Sasi (behind the sacks) shows only the top of his head, Babu shows his back, and Raghavan, lying against the wheelhouse wall, is hidden below the sill. Before making a reverse view, write down for each person which way he faces and what stands between him and the new camera; faces seen in one view become backs in the reverse.
 
 Checklist line: in `rules/pre-delivery-checklist.md`.
