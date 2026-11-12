@@ -291,14 +291,16 @@ for pname in palms:
     per = random.uniform(2.6, 3.6)
     for f in range(1, sc.frame_end + 1, 3):
         t = (f - 1) / FPS
-        # steady lean of about 2.5 deg toward the west (away from the sea) plus a slow sway of about 1.2 deg
-        bp.rotation_euler = (math.radians(0.5) * math.sin(2 * math.pi * t / (per * 1.3) + ph), math.radians(-2.5 - 1.2 * (0.5 + 0.5 * math.sin(2 * math.pi * t / per + ph))), 0)
-        bp.keyframe_insert("rotation_euler", frame=f)
+        # the trunk does not move: only a fixed lean of about 2.5 deg toward the west (away from the sea)
+        if f == 1:
+            bp.rotation_euler = (0, math.radians(-2.5), 0)
+            bp.keyframe_insert("rotation_euler", frame=f)
+        # only the fronds move, gently: about 1.5 deg of flutter and 1 deg of lift and fall
         for j, cp in enumerate(crowns):
             pj = ph + j * 0.9
-            cp.rotation_euler = (math.radians(4.0) * math.sin(2 * math.pi * t / 1.4 + pj),
-                                 math.radians(-3.0 - 3.0 * (0.5 + 0.5 * math.sin(2 * math.pi * t / 1.9 + pj))),
-                                 math.radians(2.0) * math.sin(2 * math.pi * t / 2.3 + pj))
+            cp.rotation_euler = (math.radians(1.5) * math.sin(2 * math.pi * t / 1.6 + pj),
+                                 math.radians(-1.0 - 1.0 * (0.5 + 0.5 * math.sin(2 * math.pi * t / 2.2 + pj))),
+                                 math.radians(0.8) * math.sin(2 * math.pi * t / 2.7 + pj))
             cp.keyframe_insert("rotation_euler", frame=f)
 
 # ---------------------------------------------------------------- the v8 camera: on the sand about 25 m from the door, eye level 1.5 m.
@@ -338,7 +340,7 @@ print("PAN degrees", round(math.degrees(prev_cam - yaw0), 1))
 # ---------------------------------------------------------------- CUT 2 (8.0-11.5 s): close on Antony while he answers.
 # The camera leads him, about 2.2 m ahead on his path, at face height, 47 deg (MCU), travelling backward as he walks
 # toward it; he answers with his face to the lens (within ~30 deg). Hard cut in at 8.0 s and back to the wide at 11.5 s.
-CUT2_IN, CUT2_OUT = 8.0, 11.5
+CUT2_IN, CUT2_OUT = 7.0, 11.5          # in a beat before his line (8.0 s) as he reaches the lane
 bpy.ops.object.camera_add()
 close = bpy.context.object
 close.name = "CAM_2B_close_antony"
@@ -362,7 +364,20 @@ for f in range(f_in - 2, f_out + 2):
     close.rotation_euler = (head - Vector(close.location)).to_track_quat("-Z", "Y").to_euler()
     close.keyframe_insert("location", frame=f)
     close.keyframe_insert("rotation_euler", frame=f)
-for nm, fr, c_ in (("CUT1_wide", 1, cam), ("CUT2_close_antony", f_in, close), ("CUT3_wide", f_out, cam)):
+# ---- Rosamma's close (3.0-7.0 s): locked MCU from the veranda in front of her, 47 deg, at her eye level;
+# she says her line looking just past the lens toward Antony (he is behind the camera, in the yard); she is alone in frame.
+R_IN, R_OUT = 3.0, 7.0
+bpy.ops.object.camera_add(location=(0.25, -2.15, FL + 1.38))
+rcam = bpy.context.object
+rcam.name = "CAM_2B_close_rosamma"
+rcam.data.sensor_fit = "HORIZONTAL"
+rcam.data.angle = math.radians(52)      # wide enough to keep the plate in her hands in frame
+rcam.data.clip_start = 0.05
+rcam.data.clip_end = 2000
+link(rcam)
+rcam.rotation_euler = (Vector((0.0, -0.25, FL + 1.18)) - Vector(rcam.location)).to_track_quat("-Z", "Y").to_euler()
+fr_rin, fr_rout = int(R_IN * FPS) + 1, int(R_OUT * FPS) + 1
+for nm, fr, c_ in (("CUT1_wide", 1, cam), ("CUT2_close_rosamma", fr_rin, rcam), ("CUT3_close_antony", f_in, close), ("CUT4_wide", f_out, cam)):
     m_ = sc.timeline_markers.new(nm, frame=fr)
     m_.camera = c_
 
@@ -375,7 +390,7 @@ roof = bpy.data.collections.get("Roof")
 if roof:
     roof.hide_render = False
 bpy.ops.wm.save_as_mainfile(filepath=os.path.join(OUT, "2b-blocking.blend"))
-for f_, nm in ((1, "still-0s"), (int(3.0 * FPS) + 1, "still-3s-her-line"), (int(9.5 * FPS) + 1, "still-9.5s-his-answer-close"), (int(12.5 * FPS) + 1, "still-12.5s-back-to-wide"), (sc.frame_end, "still-15s")):
+for f_, nm in ((1, "still-0s"), (int(4.5 * FPS) + 1, "still-4.5s-her-line-close"), (int(9.5 * FPS) + 1, "still-9.5s-his-answer-close"), (int(12.5 * FPS) + 1, "still-12.5s-back-to-wide"), (sc.frame_end, "still-15s")):
     sc.frame_set(f_)
     r.image_settings.file_format = "PNG"
     r.filepath = os.path.join(OUT, nm + ".png")
