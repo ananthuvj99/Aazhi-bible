@@ -49,13 +49,13 @@
   {
    "shot": "s23-sh06b",
    "time": "8 s",
-   "title": "Aashaan back to the wheel; Suresh and Balan come up",
+   "title": "Aashaan goes forward; Suresh and Balan come up in shock",
    "image": "scenes/showreel/approved/s23-wake-keyframes/s23-sh06b-end.png",
    "beats": [
-    "Start = s23-sh02c last frame. 0–2.5 s Raghavan, Sasi reach the rail; Aashaan goes back in. 2.5–3.5 s Aashaan at the wheel.",
-    "3.5–5.5 s Suresh steps out, sleepy; 5.5–8 s Balan behind him, alert. Silent."
+    "Start = Ranjith's latest aft frame. 0–3.5 s Aashaan walks forward round the mats and out of frame at the right.",
+    "3.5–5.5 s Suresh steps out, freezes in shock; 5.5–8 s Balan behind him, shocked. Both rolled mats stay (L151). Silent."
    ],
-   "refs": "start @s23sh02clast · end @s23sh06bend · 7 sheets"
+   "refs": "start @s23backlast · end @s23sh06bend · 7 sheets"
   }
  ],
  "footer": "Storyboard only. Never attach this sheet to a generation."
