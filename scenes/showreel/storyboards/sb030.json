@@ -15,16 +15,16 @@
    "refs": "@s21sh04last = reference image for both shots"
   },
   {
-   "shot": "s23-sh03",
+   "shot": "s23-sh03 v5",
    "time": "8 s",
-   "title": "His view: a hand and a torch beside the fire",
-   "image": "props/burningvallam/prop-nomoon.png",
+   "title": "From the deck: a torch light flashes by the fire and goes out",
+   "image": "scenes/showreel/approved/s21-sh04-last.jpg",
    "beats": [
-    "Very long lens (about 4°) from the left rail toward the burning vallam, ~500 m. 0–2 s it burns; the water beside it empty.",
-    "2–5 s a hand in a soaked blue camouflage sleeve rises just LEFT of the hull with a small torch; the beam waves twice.",
-    "5–6 s the torch goes out; the hand sinks. 6–8 s only the fire and the moving water. Silent."
+    "Behind Antony and Babu at the left rail, long lens about 12°: their shoulders soft in the foreground right; the burning vallam 500 m off, left of centre, clearly a boat (a tenth of the frame).",
+    "2–5 s a small white torch light swings up twice beside the hull; Antony leans over the rail; Babu shades his eyes.",
+    "5–6 s the light goes out. 6–8 s Antony grips the rail; Babu turns to him. Silent. No hand near the camera (L150)."
    ],
-   "refs": "ref image @s21sh04last · @burningvallamnomoon (full) · @selvan (hand and sleeve, 2–5 s)"
+   "refs": "ref image @s21sh04last · @antony20 · @babu (from behind) · @burningvallamnomoon (bg, 500 m)"
   },
   {
    "shot": "s23-sh04",

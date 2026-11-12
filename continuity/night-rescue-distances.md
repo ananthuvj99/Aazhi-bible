@@ -30,6 +30,8 @@ All directions are on the boat: **forward** = toward the bow, **aft** = toward t
 
 Selvan in the water is beside the burning hull, so he is readable only in the long-lens view (s23-sh03) or once the uru has closed in on screen.
 
+**500 m in every shot until the uru turns toward it (Ranjith, 2026-11-12):** the boat is always clearly a boat (hull, flames, smoke readable), never a dot and never close; its size in frame comes from the lens (about 12° makes it about a tenth of the frame wide), not from moving it nearer (L150).
+
 ## People at the left rail (from the approved s23-sh05 v4 last frame)
 | Person | Place on deck (blocking x, y in metres) | Notes |
 |---|---|---|
