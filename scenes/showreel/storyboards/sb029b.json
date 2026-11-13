@@ -1,6 +1,6 @@
 {
  "title": "SB029 · Antony wakes the crew (source scene 23B)",
- "subtitle": "Two shots, silent · reshoot in Aswanth's night look · Ranjith, 2026-11-13",
+ "subtitle": "Three shots · reshoot in Aswanth's night look · Ranjith, 2026-11-13",
  "out": "scenes/showreel/storyboards/sb029b-storyboard.png",
  "panels": [
   {
@@ -24,6 +24,17 @@
     "3.5 s kneels, shakes him; 4.5 s points out to sea; 6 s Babu up on one elbow, looks. Six sleep on."
    ],
    "refs": "start @s23sh02cstart · @antony20 · @babu"
+  },
+  {
+   "shot": "s23-sh02d v1",
+   "time": "6 s",
+   "title": "MCU: Antony's line",
+   "image": "scenes/showreel/approved/sb029-wake/s23-sh02d-start.png",
+   "beats": [
+    "Kneeling by Babu (out of frame left), pointing past the right edge, toward the fire.",
+    "2.0-3.6 s: \"ബാബുവേട്ടാ, അങ്ങോട്ട് നോക്ക്!\" head steady, slow 30 cm push-in; then jabs the arm, looks back out."
+   ],
+   "refs": "start @s23sh02dstart · @antony20 · voice Mahendran J"
   }
  ],
  "footer": "Storyboard only. Never attach this sheet to a generation."
