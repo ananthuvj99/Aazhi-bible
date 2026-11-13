@@ -1,15 +1,16 @@
 ---
-ids: ["@houseout", "@housefullview", "@houseclean", "@housemap"]
+ids: ["@houseout", "@housefullview", "@houseclean", "@housemap", "@houseoutsunny"]
 type: location
 created_by: Ananthu
 created: 2026-10-29
 status: approved
-images: [environment.webp, elevations.webp, clean.png, map.png]
+images: [environment.webp, elevations.webp, clean.png, map.png, environment-sunny.jpg]
 ---
 
 # Antony's house — exterior (LOC-ANTONY-HOUSE-1990)
 Platform IDs:
 - `@houseout` — eye-level view of the house **in its environment** (`environment.webp`). Attach for any wide exterior / establishing shot.
+- `@houseoutsunny` — the same view as `@houseout`, relit to a sunny 9:30 a.m. with a blue sky and soft white clouds (`environment-sunny.jpg`, 6336×2688; Nano Banana via Higgsfield, Ananthu 2026-11-13, continuity_score 91). Use it for every daytime exterior from now on; `@houseout` stays for the shots that already used it.
 - `@housefullview` — elevation sheet: front, back, both sides and roof (`elevations.webp`). Attach for any exterior shot where the house architecture must be exact.
 - `@houseclean` — top-down cutaway, roof removed (`clean.png`). Geography only; do not attach for eye-level exterior shots (L9).
 - `@housemap` — labelled cutaway (`map.png`). Never attach.
