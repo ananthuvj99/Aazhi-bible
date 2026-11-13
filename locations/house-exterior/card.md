@@ -1,5 +1,5 @@
 ---
-ids: ["@houseout", "@housefullview", "@houseclean", "@housemap", "@houseoutsunny"]
+ids: ["@houseout", "@housefullview", "@houseclean", "@housemap", "@houseoutsunny", "@houseexteriorc1platesunny"]
 type: location
 created_by: Ananthu
 created: 2026-10-29
@@ -15,6 +15,7 @@ Platform IDs:
 - `@houseclean` — top-down cutaway, roof removed (`clean.png`). Geography only; do not attach for eye-level exterior shots (L9).
 - `@housemap` — labelled cutaway (`map.png`). Never attach.
 - `@houseexteriorc1plate` — empty plate from camera C1 (the wide from the sand), `plates/houseexterior-c1-plate.png`.
+- `@houseexteriorc1platesunny` — the C1 plate relit to a sunny 9:30 a.m. with a blue sky and soft clouds, door open (`plates/houseexterior-c1-plate-sunny.jpg`, 5504×3072; continuity_score 92). Use it for daytime C1 shots from now on.
 - `@houseexteriorc2plate` — plate from camera C2 (the lane at the west side, looking up to the headland), `plates/houseexterior-c2-plate.png`. See `cameras.md`.
 
 ## Orientation
