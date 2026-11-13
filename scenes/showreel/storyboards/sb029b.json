@@ -1,0 +1,30 @@
+{
+ "title": "SB029 · Antony wakes the crew (source scene 23B)",
+ "subtitle": "Two shots, silent · reshoot in Aswanth's night look · Ranjith, 2026-11-13",
+ "out": "scenes/showreel/storyboards/sb029b-storyboard.png",
+ "panels": [
+  {
+   "shot": "s23-sh02b v2",
+   "time": "5 s",
+   "title": "He leaves the rail",
+   "image": "scenes/showreel/approved/sb029-night/s23-sh02-last.jpg",
+   "beats": [
+    "Start = SB029 last frame. 1.0 s the fire flares; 1.5 s he looks right, toward the bow.",
+    "2.5 s he pushes off the rail and runs out of frame RIGHT; hold on the empty rail and the fire."
+   ],
+   "refs": "start @s23sh02last · @antony20 · @burningvallamnomoon (bg)"
+  },
+  {
+   "shot": "s23-sh02c v2",
+   "time": "8 s",
+   "title": "Aerial: he runs in and wakes Babu",
+   "image": "scenes/showreel/approved/sb029-wake/s23-sh02c-start.png",
+   "beats": [
+    "0.3 s he bursts out from the deckhouse corner past the lantern, runs along the right side to Babu.",
+    "3.5 s kneels, shakes him; 4.5 s points out to sea; 6 s Babu up on one elbow, looks. Six sleep on."
+   ],
+   "refs": "start @s23sh02cstart · @antony20 · @babu"
+  }
+ ],
+ "footer": "Storyboard only. Never attach this sheet to a generation."
+}

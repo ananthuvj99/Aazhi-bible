@@ -1,3 +1,3 @@
-# s23-sh02c v1 · what to attach (8 s, 21:9, silent)
+# s23-sh02c · what to attach
 
-01 = start image, 02 = end reference (keyframes: place and poses only), 03–07 = character sheets (full). Upload each under its platform ID (the file name after the number). Remove every other attachment first (L88). Prompt: `scenes/showreel/s23-sh02c.md`.
+Attach the numbered files in order; 01 is the start image. Remove every other attachment first (L88). Prompt: `scenes/showreel/s23-sh02c.md`.
