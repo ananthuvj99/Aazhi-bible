@@ -17,3 +17,10 @@ Skin: pores and sweat sheen, no smoothing ✅
 Props and surfaces: solid bulwark with red-brown bitts ✅, mast with rope at its foot ✅, sleepers under white sheets ✅, grey deckhouse with ladders and roof deck ✅, mast-top lamp ✅; shirt pale blue-grey vertical stripes ✅, chain ✅
 Fix history: v1 had a lantern in the middle of the deckhouse front (the lantern belongs at the corner, hidden behind his head here): removed with a mask.
 
+## @s23sh02estart · Continuity score 90/100 · Pass
+Eyelines: Babu → up at Antony ✅; Antony → out over the bulwark at the boat ✅ (LEFT arm, L160)
+Fire: on the horizon at the right third, about a fortieth of the frame after hand scaling (L156) ✅, row of flames, thin plume, narrow streak ✅
+Skin: pores and sweat, no smoothing ✅
+Props and surfaces: solid bulwark with flat top and red-brown bitts ✅, deck planks ✅, Babu's towel and moustache ✅, bare wrists ✅, no lantern, no moon ✅
+Fix history: boat drawn a fifteenth of the frame with a big plume (scaled by hand, sky matched row by row); Antony's hand caught in the first patch (redone around it); red thread on Babu's wrist (removed).
+
