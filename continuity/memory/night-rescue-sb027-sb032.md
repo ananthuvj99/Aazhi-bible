@@ -35,6 +35,7 @@ Format: `NOW: <who is where>; <what is in their hands>; <each face, in a few wor
 | s23-sh06c v5 (approved) | Balan follows forward to the left rail and stands shoulder to shoulder with Antony (Balan on Antony's aft side); Suresh comes up at 4 s and stops by Sasi at the sacks; the rail here is a plain flat BROWN wooden top rail. |
 | s23-sh06 v11 | Antony at the rail, Balan close beside him (in frame, profile, mouth closed); Antony shouts "കയർ കൊണ്ടുവാ വേഗം!" to the men by the sacks (Raghavan, Sasi, Suresh); Babu further along the rail; Aashaan forward at the rail; fire 500 m. |
 | s23-sh07 v7 | Balan (left of Antony) grips Antony's right wrist at chest height and says "പോകണ്ട നീ."; Antony silent at his side; wrist still held at the end (pulled free in s23-sh08). |
+| s23-sh07b v1 | Aashaan, close to the camera, says "ഞാൻ ഉരു അടുപ്പിക്കട്ടെ.", runs back through the door and takes the wheel (inside); the uru starts to turn toward the fire; Balan still grips Antony's wrist at the rail; Raghavan, Sasi, Suresh by the sacks. |
 | s23-sh08 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
 
 ## Master list of people (copy only those in frame into the People line)
