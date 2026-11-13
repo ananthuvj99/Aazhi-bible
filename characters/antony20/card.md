@@ -21,3 +21,6 @@ Use for: once he is dressed — from Scene 2 onward, after an on-screen change o
 ## Voice
 **Platform voice: Mahendran J** (News Bulletin Anchor) — see `voices/VOICES.md`.
 Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice.
+
+## Night on the uru (Ranjith, 2026-11-13)
+In Aswanth's night (`continuity/aswanth-rough-cut-lock/rc-056.5s.jpg`) Antony wears a pale blue-grey and white vertical-striped short-sleeve shirt with a thin chain. Use that for every uru night shot (SB027 on).

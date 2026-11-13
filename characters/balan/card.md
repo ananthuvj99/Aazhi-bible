@@ -28,3 +28,6 @@ Platform voice **Brad** (`voices/VOICES.md`). Kollam coastal Malayalam; friendly
 - Every prompt with Balan carries a natural-face block: real unretouched skin, pores, his acne marks, sweat sheen, matte, never polished (Aswanth, 2026-11-12, L145).
 - Write the pens in his left chest pocket and the black shoes every time; the model may otherwise drop them.
 - Never pair with a different look of him (none exists yet).
+
+## Night on the uru (Ranjith, 2026-11-13)
+In Aswanth's night (`continuity/aswanth-rough-cut-lock/rc-054.0s.jpg`) his blue shirt reads grey-blue in the low light. Same shirt; write "blue full-sleeve shirt that reads grey-blue at night".
