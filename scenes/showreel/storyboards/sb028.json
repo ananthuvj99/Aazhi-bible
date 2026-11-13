@@ -1,29 +1,28 @@
 {
  "title": "SB028 · Watching the water (source scene 23A)",
- "subtitle": "Emotion Alertness · one shot, 8 s · starts from the approved full-moon bow take (@s21sh03last) · Ranjith, 2026-11-12",
+ "subtitle": "Emotion Alertness · 8 s · reshoot in Aswanth's night look (start = his frame) · Ranjith, 2026-11-13",
  "out": "scenes/showreel/storyboards/sb028-storyboard.png",
  "panels": [
   {
-   "shot": "s23-sh01",
+   "shot": "s23-sh01 v4",
    "time": "8 s",
-   "title": "Antony notices a distant light",
-   "image": "scenes/showreel/approved/s21-sh03-last-fullmoon.jpg",
+   "title": "Start: Antony on watch at the deckhouse front (Aswanth's frame)",
+   "image": "scenes/showreel/approved/sb028-night/s23-sh01-night-start.jpg",
    "beats": [
-    "Start = last frame of the approved bow take: Antony from behind right of the stem, right hand on the rope coil; full moon upper right.",
-    "1.5 s a small orange light flickers up far off on the horizon LEFT of the stem (the vallam, 500 m).",
-    "2–5.5 s he turns his head left, both hands on the rail, leans in; partial profile in moonlight. 5.5–8 s tense, alert. Silent."
+    "0–2.5 s still, tired, swaying with the boat; lantern and rope coil behind at the left.",
+    "2.5 s a tiny warm light on the right horizon; 3–5.5 s 40 cm push-in, he straightens, eyes narrow (held in, no gasp)."
    ],
-   "refs": "start @s21sh03last · @urubowplate (full) · @antony20 (full)"
+   "refs": "start @s23sh01night · @antony20"
   },
   {
-   "shot": "blocking",
+   "shot": "end",
    "time": "",
-   "title": "3D blocking: who stands where",
-   "image": "scenes/showreel/storyboards/sb028-blocking.png",
+   "title": "End: focus on the far light, 500 m",
+   "image": "scenes/showreel/approved/sb028-night/s23-sh01-night-end.png",
    "beats": [
-    "Antony at the bow rail; the light far off on the horizon to the left; the camera a few metres aft, as in s21-sh03."
+    "5.5–8 s focus pulls from his face to the tiny light on the horizon; it never grows. Silent."
    ],
-   "refs": "planning only, never attached"
+   "refs": "@s23sh01nightend"
   }
  ],
  "footer": "Storyboard only (plate shown; Antony and the light are added by the prompt). Never attach this sheet to a generation."
