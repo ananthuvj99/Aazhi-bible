@@ -24,3 +24,10 @@ Skin: pores and sweat, no smoothing ✅
 Props and surfaces: solid bulwark with flat top and red-brown bitts ✅, deck planks ✅, Babu's towel and moustache ✅, bare wrists ✅, no lantern, no moon ✅
 Fix history: boat drawn a fifteenth of the frame with a big plume (scaled by hand, sky matched row by row); Antony's hand caught in the first patch (redone around it); red thread on Babu's wrist (removed).
 
+## @s23sh02fstart · Continuity score 90/100 · Pass
+Eyelines: Babu → just left of the lens, toward the sleepers out of frame left ✅ (face readable for lip-sync)
+Fire: tiny, far, at the right edge, after hand scaling (L156) ✅; on the same side as in s23-sh02e (L161) ✅
+Skin: pores and sweat, no smoothing ✅
+Props and surfaces: bulwark with a red-brown bitt ✅, towel, moustache, off-white shirt over white vest ✅, no lantern, no moon ✅
+Fix history: boat drawn a sixteenth of the frame with a big plume: scaled by hand.
+
