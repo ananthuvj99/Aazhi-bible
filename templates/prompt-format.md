@@ -19,7 +19,7 @@ FORMAT MODE
 [One continuous shot, N seconds, no cut. Or: SHOT 1 a–b s, HARD CUT, SHOT 2 b–c s. "Runs the full N seconds."]
 
 CAMERA AND ACTION
-[By time. For each segment: where the camera physically is (metres, height, angle, distance), what is in frame and what is NOT, the move, then what each person does. No two people move at the same moment.]
+[By time. Give the lens in mm and what is sharp in each beat (W26); a punch-in is "a hard cut, not a zoom, tighter lens". For each segment: where the camera physically is (metres, height, angle, distance), what is in frame and what is NOT, the move, then what each person does. No two people move at the same moment.]
 
 <HARDEST THING> (most important)
 [The one hardest element (an expression, an animal, a grip, a fall) as small observable movements only, never an emotion word; name the cliches to avoid.]
@@ -28,6 +28,9 @@ EYELINES
 [Every person in frame, every moment (L154): the exact target; where it is in the frame, or off screen where it is from the camera; head angle; gaze height (level with the horizon, down at the deck); when the gaze moves and to what.]
 
 DIALOGUE RULES    (only with dialogue: the block from rules/prompt-rules.md, word for word)
+
+CAPTURE IMPERFECTIONS (W26)
+[Second by second: when each person breathes; a slight drift of the camera; an exposure lift or dip when a light flares; a small focus breath; pauses. Small, real, never a style effect.]
 
 REAL-WORLD PHYSICS
 [Every moving thing with numbers (weight, speed, size), cause and effect. End: "Nothing moves by itself; every movement has a cause."]
@@ -42,7 +45,10 @@ AUDIO
 [Sound effects only, no music. Dialogue: Malayalam lock, the line with timing and delivery. Otherwise "No spoken words and no voices; every mouth stays closed."]
 
 STYLE
-[The Sony Venice 2 line from rules/prompt-rules.md, word for word, plus the palette.]
+[24fps, fine 35mm grain, gentle halation, visible skin texture and pores, no smoothing (W26). The Sony Venice 2 line from rules/prompt-rules.md, word for word, plus the palette.]
+
+CONSTRAINTS (W26)
+[Our known failures for this kind of shot, plainly: e.g. exactly one lantern (L155); no wheel on the open deck; no hand, arm or prop near the camera (L150); Raghavan's towel at his neck (L149); no moon in aft views (L142); cut types exact ("hard cut, no dissolve, no zoom"); nobody else enters frame.]
 
 POSITIVE LOCKS
 [Counts: "Exactly N people, each once"; one of each key prop. Every prop stays where it lies (L151). The key physics and the key place again. "Runs the full N seconds."]

@@ -77,6 +77,7 @@ Compared with: @… , @… , <kept frame>, cameras.md <camera>
 ✅ … · ⚠️ … — what differs · ❌ … — what differs
 Logic gaps: … (or "none found")
 Eyelines: <person> → <target> ✅/❌ (line drawn from the eye; one line per person in frame, L154)
+Skin: real pores and texture on every face, no smoothing (W26) ✅/❌
 Props and surfaces vs the latest approved frame: ✅/❌ each (L151, L152)
 Drift to write away in prompts: …
 Fix: … (every ❌ is fixed before approval; no "minor")

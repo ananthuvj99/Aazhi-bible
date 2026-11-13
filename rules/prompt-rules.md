@@ -94,3 +94,6 @@ Aswanth's prompts get good first takes. Every prompt now also does these:
 
 ## Eyelines in every prompt (Ranjith, 2026-11-13, L154; all creators)
 Every prompt has an EYELINES block, right after the "(most important)" block: for each person in frame, at each moment, the exact target, where the target is in the frame (or, off screen, where it is from the camera), the head angle, the height of the gaze, and when the gaze moves and to what. "Looking out to the right" is never enough.
+
+## Five habits from a realistic single generation (W26; Ranjith, 2026-11-13; all creators)
+Every prompt also has: a CONSTRAINTS block listing our known failures for that kind of shot, plainly; a CAPTURE IMPERFECTIONS block (breath, camera drift, exposure, focus breath, pauses, by the second); the lens in mm and what is sharp in each beat; STYLE with "24fps, fine 35mm grain, gentle halation, visible skin texture and pores, no smoothing". Image QA rejects any start frame or keyframe whose faces look smoothed. See `templates/prompt-format.md`.
