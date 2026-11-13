@@ -35,3 +35,5 @@ Scene 3 order (yard version): existing walk-to-school clip → 3-2 (Clara comes 
 
 - 2026-11-04: after 1C → 1D-walk-1 (room) → 1D-walk-2 (passage) → 1D-walk-3 (kitchen doorway).
 - 2026-11-04: option — 1C + 1D-oner (one continuous follow shot) instead of walk-1/2/3.
+
+**Reshoot SB028 onward (Ranjith, 2026-11-13):** the night shots from SB028 (s23-sh01 on) are to be reshot in Aswanth's night look (`continuity/aswanth-rough-cut-lock/LOCK.md`): low-key with practical lamps, crew sleeping on the forward deck under white sheets, Antony in pale blue-grey stripes watching from the deckhouse front. Existing takes stay logged; new versions follow the new MEMORY block.
