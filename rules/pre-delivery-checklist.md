@@ -201,3 +201,4 @@ Built from lessons L1–L26. Every item must pass; show the result table with th
 182. **No English, anywhere (L159):** no block describes what is said; Malayalam named in SCENE CONTEXT, DIALOGUE RULES, AUDIO, CONSTRAINTS, POSITIVE LOCKS and the intent line; platform dialogue language set to Malayalam.
 183. **Hands from the start image (L160):** every hand named in the prompt matches the start image (left/right from the person's own body), each hand has a job that fits the blocking, and the same hands carry through the beat.
 184. **Screen direction across the cut (L161):** put the last frame of the previous shot next to this start frame: same facing, same arm, pointing to the same side, target on that side.
+185. **Look where you point (L162):** a pointing person's head and eyes follow his arm to the target, in the start frame and in EYELINES.
