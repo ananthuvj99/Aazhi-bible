@@ -1,6 +1,6 @@
 {
  "title": "SB029 · Antony wakes the crew (source scene 23B)",
- "subtitle": "Three shots · reshoot in Aswanth's night look · Ranjith, 2026-11-13",
+ "subtitle": "Four shots · reshoot in Aswanth's night look · Ranjith, 2026-11-13",
  "out": "scenes/showreel/storyboards/sb029b-storyboard.png",
  "panels": [
   {
@@ -26,15 +26,26 @@
    "refs": "start @s23sh02cstart · @antony20 · @babu"
   },
   {
-   "shot": "s23-sh02d v1",
+   "shot": "s23-sh02d v2",
    "time": "6 s",
    "title": "MCU: Antony's line",
    "image": "scenes/showreel/approved/sb029-wake/s23-sh02d-start.png",
    "beats": [
-    "Kneeling by Babu (out of frame left), pointing past the right edge, toward the fire.",
-    "2.0-3.6 s: \"ബാബുവേട്ടാ, അങ്ങോട്ട് നോക്ക്!\" head steady, slow 30 cm push-in; then jabs the arm, looks back out."
+    "Kneeling, RIGHT hand on Babu (out of frame left), LEFT arm pointing past the right edge, toward the fire.",
+    "2.0-3.6 s: \"ബാബുവേട്ടാ, അങ്ങോട്ട് നോക്ക്!\" in Malayalam, head steady, slow push-in; then jabs the left arm, looks back out."
    ],
    "refs": "start @s23sh02dstart · @antony20 · voice Mahendran J"
+  },
+  {
+   "shot": "s23-sh02e v1",
+   "time": "7 s",
+   "title": "Babu sees the fire",
+   "image": "scenes/showreel/approved/sb029-wake/s23-sh02e-start.png",
+   "beats": [
+    "Babu looks up at Antony, follows his LEFT arm out to sea; 3.0 s sees the boat, sits up staring.",
+    "Focus pulls from his face to the fire on the horizon (a fortieth of the frame, 500 m). Silent."
+   ],
+   "refs": "start @s23sh02estart · @babu · @antony20 · @burningvallamnomoon (bg)"
   }
  ],
  "footer": "Storyboard only. Never attach this sheet to a generation."
