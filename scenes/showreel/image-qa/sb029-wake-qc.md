@@ -18,7 +18,7 @@ Props and surfaces: solid bulwark with red-brown bitts ✅, mast with rope at it
 Fix history: v1 had a lantern in the middle of the deckhouse front (the lantern belongs at the corner, hidden behind his head here): removed with a mask.
 
 ## @s23sh02estart · Continuity score 90/100 · Pass
-Eyelines: Babu → up at Antony ✅; Antony → out over the bulwark at the boat ✅ (LEFT arm, L160)
+Eyelines: Babu → up at Antony ✅; Antony → out over the bulwark at the boat ✅ (LEFT arm, L160: back to camera, pointing arm on the left of his back; v1 showed his shirt front and the RIGHT arm, caught by Ranjith, repainted)
 Fire: on the horizon at the right third, about a fortieth of the frame after hand scaling (L156) ✅, row of flames, thin plume, narrow streak ✅
 Skin: pores and sweat, no smoothing ✅
 Props and surfaces: solid bulwark with flat top and red-brown bitts ✅, deck planks ✅, Babu's towel and moustache ✅, bare wrists ✅, no lantern, no moon ✅
