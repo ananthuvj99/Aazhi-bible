@@ -1,6 +1,6 @@
 {
  "title": "SB029 · Antony wakes the crew (source scene 23B)",
- "subtitle": "Four shots · reshoot in Aswanth's night look · Ranjith, 2026-11-13",
+ "subtitle": "Five shots · reshoot in Aswanth's night look · Ranjith, 2026-11-13",
  "out": "scenes/showreel/storyboards/sb029b-storyboard.png",
  "panels": [
   {
@@ -42,10 +42,21 @@
    "title": "Babu sees the fire",
    "image": "scenes/showreel/approved/sb029-wake/s23-sh02e-start.png",
    "beats": [
-    "Babu looks up at Antony, follows his LEFT arm out to sea; 3.0 s sees the boat, sits up staring.",
-    "Focus pulls from his face to the fire on the horizon (a fortieth of the frame, 500 m). Silent."
+    "Antony crouched centre, three-quarters to Babu, LEFT arm pointing RIGHT at the fire (same direction as the close-up).",
+    "Babu follows his arm, 3.0 s sees the boat, sits up; focus pulls to the fire at the right fifth. Silent."
    ],
    "refs": "start @s23sh02estart · @babu · @antony20 · @burningvallamnomoon (bg)"
+  },
+  {
+   "shot": "s23-sh02f v1",
+   "time": "6 s",
+   "title": "MCU: Babu wakes the crew",
+   "image": "scenes/showreel/approved/sb029-wake/s23-sh02f-start.png",
+   "beats": [
+    "Glances back at the fire (right), turns left to the sleepers.",
+    "2.0-3.8 s: \"എണീക്കെടാ! വള്ളം കത്തുന്നെടാ!\" in Malayalam, then heaves onto his knees."
+   ],
+   "refs": "start @s23sh02fstart · @babu · voice Dera"
   }
  ],
  "footer": "Storyboard only. Never attach this sheet to a generation."
