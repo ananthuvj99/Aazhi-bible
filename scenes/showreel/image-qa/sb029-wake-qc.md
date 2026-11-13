@@ -31,3 +31,9 @@ Skin: pores and sweat, no smoothing ✅
 Props and surfaces: bulwark with a red-brown bitt ✅, towel, moustache, off-white shirt over white vest ✅, no lantern, no moon ✅
 Fix history: boat drawn a sixteenth of the frame with a big plume: scaled by hand.
 
+## @s23sh02gstart · Continuity score 91/100 · Pass
+Uru vs rc-066 / @s23sh02cstart: unchanged outside the edited patch ✅; two lights ✅; six sleepers ✅
+Eyelines: Antony → out to sea at the right, along his LEFT arm ✅ (L160, L162); Babu → toward the sleepers ✅
+Faces vs the sheets: small at this height; Babu's towel and lungi, Antony's stripes and mundu as on the sheets ✅ (L163)
+Skin: no smoothing ✅
+
