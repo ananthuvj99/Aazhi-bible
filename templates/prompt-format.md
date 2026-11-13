@@ -24,6 +24,9 @@ CAMERA AND ACTION
 <HARDEST THING> (most important)
 [The one hardest element (an expression, an animal, a grip, a fall) as small observable movements only, never an emotion word; name the cliches to avoid.]
 
+EYELINES
+[Every person in frame, every moment (L154): the exact target; where it is in the frame, or off screen where it is from the camera; head angle; gaze height (level with the horizon, down at the deck); when the gaze moves and to what.]
+
 DIALOGUE RULES    (only with dialogue: the block from rules/prompt-rules.md, word for word)
 
 REAL-WORLD PHYSICS

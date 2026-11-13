@@ -91,3 +91,6 @@ Aswanth's prompts get good first takes. Every prompt now also does these:
 8. **LIGHTING** with colour temperature (moonlight about 4100K, lantern about 2000K, sun 5600K) and quality; a colour reference image only when one exists ("colour reference only: match the grade, not the framing").
 9. **POSITIVE LOCKS** count everything: "Exactly two men, each once"; "one rail, one wheel".
 10. **Only what the camera sees**: the MEMORY block keeps place, light and the people IN FRAME; people out of view are not listed in the prompt (their places stay in the shot file and the NOW table).
+
+## Eyelines in every prompt (Ranjith, 2026-11-13, L154; all creators)
+Every prompt has an EYELINES block, right after the "(most important)" block: for each person in frame, at each moment, the exact target, where the target is in the frame (or, off screen, where it is from the camera), the head angle, the height of the gaze, and when the gaze moves and to what. "Looking out to the right" is never enough.

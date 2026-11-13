@@ -52,6 +52,9 @@ Report the gaps in a `Logic gaps:` line (or "none found"). Any open gap on a sto
 ## Step 2c — No "minor" findings (Ranjith, 2026-11-12, L152)
 Every mismatch found in Step 2 or 2b is fixed (edit or regenerate) before the image is shown for approval. Never label a finding "minor" and pass the image: a rail, surface, prop, costume detail or light that differs from the approved takes is a fail until fixed. Close-ups that show any part of the set are made with an approved frame of that set attached. If a fix still fails after a few tries, say so plainly and ask.
 
+## Step 2d — Draw every eyeline (L154)
+For every person in a keyframe who should be looking at something, draw a line from the eye along the gaze. It must hit the target (the far light, the speaker, the door). If it lands anywhere else, the image fails and is fixed before it is shown.
+
 ## Step 3 — Score
 
 | Area | Points | How |
