@@ -74,6 +74,7 @@ Platform IDs have no hyphens or underscores. Never print a name inside an image.
 
 ## Prompt rules (always)
 
+- **Format (all three creators):** every prompt follows `templates/prompt-format.md` (Aswanth's recipe, W25): roles in reference lines, a block for the key thing with sizes, camera and action by time with the camera's physical place, one "(most important)" block, physics with numbers, light with colour temperature, counts in the locks, nothing off screen.
 - Dialogue in Malayalam script only, with no English paraphrase or romanised copy anywhere in the prompt; dubbing language Malayalam.
 - One emotion per scene, from the platform's fixed list, written once. If the mood changes, split the scene.
 - While someone speaks, only their face is in frame; the listener gets a separate silent shot and is never behind the speaker. Every prompt with dialogue carries the dialogue block from `rules/prompt-rules.md` word for word.

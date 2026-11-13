@@ -47,6 +47,9 @@ Then, shot by shot:
 
 Flag anything the prompt adds that could change the result: new props, new dialogue or changed wording, new rooms, moods, camera moves, timing changes, removed beats. Additions are allowed only if they serve a stated requirement or a standing rule — otherwise list them as **Unrequested**.
 
+## Step 3b — Team format check (W25; all creators, 2026-11-13)
+Check the prompt against `templates/prompt-format.md`: every block present in order (MEMORY only for sequences, DIALOGUE RULES only with dialogue); each reference line gives the person's role, place and action; a THE <KEY THING> block with sizes; CAMERA AND ACTION by time with the camera's physical place and what is not in frame; one "(most important)" block written as observable movements; numbers in REAL-WORLD PHYSICS ending "Nothing moves by itself; every movement has a cause."; colour temperature in LIGHTING; counts in POSITIVE LOCKS; nobody out of view listed. A missing block is a Should-fix; fix it yourself (it only adds structure).
+
 ## Step 4 — Generation-risk scan
 
 Run the repo checklist (`rules/pre-delivery-checklist.md`) and the lessons and wins in `learnings/INDEX.md`, from every creator. At minimum check: start positions (characters begin where the dialogue happens), single location per dialogue shot, references tied to shots and only for things on screen or framing the shot, reverse-angle backgrounds named, nothing off-screen named (word scan, including hidden words like "o'clock"), no English paraphrase of any line, Malayalam lock in five places, one speaker per cut in MCU with face to lens, exactly one valid scene emotion, lines fit their time slots and never cross a cut, holds at start and end, full duration stated, footwear and wardrobe locked, light direction per cut, STYLE names the Sony Venice 2 once with its look line and no other equipment name appears (checklist 74).

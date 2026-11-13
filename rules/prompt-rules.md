@@ -76,6 +76,9 @@ Compare with the previous approved frames first and fill the shot file's Continu
 ## Memory block (Ranjith, 2026-11-12)
 The model remembers nothing between generations, so each sequence keeps one MEMORY block in `continuity/memory/<sequence>.md`: the place, the light (sun or moon and where it is), the plates and the bow, every person's clothes, and the key props with their distances. It goes into every prompt of that sequence, word for word, right after SCENE, followed by one `NOW:` line for the shot: where each person is, what is in their hands, how each face looks. Character reference lines then stay short ("Raghavan, as in MEMORY"). Change the block only when a shot shows the change, update the file first, and every later prompt carries it.
 
+## Team prompt format (all creators: Ranjith, Aswanth, Ananthu; Ranjith, 2026-11-13)
+Every video prompt by every creator uses the block order in `templates/prompt-format.md`, built on Aswanth's recipe (W25, below): SCENE CONTEXT, MEMORY (sequences), ACTIVE REFERENCES with each person's role, THE <KEY THING>, FORMAT MODE, CAMERA AND ACTION by time with the camera's physical place, one "(most important)" block, DIALOGUE RULES (with dialogue), REAL-WORLD PHYSICS with numbers, PERFORMANCE, LIGHTING with colour temperature, AUDIO, STYLE, POSITIVE LOCKS with counts. Prompt QA checks the format before any prompt is delivered. Earlier prompts are rewritten into it when they are next revised.
+
 ## Aswanth's recipe (W25; Ranjith, 2026-11-13: use it in every prompt)
 Aswanth's prompts get good first takes. Every prompt now also does these:
 1. **SCENE CONTEXT** short: time, place, the emotional situation in one line, then the shot in one sentence.
