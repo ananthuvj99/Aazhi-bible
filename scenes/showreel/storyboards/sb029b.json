@@ -57,6 +57,17 @@
     "2.0-3.8 s: \"എണീക്കെടാ! വള്ളം കത്തുന്നെടാ!\" in Malayalam, then heaves onto his knees."
    ],
    "refs": "start @s23sh02fstart · @babu · voice Dera"
+  },
+  {
+   "shot": "s23-sh02g v1",
+   "time": "8 s",
+   "title": "Aerial: the crew wake, Aashaan comes out",
+   "image": "scenes/showreel/approved/sb029-wake/s23-sh02g-start.png",
+   "beats": [
+    "1.0 s Raghavan wakes, 1.8 s Sasi, then two more; 3.5-5 s they crowd the bulwark beside Antony, all looking right.",
+    "5.0 s Aashaan steps out of the deckhouse doorway and walks forward, looking the same way. Silent."
+   ],
+   "refs": "start @s23sh02gstart · @antony20 · @babu · @aashaan · @raghavan · @sasi"
   }
  ],
  "footer": "Storyboard only. Never attach this sheet to a generation."
