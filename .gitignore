@@ -6,3 +6,4 @@ hub/data.json
 .DS_Store
 # Copies to upload to the Techjays platform (named by ID); the originals live in the repo
 platform-uploads/
+scenes/showreel/evidence/aswanth-rough-cut/rough-cut.mp4
