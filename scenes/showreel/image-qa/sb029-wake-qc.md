@@ -1,0 +1,11 @@
+# Image QA: SB029 wake (Ranjith, 2026-11-13)
+
+IMAGE QA — @s23sh02cstart · Continuity score 92/100 · Pass
+Compared with: Aswanth's rc-066 and rc-060 (`continuity/aswanth-rough-cut-lock/`), LOCK.md, @s23sh02last
+Uru vs rc-066: grey-blue rusty hull ✅, solid bulwark with red-brown bitts (no balusters on the forward deck) ✅, grey two-level deckhouse with two ladders and balustraded roof deck ✅, mast with boom and rope at its foot ✅, stem and bow rope coils ✅
+Sleepers: seven under white sheets, as in Aswanth's shot ✅ (Ranjith: "add all the sleepers as in his shot")
+Lights: exactly two, the mast-top lamp (rc-066) and the one lantern with the rope coil at the right-hand front corner of the deckhouse (Antony's watch corner, rc-060) ✅
+Eyelines: nobody awake; Antony enters in the video ✅
+Skin: faces small and under sheets; no smoothing visible ✅
+Props and surfaces vs the latest approved frame: the lantern and rope coil sit at the corner where Antony kept watch ✅; nobody on the roof ✅; no moon ✅
+Fix history: generated decks drifted from Aswanth's uru (red-brown varnished deckhouse, baluster rails on the forward deck, an invented overhang) and the image model kept putting Antony on a raised platform, at the bow or on the bulwark (L158). Final: rc-066 edited in place, Antony left out of the still; he runs in during the shot. Cropped from 16:9 to 21:9.
