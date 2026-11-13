@@ -34,7 +34,8 @@ Format: `NOW: <who is where>; <what is in their hands>; <each face, in a few wor
 | s23-sh06b v9 (approved) | Aashaan walks forward out of view; Balan comes out of the door and says "എന്താ അവിടെ?" alone in MCU; Suresh NOT seen (still below). |
 | s23-sh06c v5 (approved) | Balan follows forward to the left rail and stands shoulder to shoulder with Antony (Balan on Antony's aft side); Suresh comes up at 4 s and stops by Sasi at the sacks; the rail here is a plain flat BROWN wooden top rail. |
 | s23-sh06 v11 | Antony at the rail, Balan close beside him (in frame, profile, mouth closed); Antony shouts "കയർ കൊണ്ടുവാ വേഗം!" to the men by the sacks (Raghavan, Sasi, Suresh); Babu further along the rail; Aashaan forward at the rail; fire 500 m. |
-| s23-sh07 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
+| s23-sh07 v7 | Balan (left of Antony) grips Antony's right wrist at chest height and says "പോകണ്ട നീ."; Antony silent at his side; wrist still held at the end (pulled free in s23-sh08). |
+| s23-sh08 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
 
 ## Master list of people (copy only those in frame into the People line)
 - Antony: grey-beige short-sleeve shirt with thin vertical stripes, green-grey checked mundu, barefoot (as in Aswanth's uru shots, `approved/s16a-sh01-last.webp`; Ranjith, 2026-11-12).
