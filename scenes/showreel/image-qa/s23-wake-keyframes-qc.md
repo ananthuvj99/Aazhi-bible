@@ -31,3 +31,7 @@ Edited from @s23backlast. Both rolled mats in place (L151), Antony and Babu unch
 
 ## s23-sh07 (Ranjith 2026-11-13)
 - @s23sh07balan: Balan MCU, acne marks, light-blue shirt, brown flat rail as in @s23sh06last, Antony at the right edge. Fixed twice: the grip read as a handshake; then Antony's fist sat by Balan's face. Final: clear wrist grip at chest height, face and mouth clear. Score 88.
+
+## s23-sh07b (Ranjith 2026-11-13)
+- @s23sh07bstart: Aashaan MCU close to the lens, the men in their places behind him, no moon. Score 87.
+- End frame: failed four times (a free-standing wheel on the open deck twice; then Raghavan moved to the rail, Antony in dark trousers, a handshake grip). Not used. @s23sh07bwheel is a crop of the deckhouse windows only (Aashaan at the real wheel inside). Score 88.
