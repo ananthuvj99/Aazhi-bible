@@ -130,6 +130,12 @@ CAMERA
 ACTION
 [Events at the precision the shot needs. Camera motion and subject motion stated separately.]
 
+THE <KEY THING>    (AAZHI, W25: the shot's key prop, surface or place)
+[How it is built in 1998 Kerala, sizes in cm/m, material, wear, how it is held, what is never seen.]
+
+<HARDEST THING> (most important)   (AAZHI, W25)
+[The one hardest element (an expression, an animal, a grip) as small observable movements only; name the cliches to avoid.]
+
 PERFORMANCE        (when acting matters)
 [Acting + skin/micro-realism: muscle-level emotion, eye-line, catch-lights, breath, pore-level detail.]
 

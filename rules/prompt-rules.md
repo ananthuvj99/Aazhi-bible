@@ -76,3 +76,15 @@ Compare with the previous approved frames first and fill the shot file's Continu
 ## Memory block (Ranjith, 2026-11-12)
 The model remembers nothing between generations, so each sequence keeps one MEMORY block in `continuity/memory/<sequence>.md`: the place, the light (sun or moon and where it is), the plates and the bow, every person's clothes, and the key props with their distances. It goes into every prompt of that sequence, word for word, right after SCENE, followed by one `NOW:` line for the shot: where each person is, what is in their hands, how each face looks. Character reference lines then stay short ("Raghavan, as in MEMORY"). Change the block only when a shot shows the change, update the file first, and every later prompt carries it.
 
+## Aswanth's recipe (W25; Ranjith, 2026-11-13: use it in every prompt)
+Aswanth's prompts get good first takes. Every prompt now also does these:
+1. **SCENE CONTEXT** short: time, place, the emotional situation in one line, then the shot in one sentence.
+2. **Each reference line says the role, place and action** of that person ("the ONLY man holding the stick, at the front rail, both hands on it").
+3. **A block named after the key thing** of the shot (THE RAIL, THE GRIP, THE WHEEL, THE STICK AND BAIT): how it is built in 1998 Kerala, sizes in cm or m, material, wear, how it is held, and what is never seen.
+4. **CAMERA AND ACTION** by time, in one block: the camera's physical place (metres, height, angle), what is in frame and what is not, then each person's action in that segment.
+5. **One "(most important)" block** for the hardest thing (an expression, an animal, a grip): observable small movements only, never an emotion word; name the cliches to avoid.
+6. **REAL-WORLD PHYSICS with numbers** (weight, speed, size) and cause and effect, ending "Nothing moves by itself; every movement has a cause." (checklist 174)
+7. **PERFORMANCE**: "no two people move at the same moment", "eyes never on the lens", "real skin, five fingers".
+8. **LIGHTING** with colour temperature (moonlight about 4100K, lantern about 2000K, sun 5600K) and quality; a colour reference image only when one exists ("colour reference only: match the grade, not the framing").
+9. **POSITIVE LOCKS** count everything: "Exactly two men, each once"; "one rail, one wheel".
+10. **Only what the camera sees**: the MEMORY block keeps place, light and the people IN FRAME; people out of view are not listed in the prompt (their places stay in the shot file and the NOW table).
