@@ -7,13 +7,17 @@ Rules (see `rules/prompt-rules.md`, "Memory block"):
 - Change it only when a shot shows the change (a person comes up from below, the fire comes closer). Then update this file first, in the same commit as the shot, and the change carries into every later prompt.
 - (L145) The People line lists only the people in THIS shot, copied from the master list below; everyone else goes in NOW as "below / out of view". Each person in frame still keeps a full reference line with what tells him apart. In a view facing away from the moon, the Light line says only "the full moon is behind the camera".
 
+
+**Adopted 2026-11-13 (Ranjith): Aswanth's rough-cut night is the master for the SB028+ reshoot** (`continuity/aswanth-rough-cut-lock/LOCK.md`). Six changes: low-key light with warm practical lamps; the crew sleep on the forward deck under white sheets; Antony's pale blue-grey striped shirt; lanterns on the rail top and at the mast foot; Antony keeps watch at the deckhouse front and on deck; Balan's shirt reads grey-blue. The NOW table below describes the earlier takes; reshot shots get new NOW lines.
+
 ## The block (copy from here)
 
 ```
 MEMORY (the same night in every shot; nothing changes unless this block says so)
-Place: 1998, open sea off Kerala, aboard our wooden cargo uru: blue-grey hull, carved two-deck deckhouse aft with the wheel inside, one mast with a lantern at its foot, our bow as on @urubowplate (blue triangular bow deck, pointed stem, red-brown bitts, rope coils).
-Light: clear full-moon night; the moon high, ahead and RIGHT of the bow (forward views: top right with its silver path; aft views: behind the camera, never in the sky). Blue and readable, never black; warm light only from the lanterns.
-People: Antony: grey-beige short-sleeve shirt with thin vertical stripes, green-grey checked mundu, barefoot. Aashaan: cream shirt over white vest, towel on LEFT shoulder, white mundu. Raghavan: thin, grey, white vest, checked towel round his neck. Babu: heavy-set, checked towel on his head, checked lungi. Sasi: long curly hair, full beard. Suresh: cream shirt, sleeves rolled, green check mundu. Balan: light-blue shirt, two pens, white mundu. One of each, never a copy or a stranger.
+Place: 1998, open sea off Kerala, aboard our wooden cargo uru as in Aswanth's night: grey-blue weathered hull with long rust streaks and a red-oxide bottom; red-brown wooden rails on turned posts; brown plank deck; one rust-brown mast with a boom, rope wound round its foot, on the forward deck; a grey two-level deckhouse aft with a balustraded roof deck and the wheel inside; our bow as on @urubowplate (blue triangular bow deck, pointed stem, red-brown bitts in pairs, coir rope coils).
+Light: a low-key night: very dark navy sky with stars, a dark sea with the round moon's silver path, the moon ahead and RIGHT of the bow (aft views: behind the camera, never in the sky). The deck is mostly in shadow; faces are lit by warm practical lamps, about 2000-2800K: a caged glass lantern on the rail top, a hurricane lantern on a brass tray at the mast foot, a bare bulb inside the deckhouse. Never flat, never bright blue.
+People: Antony: pale blue-grey and white vertical-striped short-sleeve shirt, thin chain, green-grey checked mundu, barefoot. Aashaan: cream shirt over white vest, white towel on LEFT shoulder, white mundu. Raghavan: thin, grey, white vest, checked towel round his neck. Babu: heavy-set, checked towel on his head, checked lungi. Sasi: long curly hair, full beard. Suresh: cream shirt, sleeves rolled, green check mundu. Balan: blue shirt that reads grey-blue at night, two pens, white mundu. One of each, never a copy or a stranger.
+Sleepers: the crew sleep on the forward deck between the mast and the bow, wrapped in white sheets, among the bitts and rope coils, a lantern beside them.
 Fire: one burning vallam ahead-LEFT, about 500 m away until a shot shows it closer.
 ```
 
@@ -39,10 +43,10 @@ Format: `NOW: <who is where>; <what is in their hands>; <each face, in a few wor
 | s23-sh08 … s24-sh02 | written when each shot is redone with this block (positions from `continuity/night-rescue-distances.md`). |
 
 ## Master list of people (copy only those in frame into the People line)
-- Antony: grey-beige short-sleeve shirt with thin vertical stripes, green-grey checked mundu, barefoot (as in Aswanth's uru shots, `approved/s16a-sh01-last.webp`; Ranjith, 2026-11-12).
+- Antony: pale blue-grey and white vertical-striped short-sleeve shirt, thin chain, green-grey checked mundu, barefoot (Aswanth's night, `continuity/aswanth-rough-cut-lock/rc-056.5s.jpg`; Ranjith, 2026-11-13; was grey-beige).
 - Aashaan: about 60, grey hair combed back, grey moustache, cream shirt over white vest, white towel on his LEFT shoulder, white mundu.
 - Raghavan: about 60, thin, grey hair and moustache, white sleeveless vest, red-and-white checked towel round his NECK, white mundu.
 - Babu: about 40, heavy-set, black moustache, red-and-white checked towel tied on his HEAD, off-white shirt, grey-brown checked LUNGI.
 - Sasi: about 35, long black curly hair, full black beard, off-white shirt, white mundu.
 - Suresh: curly hair, moustache, stained cream shirt, sleeves rolled, green check mundu.
-- Balan: about 35, oiled hair, thin moustache, light-blue full-sleeve shirt, two pens in the left pocket, white mundu, black shoes.
+- Balan: about 35, oiled hair, thin moustache, blue full-sleeve shirt that reads grey-blue at night (Aswanth's night, rc-054.0s), two pens in the left pocket, white mundu, black shoes.

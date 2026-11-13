@@ -21,7 +21,7 @@ Ranjith, 2026-11-13: Aswanth's song cut "came out well"; it is the sequence just
 - **Balan:** a grey-blue shirt in this light; sleeps inside the deckhouse (rc-006.5s); watches the crew from the deckhouse (rc-016.0s); smokes at the deckhouse side rail (rc-054.0s).
 - **The crew:** eat rice and fried fish on banana leaves in a circle round the mast lantern (rc-036.0s, rc-038.0s); later **sleep on the forward deck between the mast and the bow, wrapped in white sheets, about seven men**, among the bitts and rope coils (sheet 64 s, rc-066.0s aerial; sheet 60 s three men on the bow deck with a lantern).
 
-## What differs from our SB027-SB032 night (to decide before the reshoot)
+## What differs from our SB027-SB032 night: ALL SIX ADOPTED (Ranjith, 2026-11-13)
 1. Light: theirs is low-key with warm practicals; ours is a bright, readable blue full moon.
 2. Sleepers: theirs on the forward deck under white sheets (about seven); ours three men on mats on the main deck in front of the deckhouse.
 3. Antony's shirt: theirs pale blue-grey and white stripes; ours grey-beige stripes.
