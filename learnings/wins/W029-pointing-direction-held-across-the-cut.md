@@ -1,5 +1,5 @@
 ---
-id: W28
+id: W29
 type: win
 category: angles
 shot: s23-sh02e v1
@@ -7,7 +7,7 @@ author: Ranjith
 date: 2026-11-13
 ---
 
-**W28: Pointing direction held across the cut**
+**W29: Pointing direction held across the cut**
 
 Ranjith: "see how the previous scene came: Antony's hand is pointing out straight and the boat on his left side".
 
