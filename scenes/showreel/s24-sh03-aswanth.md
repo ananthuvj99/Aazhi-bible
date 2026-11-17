@@ -13,7 +13,7 @@ ACTIVE REFERENCES
 @antony-at-20s: Antony, about 20, the ONLY swimmer: short-sleeve lavender-grey and white striped shirt, grey-green checked mundu, thin silver chain, barefoot, exactly as on his sheet; soaked from SHOT 2 on. 100% matches the reference.
 @selven: seen only in SHOT 4, only his hand and forearm: a lean dark-brown hand in the soaked long sleeve of his light-blue and slate-blue tiger-stripe camouflage shirt, as on his sheet. 100% matches the reference.
 @burningvallam (background only): the small wooden fishing vallam burning with ragged, uneven flames and dark smoke, exactly as on this sheet; nobody on board. 100% matches the reference.
-@uru: our uru as on this sheet: the blue-grey hull, red-oxide waterline, low wooden rail. 100% matches the reference.
+@uru: our uru as on this sheet. 100% matches the reference.
 @urubowplate (background only): the bow exactly as on this plate. 100% matches the reference.
 
 FORMAT MODE
@@ -33,7 +33,7 @@ Restrained and real throughout: no shouting face, no open-mouthed horror, no pos
 
 REAL-WORLD PHYSICS
 The sea: real black sea water at real scale and weight; the swell rises and falls; the fire's light breaks into moving orange pieces on the surface; smoke drifts low across the water.
-The dive: a real head-first racing dive: the push-off from the rail sends him outward and forward, his body rotating slowly from leaning to almost horizontal to head-down along the arc, real weight and speed; his shirt and mundu flatten against him and flap at the edges; his outstretched hands cut the water first and the sea closes around him with a burst of white spray that falls back in drops.
+The dive: a real head-first dive: the push-off sends him outward and forward, his body turning from leaning to head-down along the arc with real weight and speed, his clothes flattening and flapping; his outstretched hands cut the water first and the sea closes round him in a burst of white spray.
 Under water: bubbles of every size rush up and break apart; his clothes swell and drag; his hair floats; every kick pushes him forward against the water's resistance.
 The swim: each arm comes out streaming, slaps back in and pulls; his soaked shirt clings and drags; small waves break against his face.
 The hand: the arm rises with the effort of a man pushing up from below, water pouring off the sleeve; when the strength goes, it sinks slowly, the wet fingers closing a little, small rings spreading where it went under. Nothing moves by itself; every movement has a cause.
@@ -42,7 +42,7 @@ LIGHTING
 Night: cool moonlight about 4100K, the moon never in frame; the warm orange firelight, about 1900K, flickering on the water, the hull and Antony's face; under water, near black with the orange glow wavering above. Deep shadows; faces and the hand readable.
 
 AUDIO
-Sound effects only — natural on-location sound, the soundtrack carries no music. The heavy splash of the jump; under water, a deep muffled roar and rushing bubbles; on the surface, his hard gasping breaths, the slap of his strokes, the roar and crackle of the fire, the wash of the sea. No sound effect on the cuts.
+Sound effects only — natural on-location sound, the soundtrack carries no music. The splash of the dive; under water, a deep muffled roar and rushing bubbles; on the surface, his hard gasping breaths, the slap of his strokes, the roar and crackle of the fire, the wash of the sea. No sound effect on the cuts.
 
 STYLE
 Photoreal 1998 Kerala period feature film, night exterior, hand-held. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
