@@ -28,15 +28,15 @@ SHOT 4 (11-15 s) — His point of view, hand-held at water level: the frame bobs
 ACTING & MICRO-EXPRESSION (Antony)
 SHOT 1: on the rail his face is still; his eyes fixed on the water near the fire, unblinking; his jaw sets, the muscle at the corner of the jaw tightening; he takes one deep breath in through the nose, the chest rising, holds it, and goes.
 SHOT 2: cheeks puffed with held breath, eyes squeezed nearly shut against the salt water, then opening to slits toward the light above; lips pressed tight; a few bubbles escape from his nose.
-SHOT 3: his breathing is the rhythm: a sharp gasp through the open mouth each time his head turns out of the water, a hard blow out under the water; his brows drawn down and together, eyes narrowed and locked on one point ahead, blinking hard to clear the water, never looking away; his lips pulled back from his teeth on each breath; his neck tendons standing out on each stroke.
-Restrained and real throughout: no shouting face, no open-mouthed horror, no posing, nobody looks at the lens. Real wet skin with pores, five fingers on each hand.
+SHOT 3: a sharp gasp through the open mouth each time his face turns out of the water, a hard blow out under it; brows drawn down and together, eyes narrowed and locked ahead on the fire, blinking hard to clear the water; neck tendons standing out on each stroke.
+Restrained and real: no shouting, no posing, nobody looks at the lens. Real wet skin, five fingers.
 
 REAL-WORLD PHYSICS
-The sea: real black sea water at real scale and weight; the swell rises and falls; the fire's light breaks into moving orange pieces on the surface; smoke drifts low across the water.
+The sea: real black sea at real scale; the swell rises and falls; the firelight breaks into moving orange pieces; smoke drifts low.
 The dive: a real head-first dive: the push-off sends him outward and forward, his body turning from leaning to head-down along the arc with real weight and speed, his clothes flattening and flapping; his outstretched hands cut the water first and the sea closes round him in a burst of white spray.
 Under water: bubbles of every size rush up and break apart; his clothes swell and drag; his hair floats; every kick pushes him forward against the water's resistance.
 The swim: each arm comes out streaming, slaps back in and pulls; his soaked shirt clings and drags; small waves break against his face.
-The hand: the arm rises with the effort of a man pushing up from below, water pouring off the sleeve; when the strength goes, it sinks slowly, the wet fingers closing a little, small rings spreading where it went under. Nothing moves by itself; every movement has a cause.
+The hand: it rises with the effort of a man pushing up from below, water pouring off the sleeve, then sinks slowly, fingers closing, rings spreading where it went under. Nothing moves by itself; every movement has a cause.
 
 LIGHTING
 Night: cool moonlight about 4100K, the moon never in frame; the warm orange firelight, about 1900K, flickering on the water, the hull and Antony's face; under water, near black with the orange glow wavering above. Deep shadows; faces and the hand readable.
