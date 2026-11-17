@@ -1,8 +1,8 @@
 # s24-sh03 (Aswanth) · SB032–SB033 The leap and the swim — jump, under water, swimming to the fire, POV of Selvan's hand · 15 s · v1
-Status: **v1 ready (Aswanth, 2026-11-17), burning-boat ID to confirm** · no dialogue · narrated by Aswanth: four shots in one 15 s generation: (1) from the water level looking up, Antony jumps into the sea; (2) under water, bubbles, he thrusts and dives; (3) from his front, he swims hard toward the burning boat; (4) his POV, hand-held, a man's hand rises and sinks in the sea (Selvan). Natural actions and expressions. First prompt with the ACTING & MICRO-EXPRESSION RULES (Aswanth, 2026-11-17).
+Status: **v1 ready (Aswanth, 2026-11-17), IDs confirmed (`@burningvallam` on Aswanth's account too, no-moon image)** · no dialogue · narrated by Aswanth: four shots in one 15 s generation: (1) from the water level looking up, Antony jumps into the sea; (2) under water, bubbles, he thrusts and dives; (3) from his front, he swims hard toward the burning boat; (4) his POV, hand-held, a man's hand rises and sinks in the sea (Selvan). Natural actions and expressions. First prompt with the ACTING & MICRO-EXPRESSION RULES (Aswanth, 2026-11-17).
 Continuity: follows the team's s24-sh02 (Ranjith): night, the burning vallam about 40 m off the uru's LEFT side; Antony goes over the LEFT rail feet first; lavender-grey and white striped shirt, grey-green checked mundu, thin silver chain. No moon in frame, only its light (Aswanth's rule).
 People (L125): Antony (`@antony-at-20s`), Selvan (`@selven`, Aswanth's ID; the team card's is `@selvan`), only his hand and sleeve. Uru side in shots 1 and 3: `@uru`, `@urubowplate` (L131).
-Attach: `@antony-at-20s`, `@selven`, `@burningvallam` (Aswanth's name to confirm), `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **15 s.** 2.39:1, no dialogue.
+Attach: `@antony-at-20s`, `@selven`, `@burningvallam`, `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **15 s.** 2.39:1, no dialogue.
 
 ## v1
 ```
