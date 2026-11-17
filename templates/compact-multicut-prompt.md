@@ -27,6 +27,9 @@ Cut 3 (<time>) — <reaction close-up>.
 REAL-WORLD PHYSICS
 <for each moving thing in frame: how it really moves, its weight, cause and effect, speed, what it leaves behind (wake, dust, ripples); "nothing moves by itself; every movement has a cause" (Aswanth's standing rule)>
 
+ACTING & MICRO-EXPRESSION (per person, per shot; Aswanth 2026-11-17)
+<1 Show, don't label: never write emotion words (sad, furious, nervous, excited); write the facial muscle mechanics. 2 Eye choreography: eye movement, blink timing, gaze focus. 3 Emotional transition: a subtle baseline that shifts into the reaction over time. 4 Breath and body subtext: breathing rhythm, swallowing, jaw tension, micro head tilts. 5 Subtlety over exaggeration: restrained micro-expressions unless the scene needs a sudden outburst, to prevent facial distortion.>
+
 PERFORMANCE
 <the emotion in plain words; no two people move at the same moment or in the same way; eyes never on the lens; real skin, five fingers>.
 
