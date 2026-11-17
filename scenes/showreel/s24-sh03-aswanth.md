@@ -11,8 +11,8 @@ Night, 1998, the open sea. A small wooden fishing boat burns about forty metres 
 
 ACTIVE REFERENCES
 @antony-at-20s: Antony, about 20, the ONLY swimmer: short-sleeve lavender-grey and white striped shirt, grey-green checked mundu, thin silver chain, barefoot, exactly as on his sheet; soaked from SHOT 2 on. 100% matches the reference.
-@selven: the man in the water, seen only in SHOT 4 and only as his hand and forearm: a lean dark-brown hand, the soaked long sleeve of a light-blue and slate-blue horizontal tiger-stripe camouflage shirt, exactly as on his sheet. 100% matches the reference.
-@burningvallam (background only): the small traditional wooden fishing vallam, about 7 m, low and narrow, weathered white hull with a faded blue band, nets and oars inside, burning along its length with ragged, uneven flames, dark smoke lit orange from below, sparks; nobody on board. 100% matches the reference.
+@selven: seen only in SHOT 4, only his hand and forearm: a lean dark-brown hand in the soaked long sleeve of his light-blue and slate-blue tiger-stripe camouflage shirt, as on his sheet. 100% matches the reference.
+@burningvallam (background only): the small wooden fishing vallam burning with ragged, uneven flames and dark smoke, exactly as on this sheet; nobody on board. 100% matches the reference.
 @uru: our uru as on this sheet: the blue-grey hull, red-oxide waterline, low wooden rail. 100% matches the reference.
 @urubowplate (background only): the bow exactly as on this plate. 100% matches the reference.
 
@@ -39,10 +39,10 @@ The swim: each arm comes out streaming, slaps back in and pulls; his soaked shir
 The hand: the arm rises with the effort of a man pushing up from below, water pouring off the sleeve; when the strength goes, it sinks slowly, the wet fingers closing a little, small rings spreading where it went under. Nothing moves by itself; every movement has a cause.
 
 LIGHTING
-Night: cool moonlight about 4100K from high in the sky, the moon itself never in frame; the strong warm orange light of the fire, about 1900K, flickering on the water, the uru's hull and Antony's face; under water, near black with the fire's orange glow wavering on the surface above. Deep shadows; the faces and the hand always readable.
+Night: cool moonlight about 4100K, the moon never in frame; the warm orange firelight, about 1900K, flickering on the water, the hull and Antony's face; under water, near black with the orange glow wavering above. Deep shadows; faces and the hand readable.
 
 AUDIO
-Sound effects only — natural on-location sound, the soundtrack carries no music. The heavy splash of the jump; under water, a deep muffled roar and rushing bubbles; on the surface, his hard gasping breaths, the slap of his strokes, the crackle and roar of the fire, timber popping in the flames, the wash of the sea. No sound effect on the cuts.
+Sound effects only — natural on-location sound, the soundtrack carries no music. The heavy splash of the jump; under water, a deep muffled roar and rushing bubbles; on the surface, his hard gasping breaths, the slap of his strokes, the roar and crackle of the fire, the wash of the sea. No sound effect on the cuts.
 
 STYLE
 Photoreal 1998 Kerala period feature film, night exterior, hand-held. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
