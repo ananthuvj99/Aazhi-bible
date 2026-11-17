@@ -7,7 +7,7 @@ Attach: `@antony-at-20s`, `@selven`, `@burningvallam`, `@uru`, `@urubowplate` (b
 ## v1
 ```
 SCENE CONTEXT
-Night, 1998, the open sea. A small wooden fishing boat burns about forty metres off the left side of our uru (@uru). Antony jumps from the uru's left rail into the black sea and swims hard toward the fire, where a man in the water is going under. One generation, four shots joined by hard cuts. Nobody speaks.
+Night, 1998, the open sea. A small wooden fishing boat burns about forty metres off the left side of our uru (@uru). Antony dives head first from the uru's left rail into the black sea and swims hard toward the fire, where a man in the water is going under. One generation, four shots joined by hard cuts. Nobody speaks.
 
 ACTIVE REFERENCES
 @antony-at-20s: Antony, about 20, the ONLY swimmer: short-sleeve lavender-grey and white striped shirt, grey-green checked mundu, thin silver chain, barefoot, exactly as on his sheet; soaked from SHOT 2 on. 100% matches the reference.
