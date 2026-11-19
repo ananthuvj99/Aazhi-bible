@@ -27,7 +27,7 @@ fw = W - 100; fh = int(fr.height * fw / fr.width); fr = fr.resize((fw, fh)); ox,
 im.paste(fr, (ox, oy)); s = fw / 2000 * (3168 / 3136)
 P = lambda x, y: (ox + (x * 1.584 - 16) * fw / 3136, oy + y * 1.584 * fh / 1344)
 tag(P(1100, 300), "OUR URU · 80 m ahead · COCHIN", URU)
-tag(P(1080, 205), "2 men look back", MEN)
+tag(P(1080, 205), "Raghavan + Babu look back", MEN)
 tag(P(330, 470), "motorboat · 2 men", MOT); tag(P(1180, 470), "motorboat · 2 men", MOT); tag(P(780, 760), "motorboat · 2 men", MOT)
 for bx, by in [(570, 540), (1015, 560), (1490, 540)]:
     arrow(P(bx, by), P(bx + (1010 - bx) * 0.45, by - 140), RED)
@@ -71,7 +71,7 @@ for sec in range(11):
 rows = [("Camera", CAM, [(0, 2.5, "hold (start frame)"), (2.5, 8, "follows, creeps 20 m → 14 m"), (8, 10, "hold")]),
         ("Motorboats", MOT, [(0, 2.5, "racing on the wake"), (2.5, 8, "push harder, bows slam"), (8, 10, "40 m behind")]),
         ("Uru", URU, [(0, 10, "steady ahead, grows in frame: 80 m → 40 m")]),
-        ("Uru men", MEN, [(0, 4.8, "look back"), (4.8, 6, "one looks down"), (6, 10, "look back")])]
+        ("Uru men", MEN, [(0, 4.8, "look back"), (4.8, 6, "Babu looks down"), (6, 10, "look back")])]
 for i, (lab, col, segs) in enumerate(rows):
     yy = ty + 10 + i * 72; d.text((50, yy + 8), lab, font=F(26, True), fill=col)
     for a, b, t in segs:
@@ -82,7 +82,7 @@ for i, (lab, col, segs) in enumerate(rows):
 y3 = ty + 340
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
 lines = ["Start image slot: 01-START-s17sh01start.png (@s17sh01start)",
-         "Attach: @s17sh01start · @uru (full)   ·  remove everything else",
+         "Attach: @s17sh01start · @uru · @raghavan · @babu (full)  ·  remove everything else",
          "Duration 10 s · 21:9 · no dialogue        QA score 100 / 100",
          "Watch for: boats stay BEHIND the uru on its wake · the gap closes · uru never ship-sized · only COCHIN as writing · no guns"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(27), fill=INK)
