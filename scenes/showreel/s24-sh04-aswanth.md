@@ -12,8 +12,8 @@ Night, 1998, the open sea beside a small burning fishing boat. Continuing from t
 
 ACTIVE REFERENCES
 Start image: the first frame is exactly this image: the burning vallam soft and out of focus, its reflection on the black water, seen from water level.
-@antony-at-20s: Antony, about 20, soaked: short-sleeve lavender-grey and white striped shirt, grey-green checked mundu, thin silver chain, exactly as on his sheet. 100% matches the reference.
-@selven: Selvan, about 45, lean, short black hair greying at the temples, thick black moustache: long-sleeve shirt and cargo trousers in light-blue and slate-blue horizontal tiger-stripe camouflage, the shirt open at the chest, a khaki webbing belt with two canvas pouches, a small glass vial on a black cord round his neck, tan canvas ankle boots, exactly as on his sheet. 100% matches the reference.
+@antony-at-20s: Antony, about 20, soaked: lavender-grey striped shirt, grey-green checked mundu, exactly as on his sheet. 100% matches the reference.
+@selven: Selvan, about 45, thick black moustache: light-blue and slate-blue tiger-stripe camouflage shirt and cargo trousers, khaki belt with pouches, a small glass vial on a cord, tan ankle boots, exactly as on his sheet. 100% matches the reference.
 @burningvallam (background only): the small wooden fishing vallam burning with ragged, uneven flames and dark smoke, exactly as on this sheet; nobody on board. 100% matches the reference.
 
 FORMAT MODE
@@ -34,14 +34,14 @@ Restrained and real: no posing, nobody looks at the lens. Real wet skin, five fi
 
 REAL-WORLD PHYSICS
 Selvan's clothes under water: the soaked camouflage shirt hangs loose and open, billowing and folding slowly round his body, the sleeves lifting; the cargo trousers ripple and balloon round his legs; the belt and pouches pull down at his hips; the vial on its cord floats up and drifts; his hair lifts and sways. Heavy wet cloth that moves slowly, never stiff.
-Under water: dark, slightly murky sea, particles drifting in the orange light from above; bubbles wobble upward and break apart; every movement slowed by the water; Antony's shirt and mundu billow as he kicks; the cloth bunches in his fist when he grabs.
-On the surface: the swell lifts and drops the POV and Antony; firelight breaks into moving orange pieces on the water; water pours off the raised sleeve. Nothing moves by itself; every movement has a cause.
+Under water: dark, murky sea, particles in the orange light; bubbles wobble up and break; every movement slowed by the water; Antony's clothes billow as he swims.
+On the surface: the swell lifts and drops the POV; firelight breaks into orange pieces on the water. Nothing moves by itself; every movement has a cause.
 
 LIGHTING
-Night: the warm orange firelight, about 1900K, flickering on the water and on Antony's face; cool moonlight about 4100K, the moon never in frame. Under water: near dark, lit only by the orange glow wavering down from the surface; faces readable.
+Night: warm orange firelight, about 1900K, on the water and Antony's face; cool moonlight, the moon never in frame. Under water: near dark, lit by the orange glow from the surface; faces readable.
 
 AUDIO
-Natural on-location sound, the soundtrack carries no music. On the surface: Antony's hard breathing, his call, the slap of his strokes, the roar and crackle of the fire, the wash of the sea. Under water: a deep, muffled hush, the rumble of bubbles. No sound effect on the cuts.
+Natural on-location sound, no music. Surface: hard breathing, his call, the fire roaring, the sea. Under water: a muffled hush and bubbles. No sound effect on the cuts.
 
 DIALOGUE
 SHOT 3 only. ANTONY (Malayalam, Kollam coast accent, loud, breathless, calling across the water): "ഹോയ്... ഹലോ... ചേട്ടാ!"
