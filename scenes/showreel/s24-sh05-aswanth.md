@@ -1,8 +1,64 @@
 # s24-sh05 (Aswanth) · SB033 Saving Selvan — they surface; "Don't be afraid. Hold on tight."; Antony tows him toward the uru · 12 s · v1
-Status: **v1 ready (Aswanth, 2026-11-20)** · dialogue (Antony, one line) · plan agreed with Aswanth: surface together; close two-shot, Antony's line; wide, Antony on his back towing Selvan toward the uru. Line: the storyboard's "enne pedikyanda. yanne muruke pidichollu" with the first "enne" removed by Aswanth: "പേടിക്കണ്ട. എന്നെ മുറുകെ പിടിച്ചോ."
+Status: **v2 ready (Aswanth, 2026-11-20), 18 s** · dialogue (Antony, one line) · plan agreed with Aswanth: surface together; close two-shot, Antony's line; wide, Antony on his back towing Selvan toward the uru. Line: the storyboard's "enne pedikyanda. yanne muruke pidichollu" with the first "enne" removed by Aswanth: "പേടിക്കണ്ട. എന്നെ മുറുകെ പിടിച്ചോ."
 Screen direction (L167): s24-sh03 had Antony swim left to right toward the fire; going back, he swims right to left toward the uru on the left, the fire behind them on the right.
 People (L125): Antony (`@antony-at-20s`, voice Mahendran J), Selvan (`@selven`). Not a deck shot; the uru only far off.
 Attach: `@antony-at-20s`, `@selven`, `@burningvallam` (background only), `@uru` (background only). Remove every other attachment (L88). **12 s.** 2.39:1.
+
+## v2 (Aswanth 2026-11-20: line delivered looking at Selvan, camera in front; Selvan's reaction; back shot of both swimming to the uru; reaction of Aashaan and the crew at the rail, faces only; more expression and cuts; 18 s)
+Attach: `@antony-at-20s`, `@selven`, `@burningvallam` (background only), `@uru`, `@urubowplate` (background only), `@ashaan`, `@raghavan`, `@sasi`, `@balan-at-20s`. Remove every other attachment. **18 s.** 2.39:1.
+```
+SCENE CONTEXT
+Night, 1998, the open sea beside a small burning fishing boat. Antony and Selvan burst up through the surface. Antony holds Selvan, speaks to him, and swims him back toward the uru. At the uru's rail, Aashaan and the crew watch the water. One generation, five shots joined by hard cuts.
+
+ACTIVE REFERENCES
+@antony-at-20s: Antony, about 20, soaked: lavender-grey and white striped shirt, grey-green checked mundu, thin silver chain, exactly as on his sheet. 100% matches the reference.
+@selven: Selvan, about 45, thick black moustache, hair greying at the temples: soaked light-blue and slate-blue tiger-stripe camouflage shirt, a small glass vial on a cord, exactly as on his sheet. 100% matches the reference.
+@burningvallam (background only): the small wooden vallam burning with ragged flames and dark smoke, exactly as on this sheet; nobody on board. 100% matches the reference.
+@uru: our uru as on this sheet: the blue-grey hull, low wooden rail with turned posts, one lantern on deck. 100% matches the reference.
+@urubowplate (background only): the bow exactly as on this plate. 100% matches the reference.
+@ashaan: the old helmsman, cream half-sleeve shirt open over a white vest, one pair of spectacles in the vest neckline, white towel on his LEFT shoulder, exactly as on his sheet. 100% matches the reference.
+@raghavan: about 60, the ONLY man with short grey hair and a grey moustache, white vest, red-and-white towel round his neck, exactly as on his sheet. 100% matches the reference.
+@sasi: about 35, the ONLY man with long black curly hair and a full beard, exactly as on his sheet. 100% matches the reference.
+@balan-at-20s: Balan, about 20, faded blue short-sleeve shirt over a white vest, pocket empty, oiled hair with a side parting, thin moustache, acne marks, exactly as on his sheet; natural matte unretouched skin, never glossy. 100% matches the reference.
+
+FORMAT MODE
+One generation, 18 seconds, real time. SHOT 1: 0 to 2.5 s. CUT. SHOT 2: 2.5 to 7 s. CUT. SHOT 3: 7 to 9 s. CUT. SHOT 4: 9 to 13 s. CUT. SHOT 5: 13 to 18 s. Exactly four hard cuts, each to a new camera position. Runs the full 18 seconds.
+
+CAMERA AND ACTION
+SHOT 1 (0-2.5 s) — Hand-held at water level, close: Antony and Selvan burst up through the black surface in a spray of water, both gasping, the burning vallam a few metres behind; Selvan coughs out seawater and grabs at Antony's shoulders.
+SHOT 2 (2.5-7 s) — Dialogue shot, the camera in FRONT of Antony, over Selvan's shoulder: the back of Selvan's head and shoulder soft at the left edge of the frame; Antony's face toward the camera, turned no more than 30 degrees from the lens, his eyes on Selvan's face just beside the lens. Slow, gentle hand-held. Antony holds the side of Selvan's face with one hand and says to him: "പേടിക്കണ്ട. എന്നെ മുറുകെ പിടിച്ചോ." His head steady while he speaks; mouth fully visible, no hand or water in front of it.
+SHOT 3 (7-9 s) — Reverse, over Antony's shoulder, close on Selvan's face: his eyes find Antony and hold; his fists close on Antony's shirt.
+SHOT 4 (9-13 s) — Back shot, low at water level, steady hand-held, behind the two of them: Antony swims on his side, one arm across Selvan's chest holding him, the other arm pulling long strokes; Selvan lies back against him, floating with the flow, his head on Antony's shoulder. Ahead of them, in the middle of the frame, the side of the uru with its lantern, about twenty metres away and coming closer.
+SHOT 5 (13-18 s) — At the uru's left rail, lit by the deck lantern and the flickering orange glow of the fire: a slow hand-held move along the faces of the men leaning on the rail, looking down at the water: Aashaan, then Raghavan, Sasi and Balan. Faces only, medium close; the fire itself is not in this shot.
+
+ACTING & MICRO-EXPRESSION
+Antony, SHOT 2: baseline: breathing hard through the mouth, brows drawn together. He steadies his breath, his brows soften, and his eyes hold Selvan's without blinking; he speaks low and firm, head still; only after the last word one small nod, and his jaw unclenches.
+Selvan, SHOT 1 and 3: baseline: eyes wide and darting, mouth open, choking; then his eyes fix on Antony's face, the darting stops, his breath comes in slow shudders, his lips close and his throat moves as he swallows; his brow, raised and tight, slowly lowers. SHOT 4: eyes half closed, chest heaving.
+Aashaan, SHOT 5: leaning forward on the rail, eyes narrowed, searching the water; then a slow breath out through the nose, his lips parting slightly, his brows lifting a little.
+Raghavan: jaw set, lips pressed, eyes fixed below, one slow blink. Sasi: mouth slightly open, eyes moving fast along the water, then stopping. Balan: arms folded, chin raised, eyes on the water, the corner of his mouth tight, one quick glance at the others.
+Restrained and real: no shouting, no posing, nobody looks at the lens. Real skin with pores, five fingers.
+
+REAL-WORLD PHYSICS
+The sea: black water at real scale; the swell lifts and drops them; water streams off their heads; the firelight breaks into orange pieces on the surface.
+Selvan's clothes: the soaked camouflage shirt clings at the shoulders and floats loose and billowing below the surface; the vial floats at his chest.
+The swim: Antony's one-armed strokes pull them slowly; his kicks churn white water behind; small waves wash over Selvan's chin.
+At the rail: the uru rolls gently; the lantern swings and its light slides across the faces; the men shift their weight with the roll. Nothing moves by itself; every movement has a cause.
+
+LIGHTING
+Night: warm orange firelight, about 1900K, on the swimmers and flickering on the men at the rail; the warm deck lantern, about 2200K; cool moonlight, the moon never in frame. Faces readable.
+
+AUDIO
+Natural on-location sound, no music. Gasping, coughing, splashing, the fire roaring, the wash of the sea; Antony's line clear; at the rail, the creak of the boat and the lantern. No sound effect on the cuts.
+
+DIALOGUE
+SHOT 2 only. ANTONY (Malayalam, Kollam coast accent, low, firm, breathless), to Selvan: "പേടിക്കണ്ട. എന്നെ മുറുകെ പിടിച്ചോ."
+
+STYLE
+Photoreal 1998 Kerala period feature film, night. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
+
+POSITIVE LOCKS
+Exactly four hard cuts, at 2.5, 7, 9 and 13 s, each a new camera position. SHOT 2: Antony, filmed from the front, looks at Selvan and says the line, face within 30 degrees of the lens, mouth clear. SHOT 4: from behind, both swimming toward the uru ahead of them in the middle of the frame. SHOT 5: Aashaan, Raghavan, Sasi and Balan at the rail, faces only, each once; no fire in that shot. Selvan in light-blue and slate-blue camouflage. Nobody on the burning boat. The moon never in frame. No readable writing anywhere. Runs the full 18 seconds.
+```
 
 ## v1
 ```
@@ -52,3 +108,4 @@ Exactly two hard cuts, at 3 and 8 s, each a new camera position. SHOT 2: Antony 
 ```
 
 ## Generation results
+- v1 [partial] 2026-11-20 (Aswanth): Antony's line was not delivered looking at Selvan and the camera was side-on; they did not swim toward the uru; little expression and too few cuts. Next: v2: camera in front of Antony over Selvan's shoulder, Selvan's reaction, a back shot of both swimming to the uru ahead in frame, a reaction of Aashaan and the crew at the rail (faces only), 18 s.
