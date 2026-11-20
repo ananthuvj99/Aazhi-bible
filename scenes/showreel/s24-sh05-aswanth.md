@@ -25,7 +25,7 @@ SHOT 3 (8-12 s) — Wide at water level, steady, gently hand-held: Antony on his
 
 ACTING & MICRO-EXPRESSION
 Antony, SHOT 1: mouth wide, sucking air in sharp gasps; eyes squeezed against the water, then opening.
-Antony, SHOT 2: baseline: breathing hard through the mouth, brows drawn. He steadies his breath, his brows soften and his eyes hold Selvan's without blinking; he speaks low and firm, one slow nod on the last word; his jaw relaxes.
+Antony, SHOT 2: baseline: breathing hard through the mouth, brows drawn. He steadies his breath, his brows soften and his eyes hold Selvan's without blinking; he speaks low and firm, his head still; only after the last word, one slow small nod, and his jaw relaxes.
 Selvan, SHOT 1-2: baseline: eyes wide and darting, mouth open, choking; at Antony's touch his eyes find Antony's face and stay there, his breathing slows in shudders, his lips close, his throat moves as he swallows. SHOT 3: eyes half closed, mouth open to the air, chest heaving.
 Restrained and real: no shouting, no posing, nobody looks at the lens. Real wet skin, five fingers on each hand.
 
