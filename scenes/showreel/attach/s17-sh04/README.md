@@ -1,2 +1,5 @@
-# s17-sh04 attachments (assets only, no start image)
+# s17-sh04 v2 = PART B of the 30 s run (assets only, no start image)
 - 01-antony20.jpg → @antony20 (full)
+- 02-uru.png → @uru (full)
+- 03-raghavan.png → @raghavan (full)
+- 04-babu.png → @babu (full)
