@@ -15,13 +15,13 @@ def tag(xy, text, col, f=None):
     f = f or F(22, True); x, y = xy; tw = d.textlength(text, font=f)
     d.rounded_rectangle([x - 6, y - 4, x + tw + 8, y + 32], 8, fill=col); d.text((x + 1, y - 2), text, font=f, fill="white")
 
-d.text((50, 30), "s17-sh02 · SB025 · Antony comes to the wheel", font=F(50, True), fill=INK)
+d.text((50, 30), "s17-sh02 v1.1 · SB025 · Antony comes to the wheel", font=F(50, True), fill=INK)
 d.text((50, 98), "12 s · Malayalam line 3.5–9.3 s · [worried] · voice Mahendran J · camera at Aashaan's shoulder, 50mm, push-in after the line", font=F(25), fill=GREY)
 
 # 1. start frame with tags and arrows
 y0 = 155
-d.text((50, y0), "1  WHAT YOU WILL SEE  (start frame, and who moves where)", font=F(32, True), fill=INK)
-fr = Image.open("scenes/showreel/attach/s17-sh02/01-START-s17sh02start.png").convert("RGB")
+d.text((50, y0), "1  WHAT YOU WILL SEE  (illustration only, not attached; who moves where)", font=F(32, True), fill=INK)
+fr = Image.open("scenes/showreel/storyboards/s17-sh02-illustration.png").convert("RGB")
 fw = W - 100; fh = int(fr.height * fw / fr.width); fr = fr.resize((fw, fh)); ox, oy = 50, y0 + 50
 im.paste(fr, (ox, oy)); s = fw / 3136
 P = lambda x, y: (ox + x * s, oy + y * s)
@@ -72,8 +72,8 @@ for i, (lab, col, segs) in enumerate(rows):
 # 4. platform
 y3 = ty + 72 * len(rows) + 60
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
-lines = ["Start image: 01-START-s17sh02start.png (@s17sh02start)",
-         "Attach: @s17sh02start · @antony20 (full) · @wheelhouse (background only) · remove everything else",
+lines = ["No start image, no end image: assets only (Ranjith, v1.1)",
+         "Attach: @antony20 (full) · @wheelhouse (background only) · remove everything else",
          "Duration 12 s · 21:9 · Malayalam · voice Mahendran J · [worried] · QA 100 / 100",
          "Watch for: Malayalam only · LEFT arm points · only Antony in frame · head steady on the line · wheel only inside"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(25), fill=INK)
