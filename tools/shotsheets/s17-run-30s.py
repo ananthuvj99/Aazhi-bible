@@ -83,8 +83,8 @@ for i, (lab, col, segs) in enumerate(rows):
 # 4. platform
 y3 = ty + 72 * len(rows) + 60
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
-lines = ["Part A = s17-sh03 v2 · 15 s · attach @aashaan, @antony20 · voice Rinoy · QA 100",
-         "Part B = s17-sh04 v2 · 15 s · attach @antony20, @uru, @raghavan, @babu · voice Mahendran J · QA 100",
+lines = ["Part A = s17-sh03 v2 · 15 s · @aashaan, @antony20, @urudeckc3platedawn (room), @s17sh02last (ref) · voice Rinoy · QA 100",
+         "Part B = s17-sh04 v2 · 15 s · @antony20, @uru, @raghavan, @babu, @urudeckc3platedawn (room), @s17sh01last (ref) · Mahendran J",
          "No start or end images. Generate A, check its last frame, then B. Cut them together on the wheel.",
          "Watch for: A ends with Antony behind the wheel mid-spin · B: exactly 3 motorboats, the lead one caught in the net · nothing fades in"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(25), fill=INK)

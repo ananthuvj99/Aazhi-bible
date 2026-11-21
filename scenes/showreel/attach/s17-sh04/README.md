@@ -3,3 +3,5 @@
 - 02-uru.png → @uru (full)
 - 03-raghavan.png → @raghavan (full)
 - 04-babu.png → @babu (full)
+- 05-urudeckc3platedawn.png → @urudeckc3platedawn (background only: the room)
+- 06-s17sh01last.jpg → @s17sh01last (reference: boats, crew, sea, light)
