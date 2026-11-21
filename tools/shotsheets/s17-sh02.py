@@ -73,7 +73,7 @@ for i, (lab, col, segs) in enumerate(rows):
 y3 = ty + 72 * len(rows) + 60
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
 lines = ["No start image, no end image: assets only (Ranjith, v1.1)",
-         "Attach: @antony20 (full) · @wheelhouse (background only) · remove everything else",
+         "Attach: @antony20 (full) · @urudeckc3platedawn (background only) · remove everything else",
          "Duration 12 s · 21:9 · Malayalam · voice Mahendran J · [worried] · QA 100 / 100",
          "Watch for: Malayalam only · LEFT arm points · only Antony in frame · head steady on the line · wheel only inside"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(25), fill=INK)
