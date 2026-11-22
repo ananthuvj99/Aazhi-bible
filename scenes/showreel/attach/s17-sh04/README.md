@@ -5,3 +5,4 @@
 - 04-babu.png → @babu (full)
 - 05-urudeckc3platedawn.png → @urudeckc3platedawn (background only: the room)
 - 06-s17sh01last.jpg → @s17sh01last (reference: boats, crew, sea, light)
+- 07-wheelhousenightref.png → @wheelhousenightref (design reference only: room and wheel; never its people or night light)
