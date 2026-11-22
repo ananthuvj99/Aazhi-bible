@@ -539,12 +539,12 @@ Text-only export of the storyboard HTML, made so it can live in the project cont
 
 **Description (EN):** At dawn, an unidentified motorboat follows. Antony spots a chance to change course near a group of working fishing boats ahead. With Aashaan’s permission he takes the helm and gives clear orders. No gunfire or Navy intervention.
 
-**വിവരണം (ML):** പുലർച്ചെ ഒരു പേരറിയാത്ത മോട്ടോർവള്ളം പിന്നാലെയെത്തുന്നു. മുന്നിലെ മത്സ്യബന്ധനക്കൂട്ടത്തിനരികിലൂടെ വഴിമാറാനുള്ള അവസരം ആന്റണി കാണുന്നു. ആശാന്റെ അനുമതിയോടെ ചക്രം ഏറ്റെടുത്ത് വ്യക്തമായ നിർദേശങ്ങൾ നൽകുന്നു. വെടിവയ്പോ നാവികസേനയോ ഇല്ല.
+**വിവരണം (ML):** പുലർച്ചെ ഒരു പേരറിയാത്ത മോട്ടോർവള്ളം പിന്നാലെയെത്തുന്നു. മുന്നിലെ മത്സ്യബന്ധനക്കൂട്ടത്തിനരികിലൂടെ വഴിമാറാനുള്ള അവസരം ആന്റണി കാണുന്നു. ആശാന്റെ അനുമതിയോടെ ചുക്കാൻ ഏറ്റെടുത്ത് വ്യക്തമായ നിർദേശങ്ങൾ നൽകുന്നു. വെടിവയ്പോ നാവികസേനയോ ഇല്ല.
 
 | Speaker | Final (Manglish) | Malayalam | English |
 |---|---|---|---|
 | ANTONY (ആന്റണി) | aashane, munnile vallangaalkkappuram thirikkaam. ivarkk nere pinnaale varaan pattilla. | ആശാനേ, മുന്നിലെ വള്ളങ്ങൾക്കപ്പുറം തിരിക്കാം. ഇവർക്ക് നേരെ പിന്നാലെ വരാൻ പറ്റില്ല. | Aashaan, let's turn beyond those boats ahead. They won't be able to follow straight behind us. |
-| AASHAAN (ആശാൻ) | chakram pitikk. njaan munnil nokkaam. | ചക്രം പിടിക്ക്. ഞാൻ മുന്നിൽ നോക്കാം. | Take the helm. I'll watch ahead. |
+| AASHAAN (ആശാൻ) | chukkaan pitikk. njaan munnil nokkaam. | ചുക്കാൻ പിടിക്ക്. ഞാൻ മുന്നിൽ നോക്കാം. | Take the helm. I'll watch ahead. |
 | ANTONY (ആന്റണി) | munnile kayar oke mukallilekyu uyarth ashaane | മുന്നിലെ കയറൊക്കെ മുകളിലേക്ക് ഉയർത്ത്, ആശാനേ. | Lift the ropes at the front, Aashaan. |
 
 ### SB026 · Ref 20 — Clear of pursuit · അകലം കിട്ടി
@@ -555,7 +555,7 @@ Text-only export of the storyboard HTML, made so it can live in the project cont
 
 **Description (EN):** Working boats and poor visibility break the pursuer’s line. When Antony offers the helm back, Aashaan lets him continue.
 
-**വിവരണം (ML):** വള്ളക്കൂട്ടവും മങ്ങിയ വെളിച്ചവും മറയാകുന്നു. പിന്തുടർന്ന വള്ളം ദൂരെയാകുന്നു. ആന്റണി ചക്രം തിരികെ നൽകുമ്പോൾ ആശാൻ അവനെ തുടരാൻ അനുവദിക്കുന്നു.
+**വിവരണം (ML):** വള്ളക്കൂട്ടവും മങ്ങിയ വെളിച്ചവും മറയാകുന്നു. പിന്തുടർന്ന വള്ളം ദൂരെയാകുന്നു. ആന്റണി ചുക്കാൻ തിരികെ നൽകുമ്പോൾ ആശാൻ അവനെ തുടരാൻ അനുവദിക്കുന്നു.
 
 | Speaker | Final (Manglish) | Malayalam | English |
 |---|---|---|---|
@@ -755,7 +755,7 @@ Text-only export of the storyboard HTML, made so it can live in the project cont
 
 | Speaker | Final (Manglish) | Malayalam | English |
 |---|---|---|---|
-| AASHAAN (ആശാൻ) | aa samayathth ivanaa chakram pitichchath. ini ivane vishvasichch vitaam. | ആ സമയത്ത് ഇവനാ ചക്രം പിടിച്ചത്. ഇനി ഇവനെ വിശ്വസിച്ച് വിടാം. | He took the helm when it mattered. We can trust him with it now. |
+| AASHAAN (ആശാൻ) | aa samayathth ivanaa chukkaan pitichchath. ini ivane vishvasichch vitaam. | ആ സമയത്ത് ഇവനാ ചുക്കാൻ പിടിച്ചത്. ഇനി ഇവനെ വിശ്വസിച്ച് വിടാം. | He took the helm when it mattered. We can trust him with it now. |
 | MOIDEEN HAJI (മൊയ്തീൻ ഹാജി) | adutha yaathra nee nokkikko. aashan koodeyundaavum, | അടുത്ത യാത്ര നീ നോക്കിക്കോ. ആശാൻ കൂടെയുണ്ടാവും. | You take charge of the next voyage. Aashaan will be with you. |
 | ANTONY (ആന്റണി) | njaano, hajiyaare? | ഞാനോ, ഹാജിയാരേ? | Me, Haji? |
 | AASHAAN (ആശാൻ) | ini njaan koode nilkkano? | ഇനി ഞാൻ കൂടെ നിൽക്കണോ? | Do you still need me beside you? |

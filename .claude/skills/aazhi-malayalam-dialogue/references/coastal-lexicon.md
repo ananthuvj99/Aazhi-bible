@@ -22,6 +22,7 @@
 | കയറ് | rope |
 | പായ | sail |
 | കൊടിമരം | mast |
+| ചുക്കാൻ | the helm / steering wheel of a boat; "ചുക്കാൻ പിടിക്കുക" = take the helm. Never ചക്രം (bookish "wheel") on the boat (Ranjith, 2026-11-22) |
 | നങ്കൂരം | anchor |
 | മീൻ | fish |
 | മീൻപിടിത്തം | fishing |
