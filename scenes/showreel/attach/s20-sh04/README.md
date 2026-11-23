@@ -1,0 +1,5 @@
+# s20-sh04 v1 = PART B of the 30 s getaway (silent, 15 s)
+- 00-START-s20sh04start.png → START IMAGE slot, @s20sh04start (Raghavan and Babu at the forward rail of the top deck, facing the camera; the motorboats racing at the nets behind)
+- 01-uru.png → @uru (full)
+- 02-raghavan.png → @raghavan (full)
+- 03-babu.png → @babu (full)
