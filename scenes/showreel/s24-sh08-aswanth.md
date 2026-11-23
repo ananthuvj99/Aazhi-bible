@@ -1,6 +1,6 @@
 # s24-sh08 (Aswanth) · SB033→SB034 bridge — Aashaan's orders on deck: a place below for the two, dry clothes from Balan · 20 s · v1
 Status: **v2 ready (Aswanth, 2026-11-23)** · dialogue (Aashaan) · narrated by Aswanth: a sub-shot before the hold scene. On the deck, a little in front of the wheelhouse, everyone standing, looking at the two (Antony and Selvan not in frame). Aashaan tells the crew to make a place for the two to lie down in the room below; then tells Balan to give them something dry to wear from the bag in the hold. Ego on Balan's face. Cuts whenever he turns to speak to another person. Made to continue from the previous shot (platform "continue" option).
-Lines (Aswanth's Manglish → Malayalam): AASHAAN to the crew: "ഇവരെ രണ്ടുപേരെയും നമ്മുടെ ഉരുവിന്റെ താഴത്തെ മുറിയിൽ കിടക്കാനുള്ള സൗകര്യം പെട്ടെന്ന് ചെയ്തുകൊടുക്ക്." (Quickly make room for these two to lie down in the room below in our uru.) · AASHAAN to Balan: "ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ധരിക്കാൻ എന്തെങ്കിലും വസ്ത്രം നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്." (Their clothes are all wet, aren't they? So get them both something to wear from the bag in our hold.) Voice: Aashaan Rinoy.
+Lines (Aswanth's Manglish → Malayalam): AASHAAN to the crew: "ഇവരെ രണ്ടുപേരെയും നമ്മുടെ ഉരുവിന്റെ താഴത്തെ മുറിയിൽ കിടക്കാനുള്ള സൗകര്യം പെട്ടെന്ന് ചെയ്തുകൊടുക്ക്." (Quickly make room for these two to lie down in the room below in our uru.) · AASHAAN to Balan: "ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ഇടാൻ എന്തെങ്കിലും ഉടുപ്പ് നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്." (Their clothes are all wet, aren't they? So get them both something to wear from the bag in our hold.) Voice: Aashaan Rinoy.
 People (L125): Aashaan, Balan, Raghavan, Sasi, Suresh, Babu. Place (L164, L165, L166): main deck, a little forward of the wheelhouse front; its three glass windows behind them; the wheel only inside.
 Attach: `@ashaan`, `@balan-at-20s`, `@raghavan`, `@sasi`, `@suresh`, `@babu`, `@wheelhouse` (background only), `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **20 s.** 2.39:1.
 
@@ -34,7 +34,7 @@ One generation, 20 seconds, real time. SHOT 1: 0 to 6 s. HARD CUT. SHOT 2: 6 to 
 CAMERA AND ACTION
 SHOT 1 (0-6 s) — Dialogue shot. Medium shot of Aashaan, waist up, standing by the mast on the open front deck, the rigging and the dark sea behind him; his face toward the camera, no more than 30 degrees from the lens, lit by the lantern; steady camera. Looking forward at the crew at the front of the deck, just beside the lens, he says: "ഇവരെ രണ്ടുപേരെയും നമ്മുടെ ഉരുവിന്റെ താഴത്തെ മുറിയിൽ കിടക്കാനുള്ള സൗകര്യം പെട്ടെന്ന് ചെയ്തുകൊടുക്ക്." Head steady while he speaks, mouth fully visible.
 SHOT 2 (6-9 s) — Medium shot at the front of the deck: Antony and Selvan sit soaked on the planks against the rail; Raghavan, Sasi, Suresh and Babu stand round them. At the order they nod; Sasi and Suresh take Selvan under the arms and help him up; Antony gets to his feet, one hand on the rail; Raghavan lifts a lantern.
-SHOT 3 (9-16 s) — Dialogue shot. Medium close shot of Aashaan, from a new angle, still by the mast on the open deck, the dark sea behind. In the pause he turns his head to Balan beside him, stops, and says to him: "ബാലാ, ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ധരിക്കാൻ എന്തെങ്കിലും വസ്ത്രം നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്." Face within 30 degrees of the lens, head steady while he speaks, mouth fully visible.
+SHOT 3 (9-16 s) — Dialogue shot. Medium close shot of Aashaan, from a new angle, still by the mast on the open deck, the dark sea behind. In the pause he turns his head to Balan beside him, stops, and says to him: "ബാലാ, ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ഇടാൻ എന്തെങ്കിലും ഉടുപ്പ് നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്." Face within 30 degrees of the lens, head steady while he speaks, mouth fully visible.
 SHOT 4 (16-20 s) — Medium close shot of Balan on the open deck beside the mast, the dark sea behind him, listening; he says nothing.
 
 ACTING & MICRO-EXPRESSION
@@ -55,7 +55,7 @@ Natural sound, no music. Aashaan's lines clear; bare feet on wet planks, the sea
 
 DIALOGUE
 SHOT 1: AASHAAN (Malayalam, Kollam coast, brisk, low, an order), to the crew: "ഇവരെ രണ്ടുപേരെയും നമ്മുടെ ഉരുവിന്റെ താഴത്തെ മുറിയിൽ കിടക്കാനുള്ള സൗകര്യം പെട്ടെന്ന് ചെയ്തുകൊടുക്ക്."
-SHOT 3: AASHAAN (even, firm), to Balan: "ബാലാ, ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ധരിക്കാൻ എന്തെങ്കിലും വസ്ത്രം നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്."
+SHOT 3: AASHAAN (even, firm), to Balan: "ബാലാ, ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ഇടാൻ എന്തെങ്കിലും ഉടുപ്പ് നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്."
 
 STYLE
 Photoreal 1998 Kerala period feature film, night. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
@@ -89,7 +89,7 @@ One generation, 20 seconds, real time. SHOT 1: 0 to 6 s. HARD CUT. SHOT 2: 6 to 
 CAMERA AND ACTION
 SHOT 1 (0-6 s) — Dialogue shot. Close-up of Aashaan, the wheelhouse's glowing windows soft behind him; his face toward the camera, no more than 30 degrees from the lens, lit warm by the lantern hanging on the mast; steady camera. He looks from the two men (off frame) to the crew beside the lens and says to them: "ഇവരെ രണ്ടുപേരെയും നമ്മുടെ ഉരുവിന്റെ താഴത്തെ മുറിയിൽ കിടക്കാനുള്ള സൗകര്യം പെട്ടെന്ന് ചെയ്തുകൊടുക്ക്." Head steady while he speaks, mouth fully visible.
 SHOT 2 (6-8.5 s) — Medium shot of Raghavan, Sasi, Suresh and Babu: they nod, and Sasi and Suresh move off at once toward the hatch; Raghavan picks up a lantern; Babu follows.
-SHOT 3 (8.5-16 s) — Dialogue shot. Close-up of Aashaan again, from a new angle: in the pause he turns his head to Balan, beside the lens, stops, and says to him: "ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ധരിക്കാൻ എന്തെങ്കിലും വസ്ത്രം നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്." Face within 30 degrees of the lens, head steady while he speaks, mouth fully visible.
+SHOT 3 (8.5-16 s) — Dialogue shot. Close-up of Aashaan again, from a new angle: in the pause he turns his head to Balan, beside the lens, stops, and says to him: "ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ഇടാൻ എന്തെങ്കിലും ഉടുപ്പ് നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്." Face within 30 degrees of the lens, head steady while he speaks, mouth fully visible.
 SHOT 4 (16-20 s) — Close-up of Balan, the wheelhouse windows soft behind, as he listens; he says nothing.
 
 ACTING & MICRO-EXPRESSION
@@ -110,7 +110,7 @@ Natural on-location sound, no music. Aashaan's lines clear; bare feet on wet pla
 
 DIALOGUE
 SHOT 1: AASHAAN (Malayalam, Kollam coast, brisk, low, an order), to the crew: "ഇവരെ രണ്ടുപേരെയും നമ്മുടെ ഉരുവിന്റെ താഴത്തെ മുറിയിൽ കിടക്കാനുള്ള സൗകര്യം പെട്ടെന്ന് ചെയ്തുകൊടുക്ക്."
-SHOT 3: AASHAAN (even, firm), to Balan: "ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ധരിക്കാൻ എന്തെങ്കിലും വസ്ത്രം നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്."
+SHOT 3: AASHAAN (even, firm), to Balan: "ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ഇടാൻ എന്തെങ്കിലും ഉടുപ്പ് നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്."
 
 STYLE
 Photoreal 1998 Kerala period feature film, night. Shot on a Sony Venice 2 full-frame digital cinema camera, 85 mm for the close-ups: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
@@ -122,3 +122,4 @@ Exactly three hard cuts, at 6, 8.5 and 16 s, each a new camera position. SHOT 1 
 ## Generation results
 - v1 [partial] 2026-11-23 (Aswanth): Aashaan came INSIDE the wheelhouse (from the @wheelhouse attachment); the crew stood without Antony and Selvan; no name before the line to Balan; wide shots risk positions. Next: v2: Aashaan outside on the deck, @wheelhouse not attached (wall in words), crew with Antony and Selvan at the front of the deck, 'ബാലാ' first, medium shots only.
 - v2 [partial] 2026-11-23 (Aswanth): even with @wheelhouse removed, Aashaan came inside the wheelhouse again; any mention of the wheelhouse pulls the scene inside. Next: v2.1: no wheelhouse words at all; everyone on the open front deck by the mast and the bow. L171.
+- 2026-11-23 (Aswanth): in Aashaan's line to Balan, 'വസ്ത്രം' changed to 'ഉടുപ്പ്' ('ഇടാൻ എന്തെങ്കിലും ഉടുപ്പ്').
