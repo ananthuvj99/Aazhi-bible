@@ -63,7 +63,7 @@ Exactly four hard cuts, at 4, 11, 13 and 15.5 s. Antony and Selvan sit OPPOSITE 
 Attach: `@antony-at-20s-c2`, `@selvan-c2`, `@cabinnight` (a frame from v3 A saved by Aswanth under Locations; name to confirm). **18 s.** Continue from v3 A.
 ```
 SCENE CONTEXT
-Night, 1998, the same small wooden cabin inside the uru, a moment later. Antony and Selvan sit facing each other against opposite walls, about two metres apart, each in his own torn old blanket, the small kerosene lamp on the shelf between them. Antony asks what happened to Selvan's boat; Selvan tells him, looking at his fingers. One generation, three shots joined by hard cuts.
+Night, 1998, the same small wooden cabin inside the uru, a moment later. Antony and Selvan sit facing each other against opposite walls, about two metres apart, the small kerosene lamp on the shelf between them. Antony asks what happened to Selvan's boat; Selvan tells him, looking at his fingers. One generation, three shots joined by hard cuts.
 
 ACTIVE REFERENCES
 @antony-at-20s-c2: Antony, about 20, in his dry clothes exactly as on this sheet, nothing added or changed. 100% matches the reference.
@@ -89,7 +89,7 @@ Antony, SHOT 3: his eyes hold Selvan's; one slow blink; his throat moves as he s
 Slow, quiet, real: nobody looks into the lens. Real skin with pores, five fingers.
 
 REAL-WORLD PHYSICS
-The uru rolls slowly: the lamp flame leans and steadies, its warm light and shadows sliding across the faces; the tea in the set-down tumbler tilts; Selvan's blanket slips off one shoulder and he leaves it. Nothing moves by itself; every movement has a cause.
+The uru rolls slowly: the lamp flame leans and steadies, its warm light and shadows sliding across the faces; the tea in the set-down tumbler tilts. Nothing moves by itself; every movement has a cause.
 
 LIGHTING
 Night: one small kerosene lamp, about 1900K, warm and soft, from the side; deep warm shadows; the narrow window black.
@@ -105,7 +105,7 @@ STYLE
 Photoreal 1998 Kerala period feature film, night interior. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
 
 POSITIVE LOCKS
-Exactly two hard cuts, at 4.5 and 16 s. Antony and Selvan OPPOSITE each other in the small cabin, never side by side, each in his own torn blanket, in dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2. Each speaker's face within 30 degrees of the lens, mouth clear. No readable writing anywhere. Runs the full 18 seconds.
+Exactly two hard cuts, at 4.5 and 16 s. Antony and Selvan OPPOSITE each other in the small cabin, never side by side, Antony on the LEFT and Selvan on the RIGHT, the room and objects exactly as in the previous clip, in dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2. Each speaker's face within 30 degrees of the lens, mouth clear. No readable writing anywhere. Runs the full 18 seconds.
 ```
 
 ## v2 (Aswanth 2026-11-23: wider; sitting opposite each other, each with his own torn blanket; natural head movements; Antony drinking tea, Selvan looking at his fingers; Selvan's reply about the army boat; 30 s)
