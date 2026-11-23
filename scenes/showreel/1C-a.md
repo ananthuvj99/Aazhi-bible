@@ -1,5 +1,5 @@
-# Shot 1C-a · Amma teases from the stove (12 s) — v3.1
-Status: **APPROVED** (v3.1, 2026-11-05 — per the continuity ledger; end frame `approved/1C-a-end-frame.png` = `@endframe1ca`)
+# Shot 1C-a · Amma teases from the stove (15 s) — v5
+Status: **APPROVED** (v5, 2026-11-23, 9:30 sunny light; start @1castart, last frame @1calast). Earlier v3.1 (old light) superseded.
 References: @kitchendoorframe (start frame), @rosamma, @kitchenclean
 One set-up, one speaker (L58). Order: 1C-a → 1C-b → 1C-c.
 
@@ -223,6 +223,7 @@ One locked camera, one unchanging kitchen exactly as in @1castart. Exactly one p
 When @rosamma says "ഓ, എണീറ്റോ തമ്പുരാൻ!" let it be a fond, mock-grand Malayalam tease, her face straight to the camera.
 ```
 - v4.1 [partial] 2026-11-23 (Ananthu): the room held but the shot felt static: the camera never moved, she just turned to the camera and back. Ananthu wants the camera to push in on her while she cooks and Antony to walk in through the doors to her. Next v5.
+- v5 [approved] 2026-11-23 (Ananthu): "this came out well": the camera pushed in on her cooking, Antony walked in from behind the camera as a back view, she teased him with her face to the camera and the lip-sync held (W31). The last frame of this take is the start of the next shot (@1calast).
 
 ## v5 — push-in on her cooking; she teases while Antony walks in, seen only from behind (Ananthu after v4.1), 2026-11-23
 Camera: slow push-in (cinematographer: used). Reviewed (76 → fixes): glide stops at 2 m before the line; she faces the doors/camera about 15 degrees off the lens; Antony a back view walking along the right, never covering her face; he ends where 1C-b starts (her right, in front of the left half of the window, half a step deeper). Ananthu chose that she speaks while he walks in (only her lips are seen).
