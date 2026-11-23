@@ -60,7 +60,7 @@ Exactly four hard cuts, at 4, 11, 13 and 15.5 s. Antony and Selvan sit OPPOSITE 
 ```
 
 ### v3 B · what happened to your boat (18 s)
-Attach: `@antony-at-20s-c2`, `@selvan-c2`. **18 s.** Continue from v3 A.
+Attach: `@antony-at-20s-c2`, `@selvan-c2`, `@cabinnight` (a frame from v3 A saved by Aswanth under Locations; name to confirm). **18 s.** Continue from v3 A.
 ```
 SCENE CONTEXT
 Night, 1998, the same small wooden cabin inside the uru, a moment later. Antony and Selvan sit facing each other against opposite walls, about two metres apart, each in his own torn old blanket, the small kerosene lamp on the shelf between them. Antony asks what happened to Selvan's boat; Selvan tells him, looking at his fingers. One generation, three shots joined by hard cuts.
@@ -68,6 +68,10 @@ Night, 1998, the same small wooden cabin inside the uru, a moment later. Antony 
 ACTIVE REFERENCES
 @antony-at-20s-c2: Antony, about 20, in his dry clothes exactly as on this sheet, nothing added or changed. 100% matches the reference.
 @selvan-c2: Selvan, about 45, thick black moustache, hair greying at the temples, in his dry clothes exactly as on this sheet, nothing added or changed; tired and pale. 100% matches the reference.
+@cabinnight (location, the same room as the previous clip): match it exactly: the same cabin, the same light and every object in the same place. 100% matches the reference.
+
+THE CABIN (exactly as in the previous clip)
+A small, low wooden cabin of dark planks. In the middle of the back wall, one small rectangular window, black night outside; under it a narrow wooden shelf along the back wall with one small kerosene lamp with a glass chimney in the middle, its warm flame the only light. Antony sits on the LEFT, his back against the left wall, knees up; Selvan sits on the RIGHT, his back against the right wall, knees up; about two metres of plank floor between them. On the floor in the middle, under the lamp: a tall dented aluminium jug, and a folded newspaper with mixture beside it. Antony holds a steel tumbler of tea. Nothing else in the room, nothing moved.
 
 FORMAT MODE
 One generation, 18 seconds, real time, slow pace. SHOT 1: 0 to 4.5 s. CUT. SHOT 2: 4.5 to 16 s. CUT. SHOT 3: 16 to 18 s. Exactly two hard cuts. Medium shots, waist up, over the other man's shoulder. Runs the full 18 seconds.
@@ -221,3 +225,4 @@ Exactly five hard cuts, at 5, 12.5, 15, 17.5 and 20.5 s. Only Antony and Selvan,
 ## Generation results
 - v1 [partial] 2026-11-23 (Aswanth): they sat side by side, too close, too tight; wants a wider feel, sitting opposite each other with their own blankets, natural head movements and small activities (tea, Selvan's fingers), and Selvan's reply about the army boat. Next: v2, 30 s.
 - v2 [refused] 2026-11-23: platform: 'the dialogue needs about 33 s at a natural pace' for a 30 s clip ($0.74 spent). Next: v3 split into A (19 s) and B (16 s). L172.
+- v3 A [done] / v3 B [partial] 2026-11-23 (Aswanth): B did not keep A's room and object placement (B had no room block). Next: v3.1 B: THE CABIN block copied from the A frame (window centre back wall, lamp on the shelf under it, jug and newspaper centre floor, Antony left, Selvan right) plus a frame from A saved as a location (@cabinnight, name to confirm). L173.
