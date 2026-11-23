@@ -223,3 +223,75 @@ One locked camera, one unchanging kitchen exactly as in @1castart. Exactly one p
 When @rosamma says "ഓ, എണീറ്റോ തമ്പുരാൻ!" let it be a fond, mock-grand Malayalam tease, her face straight to the camera.
 ```
 - v4.1 [partial] 2026-11-23 (Ananthu): the room held but the shot felt static: the camera never moved, she just turned to the camera and back. Ananthu wants the camera to push in on her while she cooks and Antony to walk in through the doors to her. Next v5.
+
+## v5 — push-in on her cooking; she teases while Antony walks in, seen only from behind (Ananthu after v4.1), 2026-11-23
+Camera: slow push-in (cinematographer: used). Reviewed (76 → fixes): glide stops at 2 m before the line; she faces the doors/camera about 15 degrees off the lens; Antony a back view walking along the right, never covering her face; he ends where 1C-b starts (her right, in front of the left half of the window, half a step deeper). Ananthu chose that she speaks while he walks in (only her lips are seen).
+
+```
+SCENE CONTEXT
+9:30 a.m., 1998, the kitchen at the back of a fisherman's house on the Alappad coast, Kerala; bright sunny morning, a steady sea breeze outside. One continuous shot from the kitchen's open blue double doors: Rosamma is cooking at the wood-fire stove; the camera glides slowly in toward her; as her son Antony walks in past the camera and across the kitchen toward her, seen only from behind, she looks up from the pot toward him and teases him with one Malayalam line. Only her face is ever seen; his face never. Only Rosamma speaks, in Malayalam; Antony is silent.
+
+ACTIVE REFERENCES
+@1castart (start image, 0.0s): the first frame exactly: from just inside the open blue double doors (their edges at both sides of the frame), the back wall with the black soot stain over the raised mud wood-fire stove at the back-left, the barred window with white shutters at the right looking out over the clifftop to the open sea, Rosamma at the stove with her back three-quarter to us, stirring, the small stool with two coconut halves on the red floor, a warm patch of sun on the floor. 100% matches the reference.
+@rosamma (full, 0.0s–15.0s): Rosamma, the speaker, at the stove: cream cotton saree with a small blue floral print, the pallu over her left shoulder hanging down her back, solid mid-blue short-sleeve blouse, gold chain with a small gold cross, small gold studs, black hair streaked with grey in a low bun, barefoot, a long wooden ladle in her right hand. 100% matches the reference.
+@antonyhome (full, 6.5s–15.0s): Antony, silent, seen only from behind: white sleeveless vest, a grey-green checked cotton mundu wrapped at the waist like a long skirt to the ankles (never trousers), thin silver chain, barefoot, messy black hair. He walks in from behind the camera, his back to us the whole time, and stops at her right, in front of the left half of the window. 100% matches the reference.
+
+THE STOVE AND THE CURRY
+A raised mud wood-fire stove, about 1 m long and 60 cm high, on a red-oxide platform at the back-left, a small wood fire glowing in its mouth. On it, exactly as in @1castart: at the right end, above the fire, a wide steel pot with NO LID, full of thick brown fish curry, bubbling; its lid lies on the stove's edge; at the left end a round terracotta pot and a round wicker tray. A steel can on the floor at the stove's left, the stone grinding slab in front. The long wooden ladle, about 50 cm, stays in her right hand; never thrown, never put down.
+
+FORMAT MODE
+One continuous shot, 15 seconds, no cut, real time. Runs the full 15 seconds.
+
+THE KITCHEN STAYS THE SAME
+One kitchen, exactly the kitchen in @1castart, from the first frame to the last. As the camera glides in, everything keeps its real place and size: the window, the sea through it, the soot stain, the stove, the shelves, the stool, the sun patch. The blue door edges slide out at both sides of the frame as the camera moves in; nothing else leaves, slides, swaps or changes; things only grow larger as the camera comes closer, the way a real room does.
+
+CAMERA AND ACTION
+The camera starts just inside the open blue double doors, at standing eye height, about 4.5 m from the stove, 35mm, framed exactly as @1castart.
+0.0–2.0s: hold on @1castart; she stirs the curry, her back three-quarter to us, steam rising.
+2.0–6.5s: the camera glides slowly and smoothly straight forward into the kitchen, about 2 m in 4.5 seconds (a slow walk), on the same 35mm lens, closing in on her; it eases to a stop about 2 m from her, her head and shoulders at left-centre of the frame. She keeps stirring, her back three-quarter to us.
+6.5–7.5s: camera still. Antony walks into frame from behind the camera at the lower right edge, his back to us, barefoot, unhurried, arms at his sides, heading across the red floor toward her. Hearing his steps she stops stirring and turns her head and shoulders over her right shoulder toward the doors and toward him, which turns her face toward the camera, about 15 degrees right of the lens; the ladle low at her right side, her left hand settling on her hip; a teasing smile; she draws a breath.
+7.5–9.5s: camera still; facing the camera and him, head steady, she says her line while he keeps walking slowly toward her along the right side of the frame, always to the right of her, never between her face and the lens; we see only his back and the back of his head.
+9.5–11.0s: a little laugh through her nose, eyes on him; he walks on through the sun patch, past the stool.
+11.0–13.0s: he stops at her right, about an arm's length from her, half a step nearer the window than she is, in front of the left half of the window, the stool and coconut halves just in front of his feet, his back three-quarter to us; she turns back to her pot.
+13.0–15.0s: she stirs, smiling and shaking her head; he stands at her right looking at the pot. Mouths closed.
+
+THE TEASE (most important)
+A mother enjoying teasing her grown son, mock-grand, fond, never angry. On "ഓ" her eyebrows rise and her mouth rounds; on "തമ്പുരാൻ" a big playful stress, her head steady. The smile reaches her eyes; small laugh lines. Her whole mouth and jaw are clearly visible for the whole line: Antony is a back view walking along the right of the frame, never between her face and the lens; the ladle hangs low at her right side, her left hand on her hip. No pointing with the ladle, no wagging finger, no hands near her face.
+
+EYELINES
+Rosamma: 0–6.5s down at the pot. 6.5–11s toward the doors and Antony walking in, just right of the lens at a standing man's eye height, her face about 15 degrees right of the lens, never in profile. 11–15s back down at the pot. Antony: 6.5–13s ahead at his mother as he walks; 13–15s down at the pot; only the back of his head is ever seen. Neither looks into the lens.
+
+DIALOGUE RULES
+Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
+Rosamma speaks Malayalam only. Antony's mouth is never seen; he is a back view only. The camera finishes its glide at 6.5s and is still for the whole line.
+
+CAPTURE IMPERFECTIONS
+The glide eases in over about a second at 2.0s and settles over about a second at 6.5s, with the faint, living steadiness of a real operator; focus holds her face from 6.5s while Antony's back crosses softly in front of the right side of the frame. She breathes in at 7.3s before the line, out with the laugh at 9.8s.
+
+REAL-WORLD PHYSICS
+The curry bubbles; steam rises from the pot and drifts toward the window in the breeze; the fire crackles and its smoke climbs the soot stain. Antony's bare feet pad on the red-oxide floor and his shadow crosses the sun patch; his mundu swings at his ankles as he walks. Outside the window, seen from the clifftop, the open sea glitters far below to the horizon, small boats far out; nobody is outside. Nothing moves by itself; every movement has a cause.
+
+PERFORMANCE
+Warm, ordinary, a real mother and son in their kitchen. She speaks while he walks in; we never see his face or his mouth, only his back. Real skin, five fingers on each hand. No posing.
+
+LIGHTING
+9:30 a.m. sunny daylight, exactly as in @1castart: soft daylight about 5200K from the barred window fills the kitchen; warm morning sun from the right lays a soft-edged patch across the red floor; the wood fire adds a small warm glow, about 1900K, on the stove and her saree. When she turns, her face is lit softly and evenly from the front by daylight bouncing off the pale blue walls and the red floor; never in silhouette.
+COLOUR: white balance for 5200K daylight, so whites read white: her saree cream with small blue flowers, her blouse mid-blue, his vest clean white, his mundu grey-green checks. Walls pale powder blue with a deep blue base band; floor matt red-oxide terracotta; soot soft charcoal; skin natural warm brown. Colour exactly as in @1castart. No pink, orange or yellow cast, no teal push, no washed-out look; medium saturation, gentle filmic contrast.
+
+AUDIO
+Sound effects only, no music. Spoken language: Malayalam only. Rosamma speaks the exact Malayalam words below once, everyday Kollam coastal Malayalam, nothing else; lip-sync exact. Antony says nothing.
+7.5s–9.5s — Rosamma, to her son walking in toward her, a smile in her voice, mock-grand as if announcing royalty; "ഓ" drawn out and rising, a tiny pause, a big playful stress on "തമ്പുരാൻ". About 1.8 seconds.
+[playful] "ഓ, എണീറ്റോ തമ്പുരാൻ!"
+Ambient: the ladle in the steel pot (stopping at 6.5s, starting again at 11.0s), the curry bubbling, the fire crackling, Antony's bare footsteps from 6.0s to 11.0s, under her line but never covering a word, far-off waves through the window, crows, hens in the yard, palm fronds in the breeze.
+
+STYLE
+Photoreal 1998 Kerala period feature film, 24fps, fine 35mm grain, gentle halation, visible skin texture and pores, no smoothing. Shot on a Sony Venice 2 full-frame digital cinema camera: very wide dynamic range that holds the bright window and the dim stove corner in one frame; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich, true skin tones; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look. Palette: powder blue, red-oxide terracotta, charcoal soot, cream and blue saree, white vest, warm brown skin, firelight orange.
+
+CONSTRAINTS
+Known failures in this kitchen: the shot was too fast and ended early; the curry pot had a lid; a speaker said her line side-on and the lip-sync failed; the room slid and changed between two pictures; the last take was static with nobody coming in. Here the camera glides in once and stops before the line, Antony walks in from behind the camera, she speaks with her face toward the camera and her mouth clear, the pot stays open, and the shot runs the full 15 seconds. Also never: Antony in profile or turning his face to the camera, Antony speaking, his face or mouth ever seen, his head or body covering her face, the ladle thrown or put down, a clock, a third person. Every spoken word is Malayalam; no English anywhere in the audio.
+
+POSITIVE LOCKS
+One kitchen exactly as in @1castart; one slow glide in from 2.0s to 6.5s, then still. Exactly two people: Rosamma at the stove, whose face is seen, and Antony, seen only from behind, who walks in while she speaks and stops at her right in front of the left half of the window. One open curry pot, no lid; one fire. Only Rosamma speaks, once, her face toward the camera and fully visible. Every spoken word is Malayalam. Every frame looks like the film itself, with nothing from the making of it. Runs the full 15 seconds.
+
+When @rosamma says "ഓ, എണീറ്റോ തമ്പുരാൻ!" let it be a fond, mock-grand Malayalam tease to her son as he walks in.
+```
