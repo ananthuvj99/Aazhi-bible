@@ -3,7 +3,7 @@ Source storyboard: https://aazhi-storyboard.vercel.app/#p=14&lang=ml
 
 | Scene | Beat | Storyboard | Shots | Status |
 |---|---|---|---|---|
-| 1 | Dawn over the coast; Antony oversleeps; Amma from the kitchen | SB014 | Approved: 1A v14, 1B-1, 1B-3 v7, 1C-a v3.1, 1C-b (to 7 s), 1C-b2 v4. Ready: 1C-c v5 (QA 94), then 1D | in progress (Ananthu) |
+| 1 | Dawn over the coast; Antony oversleeps; Amma from the kitchen | SB014 | Approved: 1A v14, 1B-1, 1B-3 v11 (2026-11-23, 9:20 light; v7 retired), 1C-a v3.1, 1C-b (to 7 s), 1C-b2 v4. Ready: 1C-c v5 (QA 94), then 1D | in progress (Ananthu) |
 | 2 | Ten days — mother makes him eat | SB015 | Approved: 2-PART-A, 2-PART-B (v8) | complete |
 | 3 / s11 | Eight o'clock — Clara's classroom | SB016–017 | Two versions: Ananthu's 3-1…3-6 (ready, v3) and Ranjith's s11-sh00…02 (complete 2026-11-07, see the s11 row) | decision pending: which version |
 | s11 | Clara's classroom (Ranjith's version) | SB016 | Approved: s11-sh00 v2 (Antony crosses the yard), s11-sh01 v4 take (children spot Antony and giggle), s11-sh02 v3 (Clara's line) | complete (Ranjith, 2026-11-07) |
