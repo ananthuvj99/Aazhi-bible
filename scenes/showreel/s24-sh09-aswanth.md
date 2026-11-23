@@ -101,7 +101,7 @@ STYLE
 Photoreal 1998 Kerala period feature film, night interior. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
 
 POSITIVE LOCKS
-Exactly two hard cuts, at 4.5 and 16 s. Antony and Selvan OPPOSITE each other in the small cabin, never side by side, each in his own torn blanket, in dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2. Each speaker's face within 30 degrees of the lens, mouth clear. No readable writing anywhere. Runs the full 16 seconds.
+Exactly two hard cuts, at 4.5 and 16 s. Antony and Selvan OPPOSITE each other in the small cabin, never side by side, each in his own torn blanket, in dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2. Each speaker's face within 30 degrees of the lens, mouth clear. No readable writing anywhere. Runs the full 18 seconds.
 ```
 
 ## v2 (Aswanth 2026-11-23: wider; sitting opposite each other, each with his own torn blanket; natural head movements; Antony drinking tea, Selvan looking at his fingers; Selvan's reply about the army boat; 30 s)
