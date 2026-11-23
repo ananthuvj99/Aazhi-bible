@@ -10,7 +10,7 @@ def tag(xy, text, col, f=None):
     f = f or F(20, True); x, y = xy; tw = d.textlength(text, font=f)
     d.rounded_rectangle([x - 6, y - 4, x + tw + 8, y + 28], 8, fill=col); d.text((x + 1, y - 2), text, font=f, fill="white")
 
-d.text((50, 30), "SB026 · the 30 s escape · Part A (s20-sh01 v4) + Part B (s20-sh02)", font=F(46, True), fill=INK)
+d.text((50, 30), "SB026 · the 30 s escape · Part A (s20-sh01 v4) + Part B (s20-sh02 v2)", font=F(46, True), fill=INK)
 d.text((50, 92), "silent · 2 × 15 s joined on the instant the motorboats hit the nets · the camera HOLDS its place and rises 3 → 12 → 25 m (L172)", font=F(25), fill=GREY)
 
 # 1 start frame + side view of the rise-over reveal
@@ -31,7 +31,7 @@ d.rectangle([sx + 330, sea - 120, sx + 460, sea], fill=URU); d.rectangle([sx + 3
 d.line([sx + 395, sea - 175, sx + 395, sea - 235], fill="#7a5436", width=4)
 for k in range(3): d.polygon([(sx + 620 + k * 60, sea), (sx + 630 + k * 60, sea - 12), (sx + 670 + k * 60, sea - 12), (sx + 675 + k * 60, sea)], fill=VAL)
 for k in range(8): d.ellipse([sx + 600 + k * 22, sea - 4, sx + 608 + k * 22, sea + 4], fill=NET)
-for (cx, cy, lab) in [(sx + 40, sea - 30, "A 0 s  3 m"), (sx + 40, sea - 150, "A 15 s = B 0 s  12 m"), (sx + 40, sea - 260, "B 13 s  25 m")]:
+for (cx, cy, lab) in [(sx + 40, sea - 30, "A 0 s  3 m"), (sx + 40, sea - 150, "A 15 s = B 0 s  ~5 m"), (sx + 40, sea - 260, "B 13 s  22 m")]:
     d.ellipse([cx - 12, cy - 12, cx + 12, cy + 12], fill=CAM); d.text((cx + 18, cy - 14), lab, font=F(18, True), fill=CAM)
     d.line([cx, cy, sx + 700, sea - 6], fill="#b9a6e6", width=2)
 d.text((sx + 12, sy + sh - 30), "side view: rises straight up, never forward; the vallams are always visible far ahead", font=F(18, True), fill=INK)
@@ -54,26 +54,26 @@ tag((cx - 75, my + 185), "the gap", URU)
 d.line([(cx, my + mh - 30), (cx, my + 30)], fill="#ffffff", width=14); d.line([(cx, my + mh - 30), (cx, my + 30)], fill=URU, width=4)
 d.rectangle([cx - 20, my + 260, cx + 20, my + 360], fill=URU); d.text((cx + 28, my + 290), "uru", font=F(20, True), fill=URU)
 # three motorboats abreast and where they end
-for bx, ex, ey, lab, t_ in [(cx - 150, cx - 240, my + 160, "B 3 s LEFT fouls, swamps", (cx - 640, my + 230)),
-                            (cx + 150, cx + 200, my + 160, "B 1 s RIGHT fouls, man overboard", (cx + 300, my + 230)),
-                            (cx, cx + 150, my + 185, "B 5 s MIDDLE rams the stalled boat", (cx + 300, my + 290))]:
+for bx, ex, ey, lab, t_ in [(cx - 150, cx - 240, my + 160, "B 6 s LEFT fouls, swamps", (cx - 640, my + 230)),
+                            (cx + 150, cx + 200, my + 160, "B 4 s RIGHT fouls, man overboard", (cx + 300, my + 230)),
+                            (cx, cx + 150, my + 185, "B 7.5 s MIDDLE rams the stalled boat", (cx + 300, my + 290))]:
     d.polygon([(bx - 20, my + 470), (bx, my + 440), (bx + 20, my + 470)], fill=MOT)
     d.line([(bx, my + 440), (ex, ey)], fill=JOIN, width=4); d.ellipse([ex - 22, ey - 22, ex + 22, ey + 22], outline=JOIN, width=4)
     tag(t_, lab, JOIN)
 d.rectangle([mx + 380, my + 38, mx + 1300, my + 58], fill=HAZE)
-d.text((mx + 1320, my + 30), "B 9 s haze closes behind the uru", font=F(18, True), fill=INK)
+d.text((mx + 1320, my + 30), "B 10 s haze closes behind the uru", font=F(18, True), fill=INK)
 d.ellipse([cx - 15, my + mh - 40, cx + 15, my + mh - 10], fill=CAM); tag((cx + 25, my + mh - 45), "camera: HOLDS here and rises to 25 m; every boat stays in frame", CAM)
 
 # 3 timeline
 y2 = my + mh + 60
 d.text((50, y2), "3  SECOND BY SECOND", font=F(32, True), fill=INK)
 tx, tw_ = 260, 1480; ty = y2 + 80; S = 30
-rows = [("Camera", CAM, [(0, 15, "Part A: holds, rises 3 → 12 m"), (15, 28, "Part B: rises 12 → 25 m"), (28, 30, "holds")]),
-        ("Uru", URU, [(0, 11, "runs at the gap, heels lining up"), (11, 13, "through"), (13, 30, "pulls away, smaller")]),
-        ("Motorboats", MOT, [(0, 15, "three abreast, racing at the nets"), (16, 18, "R fouls"), (18, 20, "L swamps"), (20, 21, "M rams"), (21, 30, "all dead in the water, IN FRAME")]),
+rows = [("Camera", CAM, [(0, 15, "Part A (kept): holds, rises a little"), (15, 28, "Part B: rises 5 → 22 m"), (28, 30, "holds")]),
+        ("Uru", URU, [(0, 15, "runs at the vallams (A, kept)"), (15, 18, "through the gap"), (18, 30, "pulls away, smaller")]),
+        ("Motorboats", MOT, [(0, 19, "three abreast in the wake"), (19, 21, "R fouls"), (21, 22.5, "L swamps"), (22.5, 24, "M rams"), (24, 30, "all dead, IN FRAME")]),
         ("Vallams", VAL, [(0, 8, "far, nearing"), (8, 30, "fishermen shout, wave, shake fists")]),
-        ("Haze", HAZE, [(24, 30, "closes in")]),
-        ("Crew", "#1f7a45", [(0, 4, "see the plan"), (4, 8, "to stern corner"), (8, 15, "wait, breath held"), (15, 21, "fist, laugh, clap"), (21, 30, "point, towels, turn to each other")])]
+        ("Haze", HAZE, [(25, 30, "closes in")]),
+        ("Crew", "#1f7a45", [(0, 15, "at the rail (A)"), (15, 19, "stern corner, breath held"), (19, 24, "fist, laugh, clap"), (24, 30, "towels, turn to each other")])]
 xj = tx + tw_ * 15 / S
 for sec in range(0, 31, 2):
     x = tx + tw_ * sec / S; d.line([x, ty, x, ty + 70 * len(rows) + 10], fill="#d8d4cc", width=2); d.text((x - 10, ty - 32), f"{sec}", font=F(18), fill=GREY)
@@ -89,8 +89,8 @@ for i, (lab, col, segs) in enumerate(rows):
 # 4 platform
 y3 = ty + 70 * len(rows) + 50
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
-lines = ["Part A = s20-sh01 v4 · 15 s · START @s20sh01start · @uru, @raghavan, @babu, @s17sh01last · ends as the first motorboat touches the net",
-         "Part B = s20-sh02 v1 · 15 s · START @s20sh01last (Part A's last frame) · same attachments · silent, no music",
+lines = ["Part A = s20-sh01 v4 · KEPT (partial): the chase reached the vallam line · last frame = @s20sh01last",
+         "Part B = s20-sh02 v2 · 15 s · START @s20sh01last · @uru, @raghavan, @babu, @s17sh01last · gap 0–3 s, snags 4 / 6 / 7.5 s",
          "Watch for: vallams stay put · motorboats always in frame · all 3 finished in B · nets = floats only · crew moving · no VFX"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(25), fill=INK)
 im = im.crop((0, 0, W, y3 + 55 + len(lines) * 42 + 40))
