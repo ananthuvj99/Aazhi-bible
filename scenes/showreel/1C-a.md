@@ -222,3 +222,4 @@ One locked camera, one unchanging kitchen exactly as in @1castart. Exactly one p
 
 When @rosamma says "ഓ, എണീറ്റോ തമ്പുരാൻ!" let it be a fond, mock-grand Malayalam tease, her face straight to the camera.
 ```
+- v4.1 [partial] 2026-11-23 (Ananthu): the room held but the shot felt static: the camera never moved, she just turned to the camera and back. Ananthu wants the camera to push in on her while she cooks and Antony to walk in through the doors to her. Next v5.
