@@ -3,8 +3,8 @@
   "subtitle": "s33 · late afternoon, 1998 · Malayalam · no emotion tag (W6) · 21:9 · Jeena Johnachan",
   "out": "scenes/showreel/storyboards/sb041-storyboard.png",
   "panels": [
-    {"shot": "s33-sh01", "image": "locations/tea-shop/plates/teashop-c2-plate.png", "title": "Adwaithan pours, sets the glass, the old bill", "time": "8 s",
-     "beats": ["0–2 s pours tea, jug to glass", "2–3 s glass on the counter, toward Antony", "3.4–6.6 s line (eyes just right of lens)", "6.6–8 s holds, glance at glass"],
+    {"shot": "s33-sh01", "image": "scenes/showreel/approved/sb041-teashop/s33-sh01-start.png", "title": "Adwaithan pours, sets the glass, the old bill", "time": "12 s",
+     "beats": ["0–2 s pours (start image, push-in 2–3.4 s)", "2.4–4 s glass placed gently, settles", "4–5.4 s slides it slowly toward Antony", "6.0–9.2 s line (eyes just right of lens)", "9.2–12 s holds, glance at glass"],
      "refs": "@adwaithan (full) · @teashopc2plate (full)"},
     {"shot": "s33-sh02", "image": "locations/tea-shop/plates/teashop-c1-plate.png", "title": "Antony sips, sits up tall, 'free from now on'", "time": "8 s",
      "beats": ["0–1.4 s sip, right hand", "1.4–2.2 s chin up, shoulders square", "2.2–7.2 s line (eyes just left of lens)", "7.2–8 s happy laugh"],
