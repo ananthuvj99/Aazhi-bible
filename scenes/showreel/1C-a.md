@@ -82,7 +82,7 @@ Reviewed (74 → about 90): pallu over the left shoulder as on @endframe1ca, set
 
 ```
 SCENE CONTEXT
-9:20 a.m., 1998, the kitchen at the back of a fisherman's house on the Alappad coast, Kerala; bright daylight, a steady sea breeze outside. One continuous, unhurried shot from just inside the kitchen's open blue double doors: Rosamma is cooking at the wood-fire stove with her back to us; she hears a call from behind the camera, stops, turns round, takes two steps toward the doors and, facing the camera, answers with one teasing Malayalam line, then smiles and goes back to her pot. Only Rosamma is in the shot, and only she speaks, in Malayalam.
+9:20 a.m., 1998, the kitchen at the back of a fisherman's house on the Alappad coast, Kerala; bright daylight, a steady sea breeze outside. One continuous, unhurried shot from just inside the kitchen's open blue double doors: Rosamma is cooking at the wood-fire stove with her back to us; she hears a call from behind the camera, stops, turns round, takes three steps toward the doors and, facing the camera, answers with one teasing Malayalam line, then smiles and goes back to her pot. Only Rosamma is in the shot, and only she speaks, in Malayalam.
 
 ACTIVE REFERENCES
 @endframe1ca (start image, 0.0s): the first frame exactly: from just inside the open blue double doors (their edges at both sides of the frame), the kitchen's back wall with the black soot stain over the raised mud wood-fire stove at the back-left, the barred window with white shutters at the right looking out to the sea, Rosamma at the stove with her back to us, stirring, the small stool with two coconut halves on the red floor. 100% matches the reference.
