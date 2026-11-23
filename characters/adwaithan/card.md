@@ -32,4 +32,4 @@ Every shot with Adwaithan in his shop in 1998 (SB041; SB047/SB048 in the backgro
 A later, older look of Adwaithan (SB095, SB121, years later) — that will be its own look and ID.
 
 ## Voice
-**Platform voice: Abhilash S** (Fun, Encouraging Friend) — chosen by Jeena on the platform, 2026-11-23; see `voices/VOICES.md`. Native Kollam coastal Malayalam speaker; easy, dry, friendly young male voice, ordinary everyday speech.
+**Platform voice: Ketan M** (Funny, Relatable Best Friend) — chosen by Jeena on the platform, 2026-11-23 (replaces Abhilash S); see `voices/VOICES.md`. Native Kollam coastal Malayalam speaker; easy, dry, friendly young male voice, ordinary everyday speech.
