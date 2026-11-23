@@ -1,10 +1,10 @@
 # s24-sh09 (Aswanth) · SB034 — a slow talk in the small cabin under a torn blanket: where are you going, names, what happened to your boat · 25 s · v1
-Status: **v3 ready (2026-11-23): two generations, A 19 s + B 16 s** · dialogue (Selvan, Antony) · narrated by Aswanth: a slow conversation between Antony and Selvan in a small room in the uru, both in their new dry costumes, under a broken blanket. Props: a snack (Kerala mixture) and an old water jug.
+Status: **v3 ready (2026-11-23): two generations, A 19 s + B 18 s** · dialogue (Selvan, Antony) · narrated by Aswanth: a slow conversation between Antony and Selvan in a small room in the uru, both in their new dry costumes, under a broken blanket. Props: a snack (Kerala mixture) and an old water jug.
 Lines (Aswanth's Manglish → Malayalam): SELVAN "നിങ്ങൾ എങ്ങോട്ട് പോവുകയാ?" (Where are you all headed?) · ANTONY "ഞങ്ങൾ കുറച്ച് ചരക്ക് ഇറക്കാൻ പോയിട്ട് വരുന്ന വഴിയാ. ഓ, പരിചയപ്പെടുത്താൻ മറന്നുപോയി... ഞാൻ ആന്റണി." (We're on our way back from unloading some cargo. Oh, I forgot to introduce myself... I'm Antony.) · [Selvan's calm smile] · ANTONY "നിങ്ങളുടെ പേരെന്താ?" (What's your name?) · SELVAN "എന്റെ പേര്... സെൽവൻ." (My name... Selvan.) · ANTONY "എന്താ പറ്റിയത് നിങ്ങളുടെ വള്ളത്തിന്? എങ്ങനെയാ തീ പിടിച്ചത്?" (What happened to your boat? How did it catch fire?) Voices: Selvan Angus, Antony Mahendran J.
 People (L125): Antony `@antony-at-20s-c2`, Selvan `@selvan-c2` (new dry costumes, Aswanth 2026-11-23). Room: the same tiny wooden cabin as s16b-sh45, at night, in words.
 Attach: `@antony-at-20s-c2`, `@selvan-c2`. Remove every other attachment (L88). **25 s.** 2.39:1.
 
-## v3 (2026-11-23: v2 refused: "the dialogue needs about 33 s at a natural pace" for 30 s. Split into two generations with room for the lines: A 19 s, B 16 s. L172.)
+## v3 (2026-11-23: v2 refused: "the dialogue needs about 33 s at a natural pace" for 30 s. Split into two generations with room for the lines: A 19 s, B 18 s. L172.)
 
 ### v3 A · where are you going, names (19 s)
 Attach: `@antony-at-20s-c2`, `@selvan-c2`. **19 s.**
@@ -59,8 +59,8 @@ POSITIVE LOCKS
 Exactly four hard cuts, at 4, 11, 13 and 15.5 s. Antony and Selvan sit OPPOSITE each other against opposite walls, never side by side, each in his own torn blanket, in dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2. Each speaker's face within 30 degrees of the lens, mouth clear. No readable writing anywhere. Runs the full 19 seconds.
 ```
 
-### v3 B · what happened to your boat (16 s)
-Attach: `@antony-at-20s-c2`, `@selvan-c2`. **16 s.** Continue from v3 A.
+### v3 B · what happened to your boat (18 s)
+Attach: `@antony-at-20s-c2`, `@selvan-c2`. **18 s.** Continue from v3 A.
 ```
 SCENE CONTEXT
 Night, 1998, the same small wooden cabin inside the uru, a moment later. Antony and Selvan sit facing each other against opposite walls, about two metres apart, each in his own torn old blanket, the small kerosene lamp on the shelf between them. Antony asks what happened to Selvan's boat; Selvan tells him, looking at his fingers. One generation, three shots joined by hard cuts.
@@ -70,12 +70,12 @@ ACTIVE REFERENCES
 @selvan-c2: Selvan, about 45, thick black moustache, hair greying at the temples, in his dry clothes exactly as on this sheet, nothing added or changed; tired and pale. 100% matches the reference.
 
 FORMAT MODE
-One generation, 16 seconds, real time, slow pace. SHOT 1: 0 to 4 s. CUT. SHOT 2: 4 to 14 s. CUT. SHOT 3: 14 to 16 s. Exactly two hard cuts. Medium shots, waist up, over the other man's shoulder. Runs the full 16 seconds.
+One generation, 18 seconds, real time, slow pace. SHOT 1: 0 to 4.5 s. CUT. SHOT 2: 4.5 to 16 s. CUT. SHOT 3: 16 to 18 s. Exactly two hard cuts. Medium shots, waist up, over the other man's shoulder. Runs the full 18 seconds.
 
 CAMERA AND ACTION
-SHOT 1 (0-4 s) — Dialogue shot. Medium shot of Antony over Selvan's shoulder, his face toward the camera within 30 degrees. He sets the steel tumbler down on the plank and asks: "എന്താ പറ്റിയത് നിങ്ങളുടെ വള്ളത്തിന്? എങ്ങനെയാ തീ പിടിച്ചത്?"
-SHOT 2 (4-14 s) — Dialogue shot. Medium shot of Selvan over Antony's shoulder, his face toward the camera within 30 degrees, lit by the lamp. Looking down at his slowly moving fingers, he answers with his line; on the last sentence he lifts his eyes to Antony.
-SHOT 3 (14-16 s) — Medium shot of Antony, silent, listening.
+SHOT 1 (0-4.5 s) — Dialogue shot. Medium shot of Antony over Selvan's shoulder, his face toward the camera within 30 degrees. He sets the steel tumbler down on the plank and asks: "എന്താ പറ്റിയത് നിങ്ങളുടെ വള്ളത്തിന്? എങ്ങനെയാ തീ പിടിച്ചത്?"
+SHOT 2 (4.5-16 s) — Dialogue shot. Medium shot of Selvan over Antony's shoulder, his face toward the camera within 30 degrees, lit by the lamp. Looking down at his slowly moving fingers, he answers with his line; on the last sentence he lifts his eyes to Antony.
+SHOT 3 (16-18 s) — Medium shot of Antony, silent, listening.
 
 ACTING & MICRO-EXPRESSION
 Natural head movements while listening; while speaking the head moves only a little and slowly, mouth always visible.
@@ -101,7 +101,7 @@ STYLE
 Photoreal 1998 Kerala period feature film, night interior. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
 
 POSITIVE LOCKS
-Exactly two hard cuts, at 4 and 14 s. Antony and Selvan OPPOSITE each other in the small cabin, never side by side, each in his own torn blanket, in dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2. Each speaker's face within 30 degrees of the lens, mouth clear. No readable writing anywhere. Runs the full 16 seconds.
+Exactly two hard cuts, at 4.5 and 16 s. Antony and Selvan OPPOSITE each other in the small cabin, never side by side, each in his own torn blanket, in dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2. Each speaker's face within 30 degrees of the lens, mouth clear. No readable writing anywhere. Runs the full 16 seconds.
 ```
 
 ## v2 (Aswanth 2026-11-23: wider; sitting opposite each other, each with his own torn blanket; natural head movements; Antony drinking tea, Selvan looking at his fingers; Selvan's reply about the army boat; 30 s)
