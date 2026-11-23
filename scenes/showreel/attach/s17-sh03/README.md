@@ -1,6 +1,6 @@
-# s17-sh03 v4 = PART A of the 30 s run
-- 00-START-s17sh03start.png → START IMAGE slot, @s17sh03start (reverse on Aashaan; waits for approval)
+# s17-sh03 v5 = PART A of the 30 s run (Ranjith's wheelhouse, 3/4 from the lantern-shelf corner)
+- 00-START-s17sh03start.png → START IMAGE slot, @s17sh03start (Aashaan at the wheel facing the bow; waits for approval)
 - 01-aashaan.jpg → @aashaan (full)
 - 02-antony20.jpg → @antony20 (full)
-- 03-urudeckc3platedawn.png → @urudeckc3platedawn (background only)
-- 04-wheelhousenightref.png → @wheelhousenightref (design reference only: room and wheel; never its people or night light)
+- 03-urudeckc3platenight2.png → @urudeckc3platenight2 (the wheelhouse design: take the room, NOT its night, moon or lit lantern)
+- 04-urubowplate.png → @urubowplate (background only: the bow seen through the front windows; take the deck, NOT its night)
