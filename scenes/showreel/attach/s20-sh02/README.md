@@ -3,4 +3,4 @@
 - 01-uru.png → @uru (full)
 - 02-raghavan.png → @raghavan (full, small)
 - 03-babu.png → @babu (full, small)
-- 04-s17sh01last.jpg → @s17sh01last (reference: motorboats, men, sea, light)
+

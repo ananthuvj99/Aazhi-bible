@@ -90,7 +90,7 @@ for i, (lab, col, segs) in enumerate(rows):
 y3 = ty + 70 * len(rows) + 50
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
 lines = ["Part A = s20-sh01 v4 · KEPT (partial): the chase reached the vallam line · last frame = @s20sh01last",
-         "Part B = s20-sh02 v2 · 15 s · START @s20sh01last · @uru, @raghavan, @babu, @s17sh01last · gap 0–3 s, snags 4 / 6 / 7.5 s",
+         "Part B = s20-sh02 v2 · 15 s · START @s20sh01last · @uru, @raghavan, @babu · gap 0–3 s, snags 4 / 6 / 7.5 s",
          "Watch for: vallams stay put · motorboats always in frame · all 3 finished in B · nets = floats only · crew moving · no VFX"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(25), fill=INK)
 im = im.crop((0, 0, W, y3 + 55 + len(lines) * 42 + 40))
