@@ -11,7 +11,7 @@ SCENE CONTEXT
 Night, 1998, on the open front deck of the uru after the rescue, out in the open air. Aashaan stands by the mast with Balan beside him. A few steps forward, near the bow, the crew stand round Antony and Selvan, who sit soaked against the rail. Aashaan calls his orders: first to the crew, then to Balan. One generation, four shots joined by hard cuts. Medium shots only, no wide shots.
 
 ACTIVE REFERENCES
-@ashaan: the old helmsman: cream shirt open over a white vest, spectacles in the vest neckline, white towel on his LEFT shoulder, as on his sheet. 100% matches the reference.
+@ashaan: Aashaan, the old head of the crew, standing on the open deck: cream shirt open over a white vest, spectacles in the vest neckline, white towel on his LEFT shoulder, as on his sheet. 100% matches the reference.
 @balan-at-20s: Balan, about 20, faded blue shirt, pocket empty, oiled side-parted hair, thin moustache, acne marks, as on his sheet. 100% matches the reference.
 @raghavan: the old man with grey hair and a red-and-white towel, as on his sheet. 100% matches the reference.
 @sasi: long curly hair, full beard, as on his sheet. 100% matches the reference.
