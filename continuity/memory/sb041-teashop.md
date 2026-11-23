@@ -10,3 +10,5 @@ Light: low late-afternoon sun, about 4300K, from the lane; the shop in soft warm
 
 People: Adwaithan behind the counter (standing), Antony on the bench (seated, eyes 1.15 m). Antony looks just LEFT of the lens, Adwaithan just RIGHT; both cameras stay camera-left of Adwaithan (see `scenes/showreel/storyboards/sb041-blocking.png`).
 No bill book or written tally ever (SB095: Adwaithan never wrote it down).
+
+Set dressing from s33-sh01 v1.4 (Jeena, 2026-11-23): at the counter's LEFT end (shopkeeper's view) a small wooden-framed glass display case of parippuvada and pazhampori on two steel plates, beside it two clear unlabelled jars (round biscuits, small snacks); by the boiler a cloth tea strainer on a hook and a small steel sugar tin. Carry these into every later shot that sees that end of the counter; not yet in the plates or @s33sh01start.
