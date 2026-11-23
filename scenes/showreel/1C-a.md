@@ -76,3 +76,76 @@ v3.1: curry pot open, lid off, curry visible (Ananthu).
 ## Generation results
 - v1: wrong door.
 - v2: nice; too fast, ended at 5 s.
+
+## v4 — remake in the 9:20 light: one start image, locked camera, she steps forward and speaks facing the camera (Ananthu, W29 recipe), 2026-11-23
+Reviewed (74 → about 90): pallu over the left shoulder as on @endframe1ca, set dressing matched to the start image (no puttu maker), end pose locked to @endframe1ca so 1C-b v5 still cuts, hands settled during the turn, head steady in the line, face lit by bounce, nobody outside, no off-screen words. Three steps to about 2.3 m (was two to 3 m) so her face is big enough for lip-sync.
+
+```
+SCENE CONTEXT
+9:20 a.m., 1998, the kitchen at the back of a fisherman's house on the Alappad coast, Kerala; bright daylight, a steady sea breeze outside. One continuous, unhurried shot from just inside the kitchen's open blue double doors: Rosamma is cooking at the wood-fire stove with her back to us; she hears a call from behind the camera, stops, turns round, takes two steps toward the doors and, facing the camera, answers with one teasing Malayalam line, then smiles and goes back to her pot. Only Rosamma is in the shot, and only she speaks, in Malayalam.
+
+ACTIVE REFERENCES
+@endframe1ca (start image, 0.0s): the first frame exactly: from just inside the open blue double doors (their edges at both sides of the frame), the kitchen's back wall with the black soot stain over the raised mud wood-fire stove at the back-left, the barred window with white shutters at the right looking out to the sea, Rosamma at the stove with her back to us, stirring, the small stool with two coconut halves on the red floor. 100% matches the reference.
+@rosamma (full, 0.0s–15.0s): Rosamma, the only person, coastal Latin Catholic mother in her early 50s: cream cotton saree with a small blue floral print, the pallu over her left shoulder, hanging down her back to the knee as in @endframe1ca; solid mid-blue short-sleeve blouse; gold chain with a small gold cross; small gold studs; black hair streaked with grey in a low bun; barefoot indoors; a long wooden ladle in her right hand. 100% matches the reference.
+
+THE STOVE AND THE CURRY
+A raised mud wood-fire stove, about 1 m long and 60 cm high, on a red-oxide platform at the back-left, with a small wood fire glowing in its mouth. On it, exactly as in @endframe1ca: at the right end, above the fire, a wide steel pot with NO LID, open, full of thick brown fish curry, bubbling, the ladle moving through it; its lid lies off to one side on the stove's edge; at the left end a round terracotta pot and a round wicker tray. A steel can stands on the floor at the stove's left, the stone grinding slab on the floor in front of it. The long wooden ladle, about 50 cm, stays in her right hand the whole time; it is never thrown and never put down.
+
+FORMAT MODE
+One continuous shot, 15 seconds, no cut, real time, no fast movement. The camera is locked for the whole shot. Runs the full 15 seconds.
+
+THE KITCHEN STAYS THE SAME
+One single, unchanging view of one kitchen, exactly the kitchen in @endframe1ca, from the first frame to the last. The camera never moves: no push-in, no pan, no tilt, no zoom, no drift. The door edges at both sides of the frame, the window and the sea through it, the soot stain, the stove, the shelves and the stool stay exactly where they are. Only Rosamma, the ladle, the steam, the smoke and the fire move.
+
+CAMERA AND ACTION
+The camera stands locked just inside the open blue double doors, at her eye height, about 4.5 m from the stove, 35mm, in exactly the framing of @endframe1ca for all 15 seconds.
+0.0–2.5s: hold on @endframe1ca: she stirs the curry with her back to us, steam rising, the fire crackling.
+2.5–3.5s: she stops, ladle raised over the pot; she has heard the call; a small smile starts.
+3.5–5.0s: she turns round over her right shoulder to face the doors and the camera, the ladle in her right hand held low at her side, her left hand settling on her hip; both hands stay there, below her chest, until 10.5s.
+5.0–7.0s: she takes three slow, easy steps toward the camera, away from the stove, and stops about 2.3 m from the lens, standing square to the camera, her face clear in the window light.
+7.0–7.5s: she draws a breath, chin up a little, eyebrows lifting, the teasing smile widening.
+7.5–9.5s: facing the camera straight on, head steady, she calls her line toward the doors, the ladle still low at her side, nothing near her face.
+9.5–10.5s: a small mock bow of the head, then a little laugh through her nose, still facing the doors, mouth closed.
+10.5–13.0s: she turns back the way she came and walks the same three steps back to the very spot she left, just right of the fire's mouth, shaking her head fondly.
+13.0–15.0s: she is back in exactly her place and pose of @endframe1ca: standing just right of the fire's mouth, facing the stove, her back three-quarter to the camera, head bowed to the pot, the pallu hanging down her back, stirring slowly. Mouth closed. The last frame matches @endframe1ca.
+
+THE TEASE (most important)
+A mother enjoying a tease, mock-grand, fond, never angry, never shouting. On "ഓ" her eyebrows rise and her mouth rounds; on "തമ്പുരാൻ" a big playful stress, her head steady. The smile reaches her eyes; small laugh lines. Her whole mouth and jaw are clearly visible for the whole line: the ladle hangs low at her right side, her left hand rests on her hip; nothing comes near her face. No pointing with the ladle, no wagging finger, no hands on her cheeks, no exaggerated face.
+
+EYELINES
+0–2.5s: down at the pot. 2.5–3.5s: up and to the side, listening, still facing the stove. 3.5–5.0s: as she turns, to the doors just beside the camera. 5.0–10.5s: her face straight to the camera, chin level; her eyes rest about 5 degrees to the left of the lens, at lens height, so she reads as looking at the camera; held through the line and the laugh. 10.5–15s: down at the floor as she walks back, then at the pot. Her face never turns to the side while she speaks, never toward the window.
+
+DIALOGUE RULES
+Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
+Rosamma speaks Malayalam only. In this shot the frame never gets closer: no push-in, no zoom, no cut; the view stays exactly @endframe1ca while she speaks, standing about 2.3 m from the lens facing the camera, her face and mouth clear and well lit.
+
+CAPTURE IMPERFECTIONS
+A locked-off, perfectly steady view for all 15 seconds; focus follows her softly as she steps closer. She breathes in at 7.2s before the line and out with the laugh at 9.8s; the fire flickers on her saree at 2.0s and 14.0s.
+
+REAL-WORLD PHYSICS
+The curry bubbles and the ladle drips back into the pot when she lifts it; steam rises from the curry pot and drifts toward the window in the breeze; the wood fire crackles and its thin smoke climbs the soot stain. Her bare feet pad on the red-oxide floor; the saree pleats swing with each step. Outside the window the sea glitters and small waves roll in; nobody is outside the window. Nothing moves by itself; every movement has a cause.
+
+PERFORMANCE
+Unhurried and warm, amused, a real mother in her own kitchen. Face toward the camera for the line, eyes just beside the lens. Real skin, fine lines, five fingers on each hand. No posing.
+
+LIGHTING
+9:20 a.m. daylight, exactly as in @endframe1ca: soft daylight about 5200K from the barred window fills the kitchen; the wood fire adds a small warm glow, about 1900K, low on the stove and on her saree when she is near it. When she steps toward the camera, her face is lit softly and evenly from the front by daylight bouncing off the pale blue walls and the red floor; the bright window behind her only rims her right shoulder; her face is never dark or in silhouette.
+COLOUR: white balance for 5200K daylight, so whites read white: her saree cream with small blue flowers, her blouse a clear mid-blue. Walls pale powder blue with a deep blue base band; floor matt red-oxide terracotta; the soot stain soft charcoal; the stove earthy brown; the door edges deep blue; her skin natural warm medium brown. Colour exactly as in @endframe1ca. No pink, orange or yellow cast, no teal push, no washed-out look; medium saturation, gentle filmic contrast.
+
+AUDIO
+Sound effects only, no music. Spoken language: Malayalam only. Rosamma speaks the exact Malayalam words below once, everyday Kollam coastal Malayalam, nothing else; lip-sync exact.
+7.5s–9.5s — Rosamma, facing the camera, calling toward the doors, loud enough to carry, a smile in her voice: mock-grand, as if announcing royalty; "ഓ" drawn out and rising, a tiny pause, a big playful stress on "തമ്പുരാൻ". About 1.8 seconds.
+[playful] "ഓ, എണീറ്റോ തമ്പുരാൻ!"
+Ambient: the ladle scraping the steel pot (stopping at 2.5s, starting again at 13.0s), the curry bubbling, the wood fire crackling, her bare footsteps, far-off waves through the window, crows, hens in the yard, palm fronds in the breeze.
+
+STYLE
+Photoreal 1998 Kerala period feature film, 24fps, fine 35mm grain, gentle halation, visible skin texture and pores, no smoothing. Shot on a Sony Venice 2 full-frame digital cinema camera: very wide dynamic range that holds the bright window and the dim stove corner in one frame; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich, true skin tones; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look. Palette: powder blue, red-oxide terracotta, charcoal soot, cream and blue saree, warm brown skin, firelight orange.
+
+CONSTRAINTS
+Known failures in this kitchen and this sequence: the camera came through the wrong door; the shot was too fast and ended early; the curry pot had a lid; a hand came near the mouth before the line; a speaker said her line side-on and the lip-sync failed; the room slid and changed between two pictures. Here the camera is locked on one image, she speaks facing the camera with her mouth clear, the pot stays open, and the shot runs the full 15 seconds. Also never: the ladle thrown or put down, a clock, a second person, the blue door leaves moving. Every spoken word is Malayalam; no English anywhere in the audio.
+
+POSITIVE LOCKS
+One locked camera, one unchanging kitchen exactly as in @endframe1ca. Exactly one person, Rosamma, once, barefoot, the ladle in her right hand all the time. One open curry pot, no lid on it; one fire. She speaks once, facing the camera, about 2.3 m from the lens, her whole mouth visible. No clock. Every spoken word is Malayalam. Every frame looks like the film itself, with nothing from the making of it. Runs the full 15 seconds.
+
+When @rosamma says "ഓ, എണീറ്റോ തമ്പുരാൻ!" let it be a fond, mock-grand Malayalam tease, her face straight to the camera.
+```
