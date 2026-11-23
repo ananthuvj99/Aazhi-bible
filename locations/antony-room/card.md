@@ -1,15 +1,15 @@
 ---
-ids: ["@antonyroom", "@antonyroomc1plate", "@antonyroomc3plate", "@antonyroomc4plate"]
+ids: ["@antonyroom", "@antonyroomc1plate", "@antonyroomc3plate", "@antonyroomc4plate", "@antonyroomc2plate"]
 retired_ids: ["@antonyroomclean", "@antonyroommapped"]
 type: location
 created_by: Ananthu
 created: 2026-10-29
 status: approved
-images: [antonyroom.webp, c1plate.webp, c3plate.webp, c4plate.webp]  # old: clean.png, map.png
+images: [antonyroom.webp, c1plate.webp, c3plate.webp, c4plate.webp, c2plate.jpg]  # old: clean.png, map.png
 ---
 
 # Antony's room (LOC-ANTONY-HOUSE-1990_ANT-01)
-Platform IDs (2026-11-04): `@antonyroom` (four-view sheet) · `@antonyroomc1plate` (C1, straight down) · `@antonyroomc3plate` (C3, corner view) · `@antonyroomc4plate` (C4, from the passage through the door). Old `@antonyroomclean` / `@antonyroommapped` are replaced — do not use.
+Platform IDs (2026-11-04): `@antonyroom` (four-view sheet) · `@antonyroomc1plate` (C1, straight down) · `@antonyroomc3plate` (C3, corner view) · `@antonyroomc4plate` (C4, from the passage through the door) · `@antonyroomc2plate` (C2, just inside the door looking at the cot: empty, 9:20 daylight, window behind the cot with palms and a laterite wall, clock top-right at 9:20, rose-pink sheet heaped at the left of the cot; Ananthu 2026-11-23, continuity_score 92). Old `@antonyroomclean` / `@antonyroommapped` are replaced — do not use.
 
 West half of the house, west of the central passage.
 

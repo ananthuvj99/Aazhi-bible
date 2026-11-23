@@ -7,7 +7,7 @@ Camera positions belong to this location and never change number; a new spot tak
 | Camera | Where it stands | Looking toward | Plate ID | What is behind / through doors (IDs, mode) |
 |---|---|---|---|---|
 | C1 | Directly above the room, roof removed | Straight down. Frame: west wall top, north right, front (south) wall left | `@antonyroomc1plate` | Nothing beyond; clock visible top-left — set its hands |
-| C2 | Inside, just within the door (east wall) | West across the room: front window + clock at left, west window above the cot, hooks + shelf at right, trunk right foreground | — (panel 3 of `@antonyroom`; no plate yet) | Clock visible — set its hands |
+| C2 | Inside, just within the door (east wall) | West at the back wall (layout of @1b3k1, Ananthu 2026-11-23): the barred blue window just left of centre with palms, a red laterite wall and blue sky outside; the cot along the wall under it, pillow at the right; the one wall clock high at the top-right beside the window | `@antonyroomc2plate` (empty, 9:20 daylight) | Clock visible top-right: 9:20 (hour hand a third from 9 to 10, minute hand on the 4). The door to the passage is behind the camera, off screen right; the kitchen is beyond it |
 | C3 | Inside, south-east corner | North-west: west wall with window and the cot along it, hooks in the corner, shelf on the north wall, trunk at right | `@antonyroomc3plate` | Front wall and clock are behind the camera — not visible |
 | C4 (only for looking in from the passage — L53) | In the passage, outside the door | West through the open door: the cot sideways across the far wall, head end at screen-right, window at right | `@antonyroomc4plate` | Behind the camera: the passage (`@hallclean`, background only) |
 
