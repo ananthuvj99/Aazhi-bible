@@ -1,8 +1,59 @@
 # s24-sh07 (Aswanth) · SB033 end — Aashaan checks on Selvan and Antony on the deck · 15 s · v1
-Status: **v1 ready (Aswanth, 2026-11-23)** · dialogue (Aashaan, Selvan, Antony) · narrated by Aswanth: continuation of s24-sh06; Aashaan touches Selvan's face and asks if he is all right; Selvan says no problem; Aashaan turns to Antony and asks him; Antony answers. Replaces the storyboard's SB033 exchange with Aswanth's lines.
+Status: **v2 ready (Aswanth, 2026-11-23)** · dialogue (Aashaan, Selvan, Antony) · narrated by Aswanth: continuation of s24-sh06; Aashaan touches Selvan's face and asks if he is all right; Selvan says no problem; Aashaan turns to Antony and asks him; Antony answers. Replaces the storyboard's SB033 exchange with Aswanth's lines.
 Lines: AASHAAN "നിങ്ങൾക്ക് കുഴപ്പമൊന്നുമില്ലല്ലോ?" (You're all right, aren't you?) · SELVAN "ഇല്ല." (No.) · AASHAAN "ആന്റണീ, നിനക്കോ?" (Antony, and you?) · ANTONY "കുഴപ്പമില്ല, ആശാനേ." (I'm fine, Aashaan.) Voices: Aashaan Rinoy, Selvan Angus, Antony Mahendran J.
 People (L125): Aashaan, Selvan, Antony; the rest of the crew only as legs around them, faces out of frame (so no unattached faces). Place (L164): main deck at the left rail, as in s24-sh06.
 Attach: `@ashaan`, `@selven`, `@antony-at-20s`, `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **15 s.** 2.39:1.
+
+## v2 (Aswanth 2026-11-23: face close-ups when they speak; v1 came as one wide shot with no cuts and the lying faces upside down)
+Attach: `@ashaan`, `@selven`, `@antony-at-20s`, `@uru`, `@urubowplate` (background only). **15 s.** 2.39:1. Voices: Aashaan Rinoy, Selvan Angus, Antony Mahendran J.
+```
+SCENE CONTEXT
+Night, 1998, on the uru's wet deck, moments after the rescue. Aashaan kneels between Antony and Selvan, who lie soaked on the planks. He touches Selvan's face and asks if he is all right, then turns to Antony. Four face close-ups, one for each line, joined by hard cuts.
+
+ACTIVE REFERENCES
+@ashaan: the old helmsman: cream half-sleeve shirt open over a white vest, one pair of spectacles in the vest neckline, white towel on his LEFT shoulder, as on his sheet. 100% matches the reference.
+@selven: Selvan, about 45, thick black moustache, hair greying at the temples, soaked light-blue and slate-blue tiger-stripe camouflage shirt, a small glass vial on a cord, as on his sheet. 100% matches the reference.
+@antony-at-20s: Antony, about 20, soaked lavender-grey striped shirt, as on his sheet. 100% matches the reference.
+@uru: our uru as on this sheet. 100% matches the reference.
+@urubowplate (background only): the bow exactly as on this plate. 100% matches the reference.
+
+FORMAT MODE
+One generation, 15 seconds, real time. SHOT 1: 0 to 4.5 s. HARD CUT. SHOT 2: 4.5 to 7.5 s. HARD CUT. SHOT 3: 7.5 to 11 s. HARD CUT. SHOT 4: 11 to 15 s. Exactly three hard cuts. Every shot is a TIGHT FACE CLOSE-UP of the one man who speaks in it, his face filling most of the frame, from the chin to the top of the head; never a wide shot, never all three men in one frame. Runs the full 15 seconds.
+
+CAMERA AND ACTION
+SHOT 1 (0-4.5 s) — Tight close-up of Aashaan's face, kneeling, looking down at Selvan just below the lens; his face toward the camera, no more than 30 degrees from the lens, upright, lit warm from the front by the lantern; steady camera. His hand reaches down out of frame to Selvan's cheek. He says: "നിങ്ങൾക്ക് കുഴപ്പമൊന്നുമില്ലല്ലോ?" Head steady while he speaks, mouth fully visible.
+SHOT 2 (4.5-7.5 s) — Tight close-up of Selvan's face as he lies on his back, the camera low at deck level beside his shoulder so that his face is UPRIGHT in the frame, never upside down, turned toward the camera within 30 degrees; Aashaan's fingers resting on his cheek at the edge of the frame, away from his mouth; wet planks soft behind. Weakly he says: "ഇല്ല."
+SHOT 3 (7.5-11 s) — Tight close-up of Aashaan's face again, from the other side: in the pause he turns his eyes and head from Selvan to Antony, stops, then says: "ആന്റണീ, നിനക്കോ?" Face toward the camera within 30 degrees, upright, head steady while he speaks, mouth fully visible.
+SHOT 4 (11-15 s) — Tight close-up of Antony's face, propped up on one elbow on the deck, the camera low beside him so that his face is UPRIGHT in the frame, turned toward the camera within 30 degrees, lit by the lantern, water running from his hair. He says: "കുഴപ്പമില്ല, ആശാനേ." Head steady while he speaks, mouth fully visible.
+
+ACTING & MICRO-EXPRESSION
+Aashaan, SHOT 1: baseline: brows drawn together, eyes moving over Selvan's face; as he speaks his voice drops and his brows lift slightly; after the words he waits, lips closed, eyes holding Selvan's.
+Selvan, SHOT 2: baseline: eyes half open, wandering; they find Aashaan and stay; one small swallow before the word; after it, a faint shake of the head and his eyelids close for a moment.
+Aashaan, SHOT 3: a short breath out through the nose, the line between his brows easing; his eyes move to Antony; on the question his chin lifts a little.
+Antony, SHOT 4: chest heaving; baseline: mouth open, breathing; he swallows, then answers; after the words the corners of his mouth lift in a tired half-smile.
+Restrained and real: no posing, nobody looks into the lens. Real wet skin with pores, stubble and water drops, five fingers.
+
+REAL-WORLD PHYSICS
+Water drips from the hair and faces of the two lying men and beads on their skin; Aashaan's face dry, a little sweat. The uru rolls gently: the lantern swings on its hook on the mast, and its warm light and the shadows slide slowly across each face. Nothing moves by itself; every movement has a cause.
+
+LIGHTING
+Night: the warm hurricane lantern, about 2200K, hanging from a hook on the mast at head height, lighting each face from the front; deep warm shadows behind; cool moonlight edging the wet skin, the moon never in frame.
+
+AUDIO
+Natural on-location sound, no music. Heavy breathing, dripping water, the lantern's creak, the wash of the sea; each line clear. No sound effect on the cuts.
+
+DIALOGUE
+SHOT 1: AASHAAN (Malayalam, Kollam coast, low, gentle, concerned), to Selvan: "നിങ്ങൾക്ക് കുഴപ്പമൊന്നുമില്ലല്ലോ?"
+SHOT 2: SELVAN (weak, hoarse): "ഇല്ല."
+SHOT 3: AASHAAN, to Antony: "ആന്റണീ, നിനക്കോ?"
+SHOT 4: ANTONY (breathless, tired): "കുഴപ്പമില്ല, ആശാനേ."
+
+STYLE
+Photoreal 1998 Kerala period feature film, night. Shot on a Sony Venice 2 full-frame digital cinema camera, 85 mm portrait lens, shallow depth of field: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
+
+POSITIVE LOCKS
+Exactly three hard cuts, at 4.5, 7.5 and 11 s. Four tight face close-ups, one per line: Aashaan, Selvan, Aashaan, Antony. Every face upright in the frame, never upside down, within 30 degrees of the lens, mouth clear, head steady while speaking. Never a wide shot. The lantern hangs on the mast, never on the deck. Selvan in light-blue and slate-blue camouflage. The moon never in frame. No readable writing anywhere. Runs the full 15 seconds.
+```
 
 ## v1
 ```
@@ -59,3 +110,4 @@ Exactly four hard cuts, at 3, 7, 9 and 12 s, each a new camera position. Aashaan
 ```
 
 ## Generation results
+- v1 [partial] 2026-11-23 (Aswanth): came as one wide shot, no cuts, the lying men's faces upside down to the camera, the lantern on the mast base. He wants face close-ups when they speak. Next: v2: four tight face close-ups (85 mm), every face upright, the lantern hanging on the mast. L170.
