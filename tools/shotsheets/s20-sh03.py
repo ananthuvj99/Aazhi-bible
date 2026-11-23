@@ -10,17 +10,17 @@ def tag(xy, text, col, f=None):
     f = f or F(20, True); x, y = xy; tw = d.textlength(text, font=f)
     d.rounded_rectangle([x - 6, y - 4, x + tw + 8, y + 28], 8, fill=col); d.text((x + 1, y - 2), text, font=f, fill="white")
 
-d.text((50, 30), "s20-sh03 · SB026 the getaway: the fishermen stop the motorboats", font=F(46, True), fill=INK)
-d.text((50, 92), "silent · 15 s · 21:9 · starts on @s20sh02last · camera HOLDS low behind the motorboats (5 → 8 m)", font=F(25), fill=GREY)
+d.text((50, 30), "s20-sh03 v2 · SB026 the getaway: the fishermen save their net", font=F(46, True), fill=INK)
+d.text((50, 92), "silent · 15 s · 21:9 · starts on @s20sh03start · handheld LOW INSIDE A VALLAM behind two fishermen · they guard their own net", font=F(25), fill=GREY)
 
 # 1 start frame + side view of the rise-over reveal
 y0 = 150
 d.text((50, y0), "1  START FRAME  and  THE CAMERA", font=F(32, True), fill=INK)
 pw = 830; ph = int(pw / 2.333)
-a = Image.open("scenes/showreel/attach/s20-sh03/00-START-s20sh02last.png").convert("RGB").resize((pw, ph))
+a = Image.open("scenes/showreel/attach/s20-sh03/00-START-s20sh03start.png").convert("RGB").resize((pw, ph))
 im.paste(a, (50, y0 + 50)); d.rectangle([50, y0 + 50, 50 + pw, y0 + 50 + ph], outline=INK, width=2)
-tag((60, y0 + 60), "0 s: the nets already close (L174)", URU)
-d.text((50, y0 + 60 + ph), "0 s = @s20sh02last", font=F(21, True), fill=INK)
+tag((60, y0 + 60), "0 s: inside the vallam; the net is THEIRS", URU)
+d.text((50, y0 + 60 + ph), "0 s = @s20sh03start", font=F(21, True), fill=INK)
 # side view
 sx, sy = 920, y0 + 50; sw, sh = 830, ph
 d.rectangle([sx, sy, sx + sw, sy + sh], fill="#eef1f3", outline=INK, width=2)
@@ -31,15 +31,15 @@ d.rectangle([sx + 330, sea - 120, sx + 460, sea], fill=URU); d.rectangle([sx + 3
 d.line([sx + 395, sea - 175, sx + 395, sea - 235], fill="#7a5436", width=4)
 for k in range(3): d.polygon([(sx + 620 + k * 60, sea), (sx + 630 + k * 60, sea - 12), (sx + 670 + k * 60, sea - 12), (sx + 675 + k * 60, sea)], fill=VAL)
 for k in range(8): d.ellipse([sx + 600 + k * 22, sea - 4, sx + 608 + k * 22, sea + 4], fill=NET)
-for (cx, cy, lab) in [(sx + 40, sea - 30, "0 s  5 m"), (sx + 40, sea - 150, "7 s  6 m"), (sx + 40, sea - 260, "15 s  8 m")]:
+for (cx, cy, lab) in [(sx + 40, sea - 30, "0 s  1 m, in the canoe"), (sx + 40, sea - 150, "5 s motorboats stop"), (sx + 40, sea - 260, "end: swing left to the uru")]:
     d.ellipse([cx - 12, cy - 12, cx + 12, cy + 12], fill=CAM); d.text((cx + 18, cy - 14), lab, font=F(18, True), fill=CAM)
     d.line([cx, cy, sx + 700, sea - 6], fill="#b9a6e6", width=2)
-d.text((sx + 12, sy + sh - 30), "side view: holds low, never forward; the nets are close from the first frame", font=F(18, True), fill=INK)
+d.text((sx + 12, sy + sh - 30), "side view: camera low in the canoe; the motorboats come at the lens and stop at the net", font=F(18, True), fill=INK)
 d.text((sx + 330, sea + 10), "uru", font=F(18, True), fill=URU); d.text((sx + 600, sea + 10), "vallams + nets close", font=F(18, True), fill=VAL)
 
 # 2 top view
 y1 = y0 + 120 + ph
-d.text((50, y1), "2  FROM ABOVE: the fishermen raise the nets; the motorboats stop; the uru goes on", font=F(32, True), fill=INK)
+d.text((50, y1), "2  FROM ABOVE: the fishermen save their net; the motorboats are held up; the uru goes on", font=F(32, True), fill=INK)
 mx, my, mw, mh = 50, y1 + 50, 1700, 520
 d.rectangle([mx, my, mx + mw, my + mh], fill="#dfe7ea", outline=INK, width=2)
 cx = mx + 850
@@ -54,25 +54,25 @@ tag((cx - 75, my + 185), "the gap", URU)
 d.line([(cx, my + mh - 30), (cx, my + 30)], fill="#ffffff", width=14); d.line([(cx, my + mh - 30), (cx, my + 30)], fill=URU, width=4)
 d.rectangle([cx - 20, my + 260, cx + 20, my + 360], fill=URU); d.text((cx + 28, my + 290), "uru", font=F(20, True), fill=URU)
 # three motorboats abreast and where they end
-for bx, ex, ey, lab, t_ in [(cx - 150, cx - 240, my + 160, "3 s LEFT throttles back, stops", (cx - 640, my + 230)),
-                            (cx + 150, cx + 200, my + 160, "3 s RIGHT throttles back, stops", (cx + 300, my + 230)),
-                            (cx, cx + 150, my + 185, "4.5 s MIDDLE catches the net, dies", (cx + 300, my + 290))]:
+for bx, ex, ey, lab, t_ in [(cx - 150, cx - 240, my + 160, "they never touch the net", (cx - 640, my + 230)),
+                            (cx + 150, cx + 200, my + 160, "5 s motorboats stop at the raised net", (cx + 300, my + 230)),
+                            (cx, cx + 150, my + 185, "9 s stuck, pushing floats away", (cx + 300, my + 290))]:
     d.polygon([(bx - 20, my + 470), (bx, my + 440), (bx + 20, my + 470)], fill=MOT)
     d.line([(bx, my + 440), (ex, ey)], fill=JOIN, width=4); d.ellipse([ex - 22, ey - 22, ex + 22, ey + 22], outline=JOIN, width=4)
     tag(t_, lab, JOIN)
 d.rectangle([mx + 380, my + 38, mx + 1300, my + 58], fill=HAZE)
-d.text((mx + 1320, my + 30), "1 s fishermen haul the nets up taut", font=F(18, True), fill=INK)
-d.ellipse([cx - 15, my + mh - 40, cx + 15, my + mh - 10], fill=CAM); tag((cx + 25, my + mh - 45), "camera: HOLDS low here (5 → 8 m); the uru draws away, solid", CAM)
+d.text((mx + 1320, my + 30), "1.5 s fishermen shout, haul their net up to save it", font=F(18, True), fill=INK)
+d.ellipse([cx - 15, my + mh - 40, cx + 15, my + mh - 10], fill=CAM); tag((cx + 25, my + mh - 45), "camera: low in the vallam; 11 s swings left to the uru going away", CAM)
 
 # 3 timeline
 y2 = my + mh + 60
 d.text((50, y2), "3  SECOND BY SECOND", font=F(32, True), fill=INK)
 tx, tw_ = 260, 1480; ty = y2 + 80; S = 15
-rows = [("Camera", CAM, [(0, 0.5, ""), (0.5, 15, "holds low behind the motorboats, rises 5 → 8 m")]),
-        ("Uru", URU, [(0, 15, "goes on through the gap and pulls away, solid")]),
-        ("Fishermen", VAL, [(1, 3, "haul nets up taut"), (3, 15, "shout, wave, shake fists")]),
-        ("Motorboats", MOT, [(0, 3, "racing"), (3, 4.5, "L + R stop"), (4.5, 6, "M dies"), (6, 15, "stopped, men arguing")]),
-        ("Crew", "#1f7a45", [(0, 1, ""), (1, 3, "point"), (3, 6, "fist, laugh, clap"), (6, 15, "towels, turn to each other")])]
+rows = [("Camera", CAM, [(0, 11, "handheld low in the vallam, behind the fishermen"), (11, 15, "swings left to the uru")]),
+        ("Uru", URU, [(0, 2, "slides past close"), (2, 11, "going away (off left)"), (11, 15, "seen pulling away, solid")]),
+        ("Fishermen", VAL, [(0, 1.5, "grip the line"), (1.5, 5, "jump up, shout, haul net up"), (5, 15, "hold it up, shout back")]),
+        ("Motorboats", MOT, [(0, 5, "racing at the net, at the lens"), (5, 9, "throttle back, stop"), (9, 15, "stuck, men shouting")]),
+        ("Crew", "#1f7a45", [(0, 11, "at the rail (seen at the start)"), (11, 15, "wave towels back")])]
 xj = -1000
 for sec in range(0, 16):
     x = tx + tw_ * sec / S; d.line([x, ty, x, ty + 70 * len(rows) + 10], fill="#d8d4cc", width=2); d.text((x - 10, ty - 32), f"{sec}", font=F(18), fill=GREY)
@@ -87,9 +87,9 @@ for i, (lab, col, segs) in enumerate(rows):
 # 4 platform
 y3 = ty + 70 * len(rows) + 50
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
-lines = ["s20-sh03 v1 · 15 s · 21:9 · START @s20sh02last · no end image · silent, no music",
+lines = ["s20-sh03 v2 · 15 s · 21:9 · START @s20sh03start · no end image · silent, no music",
          "Attach: @uru (full), @raghavan, @babu (small at the rail) · remove everything else",
-         "Watch for: nets raised by the fishermen only · motorboats stop and never follow · uru solid to the end · no VFX"]
+         "Watch for: only the fishermen touch the net · they never help the uru · motorboats stop · uru solid · no VFX"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(25), fill=INK)
 im = im.crop((0, 0, W, y3 + 55 + len(lines) * 42 + 40))
 im.save("scenes/showreel/storyboards/s20-sh03-clear.png"); print(im.size)

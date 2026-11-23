@@ -1,5 +1,5 @@
-# s20-sh03 v1 = SB026 the getaway: the fishermen stop the motorboats (silent, 15 s)
-- 00-START-s20sh02last.png → START IMAGE slot, @s20sh02last (the last frame of s20-sh02 v3)
+# s20-sh03 v2 = SB026 the getaway: the fishermen save their net (silent, 15 s)
+- 00-START-s20sh03start.png → START IMAGE slot, @s20sh03start (low inside a vallam behind two fishermen)
 - 01-uru.png → @uru (full)
 - 02-raghavan.png → @raghavan (full, small)
 - 03-babu.png → @babu (full, small)
