@@ -97,3 +97,7 @@ Every prompt has an EYELINES block, right after the "(most important)" block: fo
 
 ## Five habits from a realistic single generation (W26; Ranjith, 2026-11-13; all creators)
 Every prompt also has: a CONSTRAINTS block listing our known failures for that kind of shot, plainly; a CAPTURE IMPERFECTIONS block (breath, camera drift, exposure, focus breath, pauses, by the second); the lens in mm and what is sharp in each beat; STYLE with "24fps, fine 35mm grain, gentle halation, visible skin texture and pores, no smoothing". Image QA rejects any start frame or keyframe whose faces look smoothed. See `templates/prompt-format.md`.
+
+## Nothing fades (Ranjith, 2026-11-23; all creators)
+Unless the creator asks for it, nothing in any video fades in or out: every boat, person and prop is solid and fully visible from the moment it is in frame until it leaves through a frame edge or behind something solid. Haze, mist, smoke or darkness may soften only the background and things the creator names; it never dissolves the main subject. Every prompt carries this line in CONSTRAINTS: "Nothing fades in or out: every boat, person and object stays solid and fully visible until it leaves through a frame edge; haze softens only the background, never [the main subject]."
+
