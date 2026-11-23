@@ -21,8 +21,8 @@ y0 = 155
 d.text((50, y0), "1  WHAT YOU WILL SEE  (drawn frames)", font=F(32, True), fill=INK)
 pw = (W - 140) // 3; ph = int(pw / 2.333)
 a = Image.open("scenes/showreel/attach/s17-sh03/00-START-s17sh03start.png").convert("RGB").resize((pw, ph))
-b = Image.open("scenes/showreel/attach/s17-sh03/00-START-s17sh03start.png").convert("RGB").crop((700, 150, 2900, 150 + 943)).resize((pw, ph))
-bd = ImageDraw.Draw(b); bd.rectangle([0, 0, pw, 34], fill="#2e9e5b"); bd.text((8, 4), "push-in end: ANTONY here, mid-spin; sea + vallams slide LEFT past the bow", font=F(18, True), fill="white")
+b = Image.open("scenes/showreel/approved/sb025-chase/s17-sh03-last.png").convert("RGB").resize((pw, ph))
+bd = ImageDraw.Draw(b); bd.rectangle([0, 0, pw, 34], fill="#2e9e5b"); bd.text((8, 4), "A last = B start: Antony steps round to the aft side, faces the bow", font=F(18, True), fill="white")
 # reveal from above (drawn)
 r = Image.new("RGB", (pw, ph), "#8fa6b2"); rd = ImageDraw.Draw(r)
 for k in range(6): rd.arc([-200, 30 + k * 40, pw + 200, 160 + k * 40], 200, 340, fill="#a9bcc5", width=2)
@@ -37,7 +37,7 @@ rd.polygon([(pw * .8, ph * .1), (pw * .85, ph * .08), (pw * .87, ph * .1), (pw *
 rd.rectangle([0, 0, pw, ph * .12], fill="#e9dde0")
 rd.ellipse([pw * .2, ph * .7, pw * .24, ph * .76], fill="#f3f3f0"); rd.ellipse([pw * .5, ph * .7, pw * .54, ph * .76], fill="#efe6d6")
 y = y0 + 50
-for i, (img, lab) in enumerate([(a, "A 0 s: START = Aashaan at the wheel, facing the bow"), (b, "A 15 s END = B start: Antony at the wheel, 3/4"), (r, "B 9–15 s: from above, the nets catch the motorboat")]):
+for i, (img, lab) in enumerate([(a, "A 0 s: START = Aashaan at the wheel, facing the bow"), (b, "A 15 s (real take) = B 0 s"), (r, "B 9–15 s: from above, the nets catch the motorboat")]):
     x = 50 + i * (pw + 20); im.paste(img, (x, y)); d.rectangle([x, y, x + pw, y + ph], outline=INK, width=2)
     d.text((x, y + ph + 8), lab, font=F(21, True), fill=INK)
 x3 = 50 + 2 * (pw + 20)
@@ -47,7 +47,7 @@ tag((x3 + 8, y + 8), "lead boat fouls, spins", JOIN); tag((x3 + 8, y + ph - 40),
 y1 = y + ph + 60
 d.text((50, y1), "2  THE CAMERA PATH  (one move per part; the join is on the spinning wheel)", font=F(32, True), fill=INK)
 steps = [("A 0–5.3 s", "push + arc left; eyes on the sea; his line", AAS), ("A 5.3–9 s", "pan right with Aashaan to the door", AAS), ("A 9–15 s", "push in: Antony spins, sea slides past", ANT),
-         ("B 0–5.3 s", "at the front windows: the order", ANT), ("B 5.3–9 s", "out of the side door, rise ~8 m", CAM), ("B 9–15 s", "over the stern: the snag, the haze", MOT)]
+         ("B 0–5.3 s", "glide to front-right corner; he faces the bow; the order", ANT), ("B 5.3–9 s", "out of the side door, rise ~8 m", CAM), ("B 9–15 s", "over the stern: the snag, the haze", MOT)]
 bx = 50; by = y1 + 60; bw = (W - 100 - 5 * 16) // 6
 for i, (t1, t2, col) in enumerate(steps):
     x = bx + i * (bw + 16)
@@ -65,7 +65,7 @@ d.line([jx, by - 14, jx, by + 124], fill=JOIN, width=5); tag((jx - 70, by + 130)
 y2 = by + 200
 d.text((50, y2), "3  SECOND BY SECOND  (0–15 s = Part A, 15–30 s = Part B)", font=F(32, True), fill=INK)
 tx, tw_ = 270, 1470; ty = y2 + 90; S = 30
-rows = [("Camera", CAM, [(0, 2.5, "push + arc"), (2.5, 5.3, "locked MCU"), (5.3, 9, "pan right"), (9, 15, "pan back, push in"), (15, 20.3, "locked, rolls with heel"), (20.3, 24, "out + up"), (24, 30, "high over the stern")]),
+rows = [("Camera", CAM, [(0, 2.5, "push + arc"), (2.5, 5.3, "locked MCU"), (5.3, 9, "pan right"), (9, 15, "pan back, push in"), (15, 17.5, "glide to corner"), (17.5, 20.3, "locked MCU"), (20.3, 24, "out + up"), (24, 30, "high over the stern")]),
         ("Aashaan", AAS, [(1, 2.5, "glance, nod"), (2.5, 5.3, "LINE"), (6, 9, "lets go, exits")]),
         ("Antony", ANT, [(5.3, 6.4, "steps in"), (6.4, 12, "takes the wheel"), (12, 17, "spins hard"), (17.5, 20.3, "LINE"), (20.3, 21, "glance")]),
         ("Outside", MOT, [(12, 15, "sea slides past bow"), (24, 26, "SNAG"), (26, 27.5, "swerve"), (27.5, 30, "haze")]),
@@ -84,9 +84,9 @@ for i, (lab, col, segs) in enumerate(rows):
 # 4. platform
 y3 = ty + 72 * len(rows) + 60
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
-lines = ["Part A = s17-sh03 v5.1 · 15 s · START @s17sh03start · @aashaan, @antony20, @urudeckc3platenight2 (room), @urubowplate (bow) · Rinoy",
-         "Part B = s17-sh04 · rewritten from Part A's real last frame (@s17sh03last) once Part A is kept · Mahendran J",
-         "Generate A from the start frame; send me its last frame → it becomes B's start image (@s17sh03last). Cut on the wheel.",
+lines = ["Part A = s17-sh03 v5.2 (kept) · 15 s · START @s17sh03start · @aashaan, @antony20, @urudeckc3platenight2 (room), @urubowplate (bow) · Rinoy",
+         "Part B = s17-sh04 v3 · 15 s · START @s17sh03last · @antony20, room, bow, @uru, @raghavan, @babu, @s17sh01last · Mahendran J",
+         "Part A kept (v5.2). Generate B from @s17sh03last; cut on the wheel.",
          "Watch for: helmsman always faces the bow · 5 vallams · the bow stays fixed while the sea slides · one wheelhouse design · no VFX look"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(25), fill=INK)
 im = im.crop((0, 0, W, y3 + 55 + len(lines) * 42 + 40))
