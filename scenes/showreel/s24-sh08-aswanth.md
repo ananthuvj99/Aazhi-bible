@@ -4,11 +4,11 @@ Lines (Aswanth's Manglish → Malayalam): AASHAAN to the crew: "ഇവരെ ര
 People (L125): Aashaan, Balan, Raghavan, Sasi, Suresh, Babu. Place (L164, L165, L166): main deck, a little forward of the wheelhouse front; its three glass windows behind them; the wheel only inside.
 Attach: `@ashaan`, `@balan-at-20s`, `@raghavan`, `@sasi`, `@suresh`, `@babu`, `@wheelhouse` (background only), `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **20 s.** 2.39:1.
 
-## v2 (Aswanth 2026-11-23: Aashaan outside the wheelhouse on the deck; crew at the front of the deck with Antony and Selvan in frame; "ബാലാ" before the line to Balan; medium shots, no wides; @wheelhouse not attached, the wall in words)
+## v2.1 (Aswanth 2026-11-23: no wheelhouse at all, everyone on the front of the deck; earlier: Aashaan outside the wheelhouse on the deck; crew at the front of the deck with Antony and Selvan in frame; "ബാലാ" before the line to Balan; medium shots, no wides; @wheelhouse not attached, the wall in words)
 Attach: `@ashaan`, `@balan-at-20s`, `@raghavan`, `@sasi`, `@suresh`, `@babu`, `@antony-at-20s`, `@selven`, `@uru`, `@urubowplate` (background only). **20 s.** 2.39:1. Voice: Aashaan Rinoy.
 ```
 SCENE CONTEXT
-Night, 1998, on the uru's open main deck after the rescue. Aashaan stands OUTSIDE on the deck, just in front of the wheelhouse, with Balan beside him. Further forward, at the front of the deck, the crew stand round Antony and Selvan, who sit soaked against the rail. Aashaan calls his orders: first to the crew, then to Balan. One generation, four shots joined by hard cuts. Medium shots only, no wide shots.
+Night, 1998, on the open front deck of the uru after the rescue, out in the open air. Aashaan stands by the mast with Balan beside him. A few steps forward, near the bow, the crew stand round Antony and Selvan, who sit soaked against the rail. Aashaan calls his orders: first to the crew, then to Balan. One generation, four shots joined by hard cuts. Medium shots only, no wide shots.
 
 ACTIVE REFERENCES
 @ashaan: the old helmsman: cream shirt open over a white vest, spectacles in the vest neckline, white towel on his LEFT shoulder, as on his sheet. 100% matches the reference.
@@ -23,7 +23,7 @@ ACTIVE REFERENCES
 @urubowplate (background only): the front of the deck and the bow exactly as on this plate. 100% matches the reference.
 
 THE PLACE
-Aashaan and Balan stand on the open plank deck, OUTSIDE the wheelhouse, a step in front of its front wall: a solid dark wooden wall with three large glass windows in thick dark-brown frames, glowing warm behind them; the steering wheel only inside behind the glass. Nobody is inside the wheelhouse. A hurricane lantern hangs from a hook on the mast between them and the front of the deck.
+Everything happens on the open front deck, in the open air, under the night sky: the wet plank deck, the tall mast with its thick cylindrical wooden base, a hurricane lantern hanging from a hook on the mast, the low wooden rail, coils of rope, the closed blue bow deck with its bitts. Behind Aashaan and Balan: the mast, the rigging and the dark sea and sky. No room, no walls, no windows, no roof over them.
 
 BALAN'S FACE
 Natural, unretouched skin: visible pores, the acne marks, uneven tone, a faint oily sheen only on the forehead and nose; matte, never glossy.
@@ -32,10 +32,10 @@ FORMAT MODE
 One generation, 20 seconds, real time. SHOT 1: 0 to 6 s. HARD CUT. SHOT 2: 6 to 9 s. HARD CUT. SHOT 3: 9 to 16 s. HARD CUT. SHOT 4: 16 to 20 s. Exactly three hard cuts, each to a new camera position. Every shot a medium shot, waist up; never a wide shot. Runs the full 20 seconds.
 
 CAMERA AND ACTION
-SHOT 1 (0-6 s) — Dialogue shot. Medium shot of Aashaan, waist up, standing outside on the deck, the wheelhouse front wall with its glowing glass windows behind him; his face toward the camera, no more than 30 degrees from the lens, lit by the lantern; steady camera. Looking forward at the crew at the front of the deck, just beside the lens, he says: "ഇവരെ രണ്ടുപേരെയും നമ്മുടെ ഉരുവിന്റെ താഴത്തെ മുറിയിൽ കിടക്കാനുള്ള സൗകര്യം പെട്ടെന്ന് ചെയ്തുകൊടുക്ക്." Head steady while he speaks, mouth fully visible.
+SHOT 1 (0-6 s) — Dialogue shot. Medium shot of Aashaan, waist up, standing by the mast on the open front deck, the rigging and the dark sea behind him; his face toward the camera, no more than 30 degrees from the lens, lit by the lantern; steady camera. Looking forward at the crew at the front of the deck, just beside the lens, he says: "ഇവരെ രണ്ടുപേരെയും നമ്മുടെ ഉരുവിന്റെ താഴത്തെ മുറിയിൽ കിടക്കാനുള്ള സൗകര്യം പെട്ടെന്ന് ചെയ്തുകൊടുക്ക്." Head steady while he speaks, mouth fully visible.
 SHOT 2 (6-9 s) — Medium shot at the front of the deck: Antony and Selvan sit soaked on the planks against the rail; Raghavan, Sasi, Suresh and Babu stand round them. At the order they nod; Sasi and Suresh take Selvan under the arms and help him up; Antony gets to his feet, one hand on the rail; Raghavan lifts a lantern.
-SHOT 3 (9-16 s) — Dialogue shot. Medium close shot of Aashaan, from a new angle, still outside on the deck. In the pause he turns his head to Balan beside him, stops, and says to him: "ബാലാ, ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ധരിക്കാൻ എന്തെങ്കിലും വസ്ത്രം നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്." Face within 30 degrees of the lens, head steady while he speaks, mouth fully visible.
-SHOT 4 (16-20 s) — Medium close shot of Balan on the deck beside the wheelhouse, listening; he says nothing.
+SHOT 3 (9-16 s) — Dialogue shot. Medium close shot of Aashaan, from a new angle, still by the mast on the open deck, the dark sea behind. In the pause he turns his head to Balan beside him, stops, and says to him: "ബാലാ, ഇവരുടെ ഉടുപ്പൊക്കെ നനഞ്ഞതല്ലേ. അതുകൊണ്ട് ഇവർക്ക് രണ്ടുപേർക്കും ധരിക്കാൻ എന്തെങ്കിലും വസ്ത്രം നമ്മുടെ അറയിലുള്ള ബാഗിൽ നിന്ന് എടുത്തുകൊടുക്ക്." Face within 30 degrees of the lens, head steady while he speaks, mouth fully visible.
+SHOT 4 (16-20 s) — Medium close shot of Balan on the open deck beside the mast, the dark sea behind him, listening; he says nothing.
 
 ACTING & MICRO-EXPRESSION
 Aashaan, SHOT 1: baseline: eyes on the two rescued men, brows drawn; voice brisk and low, chin lifting on the last word; a small flick of his hand toward the hatch after the line.
@@ -48,7 +48,7 @@ REAL-WORLD PHYSICS
 The uru rolls gently; the lantern swings on its hook, its light sliding across the faces; water drips from Antony's and Selvan's clothes; Selvan's legs drag as he is lifted. Nothing moves by itself; every movement has a cause.
 
 LIGHTING
-Night: the warm hurricane lanterns, about 2200K, lighting the faces from the front; the three wheelhouse windows glowing warm behind Aashaan and Balan; cool moonlight on the edges, the moon never in frame.
+Night: the warm hurricane lanterns, about 2200K, lighting the faces from the front; the dark open sea and sky behind; cool moonlight on the edges, the moon never in frame.
 
 AUDIO
 Natural sound, no music. Aashaan's lines clear; bare feet on wet planks, the sea. No sound effect on the cuts.
@@ -61,7 +61,7 @@ STYLE
 Photoreal 1998 Kerala period feature film, night. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
 
 POSITIVE LOCKS
-Exactly three hard cuts, at 6, 9 and 16 s. Medium shots only, never wide. Aashaan always OUTSIDE on the deck in front of the wheelhouse, never inside it; nobody inside the wheelhouse. SHOT 2: Antony and Selvan at the front of the deck with Raghavan, Sasi, Suresh and Babu. SHOT 3 begins with "ബാലാ". Aashaan's face within 30 degrees of the lens, mouth clear, head steady while speaking; he turns only in the pauses. Balan's ego only in small movements, his face natural and matte. The lantern on the mast. The moon never in frame. No readable writing anywhere. Runs the full 20 seconds.
+Exactly three hard cuts, at 6, 9 and 16 s. Medium shots only, never wide. Everyone always on the open front deck in the open air, by the mast and the bow; no room, no walls, no windows behind anyone. SHOT 2: Antony and Selvan at the front of the deck with Raghavan, Sasi, Suresh and Babu. SHOT 3 begins with "ബാലാ". Aashaan's face within 30 degrees of the lens, mouth clear, head steady while speaking; he turns only in the pauses. Balan's ego only in small movements, his face natural and matte. The lantern on the mast. The moon never in frame. No readable writing anywhere. Runs the full 20 seconds.
 ```
 
 ## v1
@@ -121,3 +121,4 @@ Exactly three hard cuts, at 6, 8.5 and 16 s, each a new camera position. SHOT 1 
 
 ## Generation results
 - v1 [partial] 2026-11-23 (Aswanth): Aashaan came INSIDE the wheelhouse (from the @wheelhouse attachment); the crew stood without Antony and Selvan; no name before the line to Balan; wide shots risk positions. Next: v2: Aashaan outside on the deck, @wheelhouse not attached (wall in words), crew with Antony and Selvan at the front of the deck, 'ബാലാ' first, medium shots only.
+- v2 [partial] 2026-11-23 (Aswanth): even with @wheelhouse removed, Aashaan came inside the wheelhouse again; any mention of the wheelhouse pulls the scene inside. Next: v2.1: no wheelhouse words at all; everyone on the open front deck by the mast and the bow. L171.
