@@ -10,7 +10,7 @@ def tag(xy, text, col, f=None):
     f = f or F(20, True); x, y = xy; tw = d.textlength(text, font=f)
     d.rounded_rectangle([x - 6, y - 4, x + tw + 8, y + 28], 8, fill=col); d.text((x + 1, y - 2), text, font=f, fill="white")
 
-d.text((50, 30), "s20-sh01 v2 · SB026 Clear of pursuit, 1: the nets break the chase", font=F(46, True), fill=INK)
+d.text((50, 30), "s20-sh01 v2.1 · SB026 Clear of pursuit, 1: the nets break the chase", font=F(46, True), fill=INK)
 d.text((50, 92), "silent · 15 s · 21:9 · starts on Part B's last frame (@s17sh04last) · the camera HOLDS its place and rises; the boats run away into the frame (L172)", font=F(25), fill=GREY)
 
 # 1 start frame + side view of the rise-over reveal
@@ -73,7 +73,8 @@ rows = [("Camera", CAM, [(0, 0.5, ""), (0.5, 5, "stops, rises: rise-over reveal"
         ("Uru", URU, [(0, 3, "running"), (3, 7, "turns right round the floats"), (7, 15, "pulls away, smaller")]),
         ("Motorboats", MOT, [(0, 7, "in the wake, in frame"), (7, 8.5, "SNAG"), (8.5, 9.5, "swerve"), (9.5, 15, "left behind, IN FRAME")]),
         ("Vallams", VAL, [(2, 5, "rise into view"), (5, 15, "fishermen wave")]),
-        ("Haze", HAZE, [(11, 15, "rolls in between")])]
+        ("Haze", HAZE, [(11, 15, "rolls in between")]),
+        ("Crew", "#1f7a45", [(0, 3, "point, lean out"), (3, 5, "stagger, move along rail"), (5, 7, "point at floats"), (7, 10, "fist, laugh, clap"), (10, 15, "towel wave, turn to each other")])]
 for sec in range(0, 16):
     x = tx + tw_ * sec / S; d.line([x, ty, x, ty + 70 * len(rows) + 10], fill="#d8d4cc", width=2); d.text((x - 10, ty - 32), f"{sec}", font=F(18), fill=GREY)
 for i, (lab, col, segs) in enumerate(rows):
@@ -87,9 +88,9 @@ for i, (lab, col, segs) in enumerate(rows):
 # 4 platform
 y3 = ty + 70 * len(rows) + 50
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
-lines = ["s20-sh01 v2 · 15 s · 21:9 · START @s17sh04last · no end image · silent, no music",
+lines = ["s20-sh01 v2.1 · 15 s · 21:9 · START @s17sh04last · no end image · silent, no music",
          "Attach: @uru (full), @raghavan, @babu (small at the rail), @s17sh01last (reference) · remove everything else",
-         "Watch for: the 3 motorboats never leave the frame · nets = floats on the water, no frames · snag at 7 s · no VFX look"]
+         "Watch for: the 3 motorboats never leave the frame · nets = floats on the water, no frames · snag at 7 s · Raghavan + Babu never still · no VFX look"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(25), fill=INK)
 im = im.crop((0, 0, W, y3 + 55 + len(lines) * 42 + 40))
 im.save("scenes/showreel/storyboards/s20-sh01-clear.png"); print(im.size)
