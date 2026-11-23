@@ -787,7 +787,7 @@ Text-only export of the storyboard HTML, made so it can live in the project cont
 | Speaker | Final (Manglish) | Malayalam | English |
 |---|---|---|---|
 | ADWAITHAN (അദ്വൈതൻ) | paththu dhivasam poyaal pazhaya kanakk maayilla ketto. | പത്തു ദിവസം പോയാൽ പഴയ കണക്ക് മായില്ല, കേട്ടോ. | Ten days away doesn't erase your old bill, you know. |
-| ANTONY (ആന്റണി) | inn chumathala kittiyathalle. ini muthal olla chaaya onum kannaku ellya | ഇന്ന് ചുമതല കിട്ടിയതല്ലേ. ഇനി മുതലുള്ള ചായയൊന്നും കണക്കില്ല. | I've just been put in charge. Tea should be free from now on. |
+| ANTONY (ആന്റണി) | ini muthal ulla chaayakkonnum kanakkilla! | ഇനി മുതലുള്ള ചായയ്ക്കൊന്നും കണക്കില്ല! | From now on, no bill for tea! |
 | ADWAITHAN (അദ്വൈതൻ) | appo itho? | അപ്പോൾ ഇതോ? | And this one? |
 | ANTONY (ആന്റണി) | ith pazhaya kanakkil cherththo. tharam | ഇത് പഴയ കണക്കിൽ ചേർത്തോ. തരാം. | Put it on the old bill. I'll pay. |
 
