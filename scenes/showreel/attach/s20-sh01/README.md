@@ -1,0 +1,6 @@
+# s20-sh01 v1 = SB026 Clear of pursuit, 1: the nets break the chase (silent, 15 s)
+- 00-START-s17sh04last.png → START IMAGE slot, @s17sh04last (Part B's last frame: the uru from astern, three motorboats in its wake)
+- 01-uru.png → @uru (full)
+- 02-raghavan.png → @raghavan (full, small at the top-deck rail)
+- 03-babu.png → @babu (full, small at the top-deck rail)
+- 04-s17sh01last.jpg → @s17sh01last (reference: motorboats, men, sea, light)
