@@ -24,3 +24,6 @@ Native Kollam coastal Malayalam speaker, warm, slightly hoarse young male voice.
 
 ## Night on the uru (Ranjith, 2026-11-13)
 In Aswanth's night (`continuity/aswanth-rough-cut-lock/rc-056.5s.jpg`) Antony wears a pale blue-grey and white vertical-striped short-sleeve shirt with a thin chain. Use that for every uru night shot (SB027 on).
+
+## Second costume (Aswanth, 2026-11-23)
+Dry clothes after the rescue, in the cabin with Selvan (SB034 on). Aswanth's platform ID: `@antony-at-20s-c2` (his own sheet; ask him for the image). When it is attached, describe "exactly as on his sheet", never the striped shirt.

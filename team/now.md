@@ -5,5 +5,5 @@ Format: `- Name: shot — what you are doing`
 
 - Ananthu: SB034 — A small request (Selvan gives Antony the letter in the hold): breakdown
 - Ranjith: SB025 s17-sh01 — the chase begins, top shot of the uru with three motorboats behind
-- Aswanth: song finishing — s16b-sh36 to sh39 (return aerial, fishing, Clara, Rosamma). **Team note (2026-11-13): Rosamma now has a second sheet, a maroon floral house dress (Kerala nightie), `characters/rosamma/sheet-v2-nightie.webp`, Aswanth's ID `@rossama-v2`. When it is attached, describe the house dress, never the saree or pallu (L154). Saree sheet stays for church and going-out scenes.**
+- Aswanth: song finishing — s16b-sh36 to sh39 (return aerial, fishing, Clara, Rosamma). **Team note (2026-11-13): Rosamma now has a second sheet, a maroon floral house dress (Kerala nightie), `characters/rosamma/sheet-v2-nightie.webp`, Aswanth's ID `@rossama-v2`. When it is attached, describe the house dress, never the saree or pallu (L154). Saree sheet stays for church and going-out scenes.** **Team note (2026-11-23): Aswanth made new costume sheets for after the rescue: Selvan `@selvan-c2` and Antony `@antony-at-20s-c2` (dry clothes in the cabin, SB034 on). Use them from SB034; never mix with the soaked costumes in the same shot.**
 - Jeena: SB041 — Adwaithan's tea shop: s33-sh01–sh04 v1 prompts ready, generating

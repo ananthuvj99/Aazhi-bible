@@ -32,3 +32,6 @@ Platform ID: `@selvan` · Image: `sheet.jpg` (front, back, face close-up and fou
 
 ## Voice
 **Platform voice: Angus** (Calm, measured) — see `voices/VOICES.md`.
+
+## Second costume (Aswanth, 2026-11-23)
+Dry clothes given on the uru after the rescue (from SB034 on, in the cabin). Aswanth's platform ID: `@selvan-c2` (his own sheet; ask him for the image). When it is attached, describe "exactly as on his sheet", never the camouflage.
