@@ -10,7 +10,7 @@ def tag(xy, text, col, f=None):
     f = f or F(20, True); x, y = xy; tw = d.textlength(text, font=f)
     d.rounded_rectangle([x - 6, y - 4, x + tw + 8, y + 28], 8, fill=col); d.text((x + 1, y - 2), text, font=f, fill="white")
 
-d.text((50, 30), "s20-sh04 v1.1 · Part B of the 30 s getaway: stuck in the nets; the crew's release", font=F(46, True), fill=INK)
+d.text((50, 30), "s20-sh04 v2 · Part B of the 30 s getaway: stuck in the nets; the crew's release", font=F(46, True), fill=INK)
 d.text((50, 92), "silent · 15 s · handheld on the uru's top deck · Raghavan + Babu run aft; Aashaan joins at 9 s", font=F(25), fill=GREY)
 
 # 1 start frame + side view of the rise-over reveal
@@ -55,23 +55,23 @@ d.line([(cx, my + mh - 30), (cx, my + 30)], fill="#ffffff", width=14); d.line([(
 d.rectangle([cx - 20, my + 260, cx + 20, my + 360], fill=URU); d.text((cx + 28, my + 290), "uru", font=F(20, True), fill=URU)
 # three motorboats abreast and where they end
 for bx, ex, ey, lab, t_ in [(cx - 150, cx - 240, my + 160, "nets only the fishermen's", (cx - 640, my + 230)),
-                            (cx + 150, cx + 200, my + 160, "3 s first motorboat stuck · 4.5 s second · 6 s third", (cx + 300, my + 230)),
+                            (cx + 150, cx + 200, my + 160, "3 s first motorboat CAPSIZES · 4.5 s second stuck · 6 s third", (cx + 300, my + 230)),
                             (cx, cx + 150, my + 185, "all three stuck, none follows", (cx + 300, my + 290))]:
     d.polygon([(bx - 20, my + 470), (bx, my + 440), (bx + 20, my + 470)], fill=MOT)
     d.line([(bx, my + 440), (ex, ey)], fill=JOIN, width=4); d.ellipse([ex - 22, ey - 22, ex + 22, ey + 22], outline=JOIN, width=4)
     tag(t_, lab, JOIN)
 d.rectangle([mx + 380, my + 38, mx + 1300, my + 58], fill=HAZE)
 d.text((mx + 1320, my + 30), "fishermen shout and haul their nets", font=F(18, True), fill=INK)
-d.ellipse([cx - 15, my + mh - 40, cx + 15, my + mh - 10], fill=CAM); tag((cx + 25, my + mh - 45), "camera: on the top deck, following the men aft; eases right at 7 s", CAM)
+d.ellipse([cx - 15, my + mh - 40, cx + 15, my + mh - 10], fill=CAM); tag((cx + 25, my + mh - 45), "camera: on the top deck, following the men aft; eases left at 7 s", CAM)
 
 # 3 timeline
 y2 = my + mh + 60
 d.text((50, y2), "3  SECOND BY SECOND", font=F(32, True), fill=INK)
 tx, tw_ = 260, 1480; ty = y2 + 80; S = 15
-rows = [("Camera", CAM, [(0, 0.5, ""), (0.5, 2.5, "follow them aft"), (2.5, 7, "over their shoulders"), (7, 15, "eases right between them")]),
+rows = [("Camera", CAM, [(0, 0.5, ""), (0.5, 2.5, "follow them aft"), (2.5, 7, "over their shoulders"), (7, 15, "eases left, toward the boats")]),
         ("Uru", URU, [(0, 15, "moves ahead; the stuck boats grow small")]),
         ("Fishermen", VAL, [(0, 3, "standing at their nets"), (3, 15, "shout, haul their nets")]),
-        ("Motorboats", MOT, [(0, 3, "racing at the floats"), (3, 4.5, "1 stuck"), (4.5, 6, "2 stuck"), (6, 7, "3 stuck"), (7, 15, "stuck, men tearing at nets")]),
+        ("Motorboats", MOT, [(0, 3, "racing at the floats"), (3, 4.5, "1 capsizes"), (4.5, 6, "2 stuck"), (6, 7, "3 stuck"), (7, 15, "stuck, men tearing at nets")]),
         ("Crew", "#1f7a45", [(0, 0.5, ""), (0.5, 2.5, "spin, run aft"), (2.5, 6, "fist, slap, arms up"), (6, 9, "shake, towel overhead"), (9, 12, "Aashaan joins, nod"), (12, 15, "grin, wipe, lean")])]
 xj = -1000
 for sec in range(0, 16):
@@ -87,7 +87,7 @@ for i, (lab, col, segs) in enumerate(rows):
 # 4 platform
 y3 = ty + 70 * len(rows) + 50
 d.text((50, y3), "4  ON THE PLATFORM", font=F(32, True), fill=INK)
-lines = ["Part B = s20-sh04 v1.1 · 15 s · 21:9 · START @s20sh04start · @raghavan, @babu, @aashaan (from 9 s), @uru · silent",
+lines = ["Part B = s20-sh04 v2 · 15 s · 21:9 · START @s20sh04start · @raghavan, @babu, @aashaan (from 9 s), @uru · silent",
          "Attach: @raghavan, @babu (large, foreground), @aashaan (from 9 s), @uru · remove everything else",
          "Watch for: they never stand still · Aashaan enters from the left edge · all 3 motorboats stuck · nothing fades · no VFX"]
 for i, t in enumerate(lines): d.text((70, y3 + 55 + i * 42), "•  " + t, font=F(25), fill=INK)
