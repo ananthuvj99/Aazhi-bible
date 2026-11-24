@@ -175,7 +175,7 @@ When @antonyhome says "ഓ, ഈ അമ്മ! ഞാൻ പോയി കുള�
 ```
 
 ## v3.1 — same angle as @1calast, new line, he walks behind his mother to her other side (Ananthu after v3), 2026-11-24
-Line (Ananthu): "ഓ, ഈ അമ്മ! ഞാൻ എന്നാ പോയി കുളിച്ചിട്ട് വരാം." Only what is inside the @1calast frame is described (L181): no stove, window or curry words; sizes locked. He turns to the wall and walks behind her, out of the left edge. Locked camera, 12 s.
+Line (Ananthu): "ഓ, ഈ അമ്മ! എന്നാ ഞാൻ പോയി കുളിച്ചിട്ട് വരാം." Only what is inside the @1calast frame is described (L181): no stove, window or curry words; sizes locked. He turns to the wall and walks behind her, out of the left edge. Locked camera, 12 s.
 Reviewed: continuity director (removed every out-of-frame cue, one clean turn, depth of his walk) and prompt QA 83 → about 96 (framing sizes match the image, Rosamma's head stays still, mundu wording, haze clause).
 
 ```
@@ -231,8 +231,8 @@ COLOUR: white balance for 5200K daylight, so whites read white: his vest clean w
 AUDIO
 Sound effects only — natural on-location sound, the soundtrack carries no music. Spoken language: Malayalam only. Antony speaks the exact Malayalam words below once, everyday Kollam coastal Malayalam, nothing else; lip-sync exact. Real conversational speech, not acted. Rosamma says nothing.
 [playful]
-2.8s–6.3s — Antony, to his mother in front of him, a clear, full, ordinary voice: "ഓ" short and clear, "ഈ" long, "അമ്മ" falling, affectionate, a small smile in it, not a laugh; a tiny breath; then the second sentence quick and plain, "എന്നാ" light, "വരാം" level. About 3.2 seconds.
-"ഓ, ഈ അമ്മ! ഞാൻ എന്നാ പോയി കുളിച്ചിട്ട് വരാം."
+2.8s–6.3s — Antony, to his mother in front of him, a clear, full, ordinary voice: "ഓ" short and clear, "ഈ" long, "അമ്മ" falling, affectionate, a small smile in it, not a laugh; a tiny breath; then the second sentence quick and plain, "എന്നാ" light at the start, "വരാം" level. About 3.2 seconds.
+"ഓ, ഈ അമ്മ! എന്നാ ഞാൻ പോയി കുളിച്ചിട്ട് വരാം."
 Ambient: a soft simmer and a faint crackle, Antony's quick bare footsteps from 7.3s passing behind her and fading to the left, never covering a word; far-off waves, crows, hens in the yard, palm fronds in the breeze.
 
 STYLE
@@ -244,5 +244,5 @@ The frame stays exactly the close view of @1calast for all 12 seconds, never wid
 POSITIVE LOCKS
 One locked camera, one unchanging close view exactly as in @1calast, the same size and angle from the first frame to the last. Exactly two people: Antony, who speaks once with his face toward the camera and then walks behind his mother to her other side and out past the left edge of the frame, and Rosamma, from behind in the left foreground the whole time, silent. Every spoken word is Malayalam. Every frame looks like the film itself, with nothing from the making of it. Runs the full 12 seconds.
 
-When @antonyhome says "ഓ, ഈ അമ്മ! ഞാൻ എന്നാ പോയി കുളിച്ചിട്ട് വരാം." let it be a fond Malayalam line to his mother before he hurries out.
+When @antonyhome says "ഓ, ഈ അമ്മ! എന്നാ ഞാൻ പോയി കുളിച്ചിട്ട് വരാം." let it be a fond Malayalam line to his mother before he hurries out.
 ```
