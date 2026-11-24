@@ -12,17 +12,17 @@ def tag(xy, text, col, f=None):
     f = f or F(20, True); x, y = xy; tw = d.textlength(text, font=f)
     d.rounded_rectangle([x - 6, y - 4, x + tw + 8, y + 28], 8, fill=col); d.text((x + 1, y - 2), text, font=f, fill="white")
 
-d.text((50, 30), "s42-sh03 v1 · SB049 Balan answers: he is a terrorist", font=F(46, True), fill=INK)
+d.text((50, 30), "s42-sh03 v2 · SB049 Balan answers: he is a terrorist", font=F(46, True), fill=INK)
 d.text((50, 92), "13 s · Malayalam · reverse over Ramachandran's LEFT shoulder (C4) · ease in, locked for the line · voice Brad · [annoyed]", font=F(25), fill=GREY)
 
 y0 = 150
 d.text((50, y0), "1  START FRAME  and  WHERE EVERYONE IS", font=F(32, True), fill=INK)
 pw = 830; ph = int(pw / 2.333)
-src = "approved/sb049-station/s42-sh03-start.png"
-p = "scenes/showreel/" + src if os.path.exists("scenes/showreel/" + src) else "scenes/showreel/image-qa/candidates/s42-sh03-start.png"
+src = "approved/sb049-station/s42-sh03-start2.png"
+p = "scenes/showreel/" + src if os.path.exists("scenes/showreel/" + src) else "scenes/showreel/image-qa/candidates/s42-sh03-start2.png"
 a = Image.open(p).convert("RGB").resize((pw, ph))
 im.paste(a, (50, y0 + 50)); d.rectangle([50, y0 + 50, 50 + pw, y0 + 50 + ph], outline=INK, width=2)
-tag((60, y0 + 60), "0 s = @s42sh03start · lamp + cap left, window right", RAM)
+tag((60, y0 + 60), "0 s = @s42sh03start2 · fresh, one pass (L182)", RAM)
 sx, sy, sw, sh = 920, y0 + 50, 830, ph
 d.rectangle([sx, sy, sx + sw, sy + sh], fill="#e3ece6", outline=INK, width=2)
 # room: back wall at top
@@ -72,7 +72,7 @@ for i, (lab, col, segs) in enumerate(rows):
 
 y3 = ty + 70 * len(rows) + 60
 d.text((50, y3), "4  ATTACH  (folder scenes/showreel/attach/s42-sh03)", font=F(32, True), fill=INK)
-d.text((60, y3 + 50), "@s42sh03start (start) · @balanbrown · @jaison20 · @siramachandran (all full) · 13 s · 21:9 · Malayalam", font=F(24), fill=INK)
+d.text((60, y3 + 50), "@s42sh03start2 (start) · @balanbrown · @jaison20 · @siramachandran · @s42sh01start (ref) · 13 s · 21:9 · Malayalam", font=F(24), fill=INK)
 d.text((60, y3 + 90), "Left out: @policestationc3platedusk, @s42sh01last (the opposite side of the room, L61)", font=F(22), fill=GREY)
 d.text((60, y3 + 130), "Checks: screen direction kept · lamp and cap cross to the left in the reverse · still while he speaks · QC 100 · image QA 90", font=F(22), fill=GREY)
 im = im.crop((0, 0, W, y3 + 190))
