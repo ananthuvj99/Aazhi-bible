@@ -6,14 +6,14 @@ look: 1998, about 20, plain everyday clothes
 created_by: Ranjith
 created: 2026-11-24
 status: approved
-continuity_score: 90
+continuity_score: 92
 image: sheet.jpg
 used_in: []
 ---
 
 ## What the sheet shows
-Jaison at about 20 (1998): slim build, short black hair combed back with a loose wave, a thin light moustache, clean jaw, a quiet, guarded look. Plain muted-blue half-sleeve cotton shirt with one chest pocket, worn untucked; plain dark charcoal trousers; black rubber sandals. Front, back and face close-up on a grey-mauve background.
-Source: the Higgsfield element `char_jaison-20-natural` (made 2026-10-06), brought into the bible by Ranjith on 2026-11-24.
+Jaison at about 22 (1998): the SAME man as `@jaison2026`, 28 years younger: the same nose, brows and jawline, a thick black moustache neatly trimmed, thick jet-black hair swept back with a slight wave, a lean young build, a confident, slightly cocky look. Plain muted-blue half-sleeve cotton shirt with one chest pocket, worn untucked; plain dark charcoal trousers; black rubber sandals; a thin gold chain at the neck; a steel watch on the LEFT wrist. Front, back and face close-up on flat grey.
+Made by Ranjith on 2026-11-24 (Nano Banana 2.1) from the `@jaison2026` face, aged down, with the costume of the Higgsfield `char_jaison-20-natural` sheet (the first version of this ID, replaced the same day because its face did not match the 2026 look).
 
 ## When to attach
 1998 scenes with Jaison: the complaint at the station with Balan (SB049–SB051, matching the light-blue shirt in the SB049 panel) and his other 1998 scenes. Mode full.
