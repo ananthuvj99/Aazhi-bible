@@ -173,3 +173,76 @@ One locked camera, one unchanging kitchen exactly as in @1calast. Exactly two pe
 
 When @antonyhome says "ഓ, ഈ അമ്മ! ഞാൻ പോയി കുളിച്ചിട്ട് വരട്ടെ." let it be a fond Malayalam line to his mother before he hurries out.
 ```
+
+## v3.1 — same angle as @1calast, new line, he walks behind his mother to her other side (Ananthu after v3), 2026-11-24
+Line (Ananthu): "ഓ, ഈ അമ്മ! ഞാൻ എന്നാ പോയി കുളിച്ചിട്ട് വരാം." Only what is inside the @1calast frame is described (L181): no stove, window or curry words; sizes locked. He turns to the wall and walks behind her, out of the left edge. Locked camera, 12 s.
+Reviewed: continuity director (removed every out-of-frame cue, one clean turn, depth of his walk) and prompt QA 83 → about 96 (framing sizes match the image, Rosamma's head stays still, mundu wording, haze clause).
+
+```
+SCENE CONTEXT
+9:30 a.m., 1998, a kitchen in a fisherman's house on the Alappad coast, Kerala; bright sunny morning. The moment straight after the previous shot: Antony stands facing his mother after her tease. One continuous shot from a still camera just behind her right shoulder, in exactly the close framing of the start image: he says one fond Malayalam line to her, then walks behind her to her other side and out of the frame at the left. Only Antony speaks, in Malayalam; Rosamma is silent.
+
+ACTIVE REFERENCES
+@1calast (start image, 0.0s): the first frame exactly, and the framing of the whole shot: Rosamma from behind in the left foreground, her grey-streaked low bun, small gold stud, thin gold chain and mid-blue blouse; the black soot stain on the pale blue wall in the centre; a shelf of steel plates at the far left; Antony at the right in his white sleeveless vest, facing her, head and chest in frame; behind his right shoulder, the open white wooden shutters, and at the far right edge a narrow strip of sunlit sand and sea beyond them. 100% matches the reference.
+@antonyhome (full, 0.0s–10.0s): Antony, the speaker: white sleeveless vest, thin silver chain, messy black hair, light stubble; a grey-green checked cotton mundu, a cloth wrapped at the waist like a long skirt, never trousers. 100% matches the reference.
+@rosamma (from behind only, 0.0s–12.0s): Rosamma, silent, in the left foreground with her back to us the whole time: mid-blue short-sleeve blouse, gold chain, small gold studs, black hair streaked with grey in a low bun. Her face is never seen. 100% matches the reference.
+
+THE FRAME STAYS EXACTLY AS IN @1calast
+One close, unchanging view for all 12 seconds, the same angle, distance and size as @1calast: Rosamma's head and shoulder fill the left third of the frame, the edge of her cream floral saree at the bottom-left corner; the soot stain fills the middle; Antony's head and chest fill the right third, his hair near the top edge; the shelf of plates at the far left; the open white wooden shutters fill the space behind his right shoulder, and only a narrow strip of sunlit sand and sea shows at the far right edge, the same width as in @1calast. The frame shows only the wall, the plate shelf, the two people, the white shutters and that narrow strip; the bottom edge cuts Rosamma at mid-back and Antony at mid-chest. The camera never moves: no pull-back, no widening, no pan, no zoom, no drift. Every prop stays exactly where it is in @1calast; nothing is added, removed or moved. Only Antony and Rosamma's head and shoulders move.
+
+FORMAT MODE
+One continuous shot, 12 seconds, no cut, real time. Runs the full 12 seconds.
+
+CAMERA AND ACTION
+The camera stands locked just behind Rosamma's right shoulder, at her head height, about 1.8 m from Antony, 35mm, in exactly the framing of @1calast for all 12 seconds.
+0.0–1.5s: hold on @1calast; Antony closes his mouth at once and keeps it closed, silent, looking at her with a small smile; she stands still, her back to us.
+1.5–2.8s: one slight shake of the head, then his shoulders square a little toward the camera, his face about 30 degrees left of the lens, his eyes on her face; by 2.2s he is completely still; both arms hang at his sides.
+2.8–6.3s: head steady, hands at his sides, he says his line to her, a small fond smile around the words.
+6.3–7.3s: mouth closed, a small smile; he turns away from the camera to face left along the soot wall, his back three-quarter to us, and steps off to the left.
+7.3–10.0s: he walks quickly, with brisk light steps, across the frame from right to left behind his mother, between her and the soot wall, passing behind her head and shoulders, and out of the frame past its left edge beside the shelf of plates; he stays behind her, never between her and the camera, never toward the right edge.
+10.0–12.0s: hold: Rosamma alone in the left foreground, her back to us, her head stays facing the wall, only one fond, small shake of the head; the soot wall and the white shutters behind. Her face is never seen.
+
+THE LINE (most important)
+A grown son caught out, fond of his mother, already in a hurry; natural, not cheeky, no laugh. On "ഓ" his eyebrows rise; a small smile already on his face; his head stays still from the first word to the last; the second sentence quick and plain. His whole mouth and jaw are clearly visible for the whole line: his face about 30 degrees left of the lens, never more, both hands hanging at his sides, nothing near his face, Rosamma's head never between his face and the lens. No scratching, no pointing, no hand to the face.
+
+EYELINES
+Antony: 0–6.3s on his mother's face at the left of the frame, at her eye height, his face about 30 degrees left of the lens from 2.2s, never in profile. 6.3–10.0s ahead along the soot wall to the left, never into the lens. Rosamma: on Antony while he speaks, then her head stays still, facing the wall; her face and cheek are never seen.
+
+DIALOGUE RULES
+Dialogue rules: whenever a character speaks, frame them in a medium close-up with their face filling at least a third of the frame height. The speaking face is turned toward the camera, no more than 30 degrees from the lens, upright and not lying sideways. Only one person speaks in the shot; everyone else keeps their mouth closed. The speaker's head stays steady during the line; head turns, gestures and camera moves happen only in pauses between lines. The mouth is always fully visible, with nothing in front of the face, and the face is lit with soft, even frontal light. Natural, clearly articulated mouth movements matching the dialogue.
+Antony speaks Malayalam only. Rosamma's face is never seen and she never speaks.
+
+CAPTURE IMPERFECTIONS
+A locked-off, perfectly steady view for all 12 seconds; focus stays on Antony's face until he passes behind her, then rests on Rosamma's head and shoulder. He breathes in at 2.5s before the line; his footsteps quicken from 7.3s.
+
+REAL-WORLD PHYSICS
+Antony walks about three brisk steps behind her in 2.7 seconds, at his own distance from the camera, about 1 m behind her shoulder and in front of the wall, a quick walk, never a run; as he passes behind her he is softly out of focus and partly hidden by her head and shoulder for about half a second. Nothing moves by itself; every movement has a cause.
+
+PERFORMANCE
+Warm, ordinary, a real mother and son. He is fond and in a hurry, not cheeky, no laugh; she is unbothered. Real skin, five fingers on each hand. No posing.
+
+ACTING & MICRO-EXPRESSION
+Antony: 0–1.5s lips close, the corners of his mouth lift slightly, one slow blink. 1.5–2.2s one small head shake, then still; a breath in at 2.5s. 2.8–6.3s eyebrows lift on the first sound, then settle; jaw and lips open and close clearly on every word, head still; small creases at the outer corners of his eyes. 6.3–7.3s the closed-lip smile stays, his eyes leave her and go to his path. Rosamma: her shoulders rise and fall with one quiet breath at 10.0s; one small slow shake of the head at 10.5–11.5s.
+
+LIGHTING
+9:30 a.m. sunny daylight, exactly as in @1calast: soft daylight about 5200K from the right; his face lit softly and evenly from the front by daylight bouncing off the pale blue walls; the bright daylight at the shutter edge holds detail; never in silhouette.
+COLOUR: white balance for 5200K daylight, so whites read white: his vest clean white, the shutter white, her blouse mid-blue. Walls pale powder blue; soot soft charcoal; skin natural warm brown. Colour exactly as in @1calast. No pink, orange or yellow cast, no teal push, no washed-out look; medium saturation, gentle filmic contrast.
+
+AUDIO
+Sound effects only — natural on-location sound, the soundtrack carries no music. Spoken language: Malayalam only. Antony speaks the exact Malayalam words below once, everyday Kollam coastal Malayalam, nothing else; lip-sync exact. Real conversational speech, not acted. Rosamma says nothing.
+[playful]
+2.8s–6.3s — Antony, to his mother in front of him, a clear, full, ordinary voice: "ഓ" short and clear, "ഈ" long, "അമ്മ" falling, affectionate, a small smile in it, not a laugh; a tiny breath; then the second sentence quick and plain, "എന്നാ" light, "വരാം" level. About 3.2 seconds.
+"ഓ, ഈ അമ്മ! ഞാൻ എന്നാ പോയി കുളിച്ചിട്ട് വരാം."
+Ambient: a soft simmer and a faint crackle, Antony's quick bare footsteps from 7.3s passing behind her and fading to the left, never covering a word; far-off waves, crows, hens in the yard, palm fronds in the breeze.
+
+STYLE
+Photoreal 1998 Kerala period feature film, 24fps, fine 35mm grain, gentle halation, visible skin texture and pores, no smoothing. Shot on a Sony Venice 2 full-frame digital cinema camera: very wide dynamic range that holds the bright shutter edge and the dark soot in one frame; clean, low-noise shadows; soft, gradual highlight roll-off; accurate, natural colour with rich, true skin tones; gentle filmic contrast; fine, organic texture; no over-sharpening, no glossy or video look. Palette: powder blue, charcoal soot, white vest and shutter, mid-blue blouse, warm brown skin.
+
+CONSTRAINTS
+The frame stays exactly the close view of @1calast for all 12 seconds, never wider, and Antony leaves by walking behind his mother out of the left edge. Also never: a speaker side-on during a line, a hand near the mouth, Antony looking into the lens, Antony walking toward the right edge, Antony passing between her and the camera, Rosamma turning round, her face or mouth seen, Rosamma speaking, a third person. Every spoken word is Malayalam; no English anywhere in the audio. Nothing fades in or out: every person and object stays solid and fully visible until it leaves through a frame edge; haze softens only the background, never Antony or Rosamma.
+
+POSITIVE LOCKS
+One locked camera, one unchanging close view exactly as in @1calast, the same size and angle from the first frame to the last. Exactly two people: Antony, who speaks once with his face toward the camera and then walks behind his mother to her other side and out past the left edge of the frame, and Rosamma, from behind in the left foreground the whole time, silent. Every spoken word is Malayalam. Every frame looks like the film itself, with nothing from the making of it. Runs the full 12 seconds.
+
+When @antonyhome says "ഓ, ഈ അമ്മ! ഞാൻ എന്നാ പോയി കുളിച്ചിട്ട് വരാം." let it be a fond Malayalam line to his mother before he hurries out.
+```
