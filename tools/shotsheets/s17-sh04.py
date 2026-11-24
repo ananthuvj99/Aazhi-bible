@@ -11,7 +11,7 @@ def tag(xy, text, col, f=None):
     f = f or F(20, True); x, y = xy; tw = d.textlength(text, font=f)
     d.rounded_rectangle([x - 6, y - 4, x + tw + 8, y + 28], 8, fill=col); d.text((x + 1, y - 2), text, font=f, fill="white")
 
-d.text((50, 30), "s17-sh04 v4 · \"ropes up\", then forward to Aashaan and the vallams", font=F(46, True), fill=INK)
+d.text((50, 30), "s17-sh04 v4.1 · \"ropes up\", then forward to Aashaan and the vallams", font=F(46, True), fill=INK)
 d.text((50, 92), "15 s · from BEHIND Antony, out the side door to the bow · after s17-sh03 · emotion: worried · line spoken with his back to camera (Ranjith)", font=F(25), fill=GREY)
 
 y0 = 150
@@ -43,8 +43,9 @@ tag((sx + 15, sy + 15), "bow →  (starboard is down)", URU)
 
 y1 = y0 + 90 + ph
 d.text((50, y1), "2  BEATS", font=F(32, True), fill=INK)
-beats = [("0–2 s", "Hold the start frame: Antony turns the wheel a quarter turn, braces, sharp breath; his back to us."),
-         ("2–4.8 s", "STILL, from behind: Antony calls forward to the bow (face not seen):"),
+beats = [("0–1 s", "The START FRAME exactly (door open, lantern unlit), still: Antony braces, sharp breath; his back to us."),
+         ("1–3.8 s", "STILL, same view: Antony calls forward to the bow (face not seen):"),
+         ("3.8–4.8 s", "STILL: a quarter turn of the wheel, hand over hand."),
          ("4.8–7 s", "Camera turns right, past the compass, out of the open side door onto the side deck."),
          ("7–10 s", "Forward along the side deck: Aashaan at the bow hauling the ropes up; he glances back, lifts a hand."),
          ("10–13 s", "Up past his shoulder and over the bow: the five vallams with their nets rise into view ahead, angled right."),
@@ -59,7 +60,7 @@ y2 = yy + 70
 d.text((50, y2), "3  SECOND BY SECOND", font=F(32, True), fill=INK)
 tx, tw_ = 260, 1480; ty = y2 + 80; S = 15
 rows = [("Camera", CAM, [(0, 4.8, "still, behind Antony"), (4.8, 7, "out the door"), (7, 10, "along side deck"), (10, 13, "over the bow"), (13, 15, "on to vallams")]),
-        ("Antony", ANT, [(0, 2, "wheel, brace"), (2, 4.8, "THE LINE"), (4.8, 7, "at the wheel")]),
+        ("Antony", ANT, [(0, 1, "brace"), (1, 3.8, "THE LINE"), (3.8, 4.8, "wheel"), (4.8, 7, "at the wheel")]),
         ("Aashaan", AAS, [(7, 10, "hauls ropes, hand up"), (10, 15, "eyes ahead")]),
         ("Vallams", VAL, [(10, 15, "5 vallams, nets, angled right")])]
 for sec in range(0, 16):
@@ -75,8 +76,8 @@ for i, (lab, col, segs) in enumerate(rows):
 
 y3 = ty + 70 * len(rows) + 60
 d.text((50, y3), "4  ATTACH  (folder scenes/showreel/attach/s17-sh04)", font=F(32, True), fill=INK)
-d.text((60, y3 + 50), "@s17sh04start (start) · @antony20 · @urudeckc3platenight2 (room) · @urubowplate · @aashaan · @uru · @s20sh03start (vallams)", font=F(22), fill=INK)
-d.text((60, y3 + 90), "Left out: @s17sh03last (window-side frame, L171) · @raghavan, @babu (aft, not in frame) · s20 frames (other angles, L61) · 15 s · 21:9 · Malayalam", font=F(22), fill=GREY)
+d.text((60, y3 + 50), "@s17sh04start (start) · @antony20 · @urubowplate · @aashaan · @uru · @s20sh03start (vallams)", font=F(22), fill=INK)
+d.text((60, y3 + 90), "Left out: @urudeckc3platenight2 (played as opening shot, L180) · @s17sh03last (L171) · @raghavan, @babu (aft, not in frame) · s20 frames (other angles, L61) · 15 s · 21:9 · Malayalam", font=F(22), fill=GREY)
 d.text((60, y3 + 130), "Checks: Antony faces the bow, back to camera · vallams on the uru's starboard (L178) · no sun · nothing fades · no VFX look · QC 96 (Ranjith's dialogue exception)", font=F(22), fill=GREY)
 im = im.crop((0, 0, W, y3 + 190))
 im.save("scenes/showreel/storyboards/s17-sh04-clear.png")
