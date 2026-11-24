@@ -99,6 +99,7 @@ Starts exactly on @endframe1cc. Antony scratches the back of his head, says his 
 - v1.1: almost all right — only "ഓ, ഈ അമ്മ!" was too soft (Ananthu, 2026-11-06).
 - v2: rejected by Higgsfield as NSFW (false positive) — no video (Ananthu, 2026-11-06).
 - v2.1: **APPROVED** — "came out really good" (Ananthu, 2026-11-06).
+- v3 [failed] 2026-11-24 (Ananthu): the angle changed from the first frame: a wider view with the stove, a big window with no bars and a level beach, not the @1calast close over-the-shoulder framing; ran 5 s. He walked off toward the window side. Next v3.1: same angle as @1calast, line "…ഞാൻ എന്നാ പോയി കുളിച്ചിട്ട് വരാം.", he walks behind his mother to her other side (L181).
 
 ## v3 — remake in the 9:30 sunny light after 1C-a v5 (Ananthu), 2026-11-23
 Start @1calast: a sharp Nano Banana remake of the last frame of the 1C-a v5 take (over Rosamma's right shoulder, Antony facing her, open white shutter behind him); chain fixed to silver. Line (Ananthu): "ഓ, ഈ അമ്മ! ഞാൻ പോയി കുളിച്ചിട്ട് വരട്ടെ." (no "പെട്ടെന്ന്"), then he walks quickly out toward the doors behind the camera. Locked camera, 12 s. Rosamma silent (old "ആ, പോ." dropped). Camera: locked (W29) — used.
