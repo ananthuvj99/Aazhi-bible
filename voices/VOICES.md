@@ -17,6 +17,7 @@ To change a voice or add one: edit this table and the character's `card.md` (Voi
 | Suresh | `@suresh` | **Mahie Varma** | Motivational and inspiring | Ananthu (2026-11-08) |
 | Balan | `@balan` | **Brad** | Eyewitness Bys… (label cut off in the platform screenshot) | Ranjith (2026-11-10); card `characters/balan/card.md` |
 | Adwaithan | `@adwaithan` | **Ketan M** | Funny, Relatable Best Friend | Jeena Johnachan (2026-11-23; was Abhilash S) |
+| Ramachandran | `@siramachandran` `@spramachandran2026` | **Rudra** | Deep and Tru… (label cut off in the platform screenshot) | Ranjith (2026-11-24); cards `characters/siramachandran/card.md`, `characters/spramachandran2026/card.md` |
 | Crew (background men) | `@crew` | *not assigned* — non-verbal only unless a shot gives one of them a line | — | — |
 
 Note: this list was sent by Ananthu on 2026-11-08; some voices were chosen by Ananthu and some by Ranjith. Add the name of whoever chose a voice in the notes when known.

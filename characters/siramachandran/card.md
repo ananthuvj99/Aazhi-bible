@@ -23,4 +23,4 @@ Note: the SB049 storyboard panel shows him in a white civilian shirt at his desk
 `@spramachandran2026` (the same man 28 years later).
 
 ## Voice
-Not assigned yet. One platform voice for both his looks, added to `voices/VOICES.md`. Register: measured, formal Malayalam, no fillers, no sea or kinship words (character-voices.md).
+Platform voice **Rudra** (Deep and Tru…, label cut off), one voice for both his looks (voices/VOICES.md). Register: measured, formal Malayalam, no fillers, no sea or kinship words (character-voices.md).

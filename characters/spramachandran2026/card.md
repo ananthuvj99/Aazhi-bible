@@ -21,4 +21,4 @@ SP Ramachandran in 2026, about 70: the same man as `@siramachandran` 28 years on
 `@siramachandran` (the 1998 SI look).
 
 ## Voice
-Not assigned yet; the same platform voice as `@siramachandran`, older in delivery.
+Platform voice **Rudra** (Deep and Tru…, label cut off), one voice for both his looks (voices/VOICES.md). Register: measured, formal Malayalam, no fillers, no sea or kinship words (character-voices.md). Older in delivery: a little slower, the same authority.
