@@ -10,7 +10,7 @@ A memory: what really happened earlier the same night, the part Selvan leaves ou
 
 ACTIVE REFERENCES
 @selven: Selvan, about 45, thick black moustache, hair greying at the temples, in his light-blue and slate-blue tiger-stripe camouflage shirt and trousers, exactly as on his sheet. 100% matches the reference.
-@burningvallam: his small traditional wooden fishing vallam, about 7 m, weathered white hull with a faded blue band, nets and oars inside, as on this sheet; at first not burning, then catching fire. At the back of the boat: one dented square metal jerry can of diesel and a few tied jute bags beside it; no gas cylinder, no round tank. 100% matches the reference.
+@burningvallam: his small traditional wooden fishing vallam, about 7 m, weathered white hull with a faded blue band, nets and oars inside, as on this sheet; at first not burning, then catching fire. At the back of the boat: one dented, flat-sided, square metal jerry can of diesel with a handle on top, and a few tied jute bags beside it. 100% matches the reference.
 
 THE PATROL BOAT
 A dark grey armed patrol boat, low and fast, a heavy machine gun mounted at its bow, two or three men in dark uniforms as black silhouettes, a hard white searchlight. No flags, no numbers, no markings, no readable writing.
@@ -44,7 +44,7 @@ STYLE
 Memory flashback within a photoreal 1998 Kerala period feature film. Shot on a Sony Venice 2 full-frame digital cinema camera, treated as above: grain, drained cold colour with burning orange highlights, dark fading edges, hand-held.
 
 POSITIVE LOCKS
-Exactly four hard cuts, at 1.5, 3, 4.3 and 5.6 s. Five fast memory shots: the searchlight finds Selvan; the gun boat fires; Selvan, facing the patrol boat, fires back at it with a rifle as bullets hit the diesel can beside him; the boat catches fire; Selvan throws the rifle away and jumps into the sea. Selvan in his light-blue and slate-blue camouflage as on @selven; the vallam as on @burningvallam, with a square diesel can and jute bags, never a gas cylinder. The patrol boat with no flags, no numbers, no markings. The memory look throughout: grain, cold drained colour, orange fire, dark fading edges. No readable writing anywhere. Runs the full 7 seconds.
+Exactly four hard cuts, at 1.5, 3, 4.3 and 5.6 s. Five fast memory shots: the searchlight finds Selvan; the gun boat fires; Selvan, facing the patrol boat, fires back at it with a rifle as bullets hit the diesel can beside him; the boat catches fire; Selvan throws the rifle away and jumps into the sea. Selvan in his light-blue and slate-blue camouflage as on @selven; the vallam as on @burningvallam, with a square metal diesel jerry can and jute bags at the back. The patrol boat with no flags, no numbers, no markings. The memory look throughout: grain, cold drained colour, orange fire, dark fading edges. No readable writing anywhere. Runs the full 7 seconds.
 ```
 
 ## Generation results
