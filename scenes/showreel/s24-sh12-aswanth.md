@@ -18,7 +18,7 @@ ACTIVE REFERENCES
 @urubowplate (background only): the bow ahead of them exactly as on this plate. 100% matches the reference.
 
 THE PLACE AND THE LETTER
-The open main deck at the left rail, in the open air, the same in every shot: the low wooden rail with turned posts, wet planks, coils of rope, the mast behind them with a hurricane lantern hanging from a hook, the dark sea and sky beyond the rail. Antony stands on the LEFT, Selvan on the RIGHT, in every shot. The letter: one flat packet about the size of a hand, wrapped in tan paper over plastic, tied crosswise with thin string; no readable writing.
+The open main deck at the left rail, in the open air, the same in every shot: the side rail of the main deck is a plain, low, solid wooden bulwark with a flat, smooth brown top rail, about waist high, no posts, no carving; wet planks, coils of rope, the mast behind them with a hurricane lantern hanging from a hook. Behind each speaker only this plain rail and, beyond it, the open dark sea and the sky. No carved balustrade, no turned posts, no raised platform or upper deck behind them. The sky behind them is empty: no moon anywhere in it; moonlight only as a soft silver sheen on the water. Antony stands on the LEFT, Selvan on the RIGHT, in every shot. The letter: one flat packet about the size of a hand, wrapped in tan paper over plastic, tied crosswise with thin string; no readable writing.
 
 FORMAT MODE
 One generation, 30 seconds, real time. SHOT 1: 0 to 7 s. CUT. SHOT 2: 7 to 8.5 s. CUT. SHOT 3: 8.5 to 12 s. CUT. SHOT 4: 12 to 14.5 s. CUT. SHOT 5: 14.5 to 19.5 s. CUT. SHOT 6: 19.5 to 25 s. CUT. SHOT 7: 25 to 30 s. Exactly six hard cuts. Medium close shots and one close insert; never a wide shot. Runs the full 30 seconds.
@@ -63,7 +63,7 @@ STYLE
 Photoreal 1998 Kerala period feature film, night exterior. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
 
 POSITIVE LOCKS
-Exactly six hard cuts, at 7, 8.5, 12, 14.5, 19.5 and 25 s. One place for the whole clip: the left rail of the open deck, Antony on the LEFT and Selvan on the RIGHT, the lantern on the mast, the same sea behind. Dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2, Selvan's right calf bandaged. The deck rolling and the horizon tilting the whole time. Each speaker's face within 30 degrees of the lens, mouth clear, head steady while speaking; the packet never in front of a mouth. No readable writing anywhere. The moon never in frame. Runs the full 30 seconds.
+Exactly six hard cuts, at 7, 8.5, 12, 14.5, 19.5 and 25 s. One place for the whole clip: the plain flat-topped side rail of the open deck with only the open sea behind it, no carved railing, no moon in the sky, Antony on the LEFT and Selvan on the RIGHT, the lantern on the mast, the same sea behind. Dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2, Selvan's right calf bandaged. The deck rolling and the horizon tilting the whole time. Each speaker's face within 30 degrees of the lens, mouth clear, head steady while speaking; the packet never in front of a mouth. No readable writing anywhere. The moon never in frame. Runs the full 30 seconds.
 ```
 
 ## v3 (Aswanth 2026-11-25: one long generation for SB034 + SB035 so the places and objects cannot change between parts; 38 s; about 24 s of speech, about 63%, L172)
@@ -282,3 +282,4 @@ Exactly three hard cuts, at 3, 10.5 and 12 s. Antony and Selvan at the left rail
 ```
 
 ## Generation results
+- v4 [partial] 2026-11-25 (Aswanth): behind Antony a carved turned-post balustrade and a raised platform appeared (from my words 'rail with turned posts'), and the moon showed in the sky. v4.1: the side rail written as a plain flat-topped bulwark (L152), open sea behind, no moon in the sky. L175.
