@@ -10,6 +10,7 @@ Source storyboard: https://aazhi-storyboard.vercel.app/#p=14&lang=ml
 | 4 | Come back safely — walk to harbour | SB018 | — | not started |
 | s13 | The harbour; reaching the uru; ready to sail; leaving the shore | SB019–022 | Approved: s13-sh00 v1 (harbour from the sea), s13-sh01 v4 (harbour long shot), s13-sh02 v2 (follow to the gangplank), s13-sh03 v1 (boarding), s13-sh04 v2 (Aashaan's line), s13-sh05 v3 (Antony's line), s13-sh06 v2 (departure, COCHIN stern). | complete (Ranjith, 2026-11-07) |
 | SB023 | Aashaan's confidence | SB023 | SB023-SINGLES, three single-line shots | draft, two references missing |
+| s33 | Adwaithan's tea shop: Antony's unpaid tea bill | SB041 | Approved: s33-sh01 v1.6 (Adwaithan pours, the old bill), s33-sh02 v1.7 (Antony: in charge now, no bill for tea), s33-sh03 v1.4 (Adwaithan: and this one?), s33-sh04 v1.10 (Antony: put it on the old bill, pull-back) | complete (Jeena Johnachan, 2026-11-25) |
 
 (2026-11-04 note) Scene 1 runs ~38 s. To stay near 60 s, Scenes 2–4 get ~22 s together, or the showreel runs ~75 s — decision pending.
 
