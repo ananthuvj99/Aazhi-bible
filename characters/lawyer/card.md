@@ -12,7 +12,7 @@ used_in: []
 ---
 
 ## What the sheet shows
-A young defence advocate, about 32, slim, a thin moustache, short combed black hair, earnest and a little nervous; white full-sleeve shirt, white advocate's bands, a black advocate's coat slightly too big, white mundu to the ankles, black sandals, a thin cardboard file tied with cotton tape. Front, back and face close-up on grey.
+A young defence advocate, about 32, slim, a thin moustache, short combed black hair, earnest and a little nervous; white full-sleeve shirt, white advocate's bands, a black advocate's coat slightly too big, white full-length trousers with a crease, black leather shoes (Ranjith: "advocate should have pants like judge"; v2, 2026-11-25), a thin cardboard file tied with cotton tape. Front, back and face close-up on grey.
 
 ## When to attach
 SB060 at the advocates' table. Mode full. Story: Jaison found him (SB059).
