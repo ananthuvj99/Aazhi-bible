@@ -37,6 +37,7 @@ Status: `approved` · `waiting for approval` · `retired`
 | `@priest` | The parish priest at the Alappad church, 1998, about 55: greying hair combed back, black rectangular glasses, clean-shaven; white cassock with a rope cincture, cream-and-gold embroidered stole, black sandals, a small black prayer book | At the altar in SB052 (the wedding) and SB053 (the arrest) | `characters/priest/sheet.png` | Ranjith | 2026-11-24 | approved |
 | `@magistrate` | The magistrate, 1998, a man about 55: greying hair combed back, grey moustache, rimless glasses; white shirt and collar bands, open black coat, white trousers, a fountain pen | SB060 on the dais | `characters/magistrate/sheet.png` | Ranjith | 2026-11-25 | approved |
 | `@lawyer` | Antony's defence lawyer, 1998, about 32: slim, thin moustache, combed black hair; black advocate's coat over a white shirt and bands, white mundu, sandals, a tied cardboard file | SB060 at the advocates' table | `characters/lawyer/sheet.png` | Ranjith | 2026-11-25 | approved |
+| `@constables` | Two 1998 Kerala Police constables: one about 40, stocky, heavy moustache, bamboo lathi; one about 30, lean, thin moustache; khaki uniform without stars, black belts, boots, khaki berets, blank name plates | SB060 escorting Antony; any escort or station scene | `characters/constables/sheet.png` | Ranjith | 2026-11-25 | approved |
 
 ## Locations
 
