@@ -18,7 +18,7 @@ ACTIVE REFERENCES
 @urubowplate (background only): the bow ahead of them exactly as on this plate. 100% matches the reference.
 
 THE PLACE AND THE LETTER
-The open main deck at the left rail, in the open air, the same in every shot: the side rail of the main deck is a plain, low, solid wooden bulwark with a flat, smooth brown top rail, about waist high, no posts, no carving; wet planks, coils of rope, the mast a few steps along the deck with a hurricane lantern hanging from a hook. Behind each speaker only this plain rail and, beyond it, the open dark sea and the sky. No carved balustrade, no turned posts, no raised platform or upper deck behind them. The sky behind them is empty: no moon anywhere in it; moonlight only as a soft silver sheen on the water. Antony stands on the LEFT, Selvan on the RIGHT, in every shot. The letter: one flat packet about the size of a hand, wrapped in tan paper over plastic, tied crosswise with thin string; no readable writing.
+The open main deck at the left rail, in the open air, the same in every shot: the side rail of the main deck is a plain, low, solid wooden bulwark with a flat, smooth brown top rail, about waist high, no posts, no carving; wet planks, coils of rope, the mast a few steps along the deck with a hurricane lantern hanging from a hook. Behind each speaker only this plain rail and, beyond it, the open dark sea and the sky. No carved balustrade, no turned posts, no raised platform or upper deck behind them. The sky behind them is plain, dark and empty: no moon, no bright spot, no light path or reflection on the water; the sea an even dark blue. Antony stands on the LEFT, Selvan on the RIGHT, in every shot. The letter: one flat packet about the size of a hand, wrapped in tan paper over plastic, tied crosswise with thin string; no readable writing.
 
 FORMAT MODE
 One generation, 30 seconds, real time. SHOT 1: 0 to 7 s. CUT. SHOT 2: 7 to 8.5 s. CUT. SHOT 3: 8.5 to 12 s. CUT. SHOT 4: 12 to 14.5 s. CUT. SHOT 5: 14.5 to 19.5 s. CUT. SHOT 6: 19.5 to 25 s. CUT. SHOT 7: 25 to 30 s. Exactly six hard cuts. Medium close shots and one close insert; never a wide shot. Runs the full 30 seconds.
@@ -46,7 +46,7 @@ REAL-WORLD PHYSICS
 The uru rolls slowly about five degrees each way and rises and falls on the swell; the horizon behind them tilts; both men sway with it, Selvan bracing on the rail to spare his right leg; the lantern swings on its hook and its light slides across their faces; the sea breeze moves their hair and shirts; the packet's paper crackles as it is handed over. Nothing moves by itself; every movement has a cause.
 
 LIGHTING
-Night: the warm hurricane lantern on the mast, about 2200K, lighting the faces from the front and side; cool moonlight on the sea and the edges of their shoulders, the moon never in frame.
+Night: the warm hurricane lantern on the mast, about 2200K, the only visible light, lighting the faces from the front and side; a soft, even, cool night ambience over the sea and sky with no visible source, no moon and no moonlit path on the water, the same in every shot.
 
 AUDIO
 Natural sound, no music. The wash of the sea against the hull, the creak of the boat, the breeze; every line clear. No sound effect on the cuts.
