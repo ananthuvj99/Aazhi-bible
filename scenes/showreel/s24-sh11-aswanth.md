@@ -10,7 +10,7 @@ A memory: what really happened earlier the same night, the part Selvan leaves ou
 
 ACTIVE REFERENCES
 @selven: Selvan, about 45, thick black moustache, hair greying at the temples, in his light-blue and slate-blue tiger-stripe camouflage shirt and trousers, exactly as on his sheet. 100% matches the reference.
-@burningvallam: his small traditional wooden fishing vallam, about 7 m, weathered white hull with a faded blue band, nets and oars inside, as on this sheet; at first not burning, then catching fire. At the back of the boat: one dented, flat-sided, square metal jerry can of diesel with a handle on top, and a few tied jute bags beside it. 100% matches the reference.
+@burningvallam: his small traditional wooden fishing vallam, about 7 m, weathered white hull with a faded blue band, nets and oars inside, as on this sheet; at first not burning, then catching fire. At the far back end of the boat, BEHIND Selvan: one dented, flat-sided, square metal jerry can of diesel with a handle on top, and a few tied jute bags beside it. It is never between Selvan and the patrol boat. 100% matches the reference.
 
 THE PATROL BOAT
 A dark grey armed patrol boat, low and fast, a heavy machine gun mounted at its bow, two or three men in dark uniforms as black silhouettes, a hard white searchlight. No flags, no numbers, no markings, no readable writing.
