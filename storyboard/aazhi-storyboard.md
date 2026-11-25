@@ -789,7 +789,7 @@ Text-only export of the storyboard HTML, made so it can live in the project cont
 | ADWAITHAN (അദ്വൈതൻ) | paththu dhivasam poyaal pazhaya kanakk maayilla ketto. | പത്തു ദിവസം പോയാൽ പഴയ കണക്ക് മായില്ല, കേട്ടോ. | Ten days away doesn't erase your old bill, you know. |
 | ANTONY (ആന്റണി) | inn chumathala kittiyathalle. ini muthal ulla chaayakkonnum kanakkille! | ഇന്ന് ചുമതല കിട്ടിയതല്ലേ. ഇനി മുതലുള്ള ചായയ്ക്കൊന്നും കണക്കില്ലേ! | I've just been put in charge. From now on, no bill for tea, right! |
 | ADWAITHAN (അദ്വൈതൻ) | appo itho? | അപ്പോൾ ഇതോ? | And this one? |
-| ANTONY (ആന്റണി) | ith pazhaya kanakkil cherthoda, njaan tharaada! | ഇത് പഴയ കണക്കിൽ ചേർത്തോടാ, ഞാൻ തരാടാ! | Put it on the old bill, da, I'll pay, da! |
+| ANTONY (ആന്റണി) | ith pazhaya kanakkil cherthoda! | ഇത് പഴയ കണക്കിൽ ചേർത്തോടാ! | Put it on the old bill, da! |
 
 ### SB042 · Ref 34A — The hilltop reunion · കുന്നിൻമുകളിലെ കൂടിക്കാഴ്ച
 
