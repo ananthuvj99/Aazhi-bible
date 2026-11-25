@@ -1,0 +1,71 @@
+{
+ "title": "SB042 · The hilltop reunion (kunninmukalile kootikkaazhcha)",
+ "subtitle": "s34 · late afternoon, 1998 · Malayalam · no emotion tag · 21:9 · Jeena Johnachan",
+ "out": "scenes/showreel/storyboards/sb042-storyboard.png",
+ "panels": [
+  {
+   "shot": "s34-sh01",
+   "image": "locations/alappad-hill/plates/alappadhill-c2-plate.jpg",
+   "title": "Clara: you said ten days, it's eleven",
+   "time": "8 s",
+   "beats": [
+    "0–2.4 s looks at the sea, then at him",
+    "2.6–5.6 s line (eyes just left of lens)",
+    "5.6–8 s holds the mock frown"
+   ],
+   "refs": "@clara20 · @alappadhillc2plate"
+  },
+  {
+   "shot": "s34-sh02",
+   "image": "locations/alappad-hill/plates/alappadhill-c3-plate.jpg",
+   "title": "Antony: today is the tenth",
+   "time": "8 s",
+   "beats": [
+    "0–2.2 s smiles, shakes his head",
+    "2.4–5.6 s line (eyes just right of lens)",
+    "5.6–8 s palm-up, smile"
+   ],
+   "refs": "@antony20 · @alappadhillc3plate"
+  },
+  {
+   "shot": "s34-sh03",
+   "image": "locations/alappad-hill/plates/alappadhill-c2-plate.jpg",
+   "title": "Clara: don't talk to me",
+   "time": "8 s",
+   "beats": [
+    "0–2 s holds his look",
+    "2.2–3.8 s line",
+    "3.8–5.6 s turns away to the sea",
+    "5.6–8 s hides a smile"
+   ],
+   "refs": "@clara20 · @alappadhillc2plate"
+  },
+  {
+   "shot": "s34-sh04",
+   "image": "scenes/showreel/approved/sb042-hill/s34-sh04-start.jpg",
+   "title": "The embrace (silent)",
+   "time": "12 s",
+   "beats": [
+    "2–3.8 s she glances back, he shrugs",
+    "3.8–6 s frown breaks, three steps",
+    "6–6.8 s embrace",
+    "6.5–10 s push-in",
+    "to 12 s held"
+   ],
+   "refs": "@s34sh04start (start) · @clara20 · @antony20 · @alappadhillc1plate"
+  },
+  {
+   "shot": "blocking",
+   "image": "scenes/showreel/storyboards/sb042-blocking.png",
+   "title": "3D blocking (grey-box)",
+   "time": "—",
+   "beats": [
+    "Sea to the west, sun over it",
+    "Clara sea side, Antony inland side",
+    "Cameras stay on the camera side of the line"
+   ],
+   "refs": "planning only"
+  }
+ ],
+ "footer": "Storyboard only. Never attach this sheet to a generation."
+}

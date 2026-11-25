@@ -1,0 +1,125 @@
+{
+ "title": "SB042 · The hilltop reunion · blocking",
+ "subtitle": "Grey-box, metres. Sea to the west (top), sun over it; c1 side-on two-shot, c2 Clara's single, c3 Antony's single.",
+ "out": "scenes/showreel/storyboards/sb042-blocking.png",
+ "eye": [
+  9,
+  -9,
+  8
+ ],
+ "target": [
+  0,
+  1,
+  0.5
+ ],
+ "size": [
+  1600,
+  1000
+ ],
+ "objects": [
+  {
+   "type": "box",
+   "center": [
+    0,
+    1,
+    -0.1
+   ],
+   "size": [
+    16,
+    16,
+    0.2
+   ],
+   "color": "#8a9a5a",
+   "label": "grassy crest"
+  },
+  {
+   "type": "cylinder",
+   "center": [
+    5,
+    3,
+    0
+   ],
+   "radius": 0.2,
+   "height": 4,
+   "color": "#6b4a30",
+   "label": "cashew tree"
+  },
+  {
+   "type": "box",
+   "center": [
+    0,
+    9.5,
+    0.2
+   ],
+   "size": [
+    16,
+    0.3,
+    0.4
+   ],
+   "color": "#4a6a8a",
+   "label": "sea side (west)"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    -1.2,
+    2.5,
+    0
+   ],
+   "color": "#8a7fb5",
+   "label": "Antony"
+  },
+  {
+   "type": "figure",
+   "pos": [
+    1.3,
+    2.5,
+    0
+   ],
+   "color": "#7fb0d8",
+   "label": "Clara"
+  },
+  {
+   "type": "camera",
+   "pos": [
+    0,
+    -2,
+    1.5
+   ],
+   "look": [
+    0,
+    2.5,
+    1.5
+   ],
+   "label": "c1 two-shot (sh04)"
+  },
+  {
+   "type": "camera",
+   "pos": [
+    -1.3,
+    1.4,
+    1.5
+   ],
+   "look": [
+    1.3,
+    2.5,
+    1.5
+   ],
+   "label": "c2 Clara (sh01, sh03)"
+  },
+  {
+   "type": "camera",
+   "pos": [
+    1.4,
+    1.3,
+    1.5
+   ],
+   "look": [
+    -1.2,
+    2.5,
+    1.5
+   ],
+   "label": "c3 Antony (sh02)"
+  }
+ ]
+}
