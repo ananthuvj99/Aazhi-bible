@@ -6,11 +6,11 @@ To change a voice or add one: edit this table and the character's `card.md` (Voi
 
 | Character | Look IDs | Platform voice | Voice style (platform label) | Recorded by |
 |---|---|---|---|---|
-| Antony | `@antonyhome` `@antony20` `@antonybath` | **Mahendran J** | News Bulletin Anchor | Ananthu (list, 2026-11-08) |
+| Antony | `@antonyhome` `@antony20` `@antonybath` `@antonywedding` `@antonycustody` | **Mahendran J** | News Bulletin Anchor | Ananthu (list, 2026-11-08) |
 | Rosamma | `@rosamma` | **Samitha** | Soft, Clear, Expressive | Ananthu (list, 2026-11-08) |
 | Aashaan | `@aashaan` | **Rinoy** | Professional narrator | Ananthu (list, 2026-11-08) |
 | Selvan | `@selvan` | **Angus** | Calm, measured | Ananthu (list, 2026-11-08) |
-| Clara | `@clara20` | **Aadhira** | Young Malayalam Companion | Ananthu (list, 2026-11-08) |
+| Clara | `@clara20` `@clarabride` `@claracourt` | **Aadhira** | Young Malayalam Companion | Ananthu (list, 2026-11-08) |
 | Babu | `@babu` | **Dera** | Expressive, Smooth, Elegant | Ananthu (list, 2026-11-08) |
 | Raghavan | `@raghavan` | **Nguyen Tue** | Zen master | Ananthu (list, 2026-11-08) |
 | Sasi | `@sasi` | **Samar** | Angry and intense character | Ananthu (list, 2026-11-08) |
@@ -18,6 +18,8 @@ To change a voice or add one: edit this table and the character's `card.md` (Voi
 | Balan | `@balan` `@balanbrown` | **Brad** | Eyewitness Bys… (label cut off in the platform screenshot) | Ranjith (2026-11-10); card `characters/balan/card.md` |
 | Adwaithan | `@adwaithan` | **Ketan M** | Funny, Relatable Best Friend | Jeena Johnachan (2026-11-23; was Abhilash S) |
 | Ramachandran | `@siramachandran` `@spramachandran2026` | **Rudra** | Deep and Tru… (label cut off in the platform screenshot) | Ranjith (2026-11-24); cards `characters/siramachandran/card.md`, `characters/spramachandran2026/card.md` |
+| Magistrate | `@magistrate` | *pending* (Ranjith picks on the platform) | — | Ranjith (2026-11-25) |
+| Defence lawyer | `@lawyer` | *pending* (Ranjith picks on the platform) | — | Ranjith (2026-11-25) |
 | Crew (background men) | `@crew` | *not assigned* — non-verbal only unless a shot gives one of them a line | — | — |
 
 Note: this list was sent by Ananthu on 2026-11-08; some voices were chosen by Ananthu and some by Ranjith. Add the name of whoever chose a voice in the notes when known.
