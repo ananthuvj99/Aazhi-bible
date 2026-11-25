@@ -1,9 +1,70 @@
 # s24-sh12 (Aswanth) · SB034 — the favour: at the uru's rail, Selvan gives Antony the letter for his wife · 16 s · v1
-Status: **v3 ready (Aswanth, 2026-11-25): one 38 s generation, SB034 + SB035** (v2 A+B kept below as the fallback) · dialogue (Selvan, Antony) · narrated by Aswanth: after the memory visuals, the scene moves outside: they stand at the side of the uru, the uru moving slowly with its swinging movement, and Selvan asks the favour.
+Status: **v4 ready (Aswanth, 2026-11-25): one 30 s generation (platform maximum), lines shortened** (v2 A+B kept below as the fallback) · dialogue (Selvan, Antony) · narrated by Aswanth: after the memory visuals, the scene moves outside: they stand at the side of the uru, the uru moving slowly with its swinging movement, and Selvan asks the favour.
 Lines (storyboard SB034): SELVAN "ബുദ്ധിമുട്ടിക്കുകയാണെന്ന് തോന്നല്ലേ. ഒരു സഹായം ചെയ്യണം. എന്റെ ഭാര്യയ്ക്കുള്ളതാ. നാട്ടിലെത്തുമ്പോൾ ഇതൊന്നു പോസ്റ്റ് ചെയ്യണം." · ANTONY "വിലാസം ഇതിലുണ്ടല്ലോ? ഞാൻ അയയ്ക്കാം." Time budget (L172): about 15 words, about 8 s of speech in 16 s. Voices: Selvan Angus, Antony Mahendran J.
 The letter: the flat packet from Selvan's sheet (tan paper over plastic, tied with string), in words; Selvan kept it inside his shirt.
 People (L125): Antony `@antony-at-20s-c2`, Selvan `@selvan-c2`. Place (L164, L171): the main deck at the left rail, no wheelhouse words.
 Attach: `@antony-at-20s-c2`, `@selvan-c2`, `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **16 s.** 2.39:1.
+
+## v4 (Aswanth 2026-11-25: platform maximum is 30 s. The full six lines need about 33 s (0.63 s per Malayalam word, from the s24-sh09 refusal), so the lines are shortened to about 34 words, about 21.5 s; the opening two-shot dropped; 30 s, seven shots)
+Attach: `@antony-at-20s-c2`, `@selvan-c2`, `@uru`, `@urubowplate` (background only). **30 s.** 2.39:1. Voices: Selvan Angus, Antony Mahendran J.
+```
+SCENE CONTEXT
+Night, 1998, later the same night, on the uru's open main deck. Antony and Selvan, in dry clothes, stand side by side at the left rail looking out at the dark sea, the uru moving slowly through the swell. Selvan gives Antony a letter for his wife, then asks to be put ashore at Katchatheevu. One continuous conversation in one place, seven shots joined by hard cuts.
+
+ACTIVE REFERENCES
+@antony-at-20s-c2: Antony, about 20, in his dry clothes exactly as on this sheet, nothing added or changed. 100% matches the reference.
+@selvan-c2: Selvan, about 45, thick black moustache, hair greying at the temples, in his dry clothes exactly as on this sheet, nothing added or changed; a strip of cloth tied round his right calf as a bandage, a dark stain on it; he keeps his weight off the right leg, one hand on the rail. 100% matches the reference.
+@uru: our uru as on this sheet, sitting low in the water. 100% matches the reference.
+@urubowplate (background only): the bow ahead of them exactly as on this plate. 100% matches the reference.
+
+THE PLACE AND THE LETTER
+The open main deck at the left rail, in the open air, the same in every shot: the low wooden rail with turned posts, wet planks, coils of rope, the mast behind them with a hurricane lantern hanging from a hook, the dark sea and sky beyond the rail. Antony stands on the LEFT, Selvan on the RIGHT, in every shot. The letter: one flat packet about the size of a hand, wrapped in tan paper over plastic, tied crosswise with thin string; no readable writing.
+
+FORMAT MODE
+One generation, 30 seconds, real time. SHOT 1: 0 to 7 s. CUT. SHOT 2: 7 to 8.5 s. CUT. SHOT 3: 8.5 to 12 s. CUT. SHOT 4: 12 to 14.5 s. CUT. SHOT 5: 14.5 to 19.5 s. CUT. SHOT 6: 19.5 to 25 s. CUT. SHOT 7: 25 to 30 s. Exactly six hard cuts. Medium close shots and one close insert; never a wide shot. Runs the full 30 seconds.
+
+CAMERA AND ACTION
+SHOT 1 (0-7 s) — Dialogue. Medium close shot of Selvan at the rail, face toward the camera within 30 degrees, Antony's shoulder soft at the edge, the sea tilting behind. He takes the packet from inside his shirt, holds it at his chest, and says his first line. The packet stays below his chin.
+SHOT 2 (7-8.5 s) — Close insert: Selvan's hands hold the packet out; Antony's hand takes it.
+SHOT 3 (8.5-12 s) — Dialogue. Medium close shot of Antony, face toward the camera within 30 degrees. He turns the packet over once, says his first line, and slides it into his shirt pocket unopened.
+SHOT 4 (12-14.5 s) — Dialogue. Medium close shot of Selvan: he looks out at the sea, then at Antony, and asks his second line.
+SHOT 5 (14.5-19.5 s) — Dialogue. Medium close shot of Antony: in the pause his eyes drop to Selvan's bandaged leg and come back up; then he says his second line.
+SHOT 6 (19.5-25 s) — Dialogue. Medium close shot of Selvan, his hand tight on the rail: his third line.
+SHOT 7 (25-30 s) — Dialogue. Medium close shot of Antony: his third line; after it he glances back along the deck.
+In every dialogue shot the speaker's head stays steady while he speaks, mouth fully visible.
+
+ACTING & MICRO-EXPRESSION
+Selvan, SHOT 1: brows lift and draw together; his eyes drop to the packet on "ഭാര്യയ്ക്കുള്ളതാ", his thumb pressing the string; then back up to Antony; a short swallow after.
+Antony, SHOT 3: eyes on the packet, then up to Selvan; voice gentle and certain; a small nod after; his hand rests flat over the pocket.
+Selvan, SHOT 4: eyes narrowed on the sea as if looking for something far off; he turns his eyes to Antony before his head; low and direct, no smile.
+Antony, SHOT 5: brows draw together as his eyes go to the leg; a short breath out through the nose; gentle but firm; a small shake of the head only after the words.
+Selvan, SHOT 6: eyes steady on Antony's, unblinking; on "എന്റെ ആളുകൾ" his chin lifts a little and his fingers tighten on the rail; after the words his mouth closes in a flat line.
+Antony, SHOT 7: on "ആണോ" his eyebrows lift slightly and his eyes narrow for a split second, a question he does not ask; then his face settles; a small nod after.
+Restrained and real: nobody looks into the lens. Real skin with pores, five fingers.
+
+REAL-WORLD PHYSICS
+The uru rolls slowly about five degrees each way and rises and falls on the swell; the horizon behind them tilts; both men sway with it, Selvan bracing on the rail to spare his right leg; the lantern swings on its hook and its light slides across their faces; the sea breeze moves their hair and shirts; the packet's paper crackles as it is handed over. Nothing moves by itself; every movement has a cause.
+
+LIGHTING
+Night: the warm hurricane lantern on the mast, about 2200K, lighting the faces from the front and side; cool moonlight on the sea and the edges of their shoulders, the moon never in frame.
+
+AUDIO
+Natural sound, no music. The wash of the sea against the hull, the creak of the boat, the breeze; every line clear. No sound effect on the cuts.
+
+DIALOGUE
+SHOT 1: SELVAN (Malayalam, quiet, a little hesitant): "ഒരു സഹായം ചെയ്യണം. എന്റെ ഭാര്യയ്ക്കുള്ളതാ. നാട്ടിലെത്തുമ്പോൾ ഇതൊന്നു പോസ്റ്റ് ചെയ്യണം."
+SHOT 3: ANTONY (Kollam coast, gentle, sure): "വിലാസം ഇതിലുണ്ടല്ലോ? ഞാൻ അയയ്ക്കാം."
+SHOT 4: SELVAN (low, direct): "എന്നെ കച്ചത്തീവിൽ ഇറക്കാമോ?"
+SHOT 5: ANTONY (gentle, firm): "ഈ കാലും വച്ചോ? ആദ്യം ആശുപത്രിയിൽ പോകാം."
+SHOT 6: SELVAN (steady, certain): "അവിടെ എന്റെ ആളുകൾ വരും. അവർ എന്നെ നോക്കിക്കോളും."
+SHOT 7: ANTONY (a little unsure, then easy): "ആണോ? എന്നാൽ ഞാൻ ആശാനോട് ചോദിക്കട്ടെ."
+
+STYLE
+Photoreal 1998 Kerala period feature film, night exterior. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
+
+POSITIVE LOCKS
+Exactly six hard cuts, at 7, 8.5, 12, 14.5, 19.5 and 25 s. One place for the whole clip: the left rail of the open deck, Antony on the LEFT and Selvan on the RIGHT, the lantern on the mast, the same sea behind. Dry clothes exactly as on @antony-at-20s-c2 and @selvan-c2, Selvan's right calf bandaged. The deck rolling and the horizon tilting the whole time. Each speaker's face within 30 degrees of the lens, mouth clear, head steady while speaking; the packet never in front of a mouth. No readable writing anywhere. The moon never in frame. Runs the full 30 seconds.
+```
 
 ## v3 (Aswanth 2026-11-25: one long generation for SB034 + SB035 so the places and objects cannot change between parts; 38 s; about 24 s of speech, about 63%, L172)
 Attach: `@antony-at-20s-c2`, `@selvan-c2`, `@uru`, `@urubowplate` (background only). **38 s.** 2.39:1. Voices: Selvan Angus, Antony Mahendran J.
