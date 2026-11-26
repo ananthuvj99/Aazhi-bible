@@ -1,5 +1,6 @@
 # SB060 · the magistrate's court — edit plan (about 95 s)
 Created by: Ranjith, 2026-11-26
+Update (Ranjith, 2026-11-26): "only sh06 sh07 and sh14 are needed": the takes to generate are s44f-sh06 (the SI's report), s44f-sh07 (the lawyer's plea) and s44f-sh14 (Clara). The other rows below use takes marked not needed; Ranjith covers those beats another way.
 How it works (Ranjith: "there need not be camera to the face of the person who is speaking, we can show reaction shots" … "we can mix and match, some shows reactions some shows speaking ones, it can be even 15 secs each"): every line is generated once, in its speaker's own take, with only his voice (L186: no two voices in one generation). In the edit the voice keeps running while the picture cuts to whoever is listening (L-cuts and J-cuts). Reaction takes are silent; their audio is the speaker's line from his own take plus room tone.
 Screen direction (from the wide @s44fsh01start): Antony and the lawyer look RIGHT to the magistrate; the SI looks LEFT; the magistrate looks LEFT to Antony, RIGHT to the SI.
 
