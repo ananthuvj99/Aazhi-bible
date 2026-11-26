@@ -1,2 +1,2 @@
-# s44f-sh07 v1 attach
-See scenes/showreel/s44f-sh07.md (Attach line). 00 = start image, REF = reference for continuity (never the start). One voice per take; voices: magistrate PENDING, lawyer PENDING, Ramachandran Rudra, Antony Mahendran J.
+# s44f-sh07 v3 attach
+00 start @s44flawstart3 · 01 @lawyer (full) · 04 @s44fsh01start (REF: reference for continuity). 15 s, 21:9, Malayalam. Voice: lawyer PENDING.
