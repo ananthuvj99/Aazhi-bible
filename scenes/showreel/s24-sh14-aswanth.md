@@ -12,16 +12,16 @@ Night, 1998, inside the uru, later the same night. In a small, dark wooden crew 
 ACTIVE REFERENCES
 @ashaan: Aashaan, the old head of the crew: cream half-sleeve shirt open over a white vest, one pair of spectacles in the vest neckline, white towel on his LEFT shoulder, white mundu, as on his sheet; sitting cross-legged at the board. 100% matches the reference.
 @balan-at-20s: Balan, about 20, faded blue short-sleeve shirt over a white vest, pocket empty, oiled side-parted hair, thin moustache, acne marks, as on his sheet; sitting close beside Aashaan, on his right. 100% matches the reference.
-@raghavan: about 60, short grey hair, grey moustache, white vest, red-and-white towel round his neck, as on his sheet. 100% matches the reference.
-@sasi: about 35, long black curly hair, full beard, as on his sheet. 100% matches the reference.
-@suresh: about 30, short curly hair, thick moustache, green checked mundu, as on his sheet. 100% matches the reference.
-@babu: about 40, heavy-set, round face, red-and-white checked towel tied round his head, as on his sheet. 100% matches the reference.
+@raghavan: grey hair, grey moustache, red-and-white towel, as on his sheet. 100% matches the reference.
+@sasi: long curly hair, full beard, as on his sheet. 100% matches the reference.
+@suresh: short curly hair, moustache, as on his sheet. 100% matches the reference.
+@babu: heavy-set, checked towel round his head, as on his sheet. 100% matches the reference.
 
 BALAN'S FACE
 Natural, unretouched skin: visible pores, the acne marks, uneven tone, a faint oily sheen only on the forehead and nose; matte, never glossy, never smooth or polished.
 
 THE ROOM AND THE BOARD
-A small, low wooden room below the deck, bare dark planks, the low ceiling of deck beams close above their heads. In the ceiling, one small square opening to the deck; through it a single shaft of cool moonlight falls straight down onto the carrom board and spills onto the faces round it; the corners of the room fall into darkness. The board: an old square wooden carrom board on the plank floor, its playing surface pale and worn, dark wooden borders, four corner pockets with net bags, the black and white wooden coins and the red queen scattered on it, a white striker; a little talc powder on the surface. The six men sit round it on the floor: Aashaan and Balan side by side on one side; Raghavan, Sasi, Suresh and Babu on the other sides.
+A small, low wooden room below the deck, bare dark planks, the low ceiling of deck beams close above their heads. In the ceiling, one small square opening to the deck; through it a single shaft of cool moonlight falls straight down onto the carrom board and spills onto the faces round it; the corners of the room fall into darkness. The board: an old wooden carrom board on the floor, worn surface, four net pockets, black and white coins, the red queen, a striker. The six men sit round it on the floor: Aashaan and Balan side by side on one side; Raghavan, Sasi, Suresh and Babu on the other sides.
 
 FORMAT MODE
 One generation, 28 seconds, real time. SHOT 1: 0 to 4 s. CUT. SHOT 2: 4 to 14 s. CUT. SHOT 3: 14 to 15.5 s. CUT. SHOT 4: 15.5 to 22 s. CUT. SHOT 5: 22 to 26 s. CUT. SHOT 6: 26 to 28 s. Exactly five hard cuts. Hand-held throughout, a real operator's small sway. Runs the full 28 seconds.
@@ -42,13 +42,13 @@ The crew: their eyes stay down on the board the whole time Balan is speaking; th
 Restrained and real: nobody looks into the lens. Real skin with pores, five fingers.
 
 REAL-WORLD PHYSICS
-The striker flicks hard and the coins crack and scatter, spinning and sliding across the talc, bouncing off the borders, dropping into the net pockets with a soft thud. The uru rolls gently: the shaft of moonlight sways slowly across the board as the boat moves; the men sway a little; a loose coin slides a few centimetres with the roll. Dust floats in the moonbeam. Nothing moves by itself; every movement has a cause.
+The striker cracks into the coins; they scatter, bounce off the borders and drop into the pockets. The uru rolls gently: the shaft of moonlight sways slowly across the board; a loose coin slides with the roll; dust floats in the beam. Nothing moves by itself; every movement has a cause.
 
 LIGHTING
 Deep night, dark and low-key, clearly night, never like day or morning: the only light is one narrow shaft of cold, blue-silver moonlight, about 7000K, falling through the small opening in the ceiling onto the board; the faces round it lit dimly and only partly, from below and the side, half in shadow; everything outside the beam falls into near-black blue shadow. No warm tones at all: no yellow, orange or golden light, no lamp, no daylight, nothing bright; low exposure, a cold blue-grey night grade; the moon itself never seen through the opening, only its light.
 
 AUDIO
-Natural sound, no music. The crack of the striker, coins clattering and sliding, the soft thud of a pocketed coin, a groan, a chuckle, the creak of the hull and water against the planks; the lines clear. No sound effect on the cuts.
+Natural sound, no music. The striker, coins clattering, a groan, a chuckle, the creak of the hull; the lines clear. No sound effect on the cuts.
 
 DIALOGUE
 SHOT 2: BALAN (Malayalam, low, urgent, half-whispered), to Aashaan: "ആശാനേ, എനിക്കൊരു കാര്യം പറയാനുണ്ട്. നമ്മുടെ ആന്റണിയും പിന്നെ നമ്മൾ ഉരുവിൽ കേറ്റി സഹായിച്ച സെൽവനും തമ്മിൽ എന്തോ നമ്മൾ അറിയാതെ നടക്കുന്നുണ്ട്."
