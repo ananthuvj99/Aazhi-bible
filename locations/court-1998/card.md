@@ -19,3 +19,6 @@ Remade 2026-11-25 with GPT Image 2.6 at 2688 px from Ranjith's two references (a
 
 ## When to attach
 SB060 and any later court scene: full for wide shots from the back; with a role line for other angles. Characters come from their own sheets.
+
+## Who sits where (SB060, kept seating, Ranjith 2026-11-26)
+The front-left public bench, seen from the front: Rosamma, Clara, Jaison, LEFT to RIGHT. Rosamma holds Clara's hand; Jaison sits beside Clara and leans toward her. Every court frame that shows them follows this order (from the bench or the court floor the order reads the same). Antony stands in the dock at the LEFT of the room; the lawyer left of centre; SI Ramachandran at the RIGHT by the witness box.
