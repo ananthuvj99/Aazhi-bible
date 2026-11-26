@@ -1,6 +1,6 @@
 # s24-sh14 (Aswanth) · night, carrom in the dark crew room: Balan tries to warn Aashaan; Aashaan brushes him off · 28 s · v1
 Status: **v1 ready (Aswanth, 2026-11-26)** · dialogue (Balan, Aashaan) · narrated by Aswanth: all the crew with Balan play carrom in a small dark room in the deck; Balan sits next to Aashaan and tries to tell him that something is going on between Antony and Selvan behind their backs; Aashaan tells him to play and dismisses him; Balan, frustrated, insists. The others keep playing. Light only from the moon through a small opening above. Hand-held. Asked 25 s; written at 28 s because the lines need about 19.5 s (L172: 25 s would be about 78%).
-Lines (Aswanth's Manglish → Malayalam): BALAN "ആശാനേ, എനിക്കൊരു കാര്യം പറയാനുണ്ട്. നമ്മുടെ ആന്റണിയും പിന്നെ നമ്മൾ ഉരുവിൽ കയറ്റി സഹായിച്ച സെൽവനും തമ്മിൽ എന്തോ നമ്മൾ അറിയാതെ നടക്കുന്നുണ്ട്." (Aashaan, there's something I need to tell you. Something is going on between our Antony and that Selvan we took aboard and helped, without us knowing.) · AASHAAN "നീ ഇപ്പോ ഇത് കളിക്കാൻ നോക്കടാ. അവന്റെ ഓരോ പുതിയ കണ്ടുപിടിത്തവുമായി വന്നോളും." (You just play this now. He keeps coming with one new discovery after another.) · BALAN "ആശാനേ, ഞാൻ പറയുന്നത് ഒന്ന് മനസ്സിലാക്ക്." (Aashaan, just understand what I'm saying.) Voices: Aashaan Rinoy, Balan Brad.
+Lines (Aswanth's Manglish → Malayalam): BALAN "ആശാനേ, എനിക്കൊരു കാര്യം പറയാനുണ്ട്. നമ്മുടെ ആന്റണിയും പിന്നെ നമ്മൾ ഉരുവിൽ കേറ്റി സഹായിച്ച സെൽവനും തമ്മിൽ എന്തോ നമ്മൾ അറിയാതെ നടക്കുന്നുണ്ട്." (Aashaan, there's something I need to tell you. Something is going on between our Antony and that Selvan we took aboard and helped, without us knowing.) · AASHAAN "നീ ഇപ്പോ ഇത് കളിക്കാൻ നോക്കടാ. അവന്റെ ഓരോ പുതിയ കണ്ടുപിടിത്തവുമായി വന്നോളും." (You just play this now. He keeps coming with one new discovery after another.) · BALAN "ആശാനേ, ഞാൻ പറയുന്നത് ഒന്ന് മനസ്സിലാക്ക്." (Aashaan, just understand what I'm saying.) Voices: Aashaan Rinoy, Balan Brad.
 People (L125): Aashaan, Balan, Raghavan, Sasi, Suresh, Babu. Antony and Selvan are on deck (not here). Room: in words (no sheet), dim.
 Attach: `@ashaan`, `@balan-at-20s`, `@raghavan`, `@sasi`, `@suresh`, `@babu`. Remove every other attachment (L88). **28 s.** 2.39:1.
 
@@ -51,7 +51,7 @@ AUDIO
 Natural sound, no music. The crack of the striker, coins clattering and sliding, the soft thud of a pocketed coin, a groan, a chuckle, the creak of the hull and water against the planks; the lines clear. No sound effect on the cuts.
 
 DIALOGUE
-SHOT 2: BALAN (Malayalam, low, urgent, half-whispered), to Aashaan: "ആശാനേ, എനിക്കൊരു കാര്യം പറയാനുണ്ട്. നമ്മുടെ ആന്റണിയും പിന്നെ നമ്മൾ ഉരുവിൽ കയറ്റി സഹായിച്ച സെൽവനും തമ്മിൽ എന്തോ നമ്മൾ അറിയാതെ നടക്കുന്നുണ്ട്."
+SHOT 2: BALAN (Malayalam, low, urgent, half-whispered), to Aashaan: "ആശാനേ, എനിക്കൊരു കാര്യം പറയാനുണ്ട്. നമ്മുടെ ആന്റണിയും പിന്നെ നമ്മൾ ഉരുവിൽ കേറ്റി സഹായിച്ച സെൽവനും തമ്മിൽ എന്തോ നമ്മൾ അറിയാതെ നടക്കുന്നുണ്ട്."
 SHOT 4: AASHAAN (Kollam coast, dry, unbothered, eyes on the board): "നീ ഇപ്പോ ഇത് കളിക്കാൻ നോക്കടാ. അവന്റെ ഓരോ പുതിയ കണ്ടുപിടിത്തവുമായി വന്നോളും."
 SHOT 5: BALAN (frustrated, through his teeth): "ആശാനേ, ഞാൻ പറയുന്നത് ഒന്ന് മനസ്സിലാക്ക്."
 
