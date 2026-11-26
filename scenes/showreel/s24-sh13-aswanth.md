@@ -1,7 +1,7 @@
 # s24-sh13 (Aswanth) · SB034 insert — Balan watches Antony and Selvan from behind a wooden wall (fixes story gap G2) · 5 s · v1
 Status: **v1 ready (Aswanth, 2026-11-26)** · no dialogue · narrated by Aswanth: from the rail conversation (after his Seedance edit: no lantern, cool moonlight), Balan hides behind a wooden wall; an over-the-shoulder shot of Balan, then his POV of the two sitting and talking. Story gap G2: Balan must see the letter ("I saw it when I brought the water"), so he holds a cup of water and sees the packet go into Antony's pocket.
 People (L125): Balan (`@balan-at-20s`), Antony (`@antony-at-20s-c2`), Selvan (`@selvan-c2`). Light: cool moonlight only, the moon never visible (L175, checklist 194).
-Attach: `@balan-at-20s`, `@antony-at-20s-c2`, `@selvan-c2`, `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **5 s.** 2.39:1, no dialogue.
+Attach: `@balan-at-20s`, `@antony-at-20s-c2`, `@selvan-c2`, `@railtalk` (a frame of the edited rail shot, saved by Aswanth), `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **5 s.** 2.39:1, no dialogue.
 
 ## v1
 ```
@@ -14,6 +14,7 @@ ACTIVE REFERENCES
 @selvan-c2: Selvan, about 45, thick black moustache, in his dry clothes exactly as on this sheet, bandages on his right forearm and right knee, sitting on the deck floor on the RIGHT, facing Antony. 100% matches the reference.
 @uru: our uru as on this sheet. 100% matches the reference.
 @urubowplate (background only): the deck exactly as on this plate. 100% matches the reference.
+@railtalk (position reference only, the previous shot): Antony and Selvan sit exactly as in this frame: on the deck floor, facing each other, forearms on the rail top. Match where and how they sit; the camera angle here is new.
 
 THE PLACE
 The open main deck at night. In the foreground, the edge of a dark, weathered wooden wall on the deck, rough planks, Balan pressed close behind its corner. A few metres beyond, exactly as in the previous shot: Antony and Selvan sit LOW, ON THE DECK PLANKS, never on the rail, facing each other about one and a half metres apart, in profile to the camera. Beside them runs the solid side rail of the deck, its flat, smooth brown wooden top at the height of their chests as they sit; each rests one forearm on top of it: Antony his left forearm, Selvan his bandaged right forearm, their hands close together on the rail top. Selvan has his right knee drawn up. Beyond the rail, the open dark sea. No lantern anywhere; the sky plain, dark and empty.
