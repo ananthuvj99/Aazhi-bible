@@ -1,7 +1,7 @@
 # s24-sh13 (Aswanth) · SB034 insert — Balan watches Antony and Selvan from behind a wooden wall (fixes story gap G2) · 5 s · v1
 Status: **v1 ready (Aswanth, 2026-11-26)** · no dialogue · narrated by Aswanth: from the rail conversation (after his Seedance edit: no lantern, cool moonlight), Balan hides behind a wooden wall; an over-the-shoulder shot of Balan, then his POV of the two sitting and talking. Story gap G2: Balan must see the letter ("I saw it when I brought the water"), so he holds a cup of water and sees the packet go into Antony's pocket.
 People (L125): Balan (`@balan-at-20s`), Antony (`@antony-at-20s-c2`), Selvan (`@selvan-c2`). Light: cool moonlight only, the moon never visible (L175, checklist 194).
-Attach: `@balan-at-20s`, `@antony-at-20s-c2`, `@selvan-c2`, `@railtalk` (a frame of the edited rail shot, saved by Aswanth), `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **5 s.** 2.39:1, no dialogue.
+Attach: `@balan-at-20s`, `@antony-at-20s-c2`, `@selvan-c2`, the reference image (a frame of the edited rail shot, uploaded by Aswanth), `@uru`, `@urubowplate` (background only). Remove every other attachment (L88). **5 s.** 2.39:1, no dialogue.
 
 ## v1
 ```
@@ -14,7 +14,7 @@ ACTIVE REFERENCES
 @selvan-c2: Selvan, about 45, thick black moustache, in his dry clothes exactly as on this sheet, bandages on his right forearm and right knee, sitting on the deck floor on the RIGHT, facing Antony. 100% matches the reference.
 @uru: our uru as on this sheet. 100% matches the reference.
 @urubowplate (background only): the deck exactly as on this plate. 100% matches the reference.
-@railtalk (position reference only, the previous shot): Antony and Selvan sit exactly as in this frame: on the deck floor, facing each other, forearms on the rail top. Match where and how they sit; the camera angle here is new.
+Reference image (the previous shot, uploaded with this prompt): Antony and Selvan must sit exactly as in this reference image: the same places, the same posture, the same distance apart, on the deck floor facing each other, forearms on the rail top, Antony on the LEFT, Selvan on the RIGHT with his knee up. Match their positions and the rail exactly; only the camera angle here is new.
 
 THE PLACE
 The open main deck at night. In the foreground, the edge of a dark, weathered wooden wall on the deck, rough planks, Balan pressed close behind its corner. A few metres beyond, exactly as in the previous shot: Antony and Selvan sit LOW, ON THE DECK PLANKS, never on the rail, facing each other about one and a half metres apart, in profile to the camera. Beside them runs the solid side rail of the deck, its flat, smooth brown wooden top at the height of their chests as they sit; each rests one forearm on top of it, Selvan's the bandaged one, their hands close together on the rail top. Selvan has his right knee drawn up. Beyond the rail, the open dark sea. No lantern anywhere; the sky plain, dark and empty.
@@ -44,7 +44,7 @@ STYLE
 Photoreal 1998 Kerala period feature film, night exterior, hand-held. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
 
 POSITIVE LOCKS
-Exactly one hard cut, at 2.5 s. SHOT 1 over Balan's shoulder from behind the wooden wall; SHOT 2 his hidden point of view. Antony on the LEFT, Selvan on the RIGHT, sitting on the deck floor facing each other, forearms on the rail top beside them, never sitting on the rail; the packet going into Antony's pocket. Balan with a cup of water, his face natural and matte. Cool moonlight only, no lantern, the moon never visible. No readable writing anywhere. Runs the full 5 seconds.
+Exactly one hard cut, at 2.5 s. SHOT 1 over Balan's shoulder from behind the wooden wall; SHOT 2 his hidden point of view. Antony and Selvan positioned exactly as in the reference image: Antony on the LEFT, Selvan on the RIGHT, sitting on the deck floor facing each other, forearms on the rail top beside them, never sitting on the rail; the packet going into Antony's pocket. Balan with a cup of water, his face natural and matte. Cool moonlight only, no lantern, the moon never visible. No readable writing anywhere. Runs the full 5 seconds.
 ```
 
 ## Generation results
