@@ -28,7 +28,7 @@ One generation, 28 seconds, real time. SHOT 1: 0 to 4 s. CUT. SHOT 2: 4 to 14 s.
 
 CAMERA AND ACTION
 SHOT 1 (0-4 s) — Medium wide, hand-held, low at the edge of the board: the six men round the board in the shaft of moonlight. Sasi lines up and flicks the striker with his middle finger: it cracks into the coins, they scatter, one drops into a corner pocket. Suresh slaps his knee; Babu groans.
-SHOT 2 (4-14 s) — Dialogue shot. Medium close shot of Balan, his face toward the camera within 30 degrees, lit by the moonlight from above, Aashaan's shoulder soft beside him. He leans toward Aashaan, lowers his voice so the others won't hear, and says his first line. Head steady while he speaks, mouth fully visible.
+SHOT 2 (4-14 s) — Dialogue shot. Medium close shot of Balan, his face toward the camera within 30 degrees, lit by the moonlight from above, Aashaan's shoulder soft beside him. He leans toward Aashaan, lowers his voice so the others won't hear, and says his first line. Behind him, soft, the others keep their heads bowed over the board, eyes on the coins. Head steady while he speaks, mouth fully visible.
 SHOT 3 (14-15.5 s) — Insert, hand-held, over the board: Raghavan's finger flicks the striker; a white coin rolls into a pocket with a soft thud into the net.
 SHOT 4 (15.5-22 s) — Dialogue shot. Medium close shot of Aashaan, face toward the camera within 30 degrees, eyes on the board, lining up his own striker: without looking at Balan he says his line, then glances at the others; Babu chuckles.
 SHOT 5 (22-26 s) — Dialogue shot. Medium close shot of Balan, face toward the camera within 30 degrees: his second line, frustrated, low.
@@ -38,14 +38,14 @@ ACTING & MICRO-EXPRESSION
 Balan, SHOT 2: baseline: eyes darting once to the others, then to Aashaan; he leans in, his voice dropping; his brows pull together and up; his fingers tap the edge of the board; on "അറിയാതെ" his eyes widen a little and hold Aashaan's face.
 Aashaan, SHOT 4: baseline: eyes on the board, one eye narrowed along the striker; his mouth tilts in a small dry smile; he speaks without lifting his eyes; after the line a short breath out through the nose and a glance at the others.
 Balan, SHOT 5: his jaw tightens; his nostrils flare; he speaks through his teeth, his hand pressing flat on his knee; after the line he swallows and looks away.
-The crew: focused on the game, small real reactions: Suresh's quick grin, Babu's groan and chuckle, Raghavan silent and serious, Sasi's tongue at the corner of his mouth as he aims.
+The crew: their eyes stay down on the board the whole time Balan is speaking; they do not hear him and never look up at him or at Aashaan; heads bowed over the coins, watching the game; small real reactions only to the game: Suresh's quick grin, Babu's groan and chuckle, Raghavan silent and serious, Sasi's tongue at the corner of his mouth as he aims.
 Restrained and real: nobody looks into the lens. Real skin with pores, five fingers.
 
 REAL-WORLD PHYSICS
 The striker flicks hard and the coins crack and scatter, spinning and sliding across the talc, bouncing off the borders, dropping into the net pockets with a soft thud. The uru rolls gently: the shaft of moonlight sways slowly across the board as the boat moves; the men sway a little; a loose coin slides a few centimetres with the roll. Dust floats in the moonbeam. Nothing moves by itself; every movement has a cause.
 
 LIGHTING
-Night: the only light is one shaft of cool, silvery moonlight falling through the small opening in the ceiling onto the board, bouncing up onto the faces from below and the side; deep shadows in the corners; no lamp, no warm light; the moon itself never seen through the opening, only its light.
+Deep night, dark and low-key, clearly night, never like day or morning: the only light is one narrow shaft of cold, blue-silver moonlight, about 7000K, falling through the small opening in the ceiling onto the board; the faces round it lit dimly and only partly, from below and the side, half in shadow; everything outside the beam falls into near-black blue shadow. No warm tones at all: no yellow, orange or golden light, no lamp, no daylight, nothing bright; low exposure, a cold blue-grey night grade; the moon itself never seen through the opening, only its light.
 
 AUDIO
 Natural sound, no music. The crack of the striker, coins clattering and sliding, the soft thud of a pocketed coin, a groan, a chuckle, the creak of the hull and water against the planks; the lines clear. No sound effect on the cuts.
@@ -59,7 +59,8 @@ STYLE
 Photoreal 1998 Kerala period feature film, night interior, hand-held. Shot on a Sony Venice 2 full-frame digital cinema camera: wide dynamic range, clean shadows, soft highlight roll-off, true natural skin tones and skin texture, gentle filmic contrast.
 
 POSITIVE LOCKS
-Exactly five hard cuts, at 4, 14, 15.5, 22 and 26 s, hand-held throughout. Six men round the carrom board, each once: Aashaan and Balan side by side, Raghavan, Sasi, Suresh, Babu. One shaft of moonlight from the small ceiling opening the only light; the moon never visible. Each speaker's face within 30 degrees of the lens, mouth clear, head steady while speaking. Balan's face natural and matte. No readable writing anywhere. Runs the full 28 seconds.
+Exactly five hard cuts, at 4, 14, 15.5, 22 and 26 s, hand-held throughout. Six men round the carrom board, each once: Aashaan and Balan side by side, Raghavan, Sasi, Suresh, Babu. The crew's eyes on the board while Balan speaks, never on him or Aashaan. Deep night: one cold blue shaft of moonlight from the small ceiling opening the only light, the rest near black, no warm tones, never like day; the moon never visible. Each speaker's face within 30 degrees of the lens, mouth clear, head steady while speaking. Balan's face natural and matte. No readable writing anywhere. Runs the full 28 seconds.
 ```
 
 ## Generation results
+- v1 [partial] 2026-11-26 (Aswanth): the grade came out warm and bright like a morning shot; the crew looked at Balan and Aashaan while Balan was speaking. v1.1: deep low-key night, cold blue shaft only, no warm tones; the crew's eyes stay on the board.
