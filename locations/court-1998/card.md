@@ -22,3 +22,7 @@ SB060 and any later court scene: full for wide shots from the back; with a role 
 
 ## Who sits where (SB060, kept seating, Ranjith 2026-11-26)
 The front-left public bench, seen from the front: Rosamma, Clara, Jaison, LEFT to RIGHT. Rosamma holds Clara's hand; Jaison sits beside Clara and leans toward her. Every court frame that shows them follows this order (from the bench or the court floor the order reads the same). Antony stands in the dock at the LEFT of the room; the lawyer left of centre; SI Ramachandran at the RIGHT by the witness box.
+
+## The corridor (SB061)
+- `plates/court-corridor-c1-plate.png` (@courtcorridorc1plate): the open corridor outside the courtrooms, EMPTY, about 10:30 a.m., from one end looking down its length: the white-washed wall at the LEFT with dark wooden doors and green louvred shutters, a wooden bench, blank notice boards, a brass bell; square white pillars on a low parapet at the RIGHT opening onto a sunny courtyard with an old tree and bicycles; rafter-and-tile roof, a ceiling fan; red-oxide floor with slanting sun patches. Made 2026-11-26 (GPT Image 2.6, 2688 px), continuity score 90.
+- `sb061-panel-reference.png`: the SB061 storyboard frame (from the storyboard site), for staging only, never attached: Clara at the LEFT holding Antony's hand, Antony in the middle, the constable behind him at the right, a police van in the courtyard. The storyboard's pillars are round; the plate keeps the court building's square pillars.
